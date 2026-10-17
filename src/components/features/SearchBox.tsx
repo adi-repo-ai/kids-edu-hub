@@ -1,9 +1,9 @@
 "use client";
 
 import { CornerDownLeft, Search, X } from "lucide-react";
-import { useRouter } from "next/navigation";
 import { useEffect, useId, useMemo, useRef, useState } from "react";
 import { cn } from "@/lib/cn";
+import { useNavigate } from "@/lib/navigate";
 import { search, suggestedQueries, type SearchEntry } from "@/lib/search";
 
 function Mark({ text, query }: { text: string; query: string }) {
@@ -36,7 +36,7 @@ export function SearchBox({
   onNavigate?: () => void;
   className?: string;
 }) {
-  const router = useRouter();
+  const navigate = useNavigate();
   const listId = useId();
   const inputRef = useRef<HTMLInputElement>(null);
   const wrapRef = useRef<HTMLDivElement>(null);
@@ -71,7 +71,7 @@ export function SearchBox({
     setQuery("");
     inputRef.current?.blur();
     onNavigate?.();
-    router.push(entry.href);
+    navigate(entry.href);
   };
 
   const onKeyDown = (e: React.KeyboardEvent) => {

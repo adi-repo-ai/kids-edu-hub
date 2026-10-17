@@ -2,10 +2,10 @@
 
 import { Bell, ChevronDown, Search, X } from "lucide-react";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { student } from "@/data/student";
 import { cn } from "@/lib/cn";
+import { useRoutePath } from "@/lib/navigate";
 import { SearchBox } from "../features/SearchBox";
 import { Logo } from "./Logo";
 
@@ -30,7 +30,7 @@ export function isActive(pathname: string, item: { href: string; match?: string[
 }
 
 export function SiteHeader() {
-  const pathname = usePathname();
+  const pathname = useRoutePath();
   const [menuOpen, setMenuOpen] = useState(false);
   const [mobileSearch, setMobileSearch] = useState(false);
   const menuRef = useRef<HTMLDivElement>(null);

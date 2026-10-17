@@ -2,8 +2,8 @@
 
 import { BookOpen, Bookmark, CalendarDays, House, Target } from "lucide-react";
 import Link from "next/link";
-import { usePathname } from "next/navigation";
 import { cn } from "@/lib/cn";
+import { useRoutePath } from "@/lib/navigate";
 import { isActive } from "./SiteHeader";
 
 const tabs = [
@@ -16,7 +16,7 @@ const tabs = [
 
 /** Thumb-zone navigation for phones and small tablets. Every target is ≥ 56px tall. */
 export function MobileTabBar() {
-  const pathname = usePathname();
+  const pathname = useRoutePath();
   return (
     <nav aria-label="Quick access" className="fixed inset-x-0 bottom-0 z-30 border-t border-line bg-surface pb-[env(safe-area-inset-bottom)] lg:hidden">
       <ul className="mx-auto grid max-w-lg grid-cols-5">

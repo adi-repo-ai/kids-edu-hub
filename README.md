@@ -10,6 +10,7 @@ npm install
 npm run dev        # http://localhost:3000
 npm run build      # production build (52 static pages)
 npm run typecheck
+npm run build:preview   # static, host-anywhere preview in preview/ (relative paths, full-page navigation)
 ```
 
 ## Screens
