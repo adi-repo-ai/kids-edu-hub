@@ -8,7 +8,7 @@ export const metadata: Metadata = { title: "Previous year CBSE papers" };
 export default function PapersPage() {
   return (
     <>
-      <PageHeader
+      <PageHeader tone="royal"
         crumbs={[
           { href: "/", label: "Home" },
           { href: "/papers", label: "Past papers" },

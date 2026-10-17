@@ -7,7 +7,7 @@ export const metadata: Metadata = { title: "Saved" };
 export default function SavedPage() {
   return (
     <>
-      <PageHeader eyebrow="Your bookmarks" title="Saved for revision" description="Chapters, notes and papers you've bookmarked. Stored on this device." />
+      <PageHeader tone="lavender" eyebrow="Your bookmarks" title="Saved for revision" description="Chapters, notes and papers you've bookmarked. Stored on this device." />
       <Container className="py-8">
         <div className="max-w-3xl">
           <SavedList />

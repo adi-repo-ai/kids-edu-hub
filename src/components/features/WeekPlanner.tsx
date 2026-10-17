@@ -55,8 +55,8 @@ export function WeekPlanner() {
                 aria-controls="day-panel"
                 onClick={() => setSelected(d.day)}
                 className={cn(
-                  "flex flex-col items-center rounded-lg border-2 py-2.5 transition-colors sm:py-3",
-                  on ? "border-ink bg-ink text-white" : "border-line bg-surface hover:border-line-strong",
+                  "flex flex-col items-center rounded-lg border-[2.5px] border-ink py-2.5 transition-all duration-200 ease-[var(--ease-spring)] sm:py-3",
+                  on ? "-translate-y-1 -rotate-2 bg-ink text-white shadow-[4px_4px_0_0_var(--color-coral-500)]" : "bg-surface hover:-translate-y-1 hover:bg-sun-100",
                 )}
               >
                 <span className={cn("text-xs font-semibold", on ? "text-white/70" : "text-ink-3")}>{d.day}</span>

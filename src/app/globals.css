@@ -61,6 +61,15 @@
   --color-lavender-600: #6f5ae0;
   --color-lavender-700: #5440bd;
 
+  /* Classroom blackboard */
+  --color-board: #1e3d33;
+  --color-board-2: #27503f;
+  --color-chalk: #f4f1e6;
+  --color-chalk-yellow: #ffe38a;
+  --color-chalk-pink: #ffb3a1;
+  --color-wood: #8a5a2b;
+  --color-cork: #d7b285;
+
   /* Feedback */
   --color-danger-50: #fff0f0;
   --color-danger-600: #c62f3a;
@@ -68,6 +77,7 @@
   /* Type */
   --font-display: "Bricolage Grotesque Variable", ui-sans-serif, system-ui, sans-serif;
   --font-sans: "Figtree Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-hand: "Caveat Variable", "Segoe Print", "Bradley Hand", cursive;
 
   /* Radii: small for controls, medium for cards, large only for hero panels */
   --radius-sm: 6px;
@@ -79,11 +89,59 @@
   --shadow-card: 0 1px 0 rgb(26 29 58 / 0.04), 0 1px 3px rgb(26 29 58 / 0.06);
   --shadow-lift: 0 2px 0 rgb(26 29 58 / 0.04), 0 10px 24px -8px rgb(26 29 58 / 0.18);
   --shadow-press: 0 3px 0 0 var(--color-ink);
+  /* Sticker: thick ink outline + hard offset shadow. The bold, playful card style. */
+  --shadow-sticker: 4px 4px 0 0 var(--color-ink);
+  --shadow-sticker-lg: 7px 7px 0 0 var(--color-ink);
 
   /* Motion */
   --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
   --animate-rise: rise 320ms var(--ease-out) both;
   --animate-pop: pop 420ms var(--ease-out) both;
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --animate-float: float 5s ease-in-out infinite;
+  --animate-float-slow: float 8s ease-in-out infinite;
+  --animate-wiggle: wiggle 600ms ease-in-out;
+  --animate-wiggle-loop: wiggle 2.4s ease-in-out infinite;
+  --animate-marquee: marquee 32s linear infinite;
+  --animate-spin-slow: spin 14s linear infinite;
+  --animate-flicker: flicker 1.6s ease-in-out infinite;
+  --animate-bounce-in: bounce-in 700ms var(--ease-spring) both;
+  --animate-slide-up: slide-up 600ms var(--ease-out) both;
+  --animate-blink: blink 4.5s infinite;
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0) rotate(var(--r, 0deg)); }
+    50% { transform: translateY(-12px) rotate(calc(var(--r, 0deg) + 3deg)); }
+  }
+  @keyframes wiggle {
+    0%, 100% { transform: rotate(0); }
+    20% { transform: rotate(-9deg); }
+    40% { transform: rotate(7deg); }
+    60% { transform: rotate(-5deg); }
+    80% { transform: rotate(3deg); }
+  }
+  @keyframes marquee {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+  @keyframes flicker {
+    0%, 100% { transform: scale(1) rotate(-2deg); }
+    25% { transform: scale(1.08, 0.95) rotate(2deg); }
+    50% { transform: scale(0.96, 1.06) rotate(-1deg); }
+    75% { transform: scale(1.05) rotate(3deg); }
+  }
+  @keyframes bounce-in {
+    0% { opacity: 0; transform: scale(0.3) translateY(30px); }
+    100% { opacity: 1; transform: none; }
+  }
+  @keyframes slide-up {
+    from { opacity: 0; transform: translateY(40px); }
+    to { opacity: 1; transform: none; }
+  }
+  @keyframes blink {
+    0%, 92%, 100% { transform: scaleY(1); }
+    95% { transform: scaleY(0.1); }
+  }
 
   @keyframes rise {
     from { opacity: 0; transform: translateY(6px); }
@@ -98,10 +156,13 @@
 
 @layer base {
   html {
+    overflow-x: clip;
     -webkit-text-size-adjust: 100%;
     scroll-padding-top: 5rem;
   }
   body {
+    /* tilted strips and floating stickers may poke past the edge; never scroll sideways */
+    overflow-x: clip;
     background: var(--color-paper);
     color: var(--color-ink);
     font-family: var(--font-sans);
@@ -138,6 +199,99 @@
       linear-gradient(90deg, rgb(67 97 238 / 0.08) 1px, transparent 1px);
     background-size: 20px 20px;
   }
+  /* Sticker card: the playful, bold alternative to the quiet .Card */
+  .sticker {
+    border: 2.5px solid var(--color-ink);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-sticker);
+    transition: transform 220ms var(--ease-spring), box-shadow 220ms var(--ease-spring);
+  }
+  .sticker-hover:hover {
+    transform: translate(-3px, -3px) rotate(var(--hover-r, -0.6deg));
+    box-shadow: var(--shadow-sticker-lg);
+  }
+  .sticker-hover:active { transform: translate(2px, 2px); box-shadow: 1px 1px 0 0 var(--color-ink); }
+
+  /* Washi tape strip stuck on the top edge of a card */
+  .tape { position: relative; }
+  .tape::before {
+    content: "";
+    position: absolute;
+    top: -12px;
+    left: 50%;
+    width: 84px;
+    height: 24px;
+    transform: translateX(-50%) rotate(-3deg);
+    background: repeating-linear-gradient(45deg, rgb(255 201 60 / 0.85) 0 8px, rgb(255 227 138 / 0.85) 8px 16px);
+    box-shadow: 0 1px 2px rgb(26 29 58 / 0.15);
+    z-index: 1;
+  }
+  .tape-pink::before { background: repeating-linear-gradient(45deg, rgb(255 194 173 / 0.9) 0 8px, rgb(255 225 214 / 0.9) 8px 16px); }
+  .tape-mint::before { background: repeating-linear-gradient(45deg, rgb(156 230 199 / 0.9) 0 8px, rgb(205 243 227 / 0.9) 8px 16px); }
+
+  .dots {
+    background-image: radial-gradient(rgb(26 29 58 / 0.12) 1.5px, transparent 1.5px);
+    background-size: 18px 18px;
+  }
+  .dots-light {
+    background-image: radial-gradient(rgb(255 255 255 / 0.16) 1.5px, transparent 1.5px);
+    background-size: 18px 18px;
+  }
+
+  /* Blackboard with faint chalk smudges */
+  .chalkboard {
+    background-color: var(--color-board);
+    background-image:
+      radial-gradient(ellipse at 20% 30%, rgb(255 255 255 / 0.06), transparent 40%),
+      radial-gradient(ellipse at 75% 70%, rgb(255 255 255 / 0.05), transparent 45%),
+      radial-gradient(ellipse at 50% 100%, rgb(0 0 0 / 0.25), transparent 60%);
+    color: var(--color-chalk);
+  }
+  .chalk { font-family: var(--font-hand); color: var(--color-chalk); text-shadow: 0 0 1px rgb(244 241 230 / 0.6); }
+
+  /* Shimmer sweep for progress fills and hero buttons */
+  .shimmer { position: relative; overflow: hidden; }
+  .shimmer::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(100deg, transparent 20%, rgb(255 255 255 / 0.45) 50%, transparent 80%);
+    transform: translateX(-100%);
+    animation: shimmer 2.4s ease-in-out infinite;
+  }
+  .stripes {
+    background-image: repeating-linear-gradient(-45deg, rgb(255 255 255 / 0.22) 0 8px, transparent 8px 16px);
+    background-size: 22px 22px;
+    animation: stripes 900ms linear infinite;
+  }
+
+  /* Scroll reveal. Elements are visible by default; JS opts them in only when below the fold. */
+  [data-reveal="pending"] { opacity: 0; transform: translateY(32px) scale(0.98); }
+  [data-reveal="shown"] {
+    animation: slide-up 650ms var(--ease-out) both;
+    animation-delay: calc(var(--i, 0) * 90ms);
+  }
+
+  .hand { font-family: var(--font-hand); }
+
+  /* Chalk strokes draw themselves in once their section is revealed */
+  .draw path, .draw line, .draw polyline { stroke-dasharray: 1; stroke-dashoffset: 0; }
+  [data-reveal="pending"] .draw :is(path, line, polyline) { stroke-dashoffset: 1; }
+  [data-reveal="shown"] .draw :is(path, line, polyline) {
+    stroke-dashoffset: 1;
+    animation: draw 1.4s ease-out forwards;
+    animation-delay: calc(400ms + var(--d, 0) * 250ms);
+  }
+
+  .cork {
+    background-color: var(--color-cork);
+    background-image:
+      radial-gradient(rgb(120 72 30 / 0.25) 1px, transparent 1.4px),
+      radial-gradient(rgb(255 255 255 / 0.18) 1px, transparent 1.4px);
+    background-size: 9px 9px, 13px 13px;
+    background-position: 0 0, 4px 6px;
+  }
+
   .eyebrow {
     font-family: var(--font-sans);
     font-size: 0.75rem;
@@ -148,7 +302,29 @@
   }
 }
 
+@keyframes shimmer {
+  0% { transform: translateX(-100%); }
+  60%, 100% { transform: translateX(100%); }
+}
+@keyframes stripes {
+  from { background-position: 0 0; }
+  to { background-position: 22px 0; }
+}
+@keyframes draw {
+  to { stroke-dashoffset: 0; }
+}
+@keyframes curtain {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-101%); }
+}
+@keyframes word-in {
+  from { opacity: 0; transform: translateY(0.5em) rotate(-3deg); }
+  to { opacity: 1; transform: none; }
+}
+
 @media (prefers-reduced-motion: reduce) {
+  [data-reveal="pending"] { opacity: 1; transform: none; }
+  .shimmer::after, .stripes { animation: none !important; }
   *, *::before, *::after {
     animation-duration: 1ms !important;
     animation-iteration-count: 1 !important;

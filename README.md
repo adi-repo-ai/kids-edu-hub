@@ -38,13 +38,13 @@ Global: sticky header with active-route underline, `/` keyboard shortcut for sea
 
 - **Tokens:** `src/app/globals.css` (`@theme`). Warm paper neutrals and five accents (royal blue, coral, sunshine yellow, mint and lavender). `*-500` shades are for fills; `*-700` shades are the only accent text colours. Yellow never carries text.
 - **Type:** Bricolage Grotesque (display) + Figtree (body), self-hosted via `@fontsource`.
-- **Signature details** (kept deliberately few):
-  - ruled exercise-book paper and graph paper textures
-  - a hand-drawn squiggle and highlighter marks
-  - "school stamp" scalloped badges
-  - tactile buttons that press onto a solid key shadow
+- **Style (v2, bold):**
+  - sticker surfaces (ink outlines + hard offset shadows), washi tape, a classroom chalkboard and a cork notice board
+  - Gyani the owl mascot (`ui/Mascot.tsx`) with five moods, reacting in quizzes and lessons
+  - Caveat handwriting for eyebrows, notes and speech bubbles
+- **Motion:** page curtain wipe, scroll reveal with stagger (`[data-reveal]`), springy hovers, 3D tilt, count-up numbers, candy-striped progress bars, marquee strips, parallax hero stickers and canvas confetti (`lib/confetti.ts`). All of it is switched off under `prefers-reduced-motion`.
 - **Components:**
-  - `src/components/ui/*` holds the primitives: Button, Tag, Card, Progress, FilterChips, Switch, BadgeMedal, SubjectIcon, Doodles.
+  - `src/components/ui/*` holds the primitives: Button, Tag, Card, Progress, FilterChips, Switch, BadgeMedal, SubjectIcon, Doodles, Mascot, Marquee and Motion (reveal, count-up, tilt, rotating word, page curtain).
   - `src/components/features/*` holds the stateful widgets: SearchBox, LessonPlayer, QuizPlayer, WeekPlanner, ParentView, bookmarks and toasts.
 - **Hue mapping:** `src/lib/hue.ts` keeps subject colours as literal class strings, so Tailwind can see them.
 - **Accessibility:**

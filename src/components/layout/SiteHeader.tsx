@@ -54,7 +54,7 @@ export function SiteHeader() {
   }, [menuOpen]);
 
   return (
-    <header className="sticky top-0 z-30 border-b border-line bg-paper/95 backdrop-blur-sm">
+    <header className="sticky top-0 z-30 border-b-[3px] border-ink bg-paper/95 backdrop-blur-sm">
       <a href="#main" className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-3 focus:z-50 focus:rounded-md focus:bg-ink focus:px-3 focus:py-2 focus:text-white">
         Skip to content
       </a>
@@ -71,12 +71,11 @@ export function SiteHeader() {
                     href={item.href}
                     aria-current={active ? "page" : undefined}
                     className={cn(
-                      "relative rounded-md px-3 py-2 text-[15px] font-semibold transition-colors",
-                      active ? "text-ink" : "text-ink-2 hover:bg-sunken hover:text-ink",
+                      "relative inline-block rounded-md px-3 py-2 text-[15px] font-bold transition-all duration-200",
+                      active ? "bg-sun-200 text-ink" : "text-ink-2 hover:-rotate-2 hover:bg-sun-100 hover:text-ink",
                     )}
                   >
                     {item.label}
-                    {active && <span aria-hidden className="absolute inset-x-3 -bottom-[13px] h-[3px] rounded-t-full bg-royal-600" />}
                   </Link>
                 </li>
               );
@@ -112,7 +111,7 @@ export function SiteHeader() {
               <span className="sr-only">Account menu</span>
             </button>
             {menuOpen && (
-              <div role="menu" className="animate-rise absolute right-0 top-[calc(100%+8px)] w-60 rounded-lg border border-line bg-surface p-1.5 shadow-lift">
+              <div role="menu" className="animate-rise absolute right-0 top-[calc(100%+8px)] w-60 rounded-xl border-[2.5px] border-ink bg-surface p-1.5 shadow-[5px_5px_0_0_var(--color-ink)]">
                 <div className="border-b border-line px-3 pb-3 pt-2">
                   <p className="font-semibold">{student.fullName}</p>
                   <p className="text-sm text-ink-3">

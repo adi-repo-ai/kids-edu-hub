@@ -57,7 +57,7 @@ export function NewsList() {
       </div>
 
       <aside className="space-y-4">
-        <div className="rounded-lg border border-line bg-surface p-5">
+        <div className="sticker tape bg-surface p-5">
           <h2 className="font-bold">Important links</h2>
           <ul className="mt-3 space-y-2 text-sm">
             {[

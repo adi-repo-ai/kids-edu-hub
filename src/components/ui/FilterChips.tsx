@@ -25,8 +25,8 @@ export function FilterChips<T extends string | number>({
             aria-pressed={on}
             onClick={() => onChange(o.value)}
             className={cn(
-              "min-h-10 rounded-full border px-4 text-sm font-semibold transition-colors",
-              on ? "border-ink bg-ink text-white" : "border-line-strong bg-surface text-ink-2 hover:border-ink-3 hover:text-ink",
+              "min-h-10 rounded-full border-2 border-ink px-4 text-sm font-bold transition-all duration-200 ease-[var(--ease-spring)]",
+              on ? "animate-bounce-in -rotate-2 bg-ink text-white shadow-[3px_3px_0_0_var(--color-coral-500)]" : "bg-surface text-ink-2 hover:-translate-y-0.5 hover:bg-sun-100 hover:text-ink",
             )}
           >
             {o.label}

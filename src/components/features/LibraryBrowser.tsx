@@ -35,9 +35,9 @@ export function LibraryBrowser() {
           const s = subjectById(r.subject)!;
           const Icon = kindIcon[r.kind];
           return (
-            <li key={r.id} className="flex flex-col rounded-lg border border-line bg-surface">
+            <li key={r.id} data-reveal style={{ ["--i" as string]: list.indexOf(r) % 3 }} className="sticker sticker-hover flex flex-col bg-surface">
               {/* Paper-like preview strip */}
-              <div className={cn("relative h-28 overflow-hidden rounded-t-lg border-b border-line", r.kind === "Worksheet" ? "ruled" : r.kind === "Formula sheet" ? "graph-paper" : hue[s.hue].soft)}>
+              <div className={cn("relative h-28 overflow-hidden rounded-t-[13px] border-b-[2.5px] border-ink", r.kind === "Worksheet" ? "ruled" : r.kind === "Formula sheet" ? "graph-paper" : hue[s.hue].soft)}>
                 <span className={cn("absolute left-4 top-4 inline-flex items-center gap-1.5 rounded-sm px-2 py-1 text-xs font-bold", hue[s.hue].chip)}>
                   <Icon aria-hidden className="size-3.5" />
                   {r.kind}

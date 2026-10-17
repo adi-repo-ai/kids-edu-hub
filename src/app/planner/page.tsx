@@ -9,7 +9,7 @@ export const metadata: Metadata = { title: "Study planner" };
 export default function PlannerPage() {
   return (
     <>
-      <PageHeader eyebrow="12 – 18 October" title="Study planner" description="Small, daily blocks beat last-minute marathons. Tick tasks off as you go and watch the week fill up.">
+      <PageHeader tone="mint" eyebrow="12 – 18 October" title="Study planner" description="Small, daily blocks beat last-minute marathons. Tick tasks off as you go and watch the week fill up.">
         <div className="mt-8">
           <p className="eyebrow mb-3">Half-yearly timetable</p>
           <ol className="-mx-4 flex gap-3 overflow-x-auto px-4 pb-1 sm:mx-0 sm:px-0">

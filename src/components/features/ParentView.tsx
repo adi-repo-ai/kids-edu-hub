@@ -7,6 +7,7 @@ import { examTimetable, parent, weekActivity } from "@/data/student";
 import { cn } from "@/lib/cn";
 import { hue } from "@/lib/hue";
 import { Card } from "../ui/Card";
+import { CountUp } from "../ui/Motion";
 import { ProgressBar } from "../ui/Progress";
 import { SubjectIcon } from "../ui/SubjectIcon";
 import { Switch } from "../ui/Switch";
@@ -18,7 +19,7 @@ export function ParentView() {
 
   return (
     <div>
-      <div role="tablist" aria-label="Choose child" className="inline-flex rounded-lg border border-line bg-surface p-1">
+      <div role="tablist" aria-label="Choose child" className="sticker inline-flex bg-surface p-1">
         {parent.children.map((c) => (
           <button
             key={c.id}
@@ -46,15 +47,17 @@ export function ParentView() {
           {/* KPIs */}
           <ul className="grid grid-cols-2 gap-3 lg:grid-cols-4">
             {[
-              { icon: Clock, label: "Studied this week", value: `${Math.floor(total / 60)}h ${total % 60}m`, sub: "Goal: 5 hours", hue: "royal" as const },
-              { icon: NotebookPen, label: "Lessons finished", value: "6", sub: "+2 vs last week", hue: "lavender" as const },
-              { icon: Target, label: "Quiz average", value: "83%", sub: "Across 9 quizzes", hue: "mint" as const },
-              { icon: Flame, label: "Current streak", value: "12 days", sub: "Best: 15 days", hue: "coral" as const },
+              { icon: Clock, label: "Studied this week", value: <CountUp value={total} suffix=" min" />, sub: "Goal: 300 min", hue: "royal" as const },
+              { icon: NotebookPen, label: "Lessons finished", value: <CountUp value={6} />, sub: "+2 vs last week", hue: "lavender" as const },
+              { icon: Target, label: "Quiz average", value: <CountUp value={83} suffix="%" />, sub: "Across 9 quizzes", hue: "mint" as const },
+              { icon: Flame, label: "Current streak", value: <CountUp value={12} suffix=" days" />, sub: "Best: 15 days", hue: "coral" as const },
             ].map((k) => (
               <li key={k.label}>
-                <Card className="h-full p-4">
-                  <k.icon aria-hidden className={cn("size-5", hue[k.hue].text)} />
-                  <p className="mt-3 font-display text-2xl font-extrabold">{k.value}</p>
+                <Card interactive className={cn("h-full p-4", hue[k.hue].soft)}>
+                  <span className={cn("grid size-10 place-items-center rounded-md border-2 border-ink", hue[k.hue].chip)}>
+                    <k.icon aria-hidden className="size-5" />
+                  </span>
+                  <p className="mt-3 font-display text-3xl font-extrabold">{k.value}</p>
                   <p className="text-sm font-semibold">{k.label}</p>
                   <p className="text-xs text-ink-3">{k.sub}</p>
                 </Card>
@@ -73,8 +76,8 @@ export function ParentView() {
                   <div key={d.day} className="flex h-full flex-1 flex-col items-center justify-end gap-2">
                     <span className="text-xs font-semibold tabular-nums text-ink-3">{d.minutes || ""}</span>
                     <div
-                      className={cn("w-full max-w-10 rounded-t-md transition-[height] duration-700", d.day === "Sat" ? "bg-royal-600" : d.minutes ? "bg-royal-200" : "bg-sunken")}
-                      style={{ height: `${Math.max((d.minutes / maxMin) * 75, 3)}%` }}
+                      className={cn("w-full max-w-10 origin-bottom rounded-t-md border-2 border-ink", d.day === "Sat" ? "bg-coral-500" : d.minutes ? "bg-royal-200" : "bg-sunken")}
+                      style={{ height: `${Math.max((d.minutes / maxMin) * 75, 3)}%`, animation: `bounce-in 700ms ${weekActivity.indexOf(d) * 80}ms var(--ease-spring) both` }}
                     />
                     <span className="text-xs font-semibold text-ink-2">{d.day}</span>
                   </div>

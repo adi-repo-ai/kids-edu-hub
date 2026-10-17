@@ -1,17 +1,21 @@
 "use client";
 
-import { ArrowRight, Check, Lightbulb, RotateCcw, Timer, Trophy, X } from "lucide-react";
+import { ArrowRight, Check, Flame, Lightbulb, RotateCcw, Timer, Trophy, X } from "lucide-react";
 import Link from "next/link";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
+import { confettiFrom, fireConfetti } from "@/lib/confetti";
 import { cn } from "@/lib/cn";
 import type { Quiz } from "@/lib/types";
 import { Button, ButtonLink } from "../ui/Button";
+import { Mascot, MascotBubble } from "../ui/Mascot";
 import { ProgressRing } from "../ui/Progress";
 import { useAppState } from "./AppState";
 
 type Result = { given: string; correct: boolean; usedHint: boolean };
 
 const letters = ["A", "B", "C", "D"];
+const praise = ["Shabash!", "Brilliant!", "Nailed it!", "Super!", "Ekdum sahi!"];
+const nudges = ["Nearly! Read why below.", "Oops! Let's learn this one.", "Close one. Check the explanation."];
 
 function useCountdown(seconds: number, running: boolean) {
   const [left, setLeft] = useState(seconds);
@@ -34,13 +38,33 @@ export function QuizPlayer({ quiz }: { quiz: Quiz }) {
   const finished = index >= quiz.questions.length;
   const timeLeft = useCountdown(quiz.minutes * 60, !finished);
 
+  const cardRef = useRef<HTMLDivElement>(null);
+
   const q = quiz.questions[index];
+  // consecutive correct answers ending at the latest result
+  let combo = 0;
+  for (let i = results.length - 1; i >= 0 && results[i].correct; i--) combo++;
+
+  useEffect(() => {
+    if (!finished || !results.length) return;
+    const pct = results.filter((r) => r.correct).length / quiz.questions.length;
+    if (pct < 0.7) return;
+    fireConfetti({ count: 160, spread: 80, power: 1.3 });
+    const t = setTimeout(() => fireConfetti({ x: window.innerWidth * 0.2, count: 80, spread: 40 }), 350);
+    const u = setTimeout(() => fireConfetti({ x: window.innerWidth * 0.8, count: 80, spread: 40 }), 650);
+    return () => {
+      clearTimeout(t);
+      clearTimeout(u);
+    };
+  }, [finished, results, quiz.questions.length]);
   const isCorrect = checked && q && choice.trim().toLowerCase() === q.answer.toLowerCase();
 
   const check = () => {
     if (!choice.trim()) return;
     setChecked(true);
-    setResults((r) => [...r, { given: choice.trim(), correct: choice.trim().toLowerCase() === q.answer.toLowerCase(), usedHint: hint }]);
+    const correct = choice.trim().toLowerCase() === q.answer.toLowerCase();
+    if (correct) confettiFrom(cardRef.current?.querySelector("[aria-checked=true], #numeric") ?? cardRef.current, { count: 70, spread: 60, power: 0.9 });
+    setResults((r) => [...r, { given: choice.trim(), correct, usedHint: hint }]);
   };
 
   const next = () => {
@@ -74,7 +98,8 @@ export function QuizPlayer({ quiz }: { quiz: Quiz }) {
     const message = pct === 100 ? "Flawless. You've really got this." : pct >= 70 ? "Strong work. Review the ones you missed." : "Good effort. The explanations below will help.";
     return (
       <div key={`r-${attempt}`} className="animate-rise mx-auto max-w-3xl">
-        <div className="flex flex-col items-center gap-6 rounded-xl border border-line bg-surface p-8 text-center sm:flex-row sm:text-left">
+        <div className="sticker flex flex-col items-center gap-6 bg-sun-50 p-8 text-center sm:flex-row sm:text-left">
+          <Mascot mood={pct >= 70 ? "cheer" : "think"} size={110} />
           <ProgressRing value={pct} hue={pct >= 70 ? "mint" : "coral"} size={112} stroke={10} label="Score">
             <span className="font-display text-2xl font-extrabold">
               {score}/{quiz.questions.length}
@@ -88,7 +113,7 @@ export function QuizPlayer({ quiz }: { quiz: Quiz }) {
             </p>
           </div>
           {pct === 100 && (
-            <span className="animate-pop grid size-16 place-items-center rounded-full bg-sun-400" aria-label="Trophy earned">
+            <span className="animate-bounce-in grid size-20 rotate-[-8deg] place-items-center rounded-full border-[3px] border-ink bg-sun-400 shadow-[4px_4px_0_0_var(--color-ink)]" aria-label="Trophy earned">
               <Trophy className="size-8" aria-hidden />
             </span>
           )}
@@ -137,7 +162,7 @@ export function QuizPlayer({ quiz }: { quiz: Quiz }) {
   /* ─────────── Question ─────────── */
   const options = q.options ?? [];
   return (
-    <div className="mx-auto max-w-3xl">
+    <div className="mx-auto max-w-4xl">
       <div className="mb-6 flex items-center gap-4">
         <ol className="flex flex-1 gap-1.5" aria-label="Question progress">
           {quiz.questions.map((qq, i) => {
@@ -147,8 +172,8 @@ export function QuizPlayer({ quiz }: { quiz: Quiz }) {
                 key={qq.id}
                 aria-label={`Question ${i + 1}: ${r ? (r.correct ? "correct" : "incorrect") : i === index ? "current" : "not answered"}`}
                 className={cn(
-                  "h-2 flex-1 rounded-full transition-colors duration-300",
-                  r ? (r.correct ? "bg-mint-500" : "bg-coral-500") : i === index ? "bg-ink" : "bg-sunken",
+                  "h-3 flex-1 rounded-full border-2 border-ink transition-all duration-500 ease-[var(--ease-spring)]",
+                  r ? (r.correct ? "bg-mint-500" : "bg-coral-500") : i === index ? "stripes scale-y-125 bg-royal-500" : "bg-surface",
                 )}
               />
             );
@@ -160,7 +185,13 @@ export function QuizPlayer({ quiz }: { quiz: Quiz }) {
         </span>
       </div>
 
-      <div key={`${attempt}-${index}`} className="animate-rise rounded-xl border border-line bg-surface p-5 shadow-card sm:p-8">
+      <div className="grid items-start gap-6 lg:grid-cols-[1fr_170px]">
+      <div ref={cardRef} key={`${attempt}-${index}`} className="animate-slide-up relative rounded-xl border-[3px] border-ink bg-surface p-5 shadow-[7px_7px_0_0_var(--color-ink)] sm:p-8">
+        {combo >= 2 && checked && isCorrect && (
+          <span className="animate-bounce-in absolute -right-3 -top-4 flex rotate-6 items-center gap-1 rounded-full border-[2.5px] border-ink bg-coral-500 px-3 py-1 font-display font-extrabold text-ink shadow-[3px_3px_0_0_var(--color-ink)]">
+            <Flame aria-hidden className="animate-flicker size-5 fill-sun-400" /> {combo} in a row!
+          </span>
+        )}
         <p className="eyebrow">
           Question {index + 1} of {quiz.questions.length}
         </p>
@@ -207,14 +238,14 @@ export function QuizPlayer({ quiz }: { quiz: Quiz }) {
                   disabled={checked}
                   onClick={() => setChoice(opt)}
                   className={cn(
-                    "flex min-h-14 items-center gap-3 rounded-lg border-2 px-4 py-3 text-left text-[17px] font-semibold transition-[border-color,background-color,transform] duration-150",
+                    "flex min-h-14 items-center gap-3 rounded-lg border-[2.5px] px-4 py-3 text-left text-[17px] font-bold transition-[border-color,background-color,transform,box-shadow] duration-200 ease-[var(--ease-spring)]",
                     right
                       ? "border-mint-500 bg-mint-50"
                       : wrong
                         ? "animate-[shake_300ms_ease-in-out] border-coral-500 bg-coral-50"
                         : selected
-                          ? "border-royal-500 bg-royal-50"
-                          : "border-line hover:border-line-strong hover:bg-paper disabled:hover:bg-transparent",
+                          ? "-translate-y-1 border-ink bg-royal-100 shadow-[3px_3px_0_0_var(--color-ink)]"
+                          : "border-ink/25 hover:-translate-y-1 hover:border-ink hover:bg-sun-50 hover:shadow-[3px_3px_0_0_var(--color-ink)] disabled:hover:translate-y-0 disabled:hover:shadow-none",
                     checked && !right && !wrong && "opacity-60",
                   )}
                 >
@@ -269,6 +300,13 @@ export function QuizPlayer({ quiz }: { quiz: Quiz }) {
             )}
           </div>
         </div>
+      </div>
+      <div className="hidden flex-col items-center gap-3 lg:flex" aria-live="polite">
+        <MascotBubble key={`${index}-${checked}`} side="bottom" className="text-lg">
+          {!checked ? (hint ? "Use the hint, you've got this!" : "Take your time. Think it through!") : isCorrect ? praise[index % praise.length] : nudges[index % nudges.length]}
+        </MascotBubble>
+        <Mascot key={`m-${index}-${checked}`} mood={!checked ? "think" : isCorrect ? "cheer" : "oops"} size={130} className={checked && !isCorrect ? "animate-[shake_400ms_ease-in-out]" : ""} />
+      </div>
       </div>
       <p className="mt-4 text-center text-sm text-ink-3">
         Stuck? <Link href={`/learn/${quiz.subject}/${quiz.chapterId}`} className="font-semibold text-royal-700 hover:underline">Revisit the chapter</Link>

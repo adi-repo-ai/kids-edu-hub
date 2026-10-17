@@ -22,7 +22,7 @@ export function PapersBrowser() {
 
   return (
     <div>
-      <div className="flex flex-col gap-4 rounded-lg border border-line bg-surface p-4 lg:flex-row lg:items-center">
+      <div className="sticker flex flex-col gap-4 bg-surface p-4 lg:flex-row lg:items-center">
         <FilterChips
           label="Class"
           value={grade}
@@ -57,8 +57,8 @@ export function PapersBrowser() {
       ) : (
         <ul className="grid gap-3 md:grid-cols-2">
           {list.map((p) => (
-            <li key={p.id} className="flex gap-4 rounded-lg border border-line bg-surface p-4 transition-shadow hover:shadow-lift">
-              <div className="grid w-16 shrink-0 place-items-center rounded-md border border-line bg-paper py-2 text-center">
+            <li key={p.id} className="sticker sticker-hover group flex gap-4 bg-surface p-4">
+              <div className="grid w-16 shrink-0 place-items-center rounded-md border-2 border-ink bg-sun-100 py-2 text-center transition-transform group-hover:-rotate-6">
                 <span className="font-display text-xl font-extrabold leading-none">{p.year}</span>
                 <span className="mt-1 text-[11px] font-semibold text-ink-3">{p.code}</span>
               </div>

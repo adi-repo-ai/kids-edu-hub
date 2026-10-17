@@ -6,17 +6,17 @@ type Variant = "primary" | "secondary" | "accent" | "ghost";
 type Size = "sm" | "md" | "lg";
 
 const base =
-  "inline-flex items-center justify-center gap-2 font-semibold whitespace-nowrap select-none rounded-md transition-[transform,box-shadow,background-color,color] duration-150 ease-out disabled:opacity-50 disabled:pointer-events-none";
+  "group/btn inline-flex items-center justify-center gap-2 font-bold whitespace-nowrap select-none rounded-md transition-[transform,box-shadow,background-color,color] duration-200 ease-[var(--ease-spring)] disabled:opacity-50 disabled:pointer-events-none [&_svg:last-child]:transition-transform hover:[&_svg:last-child]:translate-x-1";
 
 // Primary/accent buttons sit on a solid "key" shadow and press down on click —
 // a tactile detail that replaces glows and gradients.
 const variants: Record<Variant, string> = {
   primary:
-    "bg-royal-600 text-white shadow-[0_3px_0_0_var(--color-royal-800)] hover:bg-royal-700 active:translate-y-[3px] active:shadow-none",
+    "bg-royal-600 text-white shadow-[0_4px_0_0_var(--color-ink)] border-2 border-ink hover:-translate-y-0.5 hover:shadow-[0_6px_0_0_var(--color-ink)] hover:bg-royal-500 active:translate-y-[4px] active:shadow-none",
   accent:
-    "bg-coral-500 text-ink shadow-[0_3px_0_0_var(--color-coral-700)] hover:bg-coral-600 active:translate-y-[3px] active:shadow-none",
+    "bg-coral-500 text-ink shadow-[0_4px_0_0_var(--color-ink)] border-2 border-ink hover:-translate-y-0.5 hover:shadow-[0_6px_0_0_var(--color-ink)] hover:bg-sun-400 active:translate-y-[4px] active:shadow-none",
   secondary:
-    "bg-surface text-ink border border-line-strong shadow-[0_2px_0_0_var(--color-line-strong)] hover:border-ink-3 active:translate-y-[2px] active:shadow-none",
+    "bg-surface text-ink border-2 border-ink shadow-[0_4px_0_0_var(--color-ink)] hover:-translate-y-0.5 hover:shadow-[0_6px_0_0_var(--color-ink)] hover:bg-sun-50 active:translate-y-[4px] active:shadow-none",
   ghost: "text-ink-2 hover:bg-sunken hover:text-ink",
 };
 

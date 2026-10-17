@@ -7,6 +7,8 @@ import { BadgeMedal } from "@/components/ui/BadgeMedal";
 import { Button } from "@/components/ui/Button";
 import { Card } from "@/components/ui/Card";
 import { ArrowDoodle, AtomDoodle, Highlight, ProtractorDoodle, SparkDoodle, Squiggle, StarDoodle } from "@/components/ui/Doodles";
+import { Marquee } from "@/components/ui/Marquee";
+import { Mascot, MascotBubble } from "@/components/ui/Mascot";
 import { ProgressBar, ProgressRing } from "@/components/ui/Progress";
 import { SubjectIcon } from "@/components/ui/SubjectIcon";
 import { Switch } from "@/components/ui/Switch";
@@ -66,10 +68,16 @@ const typeScale = [
 const spacing = [4, 8, 12, 16, 20, 24, 32, 40, 48, 64, 80];
 
 const motion = [
-  ["Hover lift", "transform, shadow", "200ms", "ease-out", "Cards: −2px Y + lift shadow"],
-  ["Button press", "transform, shadow", "150ms", "ease-out", "Drops 3px onto its key shadow"],
-  ["Page enter", "opacity, transform", "320ms", "cubic(.22,1,.36,1)", "Rise 6px on every route change"],
-  ["Progress fill", "width / dash-offset", "700–800ms", "ease-out", "Animates from 0 on mount and on change"],
+  ["Page curtain", "transform", "560ms ×3, staggered 90ms", "cubic(.7,0,.3,1)", "Royal, sun and coral panels lift off each new page"],
+  ["Scroll reveal", "opacity, transform", "650ms, stagger 90ms", "ease-out", "[data-reveal] sections rise in; visible by default without JS"],
+  ["Sticker hover", "transform, shadow", "220ms", "spring (1.56 overshoot)", "Lifts −3px, tilts ±0.6–1.2°, shadow grows 4→7px"],
+  ["3D tilt", "transform", "300ms", "ease-out", "Pointer-driven ±8° with glare; mouse only"],
+  ["Button press", "transform, shadow", "200ms", "spring", "Lifts on hover, drops 4px onto its key shadow"],
+  ["Progress fill", "width + stripes", "1000ms + 900ms loop", "spring", "Fills from 0; candy stripes scroll on md/lg bars"],
+  ["Count-up", "text", "1200ms", "ease-out cubic", "Numbers count from 0 when scrolled into view"],
+  ["Confetti", "canvas", "2.1s", "gravity + drag", "Correct answers, finished lessons, ticked tasks, CTA"],
+  ["Mascot", "transform", "5s float · 4.5s blink", "ease-in-out", "Gyani bobs and blinks; wings flap when cheering"],
+  ["Ambient loops", "transform", "2.4–32s", "linear / ease", "Marquee, floating stickers, flame flicker, slow spins"],
   ["Answer feedback", "opacity, transform", "320ms + 300ms shake", "ease-out", "Wrong answers shake once, horizontally"],
   ["Badge / check pop", "scale", "420ms", "overshoot to 1.08", "Only on user-earned moments"],
   ["Toast", "opacity, transform", "320ms in · 2.6s hold", "ease-out", "Announced via aria-live=polite"],
@@ -97,9 +105,9 @@ export default function DesignSystemPage() {
   const toc = ["colour", "type", "space", "components", "states", "motion", "layout", "principles"];
   return (
     <>
-      <PageHeader
-        eyebrow="Kaksha design system · v1.0"
-        title="Colourful, but grown-up."
+      <PageHeader tone="lavender"
+        eyebrow="Kaksha design system · v2.0"
+        title="Bold, bouncy, and still easy to read."
         description="Tokens, components and interaction rules behind every Kaksha screen. Built for React, Next.js, TypeScript and Tailwind CSS v4; every value below is a CSS variable in globals.css."
       >
         <nav aria-label="On this page" className="mt-6 flex flex-wrap gap-2">
@@ -302,7 +310,7 @@ export default function DesignSystemPage() {
             </Card>
 
             <Card className="p-6 lg:col-span-2">
-              <StateLabel>Illustration kit: one stroke language, max two per view</StateLabel>
+              <StateLabel>Illustration kit: one stroke language for every doodle</StateLabel>
               <div className="flex flex-wrap items-center gap-8 text-ink-2">
                 <StarDoodle className="w-10 text-coral-500" />
                 <SparkDoodle className="w-10 text-sun-500" />
@@ -323,6 +331,36 @@ export default function DesignSystemPage() {
               </div>
               <p className="mt-2 text-sm text-ink-3">Textures: ruled exercise-book paper (lessons, notes, teacher notes) and graph paper (manipulatives, formula sheets).</p>
             </Card>
+
+            <Card className="p-6 lg:col-span-2">
+              <StateLabel>Gyani the owl: five moods</StateLabel>
+              <ul className="flex flex-wrap items-end gap-6">
+                {(["happy", "wave", "think", "cheer", "oops"] as const).map((m) => (
+                  <li key={m} className="flex flex-col items-center gap-2">
+                    <Mascot mood={m} size={88} />
+                    <span className="hand text-xl">{m}</span>
+                  </li>
+                ))}
+                <li className="self-center">
+                  <MascotBubble>Speech bubbles use the handwriting face.</MascotBubble>
+                </li>
+              </ul>
+            </Card>
+
+            <Card className="p-6 lg:col-span-2">
+              <StateLabel>Surfaces: sticker, taped, chalkboard, cork</StateLabel>
+              <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+                <div className="sticker sticker-hover grid h-28 place-items-center bg-royal-100 font-bold">.sticker</div>
+                <div className="sticker tape tape-pink grid h-28 place-items-center bg-coral-50 font-bold">.tape</div>
+                <div className="chalkboard grid h-28 place-items-center rounded-lg border-[6px] border-wood">
+                  <span className="chalk text-3xl">.chalkboard</span>
+                </div>
+                <div className="cork grid h-28 place-items-center rounded-lg border-[6px] border-wood">
+                  <span className="hand -rotate-3 bg-sun-100 px-3 py-1 text-xl shadow">.cork</span>
+                </div>
+              </div>
+              <Marquee className="mt-6 bg-sun-400 font-display text-lg font-extrabold" tilt={0} items={["Marquee strip", "Pauses on hover", "Duplicated for a seamless loop"].map((t) => <span key={t}>{t}</span>)} />
+            </Card>
           </div>
         </Section>
 
@@ -334,14 +372,14 @@ export default function DesignSystemPage() {
               <div className="grid grid-cols-2 gap-4 sm:grid-cols-5">
                 {[
                   ["Default", ""],
-                  ["Hover", "!bg-royal-700"],
+                  ["Hover", "-translate-y-0.5 !bg-royal-500 !shadow-[0_6px_0_0_var(--color-ink)]"],
                   ["Focus", "outline outline-3 outline-offset-2 outline-royal-500"],
-                  ["Pressed", "translate-y-[3px] !shadow-none"],
+                  ["Pressed", "translate-y-[4px] !shadow-none"],
                   ["Disabled", "opacity-50"],
                 ].map(([l, c]) => (
                   <div key={l}>
                     <p className="mb-2 text-xs text-ink-3">{l}</p>
-                    <span className={cn("inline-flex h-11 items-center rounded-md bg-royal-600 px-4 font-semibold text-white shadow-[0_3px_0_0_var(--color-royal-800)]", c)}>Start</span>
+                    <span className={cn("inline-flex h-11 items-center rounded-md border-2 border-ink bg-royal-600 px-4 font-bold text-white shadow-[0_4px_0_0_var(--color-ink)]", c)}>Start</span>
                   </div>
                 ))}
               </div>
@@ -405,7 +443,7 @@ export default function DesignSystemPage() {
         </Section>
 
         {/* ───────── Motion ───────── */}
-        <Section id="motion" title="Motion" kicker="Short and purposeful: motion confirms an action or shows progress, nothing loops. Under prefers-reduced-motion every duration collapses to 1ms and the UI stays fully usable.">
+        <Section id="motion" title="Motion" kicker="Lively and celebratory: things bounce, float and burst into confetti when a child earns it. Under prefers-reduced-motion every animation, loop and confetti burst is switched off and the UI stays fully usable.">
           <div className="overflow-x-auto rounded-lg border border-line bg-surface">
             <table className="w-full min-w-[640px] text-sm">
               <thead className="border-b border-line bg-paper text-left text-xs uppercase tracking-wide text-ink-3">
@@ -454,17 +492,17 @@ export default function DesignSystemPage() {
         </Section>
 
         {/* ───────── Principles ───────── */}
-        <Section id="principles" title="Do & don't" kicker="The rules that keep Kaksha from looking like a generic AI dashboard.">
+        <Section id="principles" title="Do & don't" kicker="Bold and playful, but always readable and never in the way of learning.">
           <div className="grid gap-6 md:grid-cols-2">
             <Card className="border-mint-200 p-6">
               <p className="flex items-center gap-2 font-bold text-mint-700">
                 <Check className="size-5" strokeWidth={3} aria-hidden /> Do
               </p>
               <ul className="mt-3 list-disc space-y-1.5 pl-5 text-ink-2">
-                <li>Use flat colour fills and one accent per component</li>
-                <li>Let typography and whitespace create hierarchy</li>
-                <li>Use editorial lists and tables where data is a list</li>
-                <li>Reference the real school world: exercise books, timetables, stamps</li>
+                <li>Use thick ink outlines and hard shadows to make things feel touchable</li>
+                <li>Celebrate real effort: confetti, Gyani cheering, combo streaks</li>
+                <li>Reference the real school world: blackboards, exercise books, notice boards, stamps</li>
+                <li>Keep text on solid colour, at AA contrast or better</li>
                 <li>Write in plain, warm language a 12-year-old can read</li>
               </ul>
             </Card>
@@ -473,11 +511,11 @@ export default function DesignSystemPage() {
                 <X className="size-5" strokeWidth={3} aria-hidden /> Don&apos;t
               </p>
               <ul className="mt-3 list-disc space-y-1.5 pl-5 text-ink-2">
-                <li>Gradients on sections, glassmorphism, glows or floating blobs</li>
-                <li>Robot mascots, 3D abstract shapes, stock-AI student photos</li>
-                <li>Pill buttons (pills mean filters only)</li>
-                <li>Endless identical card grids</li>
-                <li>Animations that loop or delay content</li>
+                <li>Glassmorphism, neon glows, abstract 3D blobs or stock-AI photos</li>
+                <li>Motion that hides content or blocks input (curtains are pointer-transparent)</li>
+                <li>Confetti for things the child didn&apos;t do</li>
+                <li>Mascot speech for errors that block progress</li>
+                <li>Ignoring prefers-reduced-motion</li>
               </ul>
             </Card>
           </div>

@@ -33,7 +33,7 @@ export default async function ClassPage({ params }: { params: Promise<{ grade: s
   if (!grade.available) {
     return (
       <>
-        <PageHeader crumbs={crumbs} eyebrow={`${grade.stage} stage`} title={grade.label} description="Science, Commerce and Humanities streams are being written with subject teachers now." />
+        <PageHeader tone="sun" crumbs={crumbs} eyebrow={`${grade.stage} stage`} title={grade.label} description="Science, Commerce and Humanities streams are being written with subject teachers now." />
         <Container className="py-12">
           <Card className="flex flex-col items-start gap-4 p-8 sm:flex-row sm:items-center">
             <Lock aria-hidden className="size-8 text-lavender-600" />
@@ -53,7 +53,7 @@ export default async function ClassPage({ params }: { params: Promise<{ grade: s
   const isPreview = grade.id === 8;
   return (
     <>
-      <PageHeader crumbs={crumbs} eyebrow={`${grade.stage} stage`} title={`${grade.label} subjects`} description={`This year: ${grade.focus.toLowerCase()}. Pick a subject to see its chapters.`} />
+      <PageHeader tone="sun" crumbs={crumbs} eyebrow={`${grade.stage} stage`} title={`${grade.label} subjects`} description={`This year: ${grade.focus.toLowerCase()}. Pick a subject to see its chapters.`} />
       <Container className="py-10">
         {!isPreview && (
           <p className="mb-6 flex items-start gap-2 rounded-md border border-royal-200 bg-royal-50 px-4 py-3 text-sm text-royal-800">
@@ -69,8 +69,8 @@ export default async function ClassPage({ params }: { params: Promise<{ grade: s
               return (
                 <li key={s.id}>
                   <Link href={`/learn/${s.id}`} className="block h-full rounded-lg focus-visible:outline-offset-4">
-                    <Card interactive className="flex h-full flex-col overflow-hidden">
-                      <div className={`h-1.5 ${hue[s.hue].fill}`} aria-hidden />
+                    <Card interactive data-reveal style={{ ["--i" as string]: subjects.indexOf(s) }} className={`flex h-full flex-col overflow-hidden ${hue[s.hue].soft}`}>
+                      <div className={`h-3 border-b-[2.5px] border-ink ${hue[s.hue].fill}`} aria-hidden />
                       <div className="flex flex-1 flex-col p-5">
                         <div className="flex items-start gap-3">
                           <SubjectIcon subject={s.id} size="lg" />
@@ -101,7 +101,7 @@ export default async function ClassPage({ params }: { params: Promise<{ grade: s
             </li>
           </ul>
         ) : (
-          <ul className="divide-y divide-line overflow-hidden rounded-lg border border-line bg-surface">
+          <ul className="sticker divide-y-2 divide-ink/10 overflow-hidden bg-surface">
             {grade.subjects.map((name) => {
               const match = subjects.find((s) => s.name === name);
               return (

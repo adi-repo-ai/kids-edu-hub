@@ -23,7 +23,7 @@ export function SavedList() {
       </div>
     );
   return (
-    <ul className="divide-y divide-line overflow-hidden rounded-lg border border-line bg-surface">
+    <ul className="sticker divide-y-2 divide-ink/10 overflow-hidden bg-surface">
       {bookmarks.map((b) => (
         <li key={b.id} className="flex items-center gap-4 px-4 py-3 sm:px-5">
           <Tag hue={b.kind === "chapter" ? "royal" : b.kind === "paper" ? "coral" : "lavender"} className="hidden w-20 justify-center sm:inline-flex">

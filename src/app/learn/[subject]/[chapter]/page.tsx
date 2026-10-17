@@ -46,7 +46,7 @@ export default async function ChapterPage({ params }: { params: Promise<{ subjec
 
   return (
     <>
-      <PageHeader
+      <PageHeader tone={subject.hue}
         crumbs={[
           { href: "/class/8", label: "Class 8" },
           { href: `/learn/${subject.id}`, label: subject.name },
@@ -160,7 +160,7 @@ export default async function ChapterPage({ params }: { params: Promise<{ subjec
             {chapterResources.length ? (
               <ul className="space-y-2">
                 {chapterResources.map((r) => (
-                  <li key={r.id} className="flex items-center gap-3 rounded-md border border-line bg-surface p-3">
+                  <li key={r.id} className="sticker sticker-hover flex items-center gap-3 bg-surface p-3">
                     <div className="min-w-0 flex-1">
                       <p className="text-sm font-semibold leading-snug">{r.title}</p>
                       <p className="text-xs text-ink-3">

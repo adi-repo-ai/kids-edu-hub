@@ -38,7 +38,7 @@ export default async function SubjectPage({ params }: { params: Promise<{ subjec
 
   return (
     <>
-      <PageHeader
+      <PageHeader tone={subject.hue}
         crumbs={[
           { href: "/", label: "Home" },
           { href: "/class/8", label: "Class 8" },
@@ -144,7 +144,7 @@ export default async function SubjectPage({ params }: { params: Promise<{ subjec
               <h2 className="eyebrow mb-3">Notes & worksheets</h2>
               <ul className="space-y-2">
                 {subjectResources.map((r) => (
-                  <li key={r.id} className="flex items-center gap-3 rounded-md border border-line bg-surface p-3">
+                  <li key={r.id} className="sticker sticker-hover flex items-center gap-3 bg-surface p-3">
                     <div className="min-w-0 flex-1">
                       <p className="truncate text-sm font-semibold">{r.title}</p>
                       <p className="text-xs text-ink-3">

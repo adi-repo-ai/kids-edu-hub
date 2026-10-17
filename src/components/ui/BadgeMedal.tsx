@@ -18,8 +18,11 @@ const scallop = (() => {
 export function BadgeMedal({ badge, size = 64 }: { badge: Badge; size?: number }) {
   const locked = !badge.earned;
   return (
-    <div className="flex flex-col items-center text-center">
-      <div className="relative" style={{ width: size, height: size }}>
+    <div className="group flex flex-col items-center text-center">
+      <div
+        className={cn("relative transition-transform duration-700 ease-[var(--ease-spring)]", locked ? "group-hover:animate-wiggle" : "group-hover:rotate-[360deg] group-hover:scale-110")}
+        style={{ width: size, height: size }}
+      >
         <svg viewBox="0 0 64 64" className="size-full" aria-hidden>
           <polygon points={scallop} fill={locked ? "var(--color-sunken)" : hue[badge.hue].hex} stroke={locked ? "var(--color-line-strong)" : "var(--color-ink)"} strokeWidth="1.5" strokeDasharray={locked ? "3 3" : undefined} />
           <circle cx="32" cy="32" r="19" fill={locked ? "var(--color-surface)" : "var(--color-surface)"} stroke={locked ? "var(--color-line-strong)" : "var(--color-ink)"} strokeWidth="1.5" />

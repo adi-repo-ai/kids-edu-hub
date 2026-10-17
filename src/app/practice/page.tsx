@@ -26,7 +26,7 @@ const quizFor = (subject: string) => `/practice/${(quizzes.find((q) => q.subject
 export default function PracticePage() {
   return (
     <>
-      <PageHeader
+      <PageHeader tone="coral"
         eyebrow={`Half-yearly exams in ${student.exam.daysLeft} days`}
         title="Practice & mock exams"
         description="Short quizzes for every chapter, full-length mocks in the CBSE paper pattern, and a list of the topics you keep missing."
@@ -83,7 +83,7 @@ export default function PracticePage() {
 
         <section aria-labelledby="mock-title">
           <SectionHeading id="mock-title" eyebrow="Exam conditions" title="Mock exams" />
-          <div className="overflow-hidden rounded-lg border border-line bg-surface">
+          <div className="sticker overflow-hidden bg-surface">
             <table className="w-full text-left">
               <caption className="sr-only">Full-length mock exams</caption>
               <thead className="hidden border-b border-line bg-paper text-xs font-bold uppercase tracking-wide text-ink-3 md:table-header-group">

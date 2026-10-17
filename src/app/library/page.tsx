@@ -7,7 +7,7 @@ export const metadata: Metadata = { title: "Notes & worksheets" };
 export default function LibraryPage() {
   return (
     <>
-      <PageHeader
+      <PageHeader tone="lavender"
         crumbs={[
           { href: "/", label: "Home" },
           { href: "/library", label: "Notes" },

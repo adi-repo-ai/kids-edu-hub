@@ -1,4 +1,12 @@
-/** Re-mounts on every navigation, giving each page a short 320 ms rise-in. */
+import { PageCurtain, RevealController } from "@/components/ui/Motion";
+
+/** Re-mounts on every navigation: curtain wipe, page rise-in, and scroll reveals. */
 export default function Template({ children }: { children: React.ReactNode }) {
-  return <div className="animate-rise">{children}</div>;
+  return (
+    <>
+      <PageCurtain />
+      <div className="animate-rise">{children}</div>
+      <RevealController />
+    </>
+  );
 }

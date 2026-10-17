@@ -21,13 +21,16 @@ export function ProgressBar({
   label,
   size = "md",
   showValue,
+  striped = size === "md",
   className,
 }: {
   value: number;
   hue?: Hue;
   label: string;
-  size?: "sm" | "md";
+  size?: "sm" | "md" | "lg";
   showValue?: boolean;
+  /** Animated candy stripes; on by default for md/lg bars. */
+  striped?: boolean;
   className?: string;
 }) {
   const shown = useAnimatedValue(value);
@@ -39,10 +42,10 @@ export function ProgressBar({
         aria-valuemin={0}
         aria-valuemax={100}
         aria-valuenow={value}
-        className={cn("relative flex-1 overflow-hidden rounded-full bg-sunken", size === "sm" ? "h-1.5" : "h-2.5")}
+        className={cn("relative flex-1 overflow-hidden rounded-full bg-sunken", { sm: "h-1.5", md: "h-3", lg: "h-5 border-2 border-ink" }[size])}
       >
         <div
-          className={cn("h-full rounded-full transition-[width] duration-700 ease-out", hues[hue].fill)}
+          className={cn("h-full rounded-full transition-[width] duration-1000 ease-[var(--ease-spring)]", hues[hue].fill, striped && "stripes")}
           style={{ width: `${shown}%` }}
         />
       </div>

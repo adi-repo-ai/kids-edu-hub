@@ -7,7 +7,7 @@ export const metadata: Metadata = { title: "CBSE news & announcements" };
 export default function NewsPage() {
   return (
     <>
-      <PageHeader eyebrow="Notice board" title="CBSE news & announcements" description="Board circulars, exam dates and school notices, explained in plain words." />
+      <PageHeader tone="sun" eyebrow="Notice board" title="CBSE news & announcements" description="Board circulars, exam dates and school notices, explained in plain words." />
       <Container className="py-10">
         <NewsList />
       </Container>

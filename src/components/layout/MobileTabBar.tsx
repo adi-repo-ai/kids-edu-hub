@@ -29,7 +29,7 @@ export function MobileTabBar() {
                 aria-current={active ? "page" : undefined}
                 className={cn("flex h-16 flex-col items-center justify-center gap-1 text-xs font-semibold transition-colors", active ? "text-royal-700" : "text-ink-3")}
               >
-                <span className={cn("grid h-7 w-12 place-items-center rounded-full transition-colors", active && "bg-royal-100")}>
+                <span className={cn("grid h-7 w-12 place-items-center rounded-full transition-colors", active && "animate-bounce-in bg-royal-100")}>
                   <Icon aria-hidden className="size-5" strokeWidth={active ? 2.4 : 2} />
                 </span>
                 {label}

@@ -138,7 +138,7 @@ export function SearchBox({
       </div>
 
       {showPanel && (
-        <div className="animate-rise absolute inset-x-0 top-[calc(100%+6px)] z-40 overflow-hidden rounded-lg border border-line bg-surface shadow-lift">
+        <div className="animate-rise absolute inset-x-0 top-[calc(100%+6px)] z-40 overflow-hidden rounded-xl border-[2.5px] border-ink bg-surface shadow-[5px_5px_0_0_var(--color-ink)]">
           {query.trim() === "" ? (
             <div className="p-4">
               <p className="eyebrow mb-2">Try searching for</p>

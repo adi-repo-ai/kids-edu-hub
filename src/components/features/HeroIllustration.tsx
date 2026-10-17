@@ -10,10 +10,10 @@ export function HeroIllustration() {
   return (
     <div className="relative mx-auto aspect-[5/4.6] w-full max-w-[520px] select-none" aria-hidden>
       {/* back page */}
-      <div className="absolute inset-[6%_4%_4%_10%] rotate-[4deg] rounded-lg border border-line bg-lavender-50" />
+      <div className="absolute inset-[6%_4%_4%_10%] rotate-[4deg] rounded-lg border-[2.5px] border-ink bg-lavender-200" />
 
       {/* main ruled page */}
-      <div className="ruled absolute inset-[2%_8%_8%_4%] -rotate-[2deg] overflow-hidden rounded-lg border border-line-strong shadow-lift">
+      <div className="ruled absolute inset-[2%_8%_8%_4%] -rotate-[2deg] overflow-hidden rounded-lg border-[2.5px] border-ink shadow-[6px_6px_0_0_var(--color-ink)]">
         <div className="pl-16 pr-6 pt-[30px] font-display leading-8 text-ink">
           <p className="text-sm font-bold text-coral-700">17 Oct · Revision</p>
           <p className="text-[22px] font-extrabold leading-8">A Square and A Cube</p>
@@ -47,7 +47,7 @@ export function HeroIllustration() {
       </div>
 
       {/* sticky note */}
-      <div className="absolute right-0 top-[4%] w-[38%] rotate-[5deg] rounded-sm bg-sun-400 p-4 shadow-[0_8px_16px_-6px_rgb(26_29_58/0.3)]">
+      <div className="animate-float absolute right-0 top-[4%] z-10 w-[38%] rounded-sm border-2 border-ink bg-sun-400 p-4 shadow-[4px_4px_0_0_var(--color-ink)]" style={{ ["--r" as string]: "5deg" }}>
         <p className="font-display text-[15px] font-bold leading-snug text-ink">
           Half-yearly
           <br />
@@ -57,13 +57,13 @@ export function HeroIllustration() {
       </div>
 
       {/* progress slip */}
-      <div className="absolute bottom-0 left-0 w-[58%] rounded-lg border border-line bg-surface p-4 shadow-lift">
+      <div className="absolute bottom-0 left-0 z-10 w-[58%] -rotate-1 rounded-lg border-[2.5px] border-ink bg-surface p-4 shadow-[5px_5px_0_0_var(--color-ink)]">
         <div className="flex items-center justify-between">
           <p className="text-sm font-bold">Chapter progress</p>
           <span className="rounded-sm bg-mint-100 px-1.5 text-xs font-bold text-mint-700">+12%</span>
         </div>
         <div className="mt-3 h-2.5 overflow-hidden rounded-full bg-sunken">
-          <div className="h-full w-[60%] rounded-full bg-royal-500" />
+          <div className="stripes h-full w-[60%] rounded-full bg-royal-500" style={{ animation: "grow 1.2s var(--ease-spring) both, stripes 900ms linear infinite", transformOrigin: "left" }} />
         </div>
         <ul className="mt-3 space-y-1.5 text-[13px] text-ink-2">
           {["Square patterns", "Locker puzzle"].map((t) => (

@@ -1,5 +1,6 @@
 import "@fontsource-variable/bricolage-grotesque";
 import "@fontsource-variable/figtree";
+import "@fontsource-variable/caveat";
 import "./globals.css";
 import type { Metadata, Viewport } from "next";
 import { AppStateProvider } from "@/components/features/AppState";

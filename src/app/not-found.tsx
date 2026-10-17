@@ -1,10 +1,12 @@
 import { Container } from "@/components/layout/PageHeader";
 import { ButtonLink } from "@/components/ui/Button";
 import { Squiggle } from "@/components/ui/Doodles";
+import { Mascot } from "@/components/ui/Mascot";
 
 export default function NotFound() {
   return (
     <Container className="py-24 text-center">
+      <Mascot mood="oops" size={140} className="mx-auto" />
       <p className="font-display text-8xl font-extrabold text-royal-200">404</p>
       <h1 className="relative mx-auto mt-2 inline-block text-3xl font-extrabold">
         This page skipped class

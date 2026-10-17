@@ -2,10 +2,12 @@
 
 import { ArrowLeft, ArrowRight, Check, Lightbulb, RotateCcw, Sparkles, X } from "lucide-react";
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { fireConfetti } from "@/lib/confetti";
 import { cn } from "@/lib/cn";
 import { Button, ButtonLink } from "../ui/Button";
 import { Highlight } from "../ui/Doodles";
+import { Mascot, MascotBubble } from "../ui/Mascot";
 import { ProgressBar } from "../ui/Progress";
 import { useAppState } from "./AppState";
 
@@ -18,7 +20,7 @@ function TileGrid({ rows, cols, count, frame, highlightFrom, label }: { rows: nu
     <div
       role="img"
       aria-label={label}
-      className="graph-paper grid aspect-square w-full max-w-[380px] place-items-center rounded-lg border border-line p-4"
+      className="graph-paper grid aspect-square w-full max-w-[380px] place-items-center rounded-xl border-[3px] border-ink p-4 shadow-[6px_6px_0_0_var(--color-ink)]"
     >
       <div
         className="grid w-full gap-[3px]"
@@ -123,7 +125,7 @@ function StepGrow({ onSolved }: { onSolved: () => void }) {
           </p>
           <p>In general, going from n² to (n + 1)² always adds <Highlight>2n + 1</Highlight> tiles.</p>
           <form
-            className="rounded-lg border border-line bg-surface p-4"
+            className="sticker bg-surface p-4"
             onSubmit={(e) => {
               e.preventDefault();
               const ok = answer.trim() === "15";
@@ -192,7 +194,7 @@ function StepPick({ onSolved }: { onSolved: () => void }) {
         <>
           <h2 className="text-2xl font-extrabold">Not every number makes a square</h2>
           <p>Try arranging 50 tiles: you get 7 full rows of 7 and one tile left over. So 50 is not a perfect square.</p>
-          <fieldset className="rounded-lg border border-line bg-surface p-4">
+          <fieldset className="sticker bg-surface p-4">
             <legend className="px-1 font-semibold text-ink">Select every perfect square</legend>
             <div className="mt-2 grid grid-cols-2 gap-2 sm:grid-cols-4">
               {pickOptions.map((v) => {
@@ -265,10 +267,13 @@ function StepPick({ onSolved }: { onSolved: () => void }) {
 function StepSummary() {
   return (
     <div className="mx-auto max-w-2xl py-4 text-center">
-      <span className="animate-pop mx-auto grid size-20 place-items-center rounded-full bg-sun-400 text-ink">
-        <Sparkles className="size-9" aria-hidden />
-      </span>
-      <h2 className="mt-5 text-3xl font-extrabold">Lesson complete!</h2>
+      <div className="mx-auto flex w-fit items-end gap-2">
+        <Mascot mood="cheer" size={130} />
+        <span className="animate-bounce-in mb-12 grid size-20 rotate-[-10deg] place-items-center rounded-full border-[3px] border-ink bg-sun-400 text-ink shadow-[4px_4px_0_0_var(--color-ink)]">
+          <Sparkles className="size-9" aria-hidden />
+        </span>
+      </div>
+      <h2 className="mt-5 text-4xl font-extrabold sm:text-5xl">Lesson complete!</h2>
       <p className="mt-2 text-ink-2">+40 XP · Your revision path moves to “Square roots by factorisation”.</p>
       <div className="ruled mx-auto mt-8 max-w-lg rounded-lg border border-line-strong py-[14px] pl-16 pr-6 text-left">
         <p className="font-display text-sm font-bold uppercase tracking-wide text-coral-700 leading-8">Key ideas</p>
@@ -313,7 +318,21 @@ export function LessonPlayer() {
   const [step, setStep] = useState(0);
   const [solved, setSolved] = useState<boolean[]>([false, false, false, true]);
   const [showHint, setShowHint] = useState(false);
-  const markSolved = (i: number) => setSolved((s) => s.map((v, j) => (j === i ? true : v)));
+  const markSolved = (i: number) => {
+    if (!solved[i]) fireConfetti({ x: window.innerWidth * 0.72, y: window.innerHeight * 0.45, count: 80, spread: 55 });
+    setSolved((s) => s.map((v, j) => (j === i ? true : v)));
+  };
+
+  useEffect(() => {
+    if (step !== steps.length - 1) return;
+    fireConfetti({ count: 180, spread: 85, power: 1.4 });
+    const t = setTimeout(() => fireConfetti({ x: window.innerWidth * 0.15, count: 90, spread: 35 }), 400);
+    const u = setTimeout(() => fireConfetti({ x: window.innerWidth * 0.85, count: 90, spread: 35 }), 700);
+    return () => {
+      clearTimeout(t);
+      clearTimeout(u);
+    };
+  }, [step]);
 
   const go = (i: number) => {
     setStep(i);
@@ -365,22 +384,27 @@ export function LessonPlayer() {
         </div>
 
         {step < steps.length - 1 && (
-          <div className="mt-10 flex flex-col-reverse gap-3 border-t border-line pt-6 sm:flex-row sm:items-center">
+          <div className="mt-10 flex flex-col-reverse gap-4 border-t-[3px] border-dashed border-ink/20 pt-6 sm:flex-row sm:items-center">
             <Button variant="ghost" onClick={() => go(step - 1)} disabled={step === 0} icon={<ArrowLeft className="size-4" aria-hidden />}>
               Back
             </Button>
-            <div className="flex-1">
-              {showHint ? (
-                <p className="animate-rise flex items-center gap-2 text-sm text-ink-2">
-                  <Lightbulb aria-hidden className="size-4 text-sun-500" /> {steps[step].hint}
-                </p>
+            <div className="flex flex-1 items-center gap-2" aria-live="polite">
+              <Mascot key={`${step}-${solved[step]}`} mood={solved[step] ? "cheer" : showHint ? "think" : "happy"} size={64} />
+              {solved[step] ? (
+                <MascotBubble key="yay" className="text-lg">Brilliant! Hit Continue.</MascotBubble>
+              ) : showHint ? (
+                <MascotBubble key="hint" className="text-lg">{steps[step].hint}</MascotBubble>
               ) : (
-                <button type="button" onClick={() => setShowHint(true)} className="inline-flex min-h-10 items-center gap-2 text-sm font-semibold text-ink-2 hover:text-ink">
-                  <Lightbulb aria-hidden className="size-4" /> Need a hint?
+                <button
+                  type="button"
+                  onClick={() => setShowHint(true)}
+                  className="inline-flex min-h-11 items-center gap-2 rounded-full border-2 border-ink bg-sun-100 px-4 font-bold text-ink transition-transform hover:-rotate-2 hover:scale-105"
+                >
+                  <Lightbulb aria-hidden className="size-4 fill-sun-400" /> Ask Gyani for a hint
                 </button>
               )}
             </div>
-            <Button size="lg" onClick={() => go(step + 1)} disabled={!solved[step]} iconRight={<ArrowRight className="size-5" aria-hidden />}>
+            <Button size="lg" className={solved[step] ? "shimmer animate-bounce-in" : ""} onClick={() => go(step + 1)} disabled={!solved[step]} iconRight={<ArrowRight className="size-5" aria-hidden />}>
               {solved[step] ? "Continue" : "Solve to continue"}
             </Button>
           </div>

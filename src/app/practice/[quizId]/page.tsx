@@ -21,15 +21,17 @@ export default async function QuizPage({ params }: { params: Promise<{ quizId: s
   if (!quiz) notFound();
   const subject = subjectById(quiz.subject)!;
   return (
+    <div className="dots bg-coral-50">
     <Container className="py-8 sm:py-12">
       <div className="mx-auto mb-8 flex max-w-3xl items-center gap-3">
         <SubjectIcon subject={quiz.subject} />
         <div>
           <p className="text-sm text-ink-3">{subject.name} · Practice quiz</p>
-          <h1 className="text-xl font-bold sm:text-2xl">{quiz.title}</h1>
+          <h1 className="text-2xl font-extrabold sm:text-3xl">{quiz.title}</h1>
         </div>
       </div>
       <QuizPlayer quiz={quiz} />
     </Container>
+    </div>
   );
 }
