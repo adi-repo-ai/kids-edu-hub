@@ -1,0 +1,169 @@
+@import "tailwindcss";
+
+/*
+ * Kaksha design tokens
+ * --------------------
+ * Every colour, radius, shadow and motion value in the product comes from here.
+ * Rule of thumb for colour usage:
+ *   *-500  fills, illustration, progress bars, icon chips (never body text)
+ *   *-700  text and icons on white / paper (all ≥ 4.5:1)
+ *   *-50/100  tinted backgrounds behind *-700 text
+ */
+@theme {
+  /* Neutrals: warm paper, not clinical white */
+  --color-paper: #fffbf3;
+  --color-surface: #ffffff;
+  --color-sunken: #f6f1e6;
+  --color-line: #ebe4d4;
+  --color-line-strong: #d9cfb9;
+  --color-ink: #1a1d3a;
+  --color-ink-2: #474b66;
+  --color-ink-3: #6b6f86;
+
+  /* Royal blue: primary actions, Mathematics */
+  --color-royal-50: #eef1ff;
+  --color-royal-100: #dde3ff;
+  --color-royal-200: #bcc7ff;
+  --color-royal-500: #4361ee;
+  --color-royal-600: #2f4bdb;
+  --color-royal-700: #2338b0;
+  --color-royal-800: #1c2c86;
+
+  /* Coral orange: streaks, highlights, Social Science */
+  --color-coral-50: #fff2ed;
+  --color-coral-100: #ffe1d6;
+  --color-coral-200: #ffc2ad;
+  --color-coral-500: #f26b45;
+  --color-coral-600: #dd5530;
+  --color-coral-700: #b23f1f;
+
+  /* Sunshine yellow: achievements, Hindi. Never used for text */
+  --color-sun-50: #fff9e6;
+  --color-sun-100: #fff0bf;
+  --color-sun-200: #ffe38a;
+  --color-sun-400: #ffc93c;
+  --color-sun-500: #f5b400;
+  --color-sun-800: #7a4f00;
+
+  /* Mint green: success, correct answers, Science */
+  --color-mint-50: #e9faf3;
+  --color-mint-100: #cdf3e3;
+  --color-mint-200: #9ce6c7;
+  --color-mint-500: #2db88c;
+  --color-mint-600: #1b9a72;
+  --color-mint-700: #0f7553;
+
+  /* Lavender: reflection, notes, English */
+  --color-lavender-50: #f3f0ff;
+  --color-lavender-100: #e7e1ff;
+  --color-lavender-200: #cfc4ff;
+  --color-lavender-500: #8f7cf2;
+  --color-lavender-600: #6f5ae0;
+  --color-lavender-700: #5440bd;
+
+  /* Feedback */
+  --color-danger-50: #fff0f0;
+  --color-danger-600: #c62f3a;
+
+  /* Type */
+  --font-display: "Bricolage Grotesque Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Figtree Variable", ui-sans-serif, system-ui, sans-serif;
+
+  /* Radii: small for controls, medium for cards, large only for hero panels */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+
+  /* Shadows are soft and warm (ink-tinted), never glowing */
+  --shadow-card: 0 1px 0 rgb(26 29 58 / 0.04), 0 1px 3px rgb(26 29 58 / 0.06);
+  --shadow-lift: 0 2px 0 rgb(26 29 58 / 0.04), 0 10px 24px -8px rgb(26 29 58 / 0.18);
+  --shadow-press: 0 3px 0 0 var(--color-ink);
+
+  /* Motion */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --animate-rise: rise 320ms var(--ease-out) both;
+  --animate-pop: pop 420ms var(--ease-out) both;
+
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: none; }
+  }
+  @keyframes pop {
+    0% { transform: scale(0.6); opacity: 0; }
+    60% { transform: scale(1.08); opacity: 1; }
+    100% { transform: scale(1); }
+  }
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-padding-top: 5rem;
+  }
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-feature-settings: "ss01";
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    letter-spacing: -0.02em;
+    text-wrap: balance;
+  }
+  p { text-wrap: pretty; }
+
+  :focus-visible {
+    outline: 3px solid var(--color-royal-500);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+  ::selection { background: var(--color-sun-200); }
+}
+
+@layer components {
+  /* Notebook paper: the one signature texture. Use sparingly (hero, lesson canvas). */
+  .ruled {
+    background-color: var(--color-surface);
+    background-image:
+      linear-gradient(to right, transparent 47px, rgb(242 107 69 / 0.45) 47px, rgb(242 107 69 / 0.45) 48px, transparent 48px),
+      repeating-linear-gradient(to bottom, transparent 0 31px, rgb(67 97 238 / 0.13) 31px 32px);
+  }
+  .graph-paper {
+    background-color: var(--color-surface);
+    background-image:
+      linear-gradient(rgb(67 97 238 / 0.08) 1px, transparent 1px),
+      linear-gradient(90deg, rgb(67 97 238 / 0.08) 1px, transparent 1px);
+    background-size: 20px 20px;
+  }
+  .eyebrow {
+    font-family: var(--font-sans);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-ink-3);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 1ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@keyframes grow {
+  from { transform: scaleX(0); }
+  to { transform: scaleX(1); }
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-4px); }
+  75% { transform: translateX(4px); }
+}
