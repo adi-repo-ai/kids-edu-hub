@@ -5,13 +5,20 @@ Built with **Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS v
 All pages are statically generated, and there is no backend.
 
 ```bash
-cd cbse-portal
 npm install
 npm run dev        # http://localhost:3000
 npm run build      # production build (52 static pages)
 npm run typecheck
 npm run build:preview   # static, host-anywhere preview in preview/ (relative paths, full-page navigation)
 ```
+
+## Deploy
+
+Every push to `main` builds a static export and publishes it to GitHub Pages via
+`.github/workflows/deploy.yml`. The site lives at
+https://adi-repo-ai.github.io/kids-edu-hub/ (the workflow sets `BASE_PATH` to the repo name).
+
+One-time setup: in the repo go to **Settings → Pages** and set **Source** to **GitHub Actions**.
 
 ## Screens
 
