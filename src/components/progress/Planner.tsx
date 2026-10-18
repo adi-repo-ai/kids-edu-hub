@@ -45,7 +45,7 @@ export function Planner() {
     : [];
 
   return (
-    <div className="grid gap-6 lg:grid-cols-[1fr_320px]">
+    <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_320px]">
       <div className="min-w-0 space-y-4">
         <div className="flex items-center justify-between">
           <Button variant="ghost" size="sm" onClick={() => setOffset((o) => o - 1)} icon={<ChevronLeft className="size-4" aria-hidden />}>
@@ -109,7 +109,7 @@ export function Planner() {
           )}
 
           <form
-            className="mt-5 grid gap-2 border-t border-line pt-5 sm:grid-cols-[1fr_auto_auto_auto]"
+            className="mt-5 flex flex-wrap gap-2 border-t border-line pt-5"
             onSubmit={(e) => {
               e.preventDefault();
               if (!title.trim()) {
@@ -123,9 +123,9 @@ export function Planner() {
             }}
           >
             <label className="sr-only" htmlFor="pl-title">Task</label>
-            <input id="pl-title" value={title} onChange={(e) => setTitle(e.target.value)} placeholder="What will you study?" className="h-11 rounded-xl border-2 border-line bg-surface-2 px-3 outline-none focus:border-brand-400 focus:bg-surface" />
+            <input id="pl-title" value={title} onChange={(e) => setTitle(e.target.value)} placeholder="What will you study?" className="h-11 min-w-0 flex-[1_1_14rem] rounded-xl border-2 border-line bg-surface-2 px-3 outline-none focus:border-brand-400 focus:bg-surface" />
             <label className="sr-only" htmlFor="pl-subject">Subject</label>
-            <select id="pl-subject" value={subject} onChange={(e) => setSubject(e.target.value)} className="h-11 rounded-xl border-2 border-line bg-surface-2 px-3 outline-none focus:border-brand-400">
+            <select id="pl-subject" value={subject} onChange={(e) => setSubject(e.target.value)} className="h-11 min-w-0 max-w-full flex-[1_1_10rem] rounded-xl border-2 border-line bg-surface-2 px-3 outline-none focus:border-brand-400">
               <option value="">Any subject</option>
               {(grade?.subjects ?? []).map((s) => (
                 <option key={s.id} value={s.id}>{s.name}</option>

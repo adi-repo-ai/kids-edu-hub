@@ -22,7 +22,7 @@ export default function NewsPage() {
   return (
     <>
       <PageTitle eyebrow="Stay informed" title="CBSE news & official links" sub="The official sources for every notice, plus what students should know this session." />
-      <div className="grid gap-6 lg:grid-cols-[1fr_340px]">
+      <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_340px]">
         <section aria-labelledby="know" className="space-y-3">
           <h2 id="know" className="text-xl font-extrabold">
             Good to know

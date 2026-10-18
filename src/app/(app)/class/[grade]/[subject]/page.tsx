@@ -33,7 +33,7 @@ export default async function SubjectPage({ params }: { params: Promise<{ grade:
   return (
     <>
       <Crumbs items={[{ href: "/learn", label: "Learn" }, { href: `/class/${grade.grade}`, label: `Class ${grade.grade}` }, { href: `/class/${grade.grade}/${subject.id}`, label: subject.name }]} />
-      <div className="grid gap-8 lg:grid-cols-[1fr_320px]">
+      <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_320px]">
         <div className="min-w-0">
           <div className="mb-8 flex items-center gap-4">
             <SubjectIcon id={subject.id} size="xl" solid />

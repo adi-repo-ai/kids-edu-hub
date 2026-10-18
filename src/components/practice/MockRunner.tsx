@@ -74,7 +74,7 @@ export function MockRunner({ id, title, minutes, marks, sections, pattern }: { i
   /* ───────── Intro ───────── */
   if (phase === "intro")
     return (
-      <div className="grid gap-6 lg:grid-cols-[1fr_320px]">
+      <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_320px]">
         <div className="card p-6 sm:p-8">
           <h2 className="text-xl font-extrabold">Paper pattern</h2>
           <p className="mt-1 text-ink-2">{pattern}</p>
@@ -233,7 +233,7 @@ export function MockRunner({ id, title, minutes, marks, sections, pattern }: { i
         </Button>
       </div>
 
-      <div className="grid gap-6 lg:grid-cols-[1fr_300px]">
+      <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_300px]">
         <div className="card p-5 sm:p-7">
           <div className="flex flex-wrap items-center gap-2 text-sm font-bold text-ink-3">
             <span>Question {f.n} of {flat.length}</span>

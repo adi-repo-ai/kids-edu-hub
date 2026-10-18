@@ -95,7 +95,7 @@ export function Dashboard() {
         </div>
       </section>
 
-      <div className="grid gap-8 lg:grid-cols-[1fr_340px]">
+      <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_340px]">
         {/* Subjects */}
         <section aria-labelledby="subj">
           <div className="mb-4 flex items-end justify-between">
