@@ -168,8 +168,14 @@ export const actions = {
       return addXp(next, gained + 5);
     });
   },
+  /** Saves a finished mock and returns its timestamp, used to update self-marked scores later. */
   recordMock(m: Omit<MockRecord, "date">) {
-    set((s) => addXp({ ...s, mocks: [{ ...m, date: new Date().toISOString() }, ...s.mocks].slice(0, 50) }, 50));
+    const date = new Date().toISOString();
+    set((s) => addXp({ ...s, mocks: [{ ...m, date }, ...s.mocks].slice(0, 50) }, 50));
+    return date;
+  },
+  updateMockScore(date: string, score: number) {
+    set((s) => ({ ...s, mocks: s.mocks.map((m) => (m.date === date ? { ...m, score } : m)) }));
   },
   toggleBookmark(b: Bookmark) {
     set((s) => ({

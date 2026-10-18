@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "typecheck": "tsc --noEmit",
-    "build:preview": "STATIC_EXPORT=1 next build && node scripts/static-preview.mjs"
+    "build:preview": "STATIC_EXPORT=1 next build && node scripts/static-preview.mjs",
+    "pdfs": "node scripts/generate-pdfs.mjs"
   },
   "dependencies": {
     "@fontsource-variable/noto-sans-devanagari": "^5.3.0",
