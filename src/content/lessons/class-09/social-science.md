@@ -2344,3 +2344,135 @@ A: The poverty line is an imaginary line used to identify the poor: a person who
 W[5]: Describe the major causes of poverty in India.
 A: (1) Colonial rule: British policies ruined traditional handicrafts and discouraged the development of industries like textiles, leaving India with a low level of economic development. (2) Low growth with high population growth: until the 1980s economic growth was slow, while population grew rapidly, so per capita income grew very little. (3) Limited jobs: the Green Revolution created jobs only in some regions, and industry could not absorb the job seekers; many ended up in low-paid informal work in cities. (4) Unequal distribution of land and resources: land reforms were not implemented properly, so many remained landless. (5) Socio-cultural factors: the poor spend heavily on social obligations and religious ceremonies. (6) Indebtedness: small farmers borrow at high interest and, when crops fail, fall into a debt trap.
 
+=== food-security-in-india ===
+## The big idea
+Food is as essential for living as air is for breathing. **Food security** means that **all people at all times** have enough nutritious food. India has worked hard to become self-sufficient in food grains, and it runs one of the world's largest systems for getting food to the poor: the **buffer stock** and the **Public Distribution System (PDS)**.
+
+## What is food security?
+Food security has three dimensions:
+1. **Availability** of food: food production within the country, food imports and the previous years' stock stored in government granaries.
+2. **Accessibility**: food is within reach of every person.
+3. **Affordability**: an individual has enough money to buy sufficient, safe and nutritious food to meet dietary needs.
+
+So food security is ensured in a country only if (a) enough food is available for all, (b) all persons have the capacity to buy food of acceptable quality, and (c) there is no barrier to access food.
+
+**Why is food security needed?** The poorest section may be food insecure most of the time, but even people above the poverty line may become food insecure during a **national disaster or calamity** like an earthquake, drought, flood, tsunami or widespread crop failure. Production falls, food becomes scarce, prices rise, and people cannot buy. If such a calamity lasts long, it may cause **famine**: widespread deaths due to starvation and epidemics caused by contaminated water or decaying food and weakened bodies. The most devastating famine in India was the **Bengal Famine of 1943**, which killed about **30 lakh people** in the province of Bengal. Rice production in Bengal fell, and prices rose sharply. Most victims were agricultural labourers, fishermen, transport workers and other casual labourers.
+
+**Who are food insecure?**
+- In **rural areas**: **landless people** with little or no land, **traditional artisans**, providers of traditional services, **petty self-employed workers** and **destitutes including beggars**.
+- In **urban areas**: families whose working members are employed in **ill-paid occupations** and the **casual labour market**, mostly seasonal, earning very low wages.
+- **SC, ST and some OBC** sections with poor land base; people affected by natural disasters who migrate for work.
+- A large proportion of **pregnant and nursing mothers and children under five** suffer from malnutrition.
+- **Regions**: economically backward states with high poverty, tribal and remote areas, and regions prone to natural disasters. Large numbers of food-insecure people are in **Uttar Pradesh** (eastern and south-eastern parts), **Bihar, Jharkhand, Odisha, West Bengal, Chhattisgarh**, parts of Madhya Pradesh and Maharashtra.
+
+> [!KEY] Hunger
+> **Chronic hunger** is a consequence of diets persistently inadequate in quantity and/or quality; poor people suffer from it because of very low income. **Seasonal hunger** is related to cycles of food growing and harvesting; it is prevalent in rural areas because of the seasonal nature of agricultural activities, and in urban areas because of casual labour (e.g. less work in the rainy season for construction workers). The percentage of seasonal as well as chronic hunger has declined in India.
+
+## Self-sufficiency in food grains
+After independence, India adopted a new strategy in agriculture which resulted in the **Green Revolution**, especially in the production of **wheat and rice**. Indira Gandhi released a special stamp titled "**Wheat Revolution**" in July 1968. Wheat's success was later replicated in rice. **Punjab and Haryana** recorded the highest growth (food grain production rose from 7.23 million tonnes in 1964–65 to 30.33 million tonnes in 1995–96); **Tamil Nadu and Andhra Pradesh** were significant in rice yield. Since the advent of the Green Revolution, India has avoided famine even during adverse weather conditions and has become **self-sufficient** in food grains.
+
+## Buffer stock
+**Buffer stock** is the stock of food grains, namely **wheat and rice**, procured by the government through the **Food Corporation of India (FCI)**.
+- FCI purchases wheat and rice from farmers in states where there is **surplus production**.
+- Farmers are paid a pre-announced price called the **Minimum Support Price (MSP)**. The MSP is declared every year **before the sowing season** to give farmers an incentive to raise production.
+- The purchased grains are stored in **granaries**.
+- The buffer stock is created to **distribute food grains in deficit areas** and among the poorer strata at a price lower than the market price, known as the **issue price**. It also helps resolve shortage during adverse weather or calamity.
+
+## Public Distribution System (PDS)
+The food procured by FCI is distributed among the poorer sections through government-regulated **ration shops** (also called **fair price shops**). This system is called the **Public Distribution System (PDS)**. Ration shops are present in most localities, villages, towns and cities; about **5.5 lakh** ration shops exist all over the country. They stock food grains, **sugar and kerosene** for cooking, sold at prices lower than market prices. Any family with a **ration card** can buy a stipulated amount (e.g. 35 kg of grains, 5 litres of kerosene, 5 kg of sugar) every month.
+
+**Ration cards:** three kinds: **Antyodaya cards** for the poorest of the poor; **BPL cards** for those below the poverty line; **APL cards** for all others.
+
+**History of rationing:** rationing was introduced in India in the **1940s** against the backdrop of the **Bengal famine**. It was revived in the 1960s during an acute food shortage, before the Green Revolution. In the wake of high poverty in the mid-1970s (NSSO reports), three important food intervention programmes were introduced: **PDS** for food grains (already existing, strengthened), **Integrated Child Development Services (ICDS)** (introduced in **1975** on an experimental basis), and **Food-for-Work (FFW)** (introduced in **1977–78**). Over the years, several new programmes have been launched; there are many poverty alleviation programmes (PAPs) with food components, e.g. **mid-day meals**.
+
+**Revamped PDS (RPDS):** introduced in **1992** in **1,700 blocks** in the country, targeting remote and backward areas.
+**Targeted PDS (TPDS):** introduced in **June 1997** to adopt the principle of **targeting the poor in all areas**. For the first time a **differential price policy** was adopted for poor and non-poor.
+**Antyodaya Anna Yojana (AAY):** launched in **December 2000**. One crore of the poorest among BPL families covered under TPDS were identified. **25 kg** of food grains were made available to each eligible family at a highly subsidised rate of **Rs 2 per kg for wheat** and **Rs 3 per kg for rice**. The quantity was enhanced from 25 to **35 kg** from **April 2002**. The scheme was further expanded twice by additional 50 lakh BPL families in June 2003 and August 2004, covering **2 crore** families.
+**Annapurna Scheme (APS)** (2000): for **indigent senior citizens**; 10 kg of food grains free of cost.
+**National Food Security Act (NFSA), 2013:** provides food and nutritional security at affordable prices and enables people to live a life with dignity; **75% of the rural population** and **50% of the urban population** are categorised as eligible households.
+
+**Problems with the PDS:**
+- FCI granaries are **overflowing** with grain, some of it rotting or eaten by rats, while many people go hungry. High buffer stocks are undesirable as they involve huge **carrying costs** (maintenance) and waste.
+- Increase in MSP has encouraged farmers (especially in surplus states) to divert land from coarse grains (the food of the poor) to rice and wheat. Intensive water use in rice cultivation has led to **environmental degradation** and fall in the water table.
+- **Malpractices**: PDS dealers divert grains to the open market for better margins, sell poor-quality grain at ration shops, and open shops irregularly.
+- Poor quality grain is often left unsold, leading to large stocks with FCI.
+- With three different prices (APL, BPL, AAY), APL families get little discount, so they have little incentive to buy from ration shops.
+
+## Role of cooperatives in food security
+Cooperatives play an important role, especially in the **southern and western** parts of India.
+- In **Tamil Nadu**, about **94%** of the ration shops are run by cooperatives.
+- In **Delhi**, **Mother Dairy** provides milk and vegetables to consumers at controlled rates decided by the Delhi Government.
+- **Amul** (Gujarat) is a success story of cooperatives in milk and milk products; it brought about the **White Revolution** in India.
+- In **Maharashtra**, the **Academy of Development Science (ADS)** has facilitated a network of NGOs for setting up **grain banks** in different regions; it organises training and capacity building programmes on food security for NGOs. ADS grain banks are now being replicated in different parts of Maharashtra.
+
+> [!MISTAKE] MSP vs issue price
+> **MSP** is the price at which the government **buys** grain from farmers. **Issue price** is the lower price at which grain is **sold** to the poor through ration shops.
+
+> [!TIP] Board favourite
+> "What is buffer stock? Why is it created?", "Explain the dimensions of food security", "Which groups are food insecure?" and "Write a note on the role of cooperatives" are very frequently asked. Also remember the Bengal Famine of 1943.
+
+## Quick recap
+- Food security: availability, accessibility and affordability of food for all at all times.
+- Bengal Famine 1943 killed about 30 lakh people.
+- Chronic vs seasonal hunger; landless, casual labourers, SC/ST and children under five are most vulnerable.
+- FCI buys wheat and rice at MSP to build the buffer stock; sells at issue price via PDS.
+- Programmes: RPDS (1992), TPDS (1997), AAY (2000), Annapurna (2000), NFSA (2013).
+- Cooperatives: Tamil Nadu ration shops, Mother Dairy, Amul, ADS grain banks.
+
+--- quiz ---
+Q: Which of these is NOT a dimension of food security?
+- Availability
+- Accessibility
+- Affordability
+* Advertisement
+> Food security means food is available, accessible and affordable for all at all times.
+
+Q: The Bengal Famine, the most devastating famine in India, occurred in
+- 1857
+- 1905
+* 1943
+- 1965
+> It killed about 30 lakh people in the province of Bengal.
+
+Q: The price announced by the government before the sowing season at which it buys grain from farmers is called
+* Minimum Support Price
+- issue price
+- market price
+- ration price
+> The MSP gives farmers an incentive to raise production.
+
+Q: Antyodaya Anna Yojana was launched in
+- June 1997
+- 1992
+- 2013
+* December 2000
+> AAY targeted one crore of the poorest families, giving grain at Rs 2/kg for wheat and Rs 3/kg for rice.
+
+Q: Which organisation procures wheat and rice to maintain the buffer stock?
+- Reserve Bank of India
+* Food Corporation of India
+- NSSO
+- Amul
+> FCI buys grain from surplus states at MSP and stores it in granaries.
+
+Q: In which state are about 94% of ration shops run by cooperatives?
+- Gujarat
+- Maharashtra
+- Punjab
+* Tamil Nadu
+> Cooperatives run most fair price shops in Tamil Nadu.
+
+Q: Seasonal hunger is mainly related to
+- persistently inadequate diets due to very low income
+* cycles of food growing and harvesting, and casual work
+- the sale of grain at issue price
+- the overflowing of FCI godowns
+> It is common in rural areas due to seasonal farm work and in cities due to casual labour.
+
+W[3]: What is buffer stock? Why does the government create it?
+A: Buffer stock is the stock of food grains, namely wheat and rice, procured by the government through the Food Corporation of India (FCI). FCI buys grains from farmers in surplus states at the Minimum Support Price announced before the sowing season, and stores them in granaries. It is created (1) to distribute food grains in deficit areas, (2) to provide grains to the poorer sections at a price lower than the market price (issue price) through the PDS, and (3) to resolve the problem of shortage of food during adverse weather conditions or calamities.
+
+W[5]: Describe the Public Distribution System. What are the problems faced by the PDS?
+A: PDS: food procured by FCI is distributed among the poorer sections through government-regulated ration (fair price) shops, about 5.5 lakh across the country, which sell food grains, sugar and kerosene at lower prices to families holding ration cards (Antyodaya, BPL and APL). It began in the 1940s after the Bengal famine and was refined through RPDS (1992), TPDS (1997) and AAY (2000). It has helped stabilise prices and avert famine.
+Problems: (1) FCI granaries overflow with grain, much of which rots, while carrying costs are high. (2) Higher MSP has led farmers to shift from coarse grains to rice and wheat, causing environmental degradation and falling water tables. (3) PDS dealers divert grain to the open market, sell poor-quality grain and open shops irregularly. (4) Poor-quality grain remains unsold. (5) APL families get little discount, so they rarely buy from ration shops.
+

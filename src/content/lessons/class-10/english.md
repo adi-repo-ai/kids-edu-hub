@@ -2499,3 +2499,268 @@ Q: According to Think-Tank, "Mistress Mary's garden" showed that Earthlings
 
 W[5]: Compare the characters of Think-Tank and Noodle.
 A: Think-Tank is the ruler of Mars with a huge dome-shaped head. He is arrogant, boastful and vain, calling himself the most brilliant intellect in the solar system. Yet he is foolish: he thinks the library is a warehouse and the books are sandwiches, and he misreads Mother Goose rhymes as military secrets. In panic, he orders the invasion cancelled and the Martians to flee. Noodle, his apprentice, is humble, polite and sensible. He consults the dictionary to find that books are for reading and tactfully corrects his master. Though Think-Tank looks down on him, Noodle is truly wise; the play shows that arrogance leads to folly while humility brings wisdom.
+
+=== tenses-and-modals ===
+## The big idea
+**Tenses** tell us **when** an action happens; **modals** tell us the speaker's **attitude** to an action — ability, permission, possibility, obligation and so on. In the board exam, these appear in **gap-filling**, **editing** and **omission** questions, so you need to spot the right form quickly.
+
+## The twelve tenses at a glance
+| | Simple | Continuous | Perfect | Perfect Continuous |
+|---|---|---|---|---|
+| **Present** | She **writes** | She **is writing** | She **has written** | She **has been writing** |
+| **Past** | She **wrote** | She **was writing** | She **had written** | She **had been writing** |
+| **Future** | She **will write** | She **will be writing** | She **will have written** | She **will have been writing** |
+
+## When to use each tense
+**Present tense**
+- **Simple present:** habits, general truths, timetables. *The sun **rises** in the east. The train **leaves** at 6 p.m.*
+- **Present continuous:** actions happening now or planned soon. *They **are playing** cricket. I **am meeting** him tomorrow.*
+- **Present perfect:** a past action with a result now; with *just, already, yet, ever, never, since, for*. *I **have finished** my homework. She **has lived** here since 2015.*
+- **Present perfect continuous:** an action that began in the past and is still going on. *It **has been raining** for two hours.*
+
+**Past tense**
+- **Simple past:** completed action at a definite past time. *Mandela **became** President in 1994.*
+- **Past continuous:** an action in progress in the past, often interrupted. *I **was reading** when the lights **went** out.*
+- **Past perfect:** the earlier of two past actions. *The train **had left** before we **reached** the station.*
+- **Past perfect continuous:** an action continuing up to a point in the past. *He **had been waiting** for an hour when the bus came.*
+
+**Future tense**
+- **Simple future:** *I **will help** you.*
+- **Future continuous:** *This time tomorrow, we **will be flying** to Delhi.*
+- **Future perfect:** *By next June, she **will have completed** the course.*
+
+> [!FORMULA] Quick patterns
+> Continuous = **be + verb-ing**. Perfect = **have/has/had + past participle (V3)**. Perfect continuous = **have/has/had + been + verb-ing**.
+
+> [!MISTAKE] "Since" vs "for"
+> **Since** + a point of time (since Monday, since 2010). **For** + a length of time (for three days, for ten years).
+
+> [!MISTAKE] No present perfect with a definite past time
+> ✗ *I have seen him yesterday.* ✓ *I **saw** him yesterday.*
+
+## Subject–verb agreement reminders
+- Singular subject → singular verb: *Each of the boys **has** a book.*
+- *Neither… nor / Either… or*: the verb agrees with the nearer subject. *Neither the teacher nor the students **were** present.*
+- Uncountable nouns take singular verbs: *The news **is** good. Furniture **is** expensive.*
+
+## Modals
+Modals are helping verbs followed by the **base form** of the verb (no -s, -ed, -ing). *She can **swim**.* (not *can swims*)
+
+| Modal | Use | Example |
+|---|---|---|
+| **can** | ability, informal permission | *I can speak French. Can I go out?* |
+| **could** | past ability, polite request, possibility | *She could run fast as a child. Could you help me?* |
+| **may** | formal permission, possibility, wish | *May I come in? It may rain. May you live long!* |
+| **might** | weaker possibility | *He might come late.* |
+| **must** | strong obligation, necessity, strong deduction | *You must wear a helmet. He must be tired.* |
+| **mustn't** | prohibition | *You mustn't smoke here.* |
+| **should / ought to** | advice, moral duty | *You should respect elders. We ought to help the poor.* |
+| **will / shall** | future, promise, determination | *I will help you. Shall we start?* |
+| **would** | polite request, past habit, conditional | *Would you pass the salt? He would walk daily.* |
+| **need (not)** | necessity / absence of necessity | *You needn't hurry.* |
+| **dare** | courage | *How dare you!* |
+| **used to** | past habit | *I used to live in Pune.* |
+
+> [!KEY] "Must not" vs "need not"
+> *You **must not** go* = you are forbidden. *You **need not** go* = it is not necessary, but you may.
+
+> [!EXAMPLE] Gap-filling (board style)
+> The doctor told him that he ___ (advice) eat less sugar. → **should**
+> ___ I borrow your pen, please? (formal permission) → **May**
+> She ___ (ability, past) read when she was four. → **could**
+> The ground is wet; it ___ (deduction) have rained. → **must**
+
+> [!EXAMPLE] Editing with tenses
+> *Yesterday I go to the market and buy apples.* → *Yesterday I **went** to the market and **bought** apples.*
+> *He is working here since 2019.* → *He **has been working** here since 2019.*
+
+> [!TIP] Exam strategy
+> Look for **time markers** (yesterday, since, by next year, now) to choose the tense, and for the **function** (advice, permission, obligation) to choose the modal. Keep the tense consistent in a paragraph unless time changes.
+
+## Quick recap
+- 12 tenses: present/past/future × simple/continuous/perfect/perfect continuous.
+- Since = point of time; for = period.
+- Modals + base verb; can/could (ability), may/might (permission/possibility), must (obligation/deduction), should/ought to (advice), need not (no necessity).
+
+--- quiz ---
+Q: Choose the correct form: She ___ in this school since 2018.
+- teaches
+- is teaching
+* has been teaching
+- taught
+> "Since 2018" shows an action begun in the past and continuing now — present perfect continuous.
+
+Q: When I reached the station, the train ___.
+- left
+* had already left
+- has left
+- leaves
+> Of two past actions, the earlier one takes the past perfect.
+
+Q: Which modal expresses a formal request for permission?
+- Can
+- Must
+* May
+- Should
+> "May I come in?" is the formal way to ask permission.
+
+Q: "You ___ not buy a ticket; entry is free." Choose the modal.
+- must
+* need
+- may
+- dare
+> "Need not" shows absence of necessity.
+
+Q: Identify the correct sentence.
+- I have seen him yesterday.
+- He can swims well.
+- Neither the boys nor the teacher were present.
+* Each of the students has a book.
+> "Each" is singular and takes "has". "Yesterday" needs the simple past, "can" takes the base verb, and with neither…nor the verb agrees with "teacher" (was).
+
+Q: The ground is wet. It ___ have rained last night. (logical deduction)
+* must
+- should
+- would
+- need
+> "Must have" expresses a strong logical conclusion about the past.
+
+Q: By this time next year, she ___ her degree.
+- completes
+- will complete
+- has completed
+* will have completed
+> "By this time next year" signals the future perfect.
+
+W[3]: Fill in the blanks with suitable forms of the verbs or modals: Yesterday Riya (a) ___ (go) to the library. She (b) ___ (read) for two hours when her friend called. Her mother says she (c) ___ (advice) take a break now and then.
+A: (a) went — simple past for a completed action at a definite time. (b) had been reading — past perfect continuous for an action continuing up to a point in the past. (c) should — modal of advice.
+
+=== reported-speech ===
+## The big idea
+**Direct speech** gives a speaker's exact words in quotation marks. **Reported (indirect) speech** reports the meaning in our own words, without quotes. When the **reporting verb** is in the past tense, we usually shift **tenses, pronouns, and time and place words**.
+
+> [!EXAMPLE] Direct vs reported
+> Direct: Lencho said, "I need a hundred pesos."
+> Reported: Lencho said that **he needed** a hundred pesos.
+
+## Rule 1: Tense changes (when the reporting verb is past)
+| Direct | Reported |
+|---|---|
+| simple present (*do*) | simple past (*did*) |
+| present continuous (*is doing*) | past continuous (*was doing*) |
+| present perfect (*has done*) | past perfect (*had done*) |
+| simple past (*did*) | past perfect (*had done*) |
+| will | would |
+| can | could |
+| may | might |
+| shall | should |
+| must | had to (or must) |
+
+**No change** when: the reporting verb is in the present/future (*He says, "I am tired" → He says that he is tired*), or the reported words state a **universal truth / habitual fact** (*The teacher said, "The earth revolves round the sun" → The teacher said that the earth revolves round the sun*).
+
+## Rule 2: Pronouns
+Change pronouns according to who is speaking and who is listening. *She said to me, "**I** like **your** dress." → She told me that **she** liked **my** dress.*
+
+## Rule 3: Time and place words
+| Direct | Reported |
+|---|---|
+| now | then |
+| today | that day |
+| tomorrow | the next day / the following day |
+| yesterday | the previous day / the day before |
+| this / these | that / those |
+| here | there |
+| ago | before |
+| next week | the following week |
+
+## Rule 4: Statements
+Reporting verb: **said / told** (+ object), connector **that**.
+- *He said, "I am going to Goa." → He **said that** he **was** going to Goa.*
+- *She said to me, "I will call you tomorrow." → She **told me that** she **would** call me **the next day**.*
+
+## Rule 5: Questions
+- Reporting verb: **asked / enquired / wanted to know**.
+- The question becomes a **statement order** (subject before verb); remove the question mark.
+- **Yes/No questions** → use **if / whether**. *He said to me, "Are you ready?" → He asked me **if I was** ready.*
+- **Wh- questions** → keep the **wh-word**. *She said, "Where do you live?" → She asked **where I lived**.*
+
+> [!MISTAKE] Don't keep question order
+> ✗ *He asked where was I going.* ✓ *He asked where **I was** going.*
+
+## Rule 6: Commands and requests (imperatives)
+- Reporting verb: **ordered, commanded, told, requested, advised, begged, warned**.
+- Use **to + base verb**; for negative, **not to + base verb**.
+- *The teacher said, "Sit down." → The teacher **ordered** us **to sit** down.*
+- *She said, "Please help me." → She **requested** me **to help** her.*
+- *Mother said, "Don't touch the stove." → Mother **warned** me **not to touch** the stove.*
+
+## Rule 7: Exclamations and wishes
+- Reporting verb: **exclaimed with joy/sorrow/surprise, wished, prayed**.
+- *He said, "What a beautiful sight!" → He **exclaimed with wonder** that it was a very beautiful sight.*
+- *They said, "Good morning, sir." → They **wished** him good morning.*
+
+> [!EXAMPLE] Board-style dialogue to report
+> Valli: "How much is the fare to town?" Conductor: "Thirty paise."
+> → Valli **asked** the conductor **how much the fare to town was**. The conductor **replied that it was** thirty paise.
+
+> [!TIP] Exam strategy
+> In CBSE "reported speech in context" questions, read the dialogue, identify the **type** of sentence (statement/question/command), choose a suitable **reporting verb**, then change tense, pronoun and time words in that order. Write the complete sentence.
+
+## Quick recap
+- Past reporting verb → shift tense back one step; will → would, can → could.
+- Change pronouns, time and place words (now → then, tomorrow → the next day).
+- Statements: said/told that. Questions: asked + if/whether or wh-word, statement order. Commands: ordered/requested + (not) to + verb.
+- No tense change for universal truths or present reporting verbs.
+
+--- quiz ---
+Q: He said, "I am busy." Choose the correct reported form.
+- He said that I am busy.
+* He said that he was busy.
+- He said that he is busy now.
+- He told that he was busy.
+> The present "am" changes to past "was" and "I" changes to "he".
+
+Q: She said to me, "Are you coming tomorrow?"
+- She asked me that I was coming tomorrow.
+- She asked me are you coming the next day.
+- She said me if I was coming tomorrow.
+* She asked me if I was coming the next day.
+> A yes/no question uses "if", statement order, and "tomorrow" becomes "the next day".
+
+Q: The teacher said, "The earth is round." Reported speech:
+* The teacher said that the earth is round.
+- The teacher said that the earth was round.
+- The teacher told the earth is round.
+- The teacher said that the earth had been round.
+> Universal truths do not change tense.
+
+Q: Mother said to me, "Don't play in the rain."
+- Mother told me don't play in the rain.
+- Mother asked me that I should not play in the rain.
+* Mother warned me not to play in the rain.
+- Mother said me not playing in the rain.
+> Negative commands use "not to" + base verb with a verb like warned/told.
+
+Q: "Where do you live?" he asked her. Choose the reported form.
+- He asked her where did she live.
+* He asked her where she lived.
+- He asked her where do you live.
+- He asked her that where she lived.
+> Keep the wh-word, use statement order, and change the tense.
+
+Q: In reported speech, "will" usually changes to
+- shall
+- can
+* would
+- might
+> With a past reporting verb, will becomes would.
+
+Q: "now" in direct speech changes to
+- today
+- before
+- there
+* then
+> Time words shift: now → then.
+
+W[3]: Report the dialogue: Anil: "Can you cook?" Hari: "I can cook very well." Anil: "Make some tea for me."
+A: Anil asked Hari if he could cook. Hari replied that he could cook very well. Anil then told (asked) him to make some tea for him. (Points: "if" for a yes/no question; can → could; I → he; command reported with "to make".)

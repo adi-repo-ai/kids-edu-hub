@@ -1600,3 +1600,192 @@ A: (1) Minimise the use of water by reusing and recycling it in two or more succ
 (4) Reduce particulate matter by fitting smoke stacks with electrostatic precipitators, fabric filters, scrubbers and inertial separators; use oil or gas instead of coal.
 (5) Redesign machinery for energy efficiency and less noise; use noise-absorbing material and ear protection. NTPC is a good example: ash utilisation, green belts and ecological monitoring.
 
+=== lifelines-of-national-economy ===
+## The big idea
+Goods and services do not move on their own. **Transport** carries them from supply locations to demand locations; **communication** carries messages; and **trade** exchanges goods within and between countries. Together, these are the **lifelines of the national economy**. Today the world has become a "large village" because of efficient and fast-moving transport and communication.
+
+> [!KEY] Why transport matters
+> The movement of goods and people is the basis of trade. A dense and efficient network of transport and communication is a prerequisite for local, national and global trade. Transport is broadly divided into **land (roads, railways, pipelines)**, **water** and **air**.
+
+## Roadways
+India has one of the **largest road networks** in the world, about **62.16 lakh km** (as per NCERT, 2020–21 figure).
+
+**Why roads have an edge over railways:**
+- Construction cost of roads is much **lower** than railway lines.
+- Roads can traverse comparatively more **dissected and undulating topography**.
+- Roads can negotiate **higher gradients** of slopes and can traverse mountains like the Himalayas.
+- Road transport is **economical** for transporting **few persons and relatively smaller amounts of goods over short distances**.
+- Provides **door-to-door service**, reducing the cost of loading and unloading.
+- Road transport is used as a **feeder** to other modes, linking railway stations, air and sea ports.
+
+> [!KEY] Classification of roads (by capacity)
+> 1. **Golden Quadrilateral Super Highways**: a major road development project linking **Delhi–Kolkata–Chennai–Mumbai–Delhi** by six-lane super highways. The **North–South corridor** links **Srinagar (J&K) and Kanyakumari (Tamil Nadu)**, and the **East–West corridor** connects **Silchar (Assam) and Porbandar (Gujarat)**. Objective: reduce time and distance between the mega cities. Implemented by the **National Highway Authority of India (NHAI)**.
+> 2. **National Highways**: link extreme parts of the country; primary road systems laid and maintained by the **Central Public Works Department (CPWD)**. Many major NHs run in north-south and east-west directions. The historical **Sher-Shah Suri Marg** (called **NH-1**) runs between Delhi and Amritsar.
+> 3. **State Highways**: link a state capital with district headquarters; constructed and maintained by the State **Public Works Department (PWD)**.
+> 4. **District Roads**: connect district headquarters with other places of the district; maintained by the **Zila Parishad**.
+> 5. **Other roads**: rural roads linking rural areas and villages with towns; received special impetus under the **Pradhan Mantri Grameen Sadak Yojana**, under which every village in the country is linked to a major town by an all-season motorable road.
+> 6. **Border roads**: the **Border Roads Organisation (BRO)**, established in **1960**, constructs and maintains roads in strategically sensitive border areas, improving accessibility in difficult terrain (e.g., the northern and north-eastern border areas).
+
+Roads can also be classified by construction material: **metalled** (cement, concrete or bitumen; all-weather) and **unmetalled** (go out of use in the rainy season).
+
+**Road density** = length of road per 100 sq km of area. It varies widely across India, being low in hilly, plateau and desert areas.
+
+**Problems of roads**: road network inadequate for the volume of traffic; about half the roads are unmetalled; national highways are inadequate; roads are highly congested in cities; most bridges and culverts are old and narrow.
+
+## Railways
+Railways are the **principal mode of transportation for freight and passengers** in India. They make it possible to conduct multifarious activities like business, sightseeing and pilgrimage along with transportation of goods over longer distances. The Indian Railways is the **largest public sector undertaking** in the country.
+
+- The **first train** steamed off from **Bombay to Thane** in **1853**, covering a distance of **34 km**.
+- Indian Railways is reorganised into **16 zones** (as per NCERT; zones have been added since).
+- Railway gauges: **broad gauge (1.676 m)**, **metre gauge (1.000 m)** and **narrow gauge (0.762 m and 0.610 m)**.
+
+**Factors affecting distribution of railways:**
+- The **northern plains** with vast level land, high population density and rich agricultural resources provided the most favourable conditions, though a large number of **rivers** requiring construction of bridges posed obstacles.
+- In the hilly terrains of the **peninsular region**, railway tracks are laid through low hills, gaps or tunnels.
+- The **Himalayan mountainous regions** are unfavourable due to high relief, sparse population and lack of economic opportunities.
+- It was difficult to lay tracks on the **sandy plain of western Rajasthan**, swamps of Gujarat, forested tracts of MP, Chhattisgarh, Odisha and Jharkhand.
+- The contiguous stretch of the **Sahyadri** could be crossed only through gaps or passes (Ghats). The **Konkan Railway** along the west coast has facilitated movement of passengers and goods in this important economic region, but it faces problems like sinking of track and landslides.
+
+**Problems**: many passengers travel without tickets; thefts and damage of railway property; people stop trains and pull chains unnecessarily, causing heavy damage.
+
+## Pipelines
+Pipelines were earlier used to transport water to cities and industries. Now they transport **crude oil, petroleum products and natural gas** from oil and natural gas fields to refineries, fertiliser factories and big thermal power plants. Solids can also be transported through pipelines when converted into **slurry**. Far-inland refineries like **Barauni, Mathura and Panipat** and gas-based fertiliser plants could be thought of only because of pipelines.
+
+**Advantages**: initial cost of laying is high, but subsequent running costs are minimal; rules out trans-shipment losses or delays.
+
+> [!KEY] Three important pipeline networks
+> 1. From **oil fields in upper Assam to Kanpur (Uttar Pradesh)**, via **Guwahati, Barauni and Allahabad (Prayagraj)**. It has branches from Barauni to Haldia via Rajbandh, Rajbandh to Maurigram and Guwahati to Siliguri.
+> 2. From **Salaya in Gujarat to Jalandhar in Punjab**, via **Viramgam, Mathura, Delhi and Sonipat**. It has branches to connect Koyali (near Vadodara, Gujarat) and Chakshu and other places.
+> 3. **Gas pipeline from Hazira in Gujarat connects Jagdishpur in Uttar Pradesh, via Vijaipur in Madhya Pradesh (HVJ)**. It has branches to Kota in Rajasthan, Shahjahanpur, Babrala and other places in UP.
+
+## Waterways
+Waterways are the **cheapest means of transport**. They are most suitable for carrying **heavy and bulky goods**. It is a **fuel-efficient and environment-friendly** mode of transport. India has inland navigation waterways of about **14,500 km** in length; out of these only about 5,685 km are navigable by mechanised vessels.
+
+| National Waterway | Stretch | Length |
+|---|---|---|
+| **NW-1** | **Ganga** river between **Allahabad (Prayagraj) and Haldia** | **1,620 km** |
+| **NW-2** | **Brahmaputra** river between **Sadiya and Dhubri** | **891 km** |
+| **NW-3** | **West-Coast Canal in Kerala** (Kottapuram–Kollam, Udyogamandal and Champakkara canals) | **205 km** |
+| **NW-4** | Specified stretches of **Godavari and Krishna** rivers along with **Kakinada–Puducherry** stretch of canals | **1,078 km** |
+| **NW-5** | Specified stretches of **Brahmani** river along with **Matai** river, delta channels of **Mahanadi and Brahmani** rivers and **East Coast Canal** | **588 km** |
+
+Other inland waterways include the Mandavi, Zuari and Cumberjua, Sunderbans, Barak and Kerala backwaters.
+
+**Major sea ports.** India's coastline is about **7,516.6 km** long, dotted with **12 major** and about **200 notified non-major** (minor/intermediate) ports. These major ports handle about **95 per cent** of the country's foreign trade by volume (NCERT figure).
+
+> [!KEY] Major ports (west to east, a map favourite)
+> - **Kandla** (now **Deendayal Port**) in **Kachchh**: the **first port developed soon after independence** to ease the volume of trade on Mumbai port, in the wake of the **loss of Karachi port to Pakistan** after Partition. It is a **tidal port** that caters to the convenient handling of exports and imports of highly productive granary and industrial belts stretching across J&K, HP, Punjab, Haryana, Rajasthan and Gujarat.
+> - **Mumbai**: the **biggest port** with a spacious **natural and well-sheltered harbour**. The **Jawaharlal Nehru port** was planned with a view to decongest Mumbai port and serve as a hub port for this region.
+> - **Marmagao (Goa)**: the premier **iron ore exporting port** of the country, accounting for about **fifty per cent** of India's iron ore export.
+> - **New Mangalore (Karnataka)**: caters to the export of **iron ore concentrates from Kudremukh mines**.
+> - **Kochchi (Kerala)**: the **extreme south-western port**, located at the entrance of a **lagoon** with a natural harbour.
+> - **Tuticorin (Thoothukudi, Tamil Nadu)**: the **extreme south-eastern port**. It has a natural harbour and rich hinterland; it handles a large variety of cargoes, including trade with neighbouring Sri Lanka, Maldives and the coastal regions of India.
+> - **Chennai**: one of the **oldest artificial ports** of the country; ranks next to Mumbai in volume of trade and cargo.
+> - **Visakhapatnam**: the **deepest land-locked and well-protected port**. Originally conceived as an outlet for iron ore exports.
+> - **Paradip (Odisha)**: specialises in the export of **iron ore**.
+> - **Kolkata**: an **inland riverine port**. It serves a very large and rich hinterland of the Ganga–Brahmaputra basin. Being a **tidal port**, it requires constant **dredging** of the Hooghly. **Haldia** was developed as a **subsidiary port** to relieve growing pressure on Kolkata.
+
+## Airways
+Air travel is the **fastest, most comfortable and prestigious** mode of transport. It can cover very difficult terrains like high mountains, dreary deserts, dense forests and long oceanic stretches with great ease. Air travel has made access easier in the **north-eastern part** of the country, which is marked by big rivers, dissected relief, dense forests and frequent floods.
+- Air transport was **nationalised in 1953**.
+- **Air India** provides domestic and international air services.
+- **Pawan Hans Helicopters Ltd.** provides helicopter services to Oil and Natural Gas Corporation (ONGC) in its offshore operations, to inaccessible areas and difficult terrains like the north-eastern states and interior parts of Jammu and Kashmir, Himachal Pradesh and Uttarakhand.
+- Air travel is not within reach of common people, except in the north-east, where special provisions are made.
+
+## Communication
+**Personal communication**: The Indian postal network is the **largest in the world**. It handles parcels as well as personal written communications.
+- **First-class mail**: cards and envelopes; **airlifted** between stations covering both land and air.
+- **Second-class mail**: book packets, registered newspapers and periodicals; carried by **surface mail**, covering land and water transport.
+- To facilitate quick delivery of mail in large towns and cities, **six mail channels** were introduced recently: **Rajdhani Channel, Metro Channel, Green Channel, Business Channel, Bulk Mail Channel and Periodical Channel**.
+
+India has one of the largest **telecom networks** in Asia. **STD** facilities are available in many places; the government has made special provisions to extend 24-hour STD facility to every village. There is a uniform rate of STD across the country, possible by integrating developments in space technology with communication technology.
+
+**Mass communication** provides entertainment and creates awareness among people about national programmes and policies: radio, television, newspapers, magazines, books and films. **All India Radio (Akashwani)** broadcasts a variety of programmes in national, regional and local languages. **Doordarshan**, the national television channel of India, is one of the largest terrestrial networks in the world. India publishes a large number of newspapers and periodicals in about 100 languages and dialects; the largest number of newspapers published in India are in **Hindi**, followed by English and Urdu. India is the **largest producer of feature films** in the world. The **Central Board of Film Certification** is the authority to certify both Indian and foreign films.
+
+## International trade
+The exchange of goods among people, states and countries is referred to as **trade**. The market is the place where such exchanges take place. **Trade between two countries is called international trade.** It may take place through sea, air or land routes.
+
+> [!KEY] Balance of trade
+> Exports and imports are the components of trade. The **balance of trade** of a country is the **difference between its exports and imports**. When the value of exports exceeds the value of imports, it is called a **favourable balance of trade**; on the contrary, if the value of imports exceeds the value of exports, it is termed an **unfavourable balance of trade**.
+
+Advancement of international trade of a country is an index of its economic prosperity; it is considered the **economic barometer** for a country. India has trade relations with all major trading blocs and geographical regions of the world. India's exports include agriculture and allied products, ores and minerals, gems and jewellery, chemicals and allied products, engineering goods and petroleum products. Imports include petroleum and petroleum products, pearls and precious stones, inorganic chemicals, coal, coke and briquettes, machinery, fertilisers, edible oil, newsprint. India has emerged as a **software giant** at the international level, earning large foreign exchange through IT exports.
+
+**Tourism as a trade**: tourism in India has grown substantially over the last few decades. **More than 15 million people** are directly engaged in the tourism industry. Tourism promotes **national integration**, provides support to **local handicrafts** and cultural pursuits, helps develop international understanding about our culture and heritage, and earns **foreign exchange**. Foreign tourists visit India for heritage tourism, eco-tourism, adventure tourism, cultural tourism, medical tourism and business tourism.
+
+> [!MISTAKE] Ports with "first", "biggest", "deepest", "oldest"
+> **Kandla** = first port after independence (tidal). **Mumbai** = biggest natural harbour. **Visakhapatnam** = deepest land-locked port. **Chennai** = one of the oldest artificial ports. **Kolkata** = inland riverine port. Don't mix them up.
+
+> [!TIP] Board favourites and map work
+> "Why is road transport more useful than rail in some cases?", "Six types of roads", "Advantages of pipelines", "Why is air travel preferred in the north-east?", "Balance of trade", "Importance of tourism" (3 marks). **Map:** **Major sea ports**: Kandla, Mumbai, Marmagao, New Mangalore, Kochi, Tuticorin, Chennai, Visakhapatnam, Paradip, Haldia (and Kolkata). **International airports**: Amritsar (Raja Sansi – Sri Guru Ram Dass Jee), Delhi (Indira Gandhi), Mumbai (Chhatrapati Shivaji), Chennai (Meenam Bakkam), Kolkata (Netaji Subhash Chandra Bose), Hyderabad (Rajiv Gandhi).
+
+## Quick recap
+- Roads: Golden Quadrilateral, NH, SH, district, rural (PMGSY), border roads (BRO, 1960).
+- First train Bombay–Thane 1853 (34 km); railways are the largest public sector undertaking.
+- Pipelines: Upper Assam–Kanpur, Salaya–Jalandhar, HVJ gas pipeline.
+- National waterways NW-1 to NW-5; waterways are the cheapest mode.
+- 12 major ports: Kandla (first after independence), Mumbai (biggest), Marmagao (iron ore), Visakhapatnam (deepest land-locked), Kolkata (riverine).
+- Air transport nationalised 1953; Pawan Hans helicopters.
+- Balance of trade = exports minus imports; tourism employs over 15 million directly.
+
+--- quiz ---
+Q: The Golden Quadrilateral links which four cities?
+- Delhi, Kolkata, Bengaluru, Ahmedabad
+* Delhi, Kolkata, Chennai, Mumbai
+- Srinagar, Kanyakumari, Silchar, Porbandar
+- Mumbai, Pune, Chennai, Hyderabad
+> Six-lane super highways connect Delhi–Kolkata–Chennai–Mumbai–Delhi.
+
+Q: The East–West corridor connects
+- Srinagar and Kanyakumari
+- Delhi and Kolkata
+- Kandla and Paradip
+* Silchar and Porbandar
+> The East–West corridor runs from Silchar in Assam to Porbandar in Gujarat.
+
+Q: National Waterway No. 1 runs along the Ganga between
+* Allahabad and Haldia
+- Sadiya and Dhubri
+- Kottapuram and Kollam
+- Kakinada and Puducherry
+> NW-1 is 1,620 km long between Allahabad (Prayagraj) and Haldia.
+
+Q: Which port was developed soon after independence to ease pressure on Mumbai after the loss of Karachi?
+- Paradip
+- Tuticorin
+* Kandla
+- Marmagao
+> Kandla (Deendayal Port) in Kachchh is a tidal port that handles trade for north-western India.
+
+Q: The deepest land-locked and well-protected port of India is
+- Kolkata
+- Chennai
+- Kochchi
+* Visakhapatnam
+> Visakhapatnam was originally conceived as an outlet for iron ore exports.
+
+Q: Book packets and registered newspapers are sent as
+- first-class mail by air
+* second-class mail by surface transport
+- Rajdhani Channel mail
+- Business Channel mail
+> Second-class mail is carried by surface mail covering land and water transport.
+
+Q: When the value of a country's imports exceeds its exports, the balance of trade is
+- favourable
+- balanced
+* unfavourable
+- surplus
+> An unfavourable balance of trade means imports are greater than exports.
+
+W[3]: Why is air travel preferred in the north-eastern states of India?
+A: (1) The north-east is marked by big rivers, dissected relief and dense forests, making construction of roads and railways difficult.
+(2) The region faces frequent floods that disrupt land transport.
+(3) Air travel is fast and can cover such difficult terrain with ease; it also reaches international frontiers. Special provisions are made to extend air services to common people there.
+
+W[5]: "Roadways still have an edge over railways in India." Support the statement with five reasons.
+A: (1) Construction cost of roads is much lower than that of railway lines.
+(2) Roads can traverse comparatively more dissected and undulating topography.
+(3) Roads can negotiate higher gradients of slopes and can traverse mountains such as the Himalayas.
+(4) Road transport is economical for transporting few persons and relatively smaller amounts of goods over short distances, and provides door-to-door service, reducing the cost of loading and unloading.
+(5) Road transport is also used as a feeder to other modes of transport, providing a link between railway stations, air and sea ports.
+
