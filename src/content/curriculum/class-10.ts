@@ -1,0 +1,168 @@
+import type { GradeDef } from "@/lib/types";
+import { ch, subject, unit } from "./helpers";
+
+export const class10: GradeDef = {
+  grade: 10,
+  stage: "Secondary",
+  structure: "chapters",
+  subjects: [
+    subject("maths", "Mathematics", ["Mathematics (NCERT)"], [
+      unit("Number systems & algebra", [
+        ch("Real Numbers", ["Fundamental Theorem of Arithmetic", "HCF and LCM by prime factorisation", "Proving √2, √3 irrational"]),
+        ch("Polynomials", ["Zeroes and the graph of a polynomial", "Relationship between zeroes and coefficients"]),
+        ch("Pair of Linear Equations in Two Variables", ["Graphical method", "Substitution method", "Elimination method", "Consistency of a pair"]),
+        ch("Quadratic Equations", ["Standard form", "Solving by factorisation", "Quadratic formula", "Nature of roots (discriminant)"]),
+        ch("Arithmetic Progressions", ["nth term", "Sum of first n terms", "Word problems"]),
+      ]),
+      unit("Geometry & trigonometry", [
+        ch("Triangles", ["Similar figures", "Basic Proportionality Theorem", "Similarity criteria AA, SSS, SAS"]),
+        ch("Coordinate Geometry", ["Distance formula", "Section formula", "Midpoint"]),
+        ch("Introduction to Trigonometry", ["Trigonometric ratios", "Ratios of specific angles", "Trigonometric identities"]),
+        ch("Some Applications of Trigonometry", ["Line of sight", "Angles of elevation and depression", "Heights and distances"]),
+        ch("Circles", ["Tangent to a circle", "Tangent ⟂ radius", "Lengths of tangents from an external point"]),
+      ]),
+      unit("Mensuration, statistics & probability", [
+        ch("Areas Related to Circles", ["Area of sector", "Area of segment", "Length of an arc"]),
+        ch("Surface Areas and Volumes", ["Combination of solids", "Surface area of combined solids", "Volume of combined solids"]),
+        ch("Statistics", ["Mean of grouped data", "Mode of grouped data", "Median of grouped data"]),
+        ch("Probability", ["Theoretical probability", "Complementary events", "Problems with dice, coins and cards"]),
+      ]),
+    ]),
+    subject("science", "Science", ["Science (NCERT)"], [
+      unit("Chemistry", [
+        ch("Chemical Reactions and Equations", ["Writing and balancing equations", "Types of reactions", "Oxidation and reduction", "Corrosion and rancidity"]),
+        ch("Acids, Bases and Salts", ["Indicators", "Reactions of acids and bases", "pH scale", "Important salts"]),
+        ch("Metals and Non-metals", ["Physical and chemical properties", "Reactivity series", "Ionic compounds", "Extraction of metals", "Corrosion"]),
+        ch("Carbon and its Compounds", ["Covalent bonding", "Versatile nature of carbon", "Homologous series and functional groups", "Ethanol and ethanoic acid", "Soaps and detergents"]),
+      ]),
+      unit("Biology", [
+        ch("Life Processes", ["Nutrition", "Respiration", "Transportation", "Excretion"]),
+        ch("Control and Coordination", ["Nervous system", "Reflex action", "Human brain", "Plant hormones", "Animal hormones"]),
+        ch("How do Organisms Reproduce?", ["Asexual reproduction", "Sexual reproduction in plants", "Human reproductive system", "Reproductive health"]),
+        ch("Heredity", ["Variation", "Mendel's experiments", "Sex determination"]),
+        ch("Our Environment", ["Ecosystem and its components", "Food chains and webs", "Ozone layer", "Waste management"]),
+      ]),
+      unit("Physics", [
+        ch("Light – Reflection and Refraction", ["Spherical mirrors", "Mirror formula", "Refraction and refractive index", "Lenses and lens formula", "Power of a lens"]),
+        ch("The Human Eye and the Colourful World", ["Structure of the eye", "Defects of vision", "Refraction through a prism", "Dispersion", "Scattering of light"]),
+        ch("Electricity", ["Current and potential difference", "Ohm's law", "Resistance and resistivity", "Series and parallel", "Heating effect and power"]),
+        ch("Magnetic Effects of Electric Current", ["Magnetic field lines", "Field due to a current", "Force on a conductor", "Domestic circuits"]),
+      ]),
+    ]),
+    subject("social-science", "Social Science", ["India and the Contemporary World – II", "Contemporary India – II", "Democratic Politics – II", "Understanding Economic Development"], [
+      unit("History", [
+        ch("The Rise of Nationalism in Europe", ["French Revolution and the idea of the nation", "Making of nationalism in Europe", "Unification of Italy and Germany", "Visualising the nation"]),
+        ch("Nationalism in India", ["First World War and Khilafat", "Non-Cooperation Movement", "Civil Disobedience Movement", "Sense of collective belonging"]),
+        ch("The Making of a Global World", ["Pre-modern world", "Nineteenth century economy", "Inter-war economy and Great Depression", "Post-war rebuilding"]),
+        ch("The Age of Industrialisation", ["Before the industrial revolution", "Hand labour and steam power", "Industrialisation in the colonies", "Market for goods"]),
+        ch("Print Culture and the Modern World", ["First printed books", "Print revolution in Europe", "Print comes to India", "Print and censorship"]),
+      ]),
+      unit("Geography", [
+        ch("Resources and Development", ["Types of resources", "Resource planning", "Land use", "Soil types and conservation"]),
+        ch("Forest and Wildlife Resources", ["Flora and fauna in India", "Conservation", "Community and conservation"]),
+        ch("Water Resources", ["Water scarcity", "Multi-purpose river projects", "Rainwater harvesting"]),
+        ch("Agriculture", ["Types of farming", "Cropping seasons", "Major crops", "Technological and institutional reforms"]),
+        ch("Minerals and Energy Resources", ["Mode of occurrence", "Ferrous and non-ferrous minerals", "Conventional and non-conventional energy", "Conservation"]),
+        ch("Manufacturing Industries", ["Importance of manufacturing", "Agro-based and mineral-based industries", "Industrial pollution"]),
+        ch("Lifelines of National Economy", ["Roadways, railways, pipelines", "Waterways and airways", "Communication", "International trade"]),
+      ]),
+      unit("Political Science", [
+        ch("Power-sharing", ["Belgium and Sri Lanka", "Why power-sharing is desirable", "Forms of power-sharing"]),
+        ch("Federalism", ["What makes India federal", "Linguistic states", "Decentralisation and the 1992 amendment"]),
+        ch("Gender, Religion and Caste", ["Gender and politics", "Religion, communalism and politics", "Caste and politics"]),
+        ch("Political Parties", ["Why we need parties", "Party systems", "National and state parties", "Challenges and reform"]),
+        ch("Outcomes of Democracy", ["Accountable government", "Economic growth and development", "Reducing inequality", "Dignity and freedom"]),
+      ]),
+      unit("Economics", [
+        ch("Development", ["Different people, different goals", "Income and other goals", "Comparing countries and states", "Sustainability"]),
+        ch("Sectors of the Indian Economy", ["Primary, secondary, tertiary", "Underemployment", "Organised and unorganised sectors", "Public and private sectors"]),
+        ch("Money and Credit", ["Money as a medium of exchange", "Modern forms of money", "Formal and informal credit", "Self-help groups"]),
+        ch("Globalisation and the Indian Economy", ["MNCs and production", "Foreign trade", "Factors enabling globalisation", "WTO and fair globalisation"]),
+      ]),
+    ]),
+    subject("english", "English", ["First Flight", "Footprints without Feet", "Grammar & Writing"], [
+      unit("First Flight: prose", [
+        ch("A Letter to God", ["Faith and irony", "Character of Lencho"]),
+        ch("Nelson Mandela: Long Walk to Freedom", ["Freedom and courage", "Twin obligations"]),
+        ch("Two Stories about Flying", ["His First Flight", "The Black Aeroplane"]),
+        ch("From the Diary of Anne Frank", ["Diary as a friend", "Life in hiding"]),
+        ch("Glimpses of India", ["A Baker from Goa", "Coorg", "Tea from Assam"]),
+        ch("Mijbil the Otter", ["Bond between man and animal", "Humour"]),
+        ch("Madam Rides the Bus", ["Valli's curiosity", "First brush with death"]),
+        ch("The Sermon at Benares", ["Kisa Gotami", "Life and death"]),
+        ch("The Proposal", ["One-act farce", "Quarrels and comedy"]),
+      ]),
+      unit("First Flight: poems", [
+        ch("Dust of Snow", ["Small moments change moods"]),
+        ch("Fire and Ice", ["Desire and hatred"]),
+        ch("A Tiger in the Zoo", ["Freedom vs captivity"]),
+        ch("How to Tell Wild Animals", ["Humour and wordplay"]),
+        ch("The Ball Poem", ["Loss and growing up"]),
+        ch("Amanda!", ["Childhood and nagging"]),
+        ch("The Trees", ["Nature reclaiming freedom"]),
+        ch("Fog", ["Extended metaphor"]),
+        ch("The Tale of Custard the Dragon", ["Ballad and irony"]),
+        ch("For Anne Gregory", ["Inner vs outer beauty"]),
+      ]),
+      unit("Footprints without Feet", [
+        ch("A Triumph of Surgery", ["Tricki and Mrs Pumphrey", "Over-indulgence"]),
+        ch("The Thief's Story", ["Trust and change of heart"]),
+        ch("The Midnight Visitor", ["Ausable's quick wit"]),
+        ch("A Question of Trust", ["Irony of the thief robbed"]),
+        ch("Footprints without Feet", ["Griffin the invisible man", "Science and ethics"]),
+        ch("The Making of a Scientist", ["Richard Ebright's curiosity"]),
+        ch("The Necklace", ["Pride and its cost"]),
+        ch("The Book That Saved the Earth", ["Martian invasion and humour"]),
+      ]),
+      unit("Grammar & writing", [
+        ch("Tenses and Modals", ["Using tenses correctly", "Modals for ability, permission, obligation"]),
+        ch("Reported Speech", ["Statements, questions, commands"]),
+        ch("Letter Writing", ["Formal letters: complaint, enquiry, order"]),
+        ch("Analytical Paragraph", ["Describing charts and data"]),
+      ]),
+    ]),
+    subject("hindi", "Hindi (Course A)", ["क्षितिज भाग 2", "कृतिका भाग 2", "व्याकरण"], [
+      unit("क्षितिज: काव्य खंड", [
+        ch("सूरदास के पद", ["गोपियों का उद्धव से संवाद", "भ्रमरगीत"], "surdas-ke-pad"),
+        ch("राम-लक्ष्मण-परशुराम संवाद", ["तुलसीदास", "व्यंग्य और वीर रस"], "ram-lakshman-parshuram-samvad"),
+        ch("उत्साह और अट नहीं रही है", ["निराला", "बादल और फागुन"], "utsah-aur-at-nahi-rahi-hai"),
+        ch("यह दंतुरित मुसकान और फसल", ["नागार्जुन", "वात्सल्य और श्रम"], "yah-danturit-muskan-aur-fasal"),
+        ch("संगतकार", ["मंगलेश डबराल", "सहायक कलाकारों का महत्व"], "sangatkar"),
+      ]),
+      unit("क्षितिज: गद्य खंड", [
+        ch("नेताजी का चश्मा", ["स्वयं प्रकाश", "देशभक्ति"], "netaji-ka-chashma"),
+        ch("बालगोबिन भगत", ["रामवृक्ष बेनीपुरी", "सच्चा साधु"], "balgobin-bhagat"),
+        ch("लखनवी अंदाज़", ["यशपाल", "दिखावे पर व्यंग्य"], "lakhnavi-andaz"),
+        ch("एक कहानी यह भी", ["मन्नू भंडारी", "आत्मकथ्य"], "ek-kahani-yah-bhi"),
+        ch("नौबतखाने में इबादत", ["यतींद्र मिश्र", "बिस्मिल्ला खाँ"], "naubatkhane-mein-ibadat"),
+        ch("संस्कृति", ["भदंत आनंद कौसल्यायन", "सभ्यता और संस्कृति"], "sanskriti"),
+      ]),
+      unit("कृतिका", [
+        ch("माता का अँचल", ["शिवपूजन सहाय", "बचपन"], "mata-ka-anchal"),
+        ch("साना-साना हाथ जोड़ि", ["मधु कांकरिया", "यात्रा वृत्तांत"], "sana-sana-hath-jodi"),
+        ch("मैं क्यों लिखता हूँ?", ["अज्ञेय", "लेखन की प्रेरणा"], "main-kyon-likhta-hoon"),
+      ]),
+      unit("व्याकरण", [
+        ch("रचना के आधार पर वाक्य भेद", ["सरल, संयुक्त, मिश्र वाक्य"], "vakya-bhed"),
+        ch("वाच्य", ["कर्तृवाच्य, कर्मवाच्य, भाववाच्य"], "vachya"),
+        ch("पद परिचय", ["संज्ञा, सर्वनाम, क्रिया का परिचय"], "pad-parichay"),
+        ch("रस", ["रस के अंग", "प्रमुख रस"], "ras"),
+      ]),
+    ]),
+    subject("information-technology", "Information Technology (402)", ["IT Code 402"], [
+      unit("Employability skills", [
+        ch("Communication Skills", ["Verbal and non-verbal", "Barriers"]),
+        ch("Self-management Skills", ["Stress management", "Self-motivation"]),
+        ch("ICT Skills", ["Spreadsheets basics", "Presentations"]),
+        ch("Entrepreneurial Skills", ["Qualities of an entrepreneur"]),
+        ch("Green Skills", ["Sustainable development"]),
+      ]),
+      unit("Subject skills", [
+        ch("Digital Documentation (Advanced)", ["Styles", "Images and templates", "Table of contents", "Mail merge"]),
+        ch("Electronic Spreadsheet (Advanced)", ["Consolidating data", "Subtotals", "What-if analysis", "Macros"]),
+        ch("Database Management System", ["Tables, fields and keys", "Queries", "Forms and reports"]),
+        ch("Web Applications and Security", ["Accessibility", "Networking", "Online safety and security"]),
+      ]),
+    ]),
+  ],
+};

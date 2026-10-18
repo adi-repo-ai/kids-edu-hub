@@ -1,0 +1,165 @@
+import type { GradeDef } from "@/lib/types";
+import { ch, subject, unit } from "./helpers";
+
+export const class9: GradeDef = {
+  grade: 9,
+  stage: "Secondary",
+  structure: "chapters",
+  subjects: [
+    subject("maths", "Mathematics", ["Mathematics (NCERT)"], [
+      unit("Numbers & algebra", [
+        ch("Number Systems", ["Rational and irrational numbers", "Real numbers on the number line", "Decimal expansions", "Laws of exponents", "Rationalising the denominator"]),
+        ch("Polynomials", ["Degree and types", "Zeroes of a polynomial", "Remainder and Factor Theorems", "Algebraic identities"]),
+        ch("Coordinate Geometry", ["Cartesian system", "Plotting points", "Quadrants"]),
+        ch("Linear Equations in Two Variables", ["Form ax + by + c = 0", "Infinitely many solutions"]),
+      ]),
+      unit("Geometry", [
+        ch("Introduction to Euclid's Geometry", ["Definitions, axioms and postulates", "Equivalent versions of the fifth postulate"]),
+        ch("Lines and Angles", ["Pairs of angles", "Parallel lines and a transversal", "Angle sum property"]),
+        ch("Triangles", ["Congruence rules SAS, ASA, AAS, SSS, RHS", "Properties of isosceles triangles"]),
+        ch("Quadrilaterals", ["Properties of a parallelogram", "Mid-point Theorem"]),
+        ch("Circles", ["Chords and angles", "Perpendicular from the centre", "Cyclic quadrilaterals"]),
+      ]),
+      unit("Mensuration & statistics", [
+        ch("Heron's Formula", ["Area of a triangle from its sides", "Applications"]),
+        ch("Surface Areas and Volumes", ["Cone", "Sphere and hemisphere"]),
+        ch("Statistics", ["Bar graphs", "Histograms", "Frequency polygons"]),
+      ]),
+    ]),
+    subject("science", "Science", ["Science (NCERT)"], [
+      unit("Chemistry", [
+        ch("Matter in Our Surroundings", ["Particle nature of matter", "States of matter", "Change of state", "Evaporation"]),
+        ch("Is Matter Around Us Pure?", ["Mixtures and solutions", "Separating components", "Physical and chemical changes", "Elements and compounds"]),
+        ch("Atoms and Molecules", ["Laws of chemical combination", "Atoms and atomic mass", "Molecules and ions", "Writing formulae", "Mole concept"]),
+        ch("Structure of the Atom", ["Charged particles", "Thomson, Rutherford and Bohr models", "Distribution of electrons", "Valency", "Atomic number, mass number, isotopes"]),
+      ]),
+      unit("Biology", [
+        ch("The Fundamental Unit of Life", ["Discovery of the cell", "Plasma membrane and cell wall", "Nucleus", "Cell organelles"]),
+        ch("Tissues", ["Plant tissues", "Animal tissues"]),
+        ch("Improvement in Food Resources", ["Crop variety improvement", "Crop production and protection", "Animal husbandry"]),
+      ]),
+      unit("Physics", [
+        ch("Motion", ["Distance and displacement", "Speed and velocity", "Acceleration", "Graphs of motion", "Equations of motion", "Uniform circular motion"]),
+        ch("Force and Laws of Motion", ["Balanced and unbalanced forces", "Newton's three laws", "Inertia and mass", "Momentum and its conservation"]),
+        ch("Gravitation", ["Universal law of gravitation", "Free fall and g", "Mass and weight", "Thrust and pressure", "Buoyancy and Archimedes' principle"]),
+        ch("Work and Energy", ["Work done by a force", "Kinetic and potential energy", "Conservation of energy", "Power"]),
+        ch("Sound", ["Production and propagation", "Characteristics of a wave", "Reflection and echo", "Range of hearing", "Ultrasound"]),
+      ]),
+    ]),
+    subject("social-science", "Social Science", ["India and the Contemporary World – I", "Contemporary India – I", "Democratic Politics – I", "Economics"], [
+      unit("History", [
+        ch("The French Revolution", ["French society in the late 18th century", "Outbreak of the revolution", "Abolition of monarchy", "Did women have a revolution?", "Legacy"]),
+        ch("Socialism in Europe and the Russian Revolution", ["Age of social change", "The Russian Revolution", "Stalinism and collectivisation", "Global influence"]),
+        ch("Nazism and the Rise of Hitler", ["Birth of the Weimar Republic", "Hitler's rise to power", "Nazi worldview", "Youth and women in Nazi Germany"]),
+        ch("Forest Society and Colonialism", ["Why deforestation?", "Commercial forestry", "Rebellion in the forest", "Forest transformations in Java"]),
+        ch("Pastoralists in the Modern World", ["Pastoral nomads and their movements", "Colonial rule and pastoral life", "Pastoralism in Africa"]),
+      ]),
+      unit("Geography", [
+        ch("India – Size and Location", ["Location and size", "India and the world", "India's neighbours"]),
+        ch("Physical Features of India", ["Himalayan mountains", "Northern plains", "Peninsular plateau", "Indian desert", "Coastal plains and islands"]),
+        ch("Drainage", ["Himalayan rivers", "Peninsular rivers", "Lakes", "Role of rivers in the economy"]),
+        ch("Climate", ["Factors affecting climate", "Indian monsoon", "Seasons", "Distribution of rainfall"]),
+        ch("Natural Vegetation and Wildlife", ["Types of vegetation", "Wildlife", "Conservation"]),
+        ch("Population", ["Size and distribution", "Population growth", "Processes of change"]),
+      ]),
+      unit("Political Science", [
+        ch("What is Democracy? Why Democracy?", ["Features of democracy", "Arguments for and against democracy"]),
+        ch("Constitutional Design", ["Democratic constitution in South Africa", "Making of the Indian Constitution", "Guiding values"]),
+        ch("Electoral Politics", ["Why elections?", "Election system in India", "Election Commission", "Free and fair elections"]),
+        ch("Working of Institutions", ["Parliament", "Political executive", "Judiciary"]),
+        ch("Democratic Rights", ["Life without rights", "Rights in the Indian Constitution", "Expanding scope of rights"]),
+      ]),
+      unit("Economics", [
+        ch("The Story of Village Palampur", ["Factors of production", "Farming in Palampur", "Non-farm activities"]),
+        ch("People as Resource", ["Human capital", "Economic activities", "Education and health", "Unemployment"]),
+        ch("Poverty as a Challenge", ["Poverty line", "Causes of poverty", "Anti-poverty measures"]),
+        ch("Food Security in India", ["What is food security", "Buffer stock", "Public Distribution System", "Role of cooperatives"]),
+      ]),
+    ]),
+    subject("english", "English", ["Beehive", "Moments", "Grammar & Writing"], [
+      unit("Beehive: prose", [
+        ch("The Fun They Had", ["School of the future", "Science fiction"]),
+        ch("The Sound of Music", ["Evelyn Glennie", "Bismillah Khan"]),
+        ch("The Little Girl", ["Father–daughter relationship"]),
+        ch("A Truly Beautiful Mind", ["Albert Einstein"]),
+        ch("The Snake and the Mirror", ["Humour and vanity"]),
+        ch("My Childhood", ["A. P. J. Abdul Kalam", "Secular upbringing"]),
+        ch("Reach for the Top", ["Santosh Yadav", "Maria Sharapova"]),
+        ch("Kathmandu", ["Travelogue", "Contrasts of a city"]),
+        ch("If I Were You", ["One-act play", "Gerrard's presence of mind"]),
+      ]),
+      unit("Beehive: poems", [
+        ch("The Road Not Taken", ["Choices in life"]),
+        ch("Wind", ["Strength and weakness"]),
+        ch("Rain on the Roof", ["Nostalgia"]),
+        ch("The Lake Isle of Innisfree", ["Longing for peace"]),
+        ch("A Legend of the Northland", ["Ballad of greed"]),
+        ch("No Men Are Foreign", ["Universal brotherhood"]),
+        ch("On Killing a Tree", ["Resilience of nature"]),
+        ch("A Slumber Did My Spirit Seal", ["Death and nature"]),
+      ]),
+      unit("Moments", [
+        ch("The Lost Child", ["A child at the fair"]),
+        ch("The Adventures of Toto", ["A mischievous monkey"]),
+        ch("Iswaran the Storyteller", ["Imagination and suspense"]),
+        ch("In the Kingdom of Fools", ["Folk tale and wit"]),
+        ch("The Happy Prince", ["Compassion and sacrifice"]),
+        ch("The Last Leaf", ["Hope and sacrifice"]),
+        ch("A House Is Not a Home", ["Loss and kindness"]),
+        ch("The Beggar", ["Redemption through kindness"]),
+      ]),
+      unit("Grammar & writing", [
+        ch("Determiners and Subject–Verb Agreement", ["Articles, quantifiers", "Agreement rules"]),
+        ch("Tenses", ["Present, past, future forms"]),
+        ch("Descriptive Paragraph", ["Describing a person, place or event"]),
+        ch("Story Writing", ["Plot, characters, conclusion"]),
+      ]),
+    ]),
+    subject("hindi", "Hindi (Course A)", ["क्षितिज भाग 1", "कृतिका भाग 1", "व्याकरण"], [
+      unit("क्षितिज: गद्य खंड", [
+        ch("दो बैलों की कथा", ["प्रेमचंद", "स्वतंत्रता और मित्रता"], "do-bailon-ki-katha"),
+        ch("ल्हासा की ओर", ["राहुल सांकृत्यायन", "यात्रा वृत्तांत"], "lhasa-ki-or"),
+        ch("उपभोक्तावाद की संस्कृति", ["श्यामाचरण दुबे", "विज्ञापन और दिखावा"], "upbhoktavad-ki-sanskriti"),
+        ch("साँवले सपनों की याद", ["जाबिर हुसैन", "सालिम अली"], "sanwle-sapnon-ki-yaad"),
+        ch("प्रेमचंद के फटे जूते", ["हरिशंकर परसाई", "व्यंग्य"], "premchand-ke-phate-joote"),
+        ch("मेरे बचपन के दिन", ["महादेवी वर्मा", "संस्मरण"], "mere-bachpan-ke-din"),
+      ]),
+      unit("क्षितिज: काव्य खंड", [
+        ch("साखियाँ एवं सबद", ["कबीर", "प्रेम और भक्ति"], "sakhiyan-evam-sabad"),
+        ch("वाख", ["ललद्यद", "ईश्वर भक्ति"], "vakh"),
+        ch("सवैये", ["रसखान", "कृष्ण प्रेम"], "savaiye"),
+        ch("कैदी और कोकिला", ["माखनलाल चतुर्वेदी", "स्वतंत्रता संग्राम"], "kaidi-aur-kokila"),
+        ch("ग्राम श्री", ["सुमित्रानंदन पंत", "गाँव की सुंदरता"], "gram-shri"),
+        ch("मेघ आए", ["सर्वेश्वर दयाल सक्सेना", "मानवीकरण"], "megh-aaye"),
+        ch("बच्चे काम पर जा रहे हैं", ["राजेश जोशी", "बाल मज़दूरी"], "bachche-kaam-par-ja-rahe-hain"),
+      ]),
+      unit("कृतिका", [
+        ch("इस जल प्रलय में", ["फणीश्वरनाथ रेणु", "पटना की बाढ़"], "is-jal-pralay-mein"),
+        ch("मेरे संग की औरतें", ["मृदुला गर्ग", "संस्मरण"], "mere-sang-ki-auratein"),
+        ch("रीढ़ की हड्डी", ["जगदीश चंद्र माथुर", "एकांकी"], "reedh-ki-haddi"),
+      ]),
+      unit("व्याकरण", [
+        ch("उपसर्ग और प्रत्यय", ["शब्द निर्माण"], "upsarg-pratyay"),
+        ch("समास", ["समास के भेद"], "samas"),
+        ch("अर्थ की दृष्टि से वाक्य भेद", ["आठ प्रकार के वाक्य"], "arth-vakya-bhed"),
+        ch("अलंकार", ["अनुप्रास, यमक, श्लेष, उपमा, रूपक"], "alankar"),
+      ]),
+    ]),
+    subject("information-technology", "Information Technology (402)", ["IT Code 402"], [
+      unit("Employability skills", [
+        ch("Communication Skills", ["Methods of communication", "Basic greetings"]),
+        ch("Self-management Skills", ["Personality and self-confidence"]),
+        ch("ICT Skills", ["Basic computer operations", "Files and folders"]),
+        ch("Entrepreneurial Skills", ["What is entrepreneurship"]),
+        ch("Green Skills", ["Environment and ecosystem"]),
+      ]),
+      unit("Subject skills", [
+        ch("Introduction to IT–ITeS Industry", ["IT applications in daily life"]),
+        ch("Data Entry and Keyboarding Skills", ["Typing technique", "Home row"]),
+        ch("Digital Documentation", ["Creating and formatting documents", "Tables"]),
+        ch("Electronic Spreadsheet", ["Cells, formulas and functions", "Charts"]),
+        ch("Digital Presentation", ["Slides, layouts and transitions"]),
+      ]),
+    ]),
+  ],
+};

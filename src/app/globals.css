@@ -1,345 +1,177 @@
 @import "tailwindcss";
 
 /*
- * Kaksha design tokens
- * --------------------
- * Every colour, radius, shadow and motion value in the product comes from here.
- * Rule of thumb for colour usage:
- *   *-500  fills, illustration, progress bars, icon chips (never body text)
- *   *-700  text and icons on white / paper (all ≥ 4.5:1)
- *   *-50/100  tinted backgrounds behind *-700 text
+ * Kaksha v3 design tokens
+ * Clean, premium learning app: white cards on a cool canvas, one vivid brand blue,
+ * and Tailwind's default palette (green, amber, violet, sky, pink…) for subjects
+ * and game feedback. Text colours: ink / ink-2 / ink-3 only.
  */
 @theme {
-  /* Neutrals: warm paper, not clinical white */
-  --color-paper: #fffbf3;
+  --color-canvas: #f5f7fb;
   --color-surface: #ffffff;
-  --color-sunken: #f6f1e6;
-  --color-line: #ebe4d4;
-  --color-line-strong: #d9cfb9;
-  --color-ink: #1a1d3a;
-  --color-ink-2: #474b66;
-  --color-ink-3: #6b6f86;
+  --color-surface-2: #f0f3f9;
+  --color-line: #e3e7ef;
+  --color-line-strong: #cbd2df;
+  --color-ink: #0f172a;
+  --color-ink-2: #3f4a5e;
+  --color-ink-3: #64748b;
 
-  /* Royal blue: primary actions, Mathematics */
-  --color-royal-50: #eef1ff;
-  --color-royal-100: #dde3ff;
-  --color-royal-200: #bcc7ff;
-  --color-royal-500: #4361ee;
-  --color-royal-600: #2f4bdb;
-  --color-royal-700: #2338b0;
-  --color-royal-800: #1c2c86;
+  --color-brand-50: #eef3ff;
+  --color-brand-100: #dce6ff;
+  --color-brand-200: #bacbff;
+  --color-brand-300: #8eaaff;
+  --color-brand-400: #5c82ff;
+  --color-brand-500: #2e5bff;
+  --color-brand-600: #2449e0;
+  --color-brand-700: #1c38b3;
+  --color-brand-800: #182f8a;
+  --color-brand-900: #14245f;
 
-  /* Coral orange: streaks, highlights, Social Science */
-  --color-coral-50: #fff2ed;
-  --color-coral-100: #ffe1d6;
-  --color-coral-200: #ffc2ad;
-  --color-coral-500: #f26b45;
-  --color-coral-600: #dd5530;
-  --color-coral-700: #b23f1f;
+  --color-coral-50: #fff3ee;
+  --color-coral-100: #ffe3d8;
+  --color-coral-500: #ff6b3d;
+  --color-coral-600: #ea5420;
+  --color-coral-700: #c2410c;
 
-  /* Sunshine yellow: achievements, Hindi. Never used for text */
-  --color-sun-50: #fff9e6;
-  --color-sun-100: #fff0bf;
-  --color-sun-200: #ffe38a;
-  --color-sun-400: #ffc93c;
-  --color-sun-500: #f5b400;
-  --color-sun-800: #7a4f00;
+  --font-sans: "Plus Jakarta Sans Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-hindi: "Noto Sans Devanagari Variable", "Plus Jakarta Sans Variable", sans-serif;
 
-  /* Mint green: success, correct answers, Science */
-  --color-mint-50: #e9faf3;
-  --color-mint-100: #cdf3e3;
-  --color-mint-200: #9ce6c7;
-  --color-mint-500: #2db88c;
-  --color-mint-600: #1b9a72;
-  --color-mint-700: #0f7553;
+  --radius-xl: 14px;
+  --radius-2xl: 20px;
+  --radius-3xl: 28px;
 
-  /* Lavender: reflection, notes, English */
-  --color-lavender-50: #f3f0ff;
-  --color-lavender-100: #e7e1ff;
-  --color-lavender-200: #cfc4ff;
-  --color-lavender-500: #8f7cf2;
-  --color-lavender-600: #6f5ae0;
-  --color-lavender-700: #5440bd;
+  --shadow-card: 0 1px 2px rgb(15 23 42 / 0.04), 0 1px 1px rgb(15 23 42 / 0.03);
+  --shadow-float: 0 12px 32px -12px rgb(15 23 42 / 0.22);
+  --shadow-glow: 0 10px 30px -10px rgb(46 91 255 / 0.55);
 
-  /* Classroom blackboard */
-  --color-board: #1e3d33;
-  --color-board-2: #27503f;
-  --color-chalk: #f4f1e6;
-  --color-chalk-yellow: #ffe38a;
-  --color-chalk-pink: #ffb3a1;
-  --color-wood: #8a5a2b;
-  --color-cork: #d7b285;
-
-  /* Feedback */
-  --color-danger-50: #fff0f0;
-  --color-danger-600: #c62f3a;
-
-  /* Type */
-  --font-display: "Bricolage Grotesque Variable", ui-sans-serif, system-ui, sans-serif;
-  --font-sans: "Figtree Variable", ui-sans-serif, system-ui, sans-serif;
-  --font-hand: "Caveat Variable", "Segoe Print", "Bradley Hand", cursive;
-
-  /* Radii: small for controls, medium for cards, large only for hero panels */
-  --radius-sm: 6px;
-  --radius-md: 10px;
-  --radius-lg: 16px;
-  --radius-xl: 24px;
-
-  /* Shadows are soft and warm (ink-tinted), never glowing */
-  --shadow-card: 0 1px 0 rgb(26 29 58 / 0.04), 0 1px 3px rgb(26 29 58 / 0.06);
-  --shadow-lift: 0 2px 0 rgb(26 29 58 / 0.04), 0 10px 24px -8px rgb(26 29 58 / 0.18);
-  --shadow-press: 0 3px 0 0 var(--color-ink);
-  /* Sticker: thick ink outline + hard offset shadow. The bold, playful card style. */
-  --shadow-sticker: 4px 4px 0 0 var(--color-ink);
-  --shadow-sticker-lg: 7px 7px 0 0 var(--color-ink);
-
-  /* Motion */
   --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
-  --animate-rise: rise 320ms var(--ease-out) both;
-  --animate-pop: pop 420ms var(--ease-out) both;
   --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
-  --animate-float: float 5s ease-in-out infinite;
-  --animate-float-slow: float 8s ease-in-out infinite;
-  --animate-wiggle: wiggle 600ms ease-in-out;
-  --animate-wiggle-loop: wiggle 2.4s ease-in-out infinite;
-  --animate-marquee: marquee 32s linear infinite;
-  --animate-spin-slow: spin 14s linear infinite;
-  --animate-flicker: flicker 1.6s ease-in-out infinite;
-  --animate-bounce-in: bounce-in 700ms var(--ease-spring) both;
-  --animate-slide-up: slide-up 600ms var(--ease-out) both;
-  --animate-blink: blink 4.5s infinite;
 
-  @keyframes float {
-    0%, 100% { transform: translateY(0) rotate(var(--r, 0deg)); }
-    50% { transform: translateY(-12px) rotate(calc(var(--r, 0deg) + 3deg)); }
-  }
-  @keyframes wiggle {
-    0%, 100% { transform: rotate(0); }
-    20% { transform: rotate(-9deg); }
-    40% { transform: rotate(7deg); }
-    60% { transform: rotate(-5deg); }
-    80% { transform: rotate(3deg); }
-  }
-  @keyframes marquee {
-    from { transform: translateX(0); }
-    to { transform: translateX(-50%); }
-  }
-  @keyframes flicker {
-    0%, 100% { transform: scale(1) rotate(-2deg); }
-    25% { transform: scale(1.08, 0.95) rotate(2deg); }
-    50% { transform: scale(0.96, 1.06) rotate(-1deg); }
-    75% { transform: scale(1.05) rotate(3deg); }
-  }
-  @keyframes bounce-in {
-    0% { opacity: 0; transform: scale(0.3) translateY(30px); }
-    100% { opacity: 1; transform: none; }
-  }
-  @keyframes slide-up {
-    from { opacity: 0; transform: translateY(40px); }
+  --animate-rise: rise 360ms var(--ease-out) both;
+  --animate-pop: pop 420ms var(--ease-spring) both;
+  --animate-float: float 5s ease-in-out infinite;
+  --animate-blink: blink 4.5s infinite;
+  --animate-wiggle-loop: wiggle 2.4s ease-in-out infinite;
+  --animate-pulse-ring: pulse-ring 1.8s ease-out infinite;
+
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(8px); }
     to { opacity: 1; transform: none; }
+  }
+  @keyframes pop {
+    0% { transform: scale(0.6); opacity: 0; }
+    100% { transform: scale(1); opacity: 1; }
+  }
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-8px); }
   }
   @keyframes blink {
     0%, 92%, 100% { transform: scaleY(1); }
     95% { transform: scaleY(0.1); }
   }
-
-  @keyframes rise {
-    from { opacity: 0; transform: translateY(6px); }
-    to { opacity: 1; transform: none; }
+  @keyframes wiggle {
+    0%, 100% { transform: rotate(0); }
+    25% { transform: rotate(-8deg); }
+    75% { transform: rotate(8deg); }
   }
-  @keyframes pop {
-    0% { transform: scale(0.6); opacity: 0; }
-    60% { transform: scale(1.08); opacity: 1; }
-    100% { transform: scale(1); }
+  @keyframes pulse-ring {
+    0% { box-shadow: 0 0 0 0 rgb(46 91 255 / 0.45); }
+    100% { box-shadow: 0 0 0 16px rgb(46 91 255 / 0); }
   }
 }
 
 @layer base {
-  html {
-    overflow-x: clip;
-    -webkit-text-size-adjust: 100%;
-    scroll-padding-top: 5rem;
-  }
+  html { -webkit-text-size-adjust: 100%; scroll-padding-top: 5rem; overflow-x: clip; }
   body {
-    /* tilted strips and floating stickers may poke past the edge; never scroll sideways */
     overflow-x: clip;
-    background: var(--color-paper);
+    background: var(--color-canvas);
     color: var(--color-ink);
     font-family: var(--font-sans);
-    font-feature-settings: "ss01";
     -webkit-font-smoothing: antialiased;
   }
-  h1, h2, h3, h4 {
-    font-family: var(--font-display);
-    letter-spacing: -0.02em;
-    text-wrap: balance;
-  }
+  h1, h2, h3, h4 { letter-spacing: -0.02em; text-wrap: balance; }
   p { text-wrap: pretty; }
-
-  :focus-visible {
-    outline: 3px solid var(--color-royal-500);
-    outline-offset: 2px;
-    border-radius: 4px;
-  }
-  ::selection { background: var(--color-sun-200); }
+  :lang(hi) { font-family: var(--font-hindi); }
+  :focus-visible { outline: 3px solid var(--color-brand-400); outline-offset: 2px; border-radius: 6px; }
+  ::selection { background: var(--color-brand-100); }
 }
 
 @layer components {
-  /* Notebook paper: the one signature texture. Use sparingly (hero, lesson canvas). */
-  .ruled {
-    background-color: var(--color-surface);
-    background-image:
-      linear-gradient(to right, transparent 47px, rgb(242 107 69 / 0.45) 47px, rgb(242 107 69 / 0.45) 48px, transparent 48px),
-      repeating-linear-gradient(to bottom, transparent 0 31px, rgb(67 97 238 / 0.13) 31px 32px);
+  .card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: var(--radius-2xl);
+    box-shadow: var(--shadow-card);
   }
-  .graph-paper {
-    background-color: var(--color-surface);
-    background-image:
-      linear-gradient(rgb(67 97 238 / 0.08) 1px, transparent 1px),
-      linear-gradient(90deg, rgb(67 97 238 / 0.08) 1px, transparent 1px);
-    background-size: 20px 20px;
-  }
-  /* Sticker card: the playful, bold alternative to the quiet .Card */
-  .sticker {
-    border: 2.5px solid var(--color-ink);
-    border-radius: var(--radius-lg);
-    box-shadow: var(--shadow-sticker);
-    transition: transform 220ms var(--ease-spring), box-shadow 220ms var(--ease-spring);
-  }
-  .sticker-hover:hover {
-    transform: translate(-3px, -3px) rotate(var(--hover-r, -0.6deg));
-    box-shadow: var(--shadow-sticker-lg);
-  }
-  .sticker-hover:active { transform: translate(2px, 2px); box-shadow: 1px 1px 0 0 var(--color-ink); }
+  .card-hover { transition: transform 200ms var(--ease-out), box-shadow 200ms var(--ease-out), border-color 200ms; }
+  .card-hover:hover { transform: translateY(-2px); box-shadow: var(--shadow-float); border-color: var(--color-line-strong); }
 
-  /* Washi tape strip stuck on the top edge of a card */
-  .tape { position: relative; }
-  .tape::before {
-    content: "";
-    position: absolute;
-    top: -12px;
-    left: 50%;
-    width: 84px;
-    height: 24px;
-    transform: translateX(-50%) rotate(-3deg);
-    background: repeating-linear-gradient(45deg, rgb(255 201 60 / 0.85) 0 8px, rgb(255 227 138 / 0.85) 8px 16px);
-    box-shadow: 0 1px 2px rgb(26 29 58 / 0.15);
-    z-index: 1;
-  }
-  .tape-pink::before { background: repeating-linear-gradient(45deg, rgb(255 194 173 / 0.9) 0 8px, rgb(255 225 214 / 0.9) 8px 16px); }
-  .tape-mint::before { background: repeating-linear-gradient(45deg, rgb(156 230 199 / 0.9) 0 8px, rgb(205 243 227 / 0.9) 8px 16px); }
+  .eyebrow { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-ink-3); }
 
-  .dots {
-    background-image: radial-gradient(rgb(26 29 58 / 0.12) 1.5px, transparent 1.5px);
-    background-size: 18px 18px;
+  /* ───────── Lesson typography ───────── */
+  .lesson { font-size: 1.0625rem; line-height: 1.75; color: var(--color-ink-2); }
+  .lesson > * + * { margin-top: 1rem; }
+  .lesson h2 {
+    margin-top: 2.75rem; padding-top: 0.25rem;
+    font-size: 1.6rem; line-height: 1.25; font-weight: 800; color: var(--color-ink);
+    scroll-margin-top: 6rem;
   }
-  .dots-light {
-    background-image: radial-gradient(rgb(255 255 255 / 0.16) 1.5px, transparent 1.5px);
-    background-size: 18px 18px;
-  }
+  .lesson h2:first-child { margin-top: 0; }
+  .lesson h3 { margin-top: 2rem; font-size: 1.2rem; font-weight: 800; color: var(--color-ink); }
+  .lesson strong { color: var(--color-ink); font-weight: 700; }
+  .lesson ul, .lesson ol { padding-left: 1.4rem; }
+  .lesson ul { list-style: disc; }
+  .lesson ol { list-style: decimal; }
+  .lesson li + li { margin-top: 0.35rem; }
+  .lesson li::marker { color: var(--color-brand-500); }
+  .lesson a { color: var(--color-brand-600); font-weight: 600; text-decoration: underline; text-underline-offset: 3px; }
+  .lesson code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.92em; background: var(--color-surface-2); padding: 0.1em 0.35em; border-radius: 6px; color: var(--color-ink); }
+  .lesson hr { border: 0; border-top: 1px dashed var(--color-line-strong); margin: 2rem 0; }
+  .lesson table { width: 100%; border-collapse: separate; border-spacing: 0; font-size: 0.95rem; border: 1px solid var(--color-line); border-radius: 14px; overflow: hidden; display: block; overflow-x: auto; }
+  .lesson th { background: var(--color-surface-2); color: var(--color-ink); font-weight: 700; text-align: left; }
+  .lesson th, .lesson td { padding: 0.6rem 0.85rem; border-bottom: 1px solid var(--color-line); vertical-align: top; }
+  .lesson tr:last-child td { border-bottom: 0; }
 
-  /* Blackboard with faint chalk smudges */
-  .chalkboard {
-    background-color: var(--color-board);
-    background-image:
-      radial-gradient(ellipse at 20% 30%, rgb(255 255 255 / 0.06), transparent 40%),
-      radial-gradient(ellipse at 75% 70%, rgb(255 255 255 / 0.05), transparent 45%),
-      radial-gradient(ellipse at 50% 100%, rgb(0 0 0 / 0.25), transparent 60%);
-    color: var(--color-chalk);
-  }
-  .chalk { font-family: var(--font-hand); color: var(--color-chalk); text-shadow: 0 0 1px rgb(244 241 230 / 0.6); }
+  /* Callouts produced from > [!KEY] / [!EXAMPLE] / [!TIP] / [!FORMULA] / [!REMEMBER] / [!MISTAKE] */
+  .callout { border-radius: 16px; padding: 1rem 1.15rem; border: 1px solid; }
+  .callout > * + * { margin-top: 0.5rem; }
+  .callout-title { display: flex; align-items: center; gap: 0.5rem; font-size: 0.78rem; font-weight: 800; letter-spacing: 0.06em; text-transform: uppercase; }
+  .callout-key { background: var(--color-brand-50); border-color: var(--color-brand-100); }
+  .callout-key .callout-title { color: var(--color-brand-700); }
+  .callout-example { background: #f0fdf4; border-color: #bbf7d0; }
+  .callout-example .callout-title { color: #15803d; }
+  .callout-tip { background: #fffbeb; border-color: #fde68a; }
+  .callout-tip .callout-title { color: #b45309; }
+  .callout-formula { background: #f5f3ff; border-color: #ddd6fe; text-align: center; }
+  .callout-formula .callout-title { color: #6d28d9; justify-content: center; }
+  .callout-formula p { font-size: 1.15rem; font-weight: 700; color: var(--color-ink); }
+  .callout-remember { background: #ecfeff; border-color: #a5f3fc; }
+  .callout-remember .callout-title { color: #0e7490; }
+  .callout-mistake { background: var(--color-coral-50); border-color: var(--color-coral-100); }
+  .callout-mistake .callout-title { color: var(--color-coral-700); }
 
-  /* Shimmer sweep for progress fills and hero buttons */
-  .shimmer { position: relative; overflow: hidden; }
-  .shimmer::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background: linear-gradient(100deg, transparent 20%, rgb(255 255 255 / 0.45) 50%, transparent 80%);
-    transform: translateX(-100%);
-    animation: shimmer 2.4s ease-in-out infinite;
-  }
   .stripes {
-    background-image: repeating-linear-gradient(-45deg, rgb(255 255 255 / 0.22) 0 8px, transparent 8px 16px);
+    background-image: repeating-linear-gradient(-45deg, rgb(255 255 255 / 0.2) 0 8px, transparent 8px 16px);
     background-size: 22px 22px;
-    animation: stripes 900ms linear infinite;
-  }
-
-  /* Scroll reveal. Elements are visible by default; JS opts them in only when below the fold. */
-  [data-reveal="pending"] { opacity: 0; transform: translateY(32px) scale(0.98); }
-  [data-reveal="shown"] {
-    animation: slide-up 650ms var(--ease-out) both;
-    animation-delay: calc(var(--i, 0) * 90ms);
-  }
-
-  .hand { font-family: var(--font-hand); }
-
-  /* Chalk strokes draw themselves in once their section is revealed */
-  .draw path, .draw line, .draw polyline { stroke-dasharray: 1; stroke-dashoffset: 0; }
-  [data-reveal="pending"] .draw :is(path, line, polyline) { stroke-dashoffset: 1; }
-  [data-reveal="shown"] .draw :is(path, line, polyline) {
-    stroke-dashoffset: 1;
-    animation: draw 1.4s ease-out forwards;
-    animation-delay: calc(400ms + var(--d, 0) * 250ms);
-  }
-
-  .cork {
-    background-color: var(--color-cork);
-    background-image:
-      radial-gradient(rgb(120 72 30 / 0.25) 1px, transparent 1.4px),
-      radial-gradient(rgb(255 255 255 / 0.18) 1px, transparent 1.4px);
-    background-size: 9px 9px, 13px 13px;
-    background-position: 0 0, 4px 6px;
-  }
-
-  .eyebrow {
-    font-family: var(--font-sans);
-    font-size: 0.75rem;
-    font-weight: 700;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--color-ink-3);
+    animation: stripes 1s linear infinite;
   }
 }
 
-@keyframes shimmer {
-  0% { transform: translateX(-100%); }
-  60%, 100% { transform: translateX(100%); }
-}
-@keyframes stripes {
-  from { background-position: 0 0; }
-  to { background-position: 22px 0; }
-}
-@keyframes draw {
-  to { stroke-dashoffset: 0; }
-}
-@keyframes curtain {
-  0% { transform: translateY(0); }
-  100% { transform: translateY(-101%); }
-}
-@keyframes word-in {
-  from { opacity: 0; transform: translateY(0.5em) rotate(-3deg); }
-  to { opacity: 1; transform: none; }
+@keyframes stripes { from { background-position: 0 0; } to { background-position: 22px 0; } }
+@keyframes shake { 0%, 100% { transform: translateX(0); } 25% { transform: translateX(-5px); } 75% { transform: translateX(5px); } }
+
+@media print {
+  body { background: #fff; }
+  .no-print { display: none !important; }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  [data-reveal="pending"] { opacity: 1; transform: none; }
-  .shimmer::after, .stripes { animation: none !important; }
+  .stripes { animation: none; }
   *, *::before, *::after {
     animation-duration: 1ms !important;
     animation-iteration-count: 1 !important;
     transition-duration: 1ms !important;
     scroll-behavior: auto !important;
   }
-}
-
-@keyframes grow {
-  from { transform: scaleX(0); }
-  to { transform: scaleX(1); }
-}
-
-@keyframes shake {
-  0%, 100% { transform: translateX(0); }
-  25% { transform: translateX(-4px); }
-  75% { transform: translateX(4px); }
 }
