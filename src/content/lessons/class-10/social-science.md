@@ -2062,3 +2062,1006 @@ A: (1) It is now constitutionally mandatory to hold regular elections to local g
 (4) An independent State Election Commission has been created in each state to conduct panchayat and municipal elections.
 (5) State governments are required to share some powers and revenue with local bodies. This made India's local government the largest experiment in democracy in the world, though gram sabhas are not held regularly and states have not transferred enough powers and resources.
 
+=== gender-religion-and-caste ===
+## The big idea
+Every society has differences: between women and men, among religions, among castes. Democracy does not try to erase these differences; it asks how they should be **expressed in politics**. Sometimes political expression of social differences helps disadvantaged groups win justice; sometimes it divides people and leads to violence. This chapter looks at three such differences: **gender, religion and caste**.
+
+## Gender and politics
+Gender division is a form of hierarchical social division seen everywhere, but it is rarely recognised in the study of politics. It is often understood as natural and unchangeable. However, it is based not on biology but on **social expectations and stereotypes**.
+
+> [!KEY] Sexual division of labour
+> A system in which **all work inside the home is either done by the women of the family, or organised by them through domestic helpers**. Boys and girls are brought up to believe that the main responsibility of women is housework and bringing up children. Women do work outside (fetching water, collecting fuel, working in fields) but their work is often **not valued** and does not get recognition. An average woman works **one hour more** than an average man every day (Time Use Survey), yet much of her work is unpaid. Men are willing to do the same work outside the home if paid (most tailors and cooks in hotels are men).
+
+As a result, women's role in public life, especially politics, has been minimal in most societies. Women's political agitations demanded equal rights for women: voting rights, enhancement of political and legal status, and improvement of educational and career opportunities. Radical women's movements aimed at equality in personal and family life as well; these movements are called **feminist movements**.
+
+> [!KEY] Feminist
+> A woman or a man who **believes in equal rights and opportunities for women and men**.
+
+In **Scandinavian countries** such as **Sweden, Norway and Finland**, the participation of women in public life is very high.
+
+**Women's disadvantage in India**: India is a **patriarchal** society (literally, rule by father; a system that values men more and gives them power over women).
+- **Literacy**: literacy rate among women is only **65.46%** compared with **82.14%** among men (Census 2011). A smaller proportion of girl students go for higher studies; parents prefer to spend resources on boys' education.
+- **Jobs and wages**: the proportion of women among highly paid and valued jobs is still very small. The **Equal Remuneration Act, 1976** provides that equal wages should be paid for equal work. However, in almost all areas of work, from sports and cinema to factories and fields, women are paid less than men, even when both do exactly the same work.
+- **Son preference**: in many parts of India, parents prefer sons and find ways to have the girl child aborted (sex-selective abortion). This has led to a decline in the **child sex ratio** (number of girl children per thousand boys) in the country to merely **919** (Census 2011); in some states it is below 850 or even 800.
+- **Violence and safety**: there are reports of harassment, exploitation and violence against women. Urban areas have become particularly unsafe for women; even at home, women face beatings and domestic violence.
+
+**Women's political representation.** In India, the proportion of women in legislatures has been very low. For example, the percentage of elected women members in the **Lok Sabha** touched **14.36 per cent** of its total strength for the first time in **2019**. Their share in state assemblies is less than 5 per cent. In this respect, India is among the bottom group of nations in the world. One way to solve this problem is to make it legally binding to have a fair proportion of women in elected bodies. This is what the **Panchayati Raj** has done: **one-third of seats in local government bodies** are reserved for women. There are now more than **10 lakh** elected women representatives in rural and urban local bodies. Women's organisations and activists long demanded a similar reservation of at least one-third of seats in Lok Sabha and State Assemblies for women; such a law, the **Constitution (106th Amendment) Act / Nari Shakti Vandan Adhiniyam**, was passed in **2023** (to come into effect after the next delimitation).
+
+> [!REMEMBER] Gender as a political issue works
+> Gender division is one example where some form of social division needs to be expressed in politics. Disadvantaged groups benefit when social divisions become a political issue. Political expression of gender issues helped improve women's role in public life.
+
+## Religion, communalism and politics
+Gandhiji used to say that **religion can never be separated from politics**. By religion, he meant not any particular religion like Hinduism or Islam but the **moral values that inform all religions**. He believed politics must be guided by ethics drawn from religion.
+
+Human rights groups argue that most victims of communal riots in India are people from **religious minorities**, and demand special steps to protect them. The women's movement argues that **family laws** of all religions discriminate against women, so government should change them to make them more equitable.
+
+These instances involve a relationship between religion and politics, but they are not wrong: people should be able to express their needs, interests and demands in politics as members of a religious community, and the state should ensure that no religion is discriminated against.
+
+> [!KEY] Communalism
+> The problem begins when **religion is seen as the basis of the nation**, when beliefs of one religion are presented as superior to those of other religions, when demands of one religious group are formed in opposition to another, and when **state power is used to establish domination of one religious group** over the rest. This manner of using religion in politics is **communal politics**. It is based on the idea that religion is the principal basis of social community, that followers of a particular religion must belong to one community, and that their fundamental interests are the same and different from (or opposed to) those of followers of other religions.
+
+**Forms of communalism in politics:**
+1. **In everyday beliefs**: religious prejudices, stereotypes of religious communities and belief in the superiority of one's religion over others.
+2. **Desire for political dominance**: a communal mind often leads to a quest for political dominance of one's own religious community. For those belonging to the majority community, this takes the form of **majoritarian dominance**; for those of the minority community, it can take the form of a desire to form a **separate political unit**.
+3. **Political mobilisation on religious lines**: using sacred symbols, religious leaders, emotional appeal and plain fear to bring followers of one religion together in politics. In electoral politics, this involves special appeal to the interests or emotions of voters of one religion in preference to others.
+4. **Communal violence, riots and massacres**: India and Pakistan suffered some of the worst communal riots at the time of **Partition**. The post-independence period has also seen large-scale communal violence.
+
+> [!KEY] Secular state
+> Communalism was and continues to be one of the major challenges to democracy in our country. The makers of our Constitution chose the model of a **secular state**:
+> - There is **no official religion** for the Indian state. Unlike Buddhism in Sri Lanka, Islam in Pakistan and Christianity in England, our Constitution does not give a special status to any religion.
+> - The Constitution provides to all individuals and communities **freedom to profess, practise and propagate any religion**, or not to follow any.
+> - The Constitution **prohibits discrimination on grounds of religion**.
+> - At the same time, the Constitution **allows the state to intervene in the matters of religion** in order to ensure equality within religious communities. For example, it **bans untouchability**.
+
+Secularism is not just an ideology of some parties or persons; it is one of the **foundations of our country**. Communalism must be combated in everyday life, and religion-based mobilisation must be countered in politics.
+
+## Caste and politics
+**Caste inequalities.** Gender and religious divisions exist all over the world, but **caste division is special to India**. Caste system was based on **exclusion of and discrimination against the 'outcaste'** groups, subjected to inhuman practices of untouchability. Hereditary occupational division was sanctioned by rituals. Members of the same caste group were supposed to form a social community that practised the same or similar occupation, married within the caste group and did not eat with members of other caste groups.
+
+Political leaders and social reformers like **Jotiba Phule, Gandhiji, B.R. Ambedkar and Periyar Ramaswami Naicker** advocated and worked to establish a society in which caste inequalities are absent. Partly due to their efforts and partly due to socio-economic changes (**urbanisation, growth of literacy and education, occupational mobility, and weakening of the position of landlords in villages**), caste hierarchy is breaking down. The Constitution prohibited any caste-based discrimination and laid foundations for policies to reverse injustices.
+
+But caste has not disappeared: most people still marry within their own caste; untouchability persists despite constitutional prohibition; and effects of centuries of advantages and disadvantages continue: the caste groups that had access to education under the old system have done very well in acquiring modern education too. There is a large presence of "upper caste" among the urban middle classes, and caste continues to be closely linked to economic status.
+
+> [!KEY] Caste in politics
+> - When parties choose candidates in elections, they keep in mind the **caste composition of the electorate** and nominate candidates from different castes so as to muster necessary support to win elections.
+> - Political parties and candidates make **appeals to caste sentiment** to muster support. Some parties are known to favour some castes.
+> - **Universal adult franchise** and the principle of **one-person-one-vote** compelled political leaders to gear up to mobilise and secure political support. It also brought new consciousness among people of castes that were hitherto treated as inferior and low.
+
+**But elections are not only about caste:**
+- **No parliamentary constituency in the country has a clear majority of one single caste.** So every candidate and party needs to win the confidence of more than one caste and community.
+- **No party wins the votes of all the voters of a caste** or community. When people say a caste is a "vote bank" of a party, it usually means a large proportion of voters from that caste vote for that party.
+- Many political parties may put up candidates from the same caste. Some voters have more than one candidate from their caste, while many voters have no candidate from their caste.
+- The ruling party and the sitting MP or MLA frequently **lose elections** in our country. That could not have happened if all castes and communities were frozen in their political preferences.
+- Voters have strong attachments to political parties, often stronger than to their caste or community. People within the same caste or community have different interests depending on their economic condition. Rich and poor or men and women from the same caste often vote very differently. People's assessment of the government's performance and the popularity rating of leaders matter and are often decisive.
+
+> [!KEY] Politics in caste
+> Politics too influences the caste system and caste identities by bringing them into the political arena. So it is not politics that gets caste-ridden; it is the **caste that gets politicised**:
+> - Each caste group tries to become bigger by **incorporating within it neighbouring castes or sub-castes** which were earlier excluded from it.
+> - Various caste groups are required to enter into **coalitions** with other castes or communities and thus enter into dialogue and negotiation.
+> - **New kinds of caste groups** have come up in the political arena, like **'backward' and 'forward'** caste groups.
+
+Caste in politics has positive aspects: in some situations, expression of caste differences in politics gives many disadvantaged communities the space to demand their share of power; **Dalits and OBCs** have gained better access to decision-making. But exclusive attention to caste can produce negative results: it can divert attention from pressing issues like poverty, development and corruption, and in some cases leads to tensions, conflict and even violence.
+
+> [!MISTAKE] "Secular means anti-religion"
+> A secular state is **not** against religion. It has no official religion, gives everyone religious freedom, prohibits discrimination, and may intervene to ensure equality (e.g., banning untouchability).
+
+> [!TIP] Board favourites
+> "What is the sexual division of labour?", "Explain the status of women in India" (literacy, jobs, sex ratio, representation), "Forms of communalism in politics" (5 marks), "Features of the secular state in India" (3 marks), "Caste alone cannot determine election results: explain", "Role of caste in politics and politics in caste".
+
+## Quick recap
+- Gender division is social, not biological; sexual division of labour undervalues women's work.
+- Women's literacy 65.46% vs men 82.14%; child sex ratio 919; Equal Remuneration Act 1976; women in Lok Sabha 14.36% (2019).
+- One-third local body seats reserved for women; 2023 law for one-third seats in Lok Sabha and assemblies.
+- Communalism: religion as basis of the nation; four forms from everyday beliefs to violence.
+- India is a secular state: no official religion, freedom of religion, no discrimination, state may intervene for equality.
+- Caste in politics (candidate selection, appeals, mobilisation) and politics in caste (bigger groups, coalitions, new categories).
+
+--- quiz ---
+Q: A system in which all work inside the home is done or organised by women is called
+- patriarchy
+* sexual division of labour
+- feminism
+- communalism
+> The sexual division of labour assigns housework to women and undervalues their work.
+
+Q: The Equal Remuneration Act was passed in
+- 1956
+* 1976
+- 1992
+- 2005
+> The Act provides that equal wages should be paid for equal work.
+
+Q: Which of these is NOT a feature of India as a secular state?
+- No official religion
+- Freedom to profess, practise and propagate any religion
+- Prohibition of discrimination on grounds of religion
+* Special status to the religion of the majority
+> Unlike Sri Lanka or Pakistan, the Indian Constitution gives no special status to any religion.
+
+Q: Communal politics is based on the idea that
+- religion should be kept out of all politics
+- all religions are equal
+* religion is the principal basis of social community
+- the state must ban religion
+> Communalism holds that followers of one religion form one community with common interests opposed to others.
+
+Q: Which of these shows that caste alone does not determine election outcomes?
+* No parliamentary constituency has a clear majority of one caste
+- Parties consider caste while choosing candidates
+- Leaders appeal to caste sentiment
+- Universal adult franchise led to caste mobilisation
+> Candidates must win the support of more than one caste, and sitting MPs often lose.
+
+Q: Scandinavian countries such as Sweden, Norway and Finland are known for
+- the lowest literacy among women
+- a communal form of politics
+- the caste system
+* very high participation of women in public life
+> Women's participation in public life is very high in these countries.
+
+Q: The emergence of 'backward' and 'forward' caste groups in politics is an example of
+- caste in politics
+- communalism
+- majoritarianism
+* politics in caste (caste getting politicised)
+> Politics brings caste into the political arena, creating new kinds of caste groups.
+
+W[3]: Mention any three features of India as a secular state.
+A: (1) There is no official religion for the Indian state; unlike Buddhism in Sri Lanka or Islam in Pakistan, no religion has special status.
+(2) The Constitution provides to all individuals and communities freedom to profess, practise and propagate any religion, or not to follow any; it prohibits discrimination on grounds of religion.
+(3) The Constitution allows the state to intervene in matters of religion to ensure equality within religious communities, for example by banning untouchability.
+
+W[5]: Describe the various forms that communalism can take in politics.
+A: (1) Everyday beliefs: religious prejudices, stereotypes of other communities and a belief in the superiority of one's own religion.
+(2) Desire for political dominance: for the majority community, it takes the form of majoritarian dominance; for a minority community, a desire for a separate political unit.
+(3) Political mobilisation on religious lines: use of sacred symbols, religious leaders, emotional appeal and fear to bring followers of one religion together; appeals to voters of one religion in elections.
+(4) Communal violence, riots and massacres: India and Pakistan suffered terrible riots at Partition, and communal violence has occurred after independence too.
+(5) Hence communalism is a major challenge to democracy, which the secular Constitution and everyday vigilance must combat.
+
+=== political-parties ===
+## The big idea
+Political parties are the most visible institution in a democracy. For most ordinary citizens, democracy is equal to political parties. Yet parties are also among the least trusted institutions. This chapter explains **what parties are, what they do, why we need them, the kinds of party systems, India's national and state parties, and the challenges and reforms** of party politics.
+
+> [!KEY] Political party
+> A group of people who come together to **contest elections and hold power in the government**. They agree on some policies and programmes for society with a view to promote the collective good. A party is known by **which part it stands for, which policies it supports and whose interests it upholds**.
+> A political party has **three components**: (1) the **leaders**, (2) the **active members**, (3) the **followers**.
+
+## Functions of political parties
+1. **Contest elections**: in most democracies, elections are fought mainly among candidates put up by parties. In some countries like the **USA**, members and supporters of a party choose its candidates; in India, **top party leaders** choose candidates.
+2. **Put forward different policies and programmes**: voters choose from them. A party reduces a vast variety of opinions into a few basic positions that it supports. A government is expected to base its policies on the line taken by the ruling party.
+3. **Make laws**: formally, laws are debated and passed in the legislature, but since most members belong to a party, they go by the direction of the party leadership.
+4. **Form and run governments**: parties recruit leaders, train them and make them ministers to run the government as they want.
+5. **Play the role of opposition**: parties that lose elections voice different views, criticise the government for its failures or wrong policies, and mobilise opposition to the government.
+6. **Shape public opinion**: they raise and highlight issues. Parties have lakhs of members and activists spread all over the country; many of their pressure groups are extensions of parties among different sections of society. They often launch movements for resolution of problems faced by people.
+7. **Provide access to government machinery and welfare schemes**: for an ordinary citizen, it is easy to approach a local party leader than a government officer. Party leaders feel close to people even when people do not fully trust them.
+
+## Why do we need parties?
+Without parties, every candidate in elections would be **independent**. No one would be able to make any promises to the people about major policy changes; the government may be formed, but its utility would remain uncertain. Elected representatives would be accountable to their constituency for what they do in the locality, but **no one would be responsible for how the country is run**. The rise of political parties is directly linked to the emergence of **representative democracies**. Large-scale societies need representative democracy; parties gather different views on various issues and present them to the government. They bring various representatives together so that a responsible government can be formed, and they support or restrain the government.
+
+> [!EXAMPLE] Non-party elections
+> In many states, **panchayat elections** are not fought on party lines. But villages often split into factions that put up a "panel" of candidates, which is exactly what a party does.
+
+## Party systems
+| Type | Meaning | Example |
+|---|---|---|
+| **One-party system** | Only one party is allowed to control and run the government | **China** (Communist Party of China). Not a good option for democracy because voters have no free choice. |
+| **Two-party system** | Power usually changes between two main parties; several other parties may exist and contest, but only the two main parties have a serious chance of winning a majority | **USA, United Kingdom** |
+| **Multi-party system** | Several parties compete for power, and more than two parties have a reasonable chance of coming to power either on their own strength or in alliance with others | **India** |
+
+When several parties in a multi-party system join hands to contest elections and win power, it is called an **alliance or a front**. In India, there were three such major alliances in the 2004 parliamentary elections: the **National Democratic Alliance (NDA)**, the **United Progressive Alliance (UPA)** and the **Left Front**. Multi-party systems often appear messy and lead to political instability, but they allow a **variety of interests and opinions** to enjoy political representation.
+
+**Why India has a multi-party system**: no system is ideal for all countries; party systems evolve over a long time depending on the nature of society, its social and regional divisions, its history of politics and its system of elections. India is a large country with **social and geographical diversity**, which is not easily absorbed by two or even three parties.
+
+> [!REMEMBER] Partisanship
+> **Partisan** means a person who is strongly committed to a party, group or faction. Partisanship is marked by a tendency to take a side and an inability to take a balanced view on an issue. Participation in party activities in India has been increasing over the decades; the proportion of people who say they are members of some party has gone up.
+
+## National and state parties
+Every party in the country has to **register** with the **Election Commission**. While the Commission treats all parties equally, it offers some special facilities to large and established parties: they are given a **unique symbol**, which only official candidates of that party can use. Parties that get this privilege are **"recognised" parties**.
+
+> [!KEY] Recognition criteria
+> - **State party**: a party that secures at least **six per cent of the total votes in an election to the Legislative Assembly of a State** and wins at least **two seats**.
+> - **National party**: a party that secures at least **six per cent of the total votes in Lok Sabha elections or Assembly elections in four States** and wins at least **four seats in the Lok Sabha**.
+
+**National parties** (NCERT lists eight as of 2019; after the Election Commission's review in **April 2023**, six are recognised):
+
+| Party | Founded | Key points |
+|---|---|---|
+| **Indian National Congress (INC)** | **1885** | One of the oldest parties of the world; played a dominant role in Indian politics at national and state level for several decades after independence; a centrist party, supports secularism and welfare of weaker sections and minorities. |
+| **Bharatiya Janata Party (BJP)** | **1980** | Founded by reviving the **Bharatiya Jana Sangh** (formed by **Syama Prasad Mukherjee** in **1951**). Wants to build a strong and modern India by drawing inspiration from India's ancient culture and values; cultural nationalism (Hindutva) is an important element. |
+| **Bahujan Samaj Party (BSP)** | **1984** | Formed under the leadership of **Kanshi Ram**. Seeks to represent and secure power for the bahujan samaj (dalits, adivasis, OBCs and religious minorities); draws inspiration from the ideas of Sahu Maharaj, Mahatma Phule, Periyar Ramaswami Naicker and Babasaheb Ambedkar. Main base in **Uttar Pradesh**. |
+| **Communist Party of India (Marxist) (CPI-M)** | **1964** | Believes in Marxism-Leninism; supports socialism, secularism and democracy, opposes imperialism and communalism. Strong support in **West Bengal, Kerala and Tripura**. |
+| **National People's Party (NPP)** | **2013** | Formed under the leadership of **P.A. Sangma**; the first political party from the **north-east** to attain national party status. |
+| **Aam Aadmi Party (AAP)** | **2012** | Recognised as a national party in April 2023. |
+
+(Your textbook edition may also list the **Communist Party of India (CPI, 1925)**, **Nationalist Congress Party (NCP, 1999)** and **All India Trinamool Congress (AITC, 1998)**, which were national parties as of 2019.)
+
+**State parties** (commonly called regional parties) are not necessarily regional in ideology; some are all-India parties that happen to succeed only in some states (e.g., Samajwadi Party, Rashtriya Janata Dal). Others like the **Biju Janata Dal, Sikkim Democratic Front, Mizo National Front and Telangana Rashtra Samithi** are conscious about their state identity. Over the last three decades, the number and strength of state parties have expanded, making the Parliament more diverse; no national party is able to secure a majority on its own in some elections, so national parties are compelled to form alliances with state parties. This has contributed to strengthening **federalism and democracy**.
+
+## Challenges to political parties
+1. **Lack of internal democracy**: all over the world, there is a tendency for power to concentrate in one or a few top leaders. Parties do not keep membership registers, do not hold organisational meetings or conduct internal elections regularly. Ordinary members do not get sufficient information about what happens inside the party; those who disagree with leadership find it difficult to continue.
+2. **Dynastic succession**: since most parties do not practise open and transparent procedures, there are very few ways for an ordinary worker to rise to the top. Those who happen to be the leaders are in a position of unfair advantage to favour people close to them or family members. In many parties, top positions are always controlled by members of one family.
+3. **Growing role of money and muscle power**: since parties are focused only on winning elections, they tend to use short-cuts. They nominate candidates who have or can raise lots of money. Rich people and companies who give funds tend to influence policies and decisions. In some cases, parties support **criminals** who can win elections.
+4. **Lack of meaningful choice**: in recent years there has been a decline in ideological differences among parties in most parts of the world. Those who want really different policies have no option available; sometimes people cannot even elect very different leaders, because the same set of leaders keep shifting from one party to another.
+
+## How can parties be reformed?
+**Recent efforts:**
+- The Constitution was amended to prevent elected MLAs and MPs from changing parties (**anti-defection law**). If any MLA or MP changes parties, he or she will **lose the seat** in the legislature. This has helped bring defection down, but it has made dissent even more difficult: MPs and MLAs have to accept whatever the party leaders decide.
+- The **Supreme Court** passed an order to reduce the influence of money and criminals: now it is mandatory for every candidate who contests elections to file an **affidavit giving details of his property and criminal cases** pending against him. The new system has made a lot of information available to the public, though there is no system to check if the information given is true.
+- The **Election Commission** passed an order making it necessary for political parties to **hold their organisational elections and file their income tax returns**. Parties have started doing so, but it is sometimes a mere formality.
+
+**Suggestions often made:**
+- A **law to regulate the internal affairs** of political parties: maintain a register of members, follow its own constitution, have an independent authority to act as judge in case of party disputes, hold open elections to the highest posts.
+- Make it mandatory for parties to give a minimum number of tickets, about **one-third, to women candidates**; similarly a quota for women in decision-making bodies of the party.
+- **State funding of elections**: the government should give parties money to support their election expenses, in kind (petrol, paper, telephone) or cash, on the basis of votes secured in the last election.
+
+Two other ways: **people can put pressure** on parties through petitions, publicity and agitations (pressure groups, media); and **political parties can improve if those who want this join them**. It is difficult to change democracy if ordinary citizens do not take part and simply criticise from outside.
+
+> [!MISTAKE] Recognition criteria mix-up
+> State party: **6% votes in a state assembly election + 2 seats**. National party: **6% votes in Lok Sabha or assembly elections in four states + 4 Lok Sabha seats**. Students often swap 2 and 4.
+
+> [!TIP] Board favourites
+> "Functions of political parties" (5 marks), "Why do we need political parties?", "Explain one-party, two-party and multi-party systems", "Challenges faced by political parties" (5 marks), "Steps taken / suggestions to reform parties", "Criteria for a national/state party". Be ready to describe any one national party in 3 points.
+
+## Quick recap
+- A party: a group that contests elections to hold power; components are leaders, active members and followers.
+- Functions: contest elections, put forward policies, make laws, form governments, act as opposition, shape opinion, give access to welfare.
+- Party systems: one-party (China), two-party (USA, UK), multi-party (India); alliances like NDA, UPA, Left Front.
+- Recognition by the Election Commission: state party (6% + 2 seats), national party (6% in LS or 4 states + 4 LS seats).
+- Challenges: no internal democracy, dynastic succession, money and muscle power, no meaningful choice.
+- Reforms: anti-defection law, affidavits, organisational elections and tax returns; suggested law on internal affairs, women's quota, state funding.
+
+--- quiz ---
+Q: Which of these is NOT a component of a political party?
+- Leaders
+- Active members
+- Followers
+* Election Commission officials
+> A party has three components: leaders, active members and followers.
+
+Q: China has a
+* one-party system
+- two-party system
+- multi-party system
+- coalition system
+> Only the Communist Party of China is allowed to rule.
+
+Q: To be recognised as a state party, a party must secure at least
+- 4% votes and one seat
+- 6% votes in four states and four Lok Sabha seats
+* 6% of votes in a state assembly election and win at least two seats
+- 10% votes in the Lok Sabha
+> The national party criteria require 6% votes in LS or four states plus four LS seats.
+
+Q: The Bahujan Samaj Party was formed in 1984 under the leadership of
+- Syama Prasad Mukherjee
+- P.A. Sangma
+- B.R. Ambedkar
+* Kanshi Ram
+> Kanshi Ram founded the BSP to represent dalits, adivasis, OBCs and religious minorities.
+
+Q: Under the anti-defection law, an MP or MLA who changes parties
+- gets a ministerial post
+- must contest a by-election within one month
+* loses the seat in the legislature
+- is banned from politics for life
+> The law reduced defections but made dissent within a party difficult.
+
+Q: The first political party from the north-east to attain national party status is the
+- Mizo National Front
+- Asom Gana Parishad
+* National People's Party
+- Sikkim Democratic Front
+> The NPP, formed in 2013 under P.A. Sangma, was recognised as a national party.
+
+Q: "The same set of leaders keep shifting from one party to another" points to which challenge?
+- Dynastic succession
+- Lack of internal democracy
+- Money and muscle power
+* Lack of meaningful choice
+> Declining ideological differences and party-switching leaders reduce real choice for voters.
+
+W[3]: Why do modern democracies need political parties? Give three reasons.
+A: (1) Without parties, every candidate would be independent; no one could promise major policy changes and no one would be responsible for how the country is run.
+(2) Large-scale societies need representative democracy; parties gather different views on issues and present them to the government, bringing representatives together so that a responsible government can be formed.
+(3) Parties provide mechanisms to support or restrain the government, make policies, justify or oppose them, and give people access to government machinery and welfare schemes.
+
+W[5]: Describe any five challenges faced by political parties in India and suggest how they can be reformed.
+A: (1) Lack of internal democracy: power concentrated in a few leaders; no membership registers or regular internal elections.
+(2) Dynastic succession: top positions controlled by members of one family; ordinary workers cannot rise.
+(3) Growing role of money and muscle power: parties nominate rich candidates and sometimes criminals; donors influence policies.
+(4) Lack of meaningful choice: declining ideological differences; the same leaders shift between parties.
+(5) Reforms: anti-defection law; mandatory affidavits on property and criminal cases; Election Commission order on organisational elections and income tax returns; suggestions include a law regulating internal party affairs, one-third tickets for women, and state funding of elections. Citizens can also pressure parties through petitions, media and agitations, and by joining them.
+
+=== outcomes-of-democracy ===
+## The big idea
+Most countries in the world today claim to be democracies. But how do we judge whether democracy actually **delivers**? This chapter evaluates democracy on what we can reasonably expect from it: an **accountable, responsive and legitimate government**, **economic growth and development**, **reduction of inequality and poverty**, **accommodation of social diversity**, and **dignity and freedom of citizens**. The answer is balanced: democracy is not a magic solution, but it is better than any alternative we know.
+
+> [!KEY] Why democracy is preferred
+> Democracy (1) promotes **equality among citizens**, (2) enhances the **dignity of the individual**, (3) **improves the quality of decision-making**, (4) provides a method to **resolve conflicts**, and (5) allows room to **correct mistakes**.
+
+## How do we assess democracy's outcomes?
+We must not expect democracy to solve every problem. Democracy is only a **form of government**; it can create conditions for achieving something, and citizens must take advantage of those conditions. The fact that people complain about democracy is itself a testimony to its success: it shows that people have developed awareness and the ability to look critically at power holders.
+
+## Accountable, responsive and legitimate government
+**Accountable.** Democracy ensures that decision-making is based on **norms and procedures**. A citizen who wants to know if a decision was taken through the correct procedures can find out. This is called **transparency**: the right and means to examine the process of decisions. (In India, the **Right to Information** Act gives citizens such a means.) Democratic governments may be **slower** than dictatorships because they follow procedures, deliberate and negotiate, but their decisions are more acceptable and more effective. So the **cost of time** is worth paying.
+
+**Responsive.** Democracy should produce a government that attends to the needs and expectations of people. Here the record is mixed: democracies often frustrate the needs of people and ignore the demands of a majority of the population. But they are better than non-democratic regimes at holding regular, free and fair elections and allowing open public debate on major policies.
+
+> [!KEY] Legitimate government
+> Democratic government is a **legitimate government**. It may be slow, less efficient, not always very responsive or clean, but it is **people's own government**. That is why there is overwhelming support for the idea of democracy all over the world, and people wish to be ruled by representatives elected by them.
+
+## Economic growth and development
+If we consider all democracies and all dictatorships for the fifty years between **1950 and 2000**, **dictatorships have a slightly higher rate of economic growth**.
+
+| Regime type (1950–2000) | Average rate of growth (%) |
+|---|---|
+| All democratic regimes | **3.95** |
+| All dictatorial regimes | **4.42** |
+| Poor countries under dictatorship | 4.34 |
+| Poor countries under democracy | 4.28 |
+
+Economic development depends on several factors: the country's **population size, global situation, cooperation from other countries, economic priorities adopted** by the country, etc. The difference in rates of growth between less developed countries under dictatorship and democracy is **negligible**. Overall, we cannot say democracy is a guarantee of economic development, but we can expect it not to lag behind dictatorships. Given its other positive outcomes, democracy is a better choice even though it may not deliver faster growth.
+
+## Reduction of inequality and poverty
+Democracies are based on **political equality**: all individuals have equal weight in electing representatives (one person, one vote). But alongside the process of bringing individuals into the political arena on an equal footing, we find **growing economic inequalities**. A small number of ultra-rich enjoy a highly disproportionate share of wealth and incomes. Those at the bottom of society have very little to depend upon; their incomes have been declining. Sometimes they find it difficult to meet their basic needs of life: food, clothing, house, education and health.
+
+In actual life, democracies do not appear to be very successful in reducing economic inequalities. The poor constitute a large proportion of our voters, and no party will like to lose their votes, yet democratically elected governments do not appear to be as keen to address the question of poverty as you would expect them to. The situation is much worse in some other countries; for example, in **Bangladesh**, more than half its population lived in poverty (NCERT example).
+
+> [!MISTAKE] "Democracy has removed inequality"
+> No. Democracy gives **political equality**, but **economic inequality** has often grown in democracies. Write this honestly in answers; examiners reward balanced points.
+
+## Accommodation of social diversity
+Democracies usually develop a procedure to conduct their competition. This **reduces the possibility of tensions** becoming explosive or violent. No society can fully and permanently resolve conflicts among different groups, but we can learn to respect these differences and evolve mechanisms to negotiate them. Democracy is best suited to produce this outcome. **Belgium** has successfully negotiated differences among ethnic populations; **Sri Lanka**, by contrast, shows what happens when the majority refuses to accommodate.
+
+> [!KEY] Two conditions for accommodation
+> 1. **Democracy is not simply rule by majority opinion.** The majority always needs to work with the minority so that governments function to represent the general view. Majority and minority opinions are **not permanent**.
+> 2. **Rule by majority does not become rule by majority community** in terms of religion, race or linguistic groups. Democracy remains democracy only as long as **every citizen has a chance of being in the majority at some point of time**. If someone is barred from being in the majority on the basis of birth, the democratic rule ceases to be accommodative for that person or group.
+
+## Dignity and freedom of the citizens
+Democracy stands much superior to any other form of government in promoting **dignity and freedom of the individual**. Every individual wants to receive respect from fellow beings. Conflicts often arise among individuals because some feel they are not treated with due respect.
+
+- **Dignity of women**: most societies across the world were historically **male-dominated**. Long struggles by women have created some sensitivity today that respect to and equal treatment of women are necessary ingredients of a democratic society. In non-democratic set-ups, such claims would not have legal basis. Once the principle of individual freedom and dignity has been accepted in democracy, it is easier for women to wage a struggle against what is now unacceptable legally and morally.
+- **Caste inequalities**: democracy in India has **strengthened the claims of the disadvantaged and discriminated castes** for equal status and equal opportunity. There are still instances of caste-based inequalities and atrocities, but these lack the moral and legal foundations.
+- **Expectations and complaints**: democracy is a continuous process. As people get some benefits of democracy, they ask for more. **Expectations from democracy** keep rising, and people complain when they are not met. This is a sign of success: it shows people have become aware and critical; they have become **citizens** from subjects.
+
+> [!TIP] Board favourites
+> "How is democracy accountable, responsive and legitimate?" (5 marks), "Can democracy guarantee economic growth? Use the data", "Democracies have not reduced economic inequality: explain", "Two conditions for accommodating social diversity" (3 marks), "How does democracy promote dignity and freedom of citizens?". Always give a balanced view: strengths plus limitations.
+
+## Quick recap
+- Democracy promotes equality, dignity, better decisions, conflict resolution and correction of mistakes.
+- It gives accountable (transparent), responsive and legitimate government, though it may be slower.
+- 1950–2000: dictatorships grew slightly faster (4.42%) than democracies (3.95%); difference among poor countries negligible.
+- Political equality has not removed economic inequality and poverty.
+- Accommodation needs majority working with minority and no permanent majority based on birth.
+- Democracy promotes dignity of women and disadvantaged castes; rising expectations show its success.
+
+--- quiz ---
+Q: The right and means of citizens to examine the process of decision-making is called
+- legitimacy
+* transparency
+- majoritarianism
+- federalism
+> Transparency ensures decisions are based on norms and procedures that citizens can check.
+
+Q: Between 1950 and 2000, the average growth rate of all dictatorial regimes was
+- 3.95%
+- 4.28%
+* 4.42%
+- 5.10%
+> Dictatorships grew slightly faster (4.42%) than democracies (3.95%), but the gap among poor countries was negligible.
+
+Q: Which outcome of democracy is the weakest in practice?
+- Legitimacy of government
+- Dignity of citizens
+- Accommodation of social diversity
+* Reduction of economic inequality
+> Democracies give political equality, but economic inequality has often grown.
+
+Q: Democracy is described as a legitimate government because
+- it is always efficient
+- it always reduces poverty
+* it is people's own government, elected by them
+- it never makes mistakes
+> Even if slow or less efficient, it is chosen by and answerable to the people.
+
+Q: For democracy to accommodate social diversity, it is necessary that
+- the majority always rules alone
+* rule by majority does not become rule by a majority community defined by birth
+- minorities are kept out of government
+- there is only one party
+> Every citizen should have a chance of being in the majority at some time.
+
+Q: Rising complaints and expectations from democracy indicate that
+- democracy has failed completely
+- people want dictatorship
+- governments are illegitimate
+* people have become aware and critical citizens
+> Complaints show people have moved from being subjects to being citizens.
+
+W[3]: "Democracy is an accountable, responsive and legitimate government." Explain.
+A: (1) Accountable: decisions are taken according to norms and procedures; citizens have the right and means (e.g., Right to Information) to examine how decisions are taken, so there is transparency.
+(2) Responsive: regular, free and fair elections and open public debate make governments attend to people's needs and expectations, even if the record is mixed.
+(3) Legitimate: although it may be slow and less efficient, democratic government is people's own government, chosen by them; hence there is overwhelming support for democracy across the world.
+
+W[5]: "Democracy cannot guarantee economic growth and equality, yet it is preferred." Justify.
+A: (1) Data from 1950 to 2000 show dictatorships had a slightly higher growth rate (4.42%) than democracies (3.95%), but the difference among poor countries was negligible.
+(2) Economic development depends on many factors: population size, global situation, cooperation from other countries and economic priorities, not only on the type of government.
+(3) Democracies have not reduced economic inequality much; the ultra-rich enjoy a disproportionate share of wealth while incomes of the poor have declined.
+(4) Yet democracy is preferred because it provides accountable and legitimate government, accommodates social diversity and resolves conflicts peacefully.
+(5) It promotes the dignity and freedom of individuals, including women and disadvantaged castes, and allows mistakes to be corrected.
+
+=== development ===
+## The big idea
+What does "development" mean? For a landless rural labourer it may mean more days of work and better wages; for a rich farmer, higher support prices; for a girl, as much freedom as her brother. **Different people have different, sometimes conflicting, developmental goals.** This chapter explores how we measure development, using **income** and other **goals** like health, education and security, how we compare countries and states, and why development must be **sustainable**.
+
+## Different people, different goals
+| Category of person | Possible developmental goals |
+|---|---|
+| Landless rural labourers | More days of work and better wages; local school for children; no social discrimination |
+| Prosperous farmers from Punjab | Higher support prices for crops; assured high family income; settling children abroad |
+| Farmers dependent only on rain | Irrigation, better rainfall, crop insurance |
+| A rural woman from a land-owning family | Regular job and freedom; same opportunities as her brother |
+| Urban unemployed youth | Jobs |
+| A boy from a rich urban family | Better higher education, travel |
+| A girl from a rich urban family | As much freedom as her brother; to decide what she wants to do in life |
+| An adivasi from Narmada valley | Livelihood and land; no displacement |
+
+> [!KEY] Conflicting goals
+> What may be development for one may not be development for another, and may even be destructive. Example: to get more electricity, industrialists may want more dams. But this may submerge land and disrupt the lives of people who are displaced, such as **tribals**. So people's notion of development is **different and conflicting**.
+
+## Income and other goals
+Common goal: **more income**, regular work, better wages and decent prices for crops. But people also seek **non-material things**: equal treatment, freedom, security, respect of others. They resent discrimination. In some cases, these may be more important than more income or more consumption, because material things are not all that is needed to live.
+
+> [!EXAMPLE] Why non-income goals matter
+> If women are engaged in paid work, their dignity in the household and society increases. However, it is also the case that if there is respect for women, there would be more sharing of housework and greater acceptance of women working outside. A **safe and secure environment** may allow more women to take up a variety of jobs or run a business. So, for development, people look at a **mix of goals**.
+
+## Comparing countries and states
+**National income** is the total income of all residents of a country. It is not a useful measure for comparison between countries since populations differ. So we compare **average income**, which is the total income of the country divided by its total population. Average income is also called **per capita income**.
+
+> [!FORMULA] Per capita (average) income
+> Per capita income = Total income of the country ÷ Total population
+
+**World Bank's classification.** The **World Bank** uses per capita income as the criterion in its **World Development Report** to classify countries. Countries with a per capita income of about **US$ 12,000 and above per annum** (2017 figures) are called **rich or high-income countries**, and those with about **US$ 1,000 or less** are called **low-income countries**. **India** comes in the category of **low middle-income countries**; its per capita income in 2017 was just about **US$ 1,820** per annum. The rich countries, excluding countries of the Middle East and certain other small countries, are generally called **developed countries**.
+
+**Limitation of average income**: while it is useful for comparison, it **hides disparities**. Two countries may have the same average income, but in one, almost everyone may be equally well-off, while in the other, a few are extremely rich and the rest poor.
+
+> [!EXAMPLE] Average income can mislead
+> Country A: five citizens each earn ₹10,000 per month (average ₹10,000). Country B: four earn ₹500 and one earns ₹48,000 (average also ₹10,000). Most people would prefer to live in Country A, which has a more **equitable** distribution.
+
+**Income and other criteria: Haryana, Kerala and Bihar.** Of the three states, **Haryana** has the **highest per capita income** and **Bihar** the **lowest**. Yet **Kerala** has a much lower **Infant Mortality Rate** (about 7 per 1,000 live births, versus about 30 in Haryana and 32 in Bihar), a higher **literacy rate** (about 94%) and a higher **Net Attendance Ratio** than Haryana. Why? Kerala has **adequate provision of basic health and educational facilities**. Also, in some states, the **Public Distribution System (PDS)** functions well; health and nutritional status of people there is likely to be better.
+
+> [!KEY] Key terms
+> - **Infant Mortality Rate (IMR)**: the number of children that die before the age of one year as a proportion of 1,000 live children born in that particular year.
+> - **Literacy Rate**: the proportion of literate population in the 7 years and above age group.
+> - **Net Attendance Ratio**: the total number of children of age group 14 and 15 years attending school as a percentage of the total number of children in the same age group.
+> - **Body Mass Index (BMI)**: weight in kg divided by the square of height in metres; used to check under-nutrition among adults. If BMI is less than **18.5**, the person is undernourished; if more than **25**, overweight.
+
+**Public facilities.** Money in your pocket cannot buy all the goods and services you need to live well. Income by itself is not a completely adequate indicator of material goods and services that citizens are able to use. Normally, money cannot buy a **pollution-free environment** or ensure **unadulterated medicines**, unless you can afford to shift to a community that already has these. Money may not protect you from infectious diseases unless the whole community takes preventive steps. It is cheaper to provide collective facilities (schools, hospitals, security) than for individuals to buy them.
+
+**Human Development Index (HDI).** Once we realise income is not adequate, we think of other criteria. The **Human Development Report** published by the **UNDP (United Nations Development Programme)** compares countries based on the **educational levels of people, their health status and per capita income**. On this index, **Sri Lanka** ranks much higher than India, and many small neighbouring countries do better than India in some indicators despite being much smaller economies. In recent reports India ranks around 130th out of about 190 countries.
+
+## Sustainability of development
+Recent evidence suggests that the **groundwater** in many parts of India is under serious threat of overuse (e.g., in **Punjab, western UP**, hard rock plateau areas of central and south India, some coastal regions and Rajasthan). One-third of the country is overusing its groundwater reserves. **Non-renewable resources** like crude oil will get exhausted after years of use; India has limited crude oil reserves (estimates suggest they may last only a few decades at current rates), so it imports a large share.
+
+> [!KEY] Sustainable development
+> Development that meets the needs of the present **without compromising the ability of future generations** to meet their own needs. Environmental degradation does not respect state or national boundaries; it is a **global issue**. Our future is linked together. **Sustainability** of development is a new area of knowledge, in which scientists, economists, philosophers and other social scientists are working together.
+
+> [!MISTAKE] "Higher income means higher development"
+> Not always. Kerala has a lower per capita income than Haryana, yet has lower IMR and higher literacy. Income alone cannot measure development.
+
+> [!TIP] Board favourites
+> "Why do different people have different and conflicting goals?", "Why is average income an important but limited criterion?" (3 marks), "Why did Kerala rank higher in human development than Haryana?", "What is HDI? Which indicators does it use?", "Explain sustainable development with examples" (5 marks). Learn IMR, literacy rate, NAR and BMI definitions word-for-word.
+
+## Quick recap
+- Different people have different, often conflicting, developmental goals.
+- People seek income plus non-material goals: freedom, security, equal treatment, respect.
+- Per capita income = total income ÷ population; used by the World Bank; India is low middle-income.
+- Average income hides disparities; Kerala beats Haryana in IMR and literacy due to public facilities.
+- HDI by UNDP: education, health, per capita income.
+- Sustainable development: meet present needs without harming future generations (e.g., groundwater, crude oil).
+
+--- quiz ---
+Q: Per capita income is calculated as
+- total income × total population
+- total exports ÷ total imports
+* total income of the country ÷ total population
+- GDP ÷ number of workers
+> Per capita (average) income is national income divided by population.
+
+Q: Which organisation publishes the Human Development Report?
+- World Bank
+- IMF
+- WTO
+* UNDP
+> The UNDP compares countries on education, health and per capita income.
+
+Q: Infant Mortality Rate indicates the number of children who die before the age of one year per
+- 100 live births
+* 1,000 live births
+- 10,000 live births
+- 1,00,000 population
+> IMR is expressed per 1,000 live children born in that year.
+
+Q: A person with a BMI less than 18.5 is considered
+* undernourished
+- overweight
+- obese
+- of normal weight
+> BMI below 18.5 indicates under-nutrition; above 25 indicates overweight.
+
+Q: Kerala has a lower infant mortality rate than Haryana mainly because
+- it has a higher per capita income
+- it has more industries
+* it has adequate provision of basic health and educational facilities
+- it has a larger population
+> Public facilities, not just income, determine human development outcomes.
+
+Q: Which of these is an example of conflicting developmental goals?
+- Everyone wants clean air
+* Industrialists want dams for electricity, while tribals fear displacement
+- Students want good schools
+- Farmers want good rainfall
+> More dams may mean development for industry but loss of land and livelihood for displaced people.
+
+Q: Net Attendance Ratio refers to children of which age group attending school?
+- 6 to 10 years
+- 11 to 13 years
+* 14 and 15 years
+- 16 to 18 years
+> NAR is the percentage of children aged 14 and 15 attending school out of all children in that age group.
+
+W[3]: Why is average income an important but inadequate criterion for development?
+A: (1) Average income (per capita income) is useful for comparing countries because populations differ, so total national income alone is not comparable; the World Bank uses it to classify countries.
+(2) However, it hides disparities: two countries with the same average income may have very different distributions, with one equitable and the other highly unequal.
+(3) It also does not tell us about non-material aspects and public facilities, such as health, education, security and environment; e.g., Kerala has lower income than Haryana but better IMR and literacy.
+
+W[5]: What is sustainable development? Why is it essential? Explain with examples.
+A: (1) Sustainable development means development that meets the needs of the present generation without compromising the ability of future generations to meet their own needs.
+(2) Resources are limited: groundwater is being overused in many parts of India (Punjab, western UP, central and south Indian plateaus), and one-third of the country is overusing its groundwater.
+(3) Non-renewable resources like crude oil will be exhausted; India has limited reserves and depends on imports.
+(4) Environmental degradation does not respect state or national boundaries; it is a global issue, so our futures are linked.
+(5) Hence development should balance economic growth with conservation, e.g., rainwater harvesting, renewable energy and careful use of resources.
+
+=== sectors-of-the-indian-economy ===
+## The big idea
+Millions of Indians do millions of different jobs: farming, weaving, teaching, driving, coding. Economists group these activities into **sectors** so that we can study how the economy is changing and where jobs are. This chapter classifies economic activities in three ways: **primary, secondary and tertiary**; **organised and unorganised**; and **public and private**. It also looks at **underemployment** and how to create more jobs.
+
+## Primary, secondary and tertiary sectors
+> [!KEY] The three sectors
+> - **Primary sector**: activities undertaken by **directly using natural resources**: agriculture, dairy, fishing, forestry, mining. Since most natural products we get are from agriculture, dairy, fishing and forestry, this sector is also called **agriculture and related sector**.
+> - **Secondary sector**: activities in which natural products are changed into other forms through ways of **manufacturing**. It is the next step after primary. The product is not produced by nature but has to be made, so some process of manufacturing is essential, in a factory, workshop or at home. Example: using cotton fibre to spin yarn and weave cloth; using sugarcane to make sugar or gur. Also called the **industrial sector**.
+> - **Tertiary sector**: activities that **help in the development of the primary and secondary sectors**. These activities do not produce a good but are an aid or support for the production process: transport, storage, communication, banking, trade. Since these generate services rather than goods, it is also called the **service sector**. It also includes services like teachers, doctors, washermen, barbers, cobblers, lawyers, and new IT-based services like internet cafés, ATM booths, call centres and software companies.
+
+**Interdependence**: the sectors depend on each other. If farmers refuse to sell sugarcane to a particular sugar mill, the mill will shut down (secondary depends on primary). If a company decides not to buy cotton from India, farmers will be affected. Transport and storage (tertiary) connect them all.
+
+## Comparing the three sectors: GDP
+> [!KEY] Final goods, intermediate goods and GDP
+> - **Final goods**: goods that reach the consumer (e.g., biscuits).
+> - **Intermediate goods**: goods used up in producing final goods (e.g., wheat and flour used in biscuits). Their value is already included in the final good's value.
+> - To avoid **double counting**, only the value of final goods and services is counted.
+> - **Gross Domestic Product (GDP)**: the **value of all final goods and services produced within a country during a particular year**. It shows how big the economy is. In India, the task of measuring GDP is undertaken by a central government ministry (the **Ministry of Statistics and Programme Implementation**, through its National Statistical Office, earlier the Central Statistical Organisation), with help from state and union territory departments.
+
+**Historical change in sectors.** In the early stages of development of most countries, the **primary sector** was the most important. As methods of farming changed and agriculture prospered, more food was produced; people took up other activities, and the **secondary sector** gradually became more important (industrialisation). In the past 100 years, there has been a further shift from secondary to **tertiary** in developed countries; the service sector has become the most important in terms of total production and employment.
+
+**India**: over the forty years between 1973–74 and 2013–14, production increased in all three sectors, but it increased the most in the tertiary sector. As a result, in **2013–14**, the **tertiary sector emerged as the largest producing sector** in India, replacing the primary sector.
+
+> [!KEY] Why is the tertiary sector growing so fast?
+> 1. Basic services such as **hospitals, educational institutions, post and telegraph, police stations, courts, village administrative offices, municipal corporations, defence, transport, banks and insurance** are required in any country; the government takes responsibility for providing them.
+> 2. **Development of agriculture and industry** leads to development of services like transport, trade and storage.
+> 3. As income levels rise, people demand more services: **eating out, tourism, shopping, private hospitals, private schools, professional training**.
+> 4. Over the past decade, new services based on **information and communication technology** have become important and essential.
+> But not all of the service sector is growing equally: it includes highly skilled, well-paid workers as well as a very large number of workers in small shops, repair shops and transport, who barely manage to earn a living.
+
+**Where are most people employed?** Even though the share of the primary sector in GDP has fallen sharply, it remains the **largest employer**. In 2017–18, nearly **44%** of workers were in the primary sector, while it produced only about a sixth of GDP. The secondary and tertiary sectors produce most of the output but employ fewer people. Not enough jobs were created in the secondary and tertiary sectors.
+
+## Underemployment (disguised unemployment)
+> [!KEY] Disguised unemployment
+> A situation where **more people are working than are needed**, so that if some workers are removed, total output does not fall. Each person seems to be working, but no one is fully employed; their labour effort is divided. Example: a small farm needs only three people, but five family members work on it; removing two would not reduce production. This is **hidden**, unlike someone clearly without a job. It is common in **agriculture**, and also in the service sector in urban areas (e.g., painters, plumbers, repair persons, street vendors who search for work daily).
+
+**How to create more employment:**
+- Provide **cheap credit** and build **wells, check dams and canals** for irrigation in villages; more land can be cultivated, and dams create jobs.
+- Invest in **transport and storage**: roads and rural cold storage help farmers sell produce to markets and create jobs in transport and trade.
+- Set up **agro-processing industries** (e.g., dal mills, cold storage, honey collection centres, vegetable and fruit processing) in semi-rural areas.
+- Promote **tourism, regional crafts, IT** and other services; every state can develop these.
+- Expand **education and health** services, which need many teachers and health workers.
+
+> [!KEY] MGNREGA 2005
+> The central government made a law implementing the **Right to Work** in about **625 districts** of India (NCERT figure): the **Mahatma Gandhi National Rural Employment Guarantee Act, 2005**. Under it, all those who are able to and need work in rural areas are **guaranteed 100 days of employment in a year** by the government. If the government fails to provide employment, it will give **unemployment allowance** to the people. The types of work that would in future help increase production from land are given preference. **One-third of the proposed jobs are reserved for women**.
+
+## Organised and unorganised sectors
+| Organised sector | Unorganised sector |
+|---|---|
+| Enterprises or places of work where the **terms of employment are regular**, so people have **assured work** | Small and scattered units **largely outside the control of the government** |
+| **Registered** by the government and have to follow its rules and regulations (Factories Act, Minimum Wages Act, Payment of Gratuity Act, Shops and Establishments Act) | Rules and regulations exist but are **not followed** |
+| Workers enjoy **job security**, fixed working hours, **overtime pay**, **paid leave**, payment during holidays, provident fund, gratuity, medical benefits, safe working environment and pension after retirement | Jobs are **low-paid and often not regular**; no provision for overtime, paid leave, holidays or leave due to sickness; **no job security**; workers can be asked to leave without any reason |
+| Example: government employees, workers in registered factories and large companies | Example: daily wage labourers, small shopkeepers, street vendors, domestic workers, workers in small workshops |
+
+**Protecting workers in the unorganised sector.** Since the 1990s, many workers have lost jobs in the organised sector, so they take up jobs in the unorganised sector with low earnings. Besides the need for more work, workers in the unorganised sector need **protection and support**:
+- In **rural areas**, the unorganised sector mostly comprises **landless agricultural labourers, small and marginal farmers, sharecroppers and artisans** (weavers, blacksmiths, carpenters, goldsmiths). They need support through timely delivery of seeds, agricultural inputs, credit, storage facilities and marketing outlets.
+- In **urban areas**, it comprises workers in small-scale industry, casual workers in construction, trade and transport, street vendors, head-load workers, garment makers, rag pickers. Small-scale industry needs government support for procuring raw material and marketing output.
+- Casual workers in both rural and urban areas need protection.
+- A majority of workers from **Scheduled Castes, Scheduled Tribes and backward communities** find themselves in the unorganised sector, facing social discrimination too. Protection and support are needed for both economic and social development.
+
+## Public and private sectors
+| Public sector | Private sector |
+|---|---|
+| The **government owns most of the assets** and provides all the services | **Ownership of assets and delivery of services** is in the hands of **private individuals or companies** |
+| Motive is **not just to earn profits** but **public welfare** | Activities are guided by the **motive to earn profits** |
+| Examples: **Indian Railways, post office**, BHEL, SAIL | Examples: **Tata Iron and Steel Company Ltd (TISCO), Reliance Industries Ltd (RIL)** |
+
+**Why the government must provide some services:**
+- There are several things society needs that the **private sector will not provide at a reasonable cost** because of the huge spending needed: construction of **roads, bridges, railways, harbours, generating electricity, providing irrigation through dams**. The government raises money through taxes and undertakes such heavy spending, ensuring facilities are available for everyone.
+- Some activities need government support even if private industries can do them: e.g., selling **electricity at low rates** helps small-scale industries. The government buys **wheat and rice from farmers at a 'fair price'**, stores them in godowns and sells them at a lower price to consumers through **ration shops**, bearing part of the cost.
+- Providing **health and education facilities** for all; running proper schools and providing quality education, particularly elementary education. India's large number of children dropping out and the need for quality health facilities in rural areas make this essential. The government also pays attention to **human development** aspects such as availability of safe drinking water, housing for the poor, food and nutrition.
+
+> [!MISTAKE] Classifying by ownership vs by nature of activity
+> Primary/secondary/tertiary is based on the **nature of activity**. Organised/unorganised is based on **conditions of employment**. Public/private is based on **ownership of assets**. Don't mix up the criteria in classification questions.
+
+> [!TIP] Board favourites
+> "Distinguish organised and unorganised sectors" (3 marks), "Why is the tertiary sector becoming important?" (5 marks), "What is disguised unemployment? Give an example", "Explain MGNREGA 2005", "How can more employment be created in rural areas?", "Why should the government run some activities?", "How are the three sectors interdependent?".
+
+## Quick recap
+- Primary (natural resources), secondary (manufacturing), tertiary (services that support production).
+- GDP: value of final goods and services produced within a country in a year; avoid double counting.
+- Tertiary became the largest producing sector by 2013–14; primary is still the largest employer.
+- Disguised unemployment: more people working than needed; common in agriculture.
+- MGNREGA 2005: 100 days of guaranteed work; unemployment allowance; one-third jobs for women.
+- Organised (regular, registered, secure) vs unorganised (irregular, unprotected); public (welfare) vs private (profit).
+
+--- quiz ---
+Q: Which of these activities belongs to the tertiary sector?
+- Fishing
+- Weaving cloth in a factory
+* Banking
+- Mining
+> Banking is a service that supports production; fishing and mining are primary and weaving is secondary.
+
+Q: GDP is the value of
+- all goods and services including intermediate goods
+* all final goods and services produced within a country during a year
+- only exports of a country
+- only goods produced by the government
+> Only final goods are counted to avoid double counting.
+
+Q: A family farm needs only three workers, but five members work on it. This is an example of
+- seasonal unemployment
+- educated unemployment
+- structural unemployment
+* disguised unemployment
+> Removing two workers would not reduce output; their labour is not really needed.
+
+Q: Under MGNREGA 2005, rural households are guaranteed employment of
+- 50 days a year
+* 100 days a year
+- 150 days a year
+- 365 days a year
+> If work is not provided, the government must pay unemployment allowance.
+
+Q: Which of these is a feature of the organised sector?
+* Workers get paid leave, provident fund and job security
+- Employment is irregular and low paid
+- Units are not registered with the government
+- Workers can be removed without any reason
+> Organised sector enterprises are registered and follow laws such as the Factories Act and Minimum Wages Act.
+
+Q: Indian Railways is an example of
+- private sector
+- unorganised sector
+* public sector
+- primary sector
+> The government owns most of its assets and provides the service for public welfare.
+
+Q: In 2013–14, which sector emerged as the largest producing sector in India?
+- Primary
+- Secondary
+- Public
+* Tertiary
+> Production grew most in the tertiary sector, which replaced the primary sector as the largest producer.
+
+W[3]: Distinguish between the organised and unorganised sectors.
+A: (1) In the organised sector, terms of employment are regular and work is assured; in the unorganised sector, jobs are irregular and low-paid.
+(2) Organised sector units are registered with the government and follow rules like the Factories Act and Minimum Wages Act; unorganised units are small, scattered and largely outside government control, so rules are not followed.
+(3) Organised sector workers enjoy job security, paid leave, overtime, provident fund, medical benefits and pension; unorganised sector workers get no such benefits and can be removed without reason.
+
+W[5]: Why is the tertiary sector becoming so important in India? Give five reasons.
+A: (1) Basic services such as hospitals, educational institutions, post and telegraph, police stations, courts, municipal corporations, defence, transport, banks and insurance are needed in every country and are provided by the government.
+(2) Development of agriculture and industry leads to demand for services like transport, trade and storage.
+(3) As income rises, people demand more services such as eating out, tourism, shopping, private hospitals and private schools.
+(4) New services based on information and communication technology have become important and essential.
+(5) As a result, the tertiary sector became the largest producing sector in 2013–14, though it has not created jobs in the same proportion and many of its workers are in low-paid, unorganised activities.
+
+=== money-and-credit ===
+## The big idea
+Money is something we use every day, but have you wondered **why** people accept a piece of paper in exchange for goods? This chapter explains **money as a medium of exchange**, **modern forms of money** (currency and bank deposits), how **banks** create **credit**, and why access to cheap and fair **credit** is crucial for development, especially for the poor, through **formal sources** and **Self-Help Groups**.
+
+## Money as a medium of exchange
+In a **barter system**, goods are directly exchanged without the use of money. A shoe manufacturer who wants wheat must find a wheat farmer who not only sells wheat but also wants to buy shoes. Both parties must agree to sell and buy each other's commodities.
+
+> [!KEY] Double coincidence of wants
+> What a person desires to sell is **exactly what the other wishes to buy**. In a barter system, this is essential and very hard to find. Money **eliminates the need for double coincidence of wants** by acting as an intermediate in the exchange process. That is why money is called a **medium of exchange**.
+
+## Modern forms of money
+Before coins, a variety of objects were used as money: **grains and cattle**, then **metallic coins** of gold, silver and copper. Modern forms of money include **currency (paper notes and coins)** and **deposits with banks**.
+
+> [!KEY] Why is currency accepted?
+> Modern currency is not made of precious metal and has no use of its own. It is accepted as a medium of exchange because it is **authorised by the government** of the country. In India, the **Reserve Bank of India (RBI)** issues currency notes on behalf of the **central government**. As per Indian law, no other individual or organisation is allowed to issue currency. The law **legalises the use of rupee** as a medium of payment that **cannot be refused** in settling transactions in India. No individual in India can legally refuse a payment made in rupees.
+
+**Deposits with banks.** People deposit extra cash with banks by opening an account in their name. Banks accept deposits and also **pay an amount as interest** on them. Since deposits in bank accounts can be withdrawn on demand, they are called **demand deposits**. Demand deposits share the essential features of money: they can be used for payments through **cheques**.
+
+> [!KEY] Cheque
+> A **paper instructing the bank to pay a specific amount from the person's account to the person in whose name the cheque has been issued**. The facility of cheques against demand deposits makes it possible to directly settle payments without the use of cash. Today, digital modes (debit cards, UPI, net banking) also transfer demand deposits.
+
+## Loan activities of banks
+Banks keep only a small proportion of their deposits as **cash** with themselves; in India, banks hold about **15 per cent** of their deposits as cash. This is kept as provision to pay depositors who might come to withdraw money on any given day. Since only some depositors come to withdraw cash at a time, banks can manage with this cash. Banks use the **major portion of deposits to extend loans**. There is a huge demand for loans for various economic activities.
+
+**Banks mediate between those who have surplus funds (depositors) and those who need funds (borrowers).** Banks charge a **higher interest rate on loans** than what they offer on deposits. The difference between the two is the **main source of income for banks**.
+
+## Two different credit situations
+> [!KEY] Credit (loan)
+> An **agreement in which the lender supplies the borrower with money, goods or services in return for the promise of future payment**.
+
+> [!EXAMPLE] Credit as a support: Salim
+> **Salim**, a shoe manufacturer, gets an order from a large trader in town for 3,000 pairs of shoes to be delivered in a month. He obtains supplies of leather on credit and promises to pay later, and gets an advance payment from the trader. He completes the order, makes a good profit and repays. Here, credit plays a **vital and positive role**: it helps him meet ongoing expenses of production, complete production on time and increase earnings.
+
+> [!EXAMPLE] Debt trap: Swapna
+> **Swapna**, a small farmer, takes a loan from a moneylender for her groundnut crop. The crop is hit by pests and fails. She cannot repay, the debt grows with high interest, and she has to sell part of her land to repay. Here, credit pushes her into a **debt trap**: a situation in which the borrower is left in a worse condition than before.
+
+Whether credit is useful or not depends on the **risks in the situation** and whether there is some support in case of loss.
+
+## Terms of credit
+Every loan agreement specifies:
+- **Interest rate**: the rate at which the borrower must pay the lender along with repayment of the principal.
+- **Collateral**: an **asset that the borrower owns** (land, building, vehicle, livestock, deposits with banks) and uses as a **guarantee to a lender until the loan is repaid**. If the borrower fails to repay, the lender has the right to sell the asset to obtain payment.
+- **Documentation** required.
+- **Mode of repayment**.
+
+Terms of credit vary substantially from one credit arrangement to another, depending on the nature of the lender and the borrower.
+
+## Formal and informal sources of credit
+| Formal sources | Informal sources |
+|---|---|
+| **Banks and cooperatives** | **Moneylenders, traders, employers, relatives and friends** |
+| **Supervised by the RBI**, which monitors that banks maintain the minimum cash balance and give loans not just to profit-making businesses but also to small cultivators, small-scale industries, small borrowers | **No organisation supervises** their credit activities |
+| Lower interest rates | They can lend at **whatever interest rate they choose**; no one stops them from using **unfair means** to get money back |
+| Need collateral and documentation | Often no collateral needed, but higher cost |
+
+> [!KEY] Why the formal sector should expand
+> - Higher cost of informal borrowing means a **larger part of earnings goes to repaying loans**, leaving less income for the borrower; in some cases, the interest exceeds the borrower's income, leading to a **debt trap**.
+> - Cheap and affordable credit is crucial for the country's development: it allows people to grow crops, do business, set up small-scale industries and invest in new industries.
+> - Banks and cooperatives need to lend more, particularly in rural areas, so that dependence on informal sources reduces.
+> - Formal credit is currently distributed unequally: **rich households** get most of their credit from **formal sources**, while **poor households** depend largely on **informal sources**. So it is important that formal credit is **equally distributed** and reaches the poor.
+
+**Why don't poor households get bank loans?** Banks are not present everywhere in rural India; getting a bank loan is difficult because it requires proper documents and **collateral**. Absence of collateral is one of the major reasons why banks are not willing to lend to the poor. Moneylenders know borrowers personally and are often willing to give loans without collateral; the borrower can approach them even without repaying earlier loans, but at very high rates of interest.
+
+## Self-Help Groups for the poor
+> [!KEY] Self-Help Groups (SHGs)
+> - A typical SHG has **15–20 members**, usually belonging to one neighbourhood, who meet and **save regularly**. Savings per member vary from ₹25 to ₹100 or more, depending on ability.
+> - Members can take **small loans from the group itself** to meet their needs. The group charges interest on these loans, still less than what the moneylender charges.
+> - **After a year or two**, if the group is regular in savings, it becomes **eligible for availing loan from the bank**. The loan is sanctioned in the **name of the group** and is meant to create self-employment opportunities for members (e.g., small loans to release mortgaged land, for working capital, housing, buying assets like sewing machines, handlooms, cattle).
+> - **Decisions** regarding savings and loan activities are taken by the **group members**. The group decides the loans to be granted, purpose, amount, interest, repayment schedule. The group is responsible for repayment; any case of non-repayment is followed up by other members.
+> **Benefits**: helps borrowers **overcome the problem of lack of collateral**; gives timely loans for a variety of purposes at a reasonable interest rate; organises rural poor, especially **women**; makes women financially self-reliant; regular meetings provide a platform to discuss and act on social issues like health, nutrition, domestic violence.
+
+> [!EXAMPLE] Grameen Bank of Bangladesh
+> Started in the 1970s as a small project, the **Grameen Bank** of Bangladesh lends to the poor, mostly **women**, at reasonable rates without collateral. Its founder, **Professor Muhammad Yunus**, received the **Nobel Peace Prize in 2006**. It shows that the poor are creditworthy: they can be trusted to repay loans.
+
+> [!MISTAKE] Collateral is not the interest
+> Collateral is an **asset pledged as a guarantee**; interest is the **extra amount paid** on the loan. Don't confuse the two in "terms of credit" answers.
+
+> [!TIP] Board favourites
+> "How does money solve the problem of double coincidence of wants?", "Why are demand deposits considered money?", "Why is the rupee accepted as a medium of exchange?", "Explain terms of credit", "Distinguish formal and informal sources" (3 marks), "How do SHGs help the poor?" (5 marks), "Credit can be both useful and harmful: explain with examples".
+
+## Quick recap
+- Money solves the double coincidence of wants; it is a medium of exchange.
+- Modern money: currency (issued by RBI on behalf of the government; legal tender) and demand deposits (cheques).
+- Banks keep about 15% of deposits as cash and lend the rest; interest difference is their income.
+- Credit can help (Salim) or create a debt trap (Swapna).
+- Terms of credit: interest, collateral, documentation, mode of repayment.
+- Formal (banks, cooperatives, RBI-supervised) vs informal (moneylenders, traders, relatives).
+- SHGs (15–20 members) and Grameen Bank (Muhammad Yunus, Nobel 2006) extend credit to the poor without collateral.
+
+--- quiz ---
+Q: In a barter system, the main difficulty is the need for
+- collateral
+- a central bank
+- a cheque book
+* double coincidence of wants
+> Each party must want exactly what the other is offering; money removes this need.
+
+Q: Who issues currency notes in India on behalf of the central government?
+- State Bank of India
+* Reserve Bank of India
+- Ministry of Finance
+- NABARD
+> The RBI issues currency, and no other individual or organisation may do so.
+
+Q: Deposits in bank accounts that can be withdrawn on demand are called
+- fixed deposits
+- collateral
+* demand deposits
+- credit
+> Demand deposits can be used for payments through cheques and share the features of money.
+
+Q: Which of these is an informal source of credit?
+- Commercial bank
+- Cooperative society
+- Regional rural bank
+* Moneylender
+> Moneylenders, traders, employers and relatives are informal sources not supervised by the RBI.
+
+Q: An asset that a borrower pledges as a guarantee until a loan is repaid is called
+- interest
+* collateral
+- principal
+- deposit
+> If the borrower fails to repay, the lender can sell the collateral.
+
+Q: A typical Self-Help Group has
+- 2–5 members
+- 50–100 members
+- 200 members
+* 15–20 members
+> Members save regularly and, after a year or two, can get bank loans in the group's name.
+
+Q: Professor Muhammad Yunus, who won the Nobel Peace Prize in 2006, founded the
+- Reserve Bank of India
+* Grameen Bank of Bangladesh
+- World Bank
+- Asian Development Bank
+> The Grameen Bank lends to the poor, mostly women, without collateral.
+
+W[3]: Why do banks and cooperatives need to lend more in rural areas? Give three reasons.
+A: (1) Informal lenders charge very high interest, so a larger part of borrowers' earnings goes to repayment, and they may fall into a debt trap.
+(2) Cheap and affordable credit is crucial for development: it helps farmers grow crops, and people start businesses and small industries, creating jobs.
+(3) Currently, poor households depend largely on informal sources while rich households get formal credit; expanding formal credit to rural areas would reduce dependence on moneylenders and distribute credit more equally.
+
+W[5]: Explain how Self-Help Groups help the rural poor.
+A: (1) SHGs organise 15–20 members, mostly women from one neighbourhood, who save regularly; members get small loans from the group at interest lower than moneylenders.
+(2) After a year or two of regular savings, the group becomes eligible for bank loans in the group's name, overcoming the problem of lack of collateral.
+(3) Loans are given for self-employment, releasing mortgaged land, working capital, housing and buying assets like sewing machines, handlooms and cattle.
+(4) Decisions on savings and loans are taken by members, and the group is responsible for repayment, which ensures accountability.
+(5) SHGs make women financially self-reliant and provide a platform to discuss social issues like health, nutrition and domestic violence.
+
+=== globalisation-and-the-indian-economy ===
+## The big idea
+Your phone may be designed in the USA, assembled in China and sold in India; your shoes may be made in Vietnam for a European brand. Markets and production across countries are becoming **interconnected**. This process is **globalisation**. This chapter explains the role of **multinational corporations (MNCs)**, **foreign trade**, the **factors** that enabled globalisation, the role of the **WTO**, and the effects of globalisation on India, along with the need for **fair globalisation**.
+
+## Production across countries and MNCs
+Until the middle of the twentieth century, production was largely organised within countries; what crossed boundaries were raw materials, food and finished products. Colonies exported raw materials and imported finished goods. Trade was the main channel connecting distant countries.
+
+> [!KEY] Multinational Corporation (MNC)
+> A company that **owns or controls production in more than one nation**. MNCs set up offices and factories for production in regions where they can get **cheap labour and other resources**, so that the cost of production is low and they earn greater profits.
+
+**Example of spreading production**: a large MNC producing industrial equipment designs its products in research centres in the **USA**, has components manufactured in **China**, ships them to **Mexico and Eastern Europe** where products are assembled, and sells them all over the world; its customer care is carried out through call centres in **India**.
+
+**Where MNCs set up production**: close to **markets**; where there is **skilled and unskilled labour at low cost**; and where availability of other factors of production is assured. They also look for **government policies** that look after their interests.
+
+## Interlinking production across countries
+> [!KEY] Investment and foreign investment
+> - **Investment**: money spent to buy assets such as land, building, machines and other equipment.
+> - **Foreign investment**: investment made by MNCs.
+
+MNCs interlink production in several ways:
+1. **Joint production with local companies**: the MNC provides money for additional investment (e.g., faster machines) and brings the latest technology. Example: **Ford Motors**, an American company, came to India in **1995** and spent ₹1,700 crore to set up a large plant near **Chennai** in collaboration with **Mahindra and Mahindra**, a major Indian manufacturer of jeeps and trucks.
+2. **Buying up local companies**: the most common route to quick expansion. Example: **Cargill Foods**, a very large American MNC, bought over the smaller Indian company **Parakh Foods**, which had built a large marketing network and a well-respected brand. Cargill became the largest producer of edible oil in India.
+3. **Placing orders for production with small producers**: e.g., garments, footwear and sports items are produced by small producers around the world, and the products are supplied to MNCs, which sell them under their own **brand names** to customers. These large MNCs have tremendous power to determine **price, quality, delivery and labour conditions** for these distant producers.
+
+## Foreign trade and integration of markets
+**Foreign trade** creates an opportunity for producers to reach **beyond the domestic markets**. Producers can sell their produce not only in markets located within the country but also compete in markets in other countries. Similarly, for buyers, imports of goods from another country expand choice beyond domestically produced goods.
+
+> [!EXAMPLE] Chinese toys in India
+> Chinese manufacturers learnt of an opportunity to export toys to India, where toys were sold at a high price. Plastic toys from China, being cheaper and of new designs, became popular in Indian markets. Within a year, 70 to 80 per cent of the toy shops replaced Indian toys with Chinese toys. **Buyers** got more choice at lower prices; **Chinese toy makers** expanded business; but **Indian toy makers** faced losses as their toys sold much less.
+
+**Effect of foreign trade**: as a result, **prices of similar goods in two markets tend to become equal**, and producers in the two countries now closely compete against each other even though they are separated by thousands of miles. **Foreign trade thus results in connecting the markets** or integration of markets in different countries.
+
+> [!KEY] Globalisation
+> The process of **rapid integration or interconnection between countries**. MNCs play a major role. More and more goods and services, investments and technology are moving between countries; there is also some (but restricted) movement of people between countries in search of better income, jobs or education.
+
+## Factors that have enabled globalisation
+1. **Technology**: rapid improvement in **transportation technology** has made much faster delivery of goods across long distances possible at lower costs (e.g., containers for transport of goods). Even more remarkable are developments in **information and communication technology**: telecommunications (telegraph, telephone, mobile phones, fax), computers and the **internet** make it easy to contact one another around the world, access information instantly and communicate from remote areas. For example, a news magazine in London can be designed and printed in Delhi, with text sent over the internet.
+2. **Liberalisation of foreign trade and foreign investment policy**: a **trade barrier** is a restriction set up by the government, e.g., a **tax on imports**. Governments use trade barriers to increase or decrease (regulate) foreign trade and to decide what kinds of goods and how much of each should come into the country. After independence, the Indian government put barriers to foreign trade and investment to **protect producers** within the country from foreign competition; industries were just coming up in the 1950s and 1960s. Starting around **1991**, some far-reaching changes in policy were made in India: the government decided that the time had come for Indian producers to compete with producers around the globe. Barriers on foreign trade and investment were removed to a large extent. **Removing barriers or restrictions set by the government is called liberalisation.**
+3. **World Trade Organisation (WTO)**: an organisation whose aim is to **liberalise international trade**. Started at the initiative of the developed countries, the WTO establishes **rules regarding international trade** and sees that these rules are obeyed. About **164 countries** of the world are currently members of the WTO (as of 2016). Although the WTO is supposed to allow free trade for all, in practice the **developed countries have unfairly retained trade barriers**. For example, developing countries are forced to remove barriers, while the **US government gives massive subsidies to its farmers** (e.g., cotton farmers), so they can sell at low prices, harming farmers in developing countries. Developing countries are therefore demanding fair trade rules.
+
+## Impact of globalisation in India
+**Positive effects:**
+- Greater **choice for consumers**, who now enjoy improved quality and lower prices for several products, especially the well-off sections in urban areas.
+- **MNCs have increased their investments** in India over the past 20 years: industries such as **cellphones, automobiles, electronics, soft drinks, fast food** and services such as **banking** in urban areas. New jobs have been created; local companies supplying raw materials to these industries have prospered.
+- Several top Indian companies benefited from increased competition: they invested in newer technology and production methods and raised production standards; some gained from successful collaborations with foreign companies.
+- Some large Indian companies have emerged as **multinationals** themselves: **Tata Motors** (automobiles), **Infosys** (IT), **Ranbaxy** (medicines), **Asian Paints** (paints), **Sundaram Fasteners** (nuts and bolts) are spreading operations worldwide.
+- New opportunities for companies providing **services**, especially those involving IT: e.g., an Indian company producing a magazine for a London company, and call centres.
+
+**Special Economic Zones (SEZs)**: industrial zones set up by the government to attract foreign companies to invest in India. They have world-class facilities: electricity, water, roads, transport, storage, recreational and educational facilities. Companies that set up production units in SEZs do not have to pay taxes for an initial period of five years. The government has also allowed **flexibility in labour laws** to attract foreign investment.
+
+**Negative effects / challenges:**
+- Globalisation and the pressure of competition have substantially changed the lives of workers. Faced with growing competition, most employers now prefer to employ workers **flexibly**: workers' jobs are no longer secure.
+- **Small producers** have been hit hard by rising competition. Several units shut down, rendering many workers jobless. Industries such as **batteries, capacitors, plastics, toys, tyres, dairy products and vegetable oil** are examples where small manufacturers were badly hit.
+- Benefits have **not been shared equally**: well-off, educated, skilled and wealthy producers gained, while many small producers and workers suffered.
+
+> [!EXAMPLE] Garment workers
+> A garment exporter facing competition from MNC buyers cuts labour costs: workers are employed on a **temporary basis**, work long hours (including night shifts during peak season), get **low wages**, and have no job security, while the MNC earns large profits.
+
+## The struggle for fair globalisation
+> [!KEY] Fair globalisation
+> Globalisation that creates **opportunities for all** and ensures that its **benefits are better shared**. The government can play a major role:
+> - Ensure that **labour laws are properly implemented** and workers get their rights.
+> - **Support small producers** to improve their performance until they become strong enough to compete.
+> - If necessary, use **trade and investment barriers**.
+> - **Negotiate at the WTO for 'fairer rules'** and align with other developing countries to fight against the domination of developed countries in the WTO.
+> People's organisations and campaigns have also influenced important decisions related to trade and investment at the WTO.
+
+> [!MISTAKE] Liberalisation vs globalisation
+> **Liberalisation** is the removal of government restrictions on trade and investment (a policy, from 1991 in India). **Globalisation** is the wider process of integration between countries; liberalisation is one of the **factors** that enabled it.
+
+> [!TIP] Board favourites
+> "What is an MNC? How do MNCs control production?" (3 marks), "How does foreign trade integrate markets?", "Factors enabling globalisation" (5 marks), "Role of WTO and why it is criticised", "Impact of globalisation on India", "What is fair globalisation and the government's role?", "What are SEZs?". Use the Ford–Mahindra and Cargill–Parakh examples.
+
+## Quick recap
+- MNC: owns or controls production in more than one nation; seeks cheap labour, markets and supportive policies.
+- MNCs interlink production via joint ventures (Ford with Mahindra, 1995), buying local firms (Cargill bought Parakh), and orders to small producers.
+- Foreign trade integrates markets; prices tend to become equal across countries.
+- Factors: technology (transport, IT), liberalisation (India from 1991), WTO (about 164 members).
+- Impact: more choice, new jobs, Indian MNCs (Tata Motors, Infosys); but small producers and workers hit, insecure jobs.
+- Fair globalisation: enforce labour laws, support small producers, fairer WTO rules.
+
+--- quiz ---
+Q: A company that owns or controls production in more than one nation is called a
+- public sector undertaking
+- cooperative
+* multinational corporation
+- self-help group
+> MNCs set up production where labour and resources are cheap and markets are close.
+
+Q: Ford Motors set up its plant near Chennai in 1995 in collaboration with
+- Tata Motors
+* Mahindra and Mahindra
+- Maruti Udyog
+- Bajaj Auto
+> This is an example of an MNC entering through joint production with a local company.
+
+Q: Cargill Foods became the largest producer of edible oil in India by
+- placing orders with small producers
+- setting up a joint venture with the government
+- importing oil from the USA
+* buying up the Indian company Parakh Foods
+> Buying local companies is the most common route for MNCs to expand quickly.
+
+Q: A tax on imports is an example of
+* a trade barrier
+- liberalisation
+- foreign investment
+- globalisation
+> Governments use trade barriers to regulate what and how much comes into the country.
+
+Q: Which of these was NOT a factor that enabled globalisation?
+- Improvement in transport technology
+- Information and communication technology
+- Liberalisation of trade and investment
+* Increase in trade barriers on imports
+> Globalisation was enabled by removing barriers, not increasing them.
+
+Q: Which industry is an example where small Indian producers were badly hit by globalisation?
+- Software services
+- Cellphones
+* Toys
+- Automobiles
+> Batteries, capacitors, plastics, toys, tyres, dairy and vegetable oil producers faced severe competition.
+
+Q: The WTO is criticised because
+- it has no member countries
+- it bans all foreign trade
+* developed countries have unfairly retained trade barriers while forcing developing countries to remove theirs
+- it is run only by developing countries
+> For example, the US gives massive subsidies to its farmers while asking others to open markets.
+
+W[3]: How does foreign trade lead to integration of markets across countries? Explain with an example.
+A: (1) Foreign trade gives producers an opportunity to reach beyond domestic markets and compete in markets of other countries; buyers get a wider choice of goods.
+(2) As goods move from one market to another, prices of similar goods in the two markets tend to become equal, and producers in both countries compete closely.
+(3) Example: Chinese toys, cheaper and of new designs, entered Indian markets; within a year most toy shops replaced Indian toys with Chinese ones, linking the Chinese and Indian toy markets.
+
+W[5]: What is fair globalisation? How can the government ensure it?
+A: Fair globalisation creates opportunities for all and ensures that its benefits are better shared, not just enjoyed by the well-off, skilled and wealthy.
+(1) The government can ensure that labour laws are properly implemented and workers get their rights.
+(2) It can support small producers to improve their performance until they become strong enough to compete.
+(3) If necessary, it can use trade and investment barriers to protect vulnerable producers.
+(4) It can negotiate at the WTO for fairer rules and align with other developing countries against the domination of developed countries.
+(5) People's organisations and campaigns can also pressure governments and influence decisions on trade and investment.
+
