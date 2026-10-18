@@ -2764,3 +2764,228 @@ Q: "now" in direct speech changes to
 
 W[3]: Report the dialogue: Anil: "Can you cook?" Hari: "I can cook very well." Anil: "Make some tea for me."
 A: Anil asked Hari if he could cook. Hari replied that he could cook very well. Anil then told (asked) him to make some tea for him. (Points: "if" for a yes/no question; can → could; I → he; command reported with "to make".)
+
+=== letter-writing ===
+## The big idea
+In the CBSE Class 10 exam you write one **formal letter** (about **100–120 words**, 5 marks) — a letter of **complaint**, **enquiry**, **placing an order**, or a **letter to the editor**. Marks are given for **format**, **content**, **organisation** and **accuracy**, so a correct layout alone can earn you easy marks.
+
+## The standard format
+
+> [!FORMULA] Formal letter layout (top to bottom, all left-aligned)
+> 1. **Sender's address** (in the exam use "Examination Hall" or the given address)
+> 2. **Date** (e.g. 18 October 20XX)
+> 3. **Receiver's designation and address** (The Manager, ABC Books, …)
+> 4. **Subject:** one line, to the point
+> 5. **Salutation:** Sir / Madam (or Dear Sir / Madam)
+> 6. **Body:** 3 paragraphs — introduction (purpose), details, conclusion (request/action expected)
+> 7. **Complimentary close:** Yours faithfully / Yours sincerely
+> 8. **Signature, name** (and designation if given)
+
+> [!MISTAKE] Use the name given in the question
+> If the question says "You are Rohan/Rohini of 12, MG Road", sign with **that name and address** — do not write your own. Also, never write "Yours faithfully" with a comma error or "Your's".
+
+## Language tips
+- Be **polite, formal and concise**; no slang, contractions or emotional outbursts.
+- Start with the purpose: *I am writing to draw your attention to… / I wish to enquire about… / I would like to place an order for…*
+- End with action: *I hope you will take prompt action. / I look forward to an early reply.*
+- Use passive and formal phrases: *It has been observed that…; Kindly…; I would be grateful if…*
+
+## Types of formal letters
+**1. Letter of complaint** — to a company, shop or official about a defective product, poor service or civic problem. Include: what was bought/what the problem is, when, bill/order number, the inconvenience caused, and what you want (replacement, refund, repair, action).
+
+**2. Letter of enquiry** — to ask for information (courses, tours, admissions, products). Include: what you want to know in clear points (fees, duration, eligibility, facilities) and a request for a brochure/early reply.
+
+**3. Letter placing an order** — to a supplier. Include: a **table/list** of items with quantity and specifications, mode of payment, delivery date and address, discount if any, and a request to send items in good condition.
+
+**4. Letter to the editor** — to raise public awareness about an issue (stray animals, noise pollution, water-logging). Begin with *Through the columns of your esteemed newspaper, I wish to…*; describe the problem, causes, effects and suggestions.
+
+> [!EXAMPLE] Model letter of complaint
+> Examination Hall
+> ABC Nagar, Delhi
+> 18 October 20XX
+>
+> The Manager
+> Smart Electronics
+> Karol Bagh, New Delhi
+>
+> **Subject: Complaint regarding a defective water purifier**
+>
+> Sir
+>
+> I am writing to complain about the water purifier (Model AquaPure X2, Bill No. 4512) that I purchased from your store on 5 October 20XX.
+>
+> Within a week of installation, the purifier began leaking and the filtered water has an unpleasant smell. Despite two calls to your service centre, no technician has visited. This has caused great inconvenience, as my family now has to buy bottled water.
+>
+> As the product is under warranty, I request you to replace it or refund the amount at the earliest. A copy of the bill is enclosed. I hope for a prompt response.
+>
+> Yours faithfully
+> Rohan
+
+
+> [!EXAMPLE] Opening lines to remember
+> - Enquiry: *I came across your advertisement in The Hindu dated… offering a summer course in robotics. I would be grateful if you could provide the following details.*
+> - Order: *I would like to place an order for the following books for our school library.*
+> - Editor: *Through the columns of your esteemed daily, I wish to draw the attention of the authorities towards the menace of stray dogs in our locality.*
+
+> [!TIP] Scoring checklist
+> Correct format (with subject) ✓ · Purpose in the first line ✓ · All details from the question used ✓ · Three clear paragraphs ✓ · Polite closing with action requested ✓ · 100–120 words ✓
+
+## Quick recap
+- Sender's address → date → receiver's address → subject → salutation → body (3 paras) → Yours faithfully → name.
+- Complaint: problem + details + demand. Enquiry: list of questions. Order: list of items + delivery terms. Editor: issue + effects + suggestions.
+- Formal, concise and polite; use the name and address given.
+
+--- quiz ---
+Q: In a formal letter, what comes immediately after the date?
+- The subject
+- The salutation
+* The receiver's address
+- The signature
+> The order is sender's address, date, receiver's address, subject, salutation.
+
+Q: Which complimentary close is most suitable for a formal letter to a company?
+- Your loving friend
+- Lots of love
+* Yours faithfully
+- Cheers
+> "Yours faithfully" (or "Yours sincerely") is used in formal letters.
+
+Q: A letter asking a coaching institute about fees and course duration is a letter of
+- complaint
+* enquiry
+- order
+- apology
+> Asking for information is an enquiry.
+
+Q: Which opening is best for a letter to the editor?
+- Hi editor, how are you?
+- I am very angry today.
+* Through the columns of your esteemed newspaper, I wish to draw attention to…
+- Please print my letter quickly.
+> Letters to the editor begin by asking to raise the issue through the newspaper's columns.
+
+Q: Which detail is essential in a letter placing an order?
+- A joke to build rapport
+- Your hobbies
+- The editor's name
+* A list of items with quantities and delivery terms
+> An order letter must clearly list items, quantities, payment and delivery details.
+
+Q: What is the usual word limit for the formal letter in the CBSE Class 10 exam?
+- 50–60 words
+* 100–120 words
+- 200–250 words
+- 300 words
+> The letter is expected to be about 100–120 words.
+
+Q: Which part states the purpose of the letter in one line, before the salutation?
+- The complimentary close
+* The subject line
+- The sender's address
+- The date
+> The subject line gives the topic of the letter.
+
+W[5]: You are Riya/Rahul of 14, Lake Road, Kolkata. Write a letter to the Manager, Book World, Park Street, Kolkata, placing an order for books for your school library. (100–120 words)
+A: 14, Lake Road, Kolkata | 18 October 20XX | The Manager, Book World, Park Street, Kolkata | Subject: Order for library books | Sir | As the Library Prefect of our school, I would like to place an order for the following books: (1) Wings of Fire by A.P.J. Abdul Kalam — 5 copies; (2) The Diary of a Young Girl by Anne Frank — 5 copies; (3) Long Walk to Freedom by Nelson Mandela — 3 copies; (4) Oxford English Dictionary — 2 copies. Kindly ensure that the books are the latest editions and are delivered in good condition by 30 October 20XX. Payment will be made by cheque on delivery. Please allow the usual school discount. | Yours faithfully | Riya/Rahul, Library Prefect. (Marks for correct format, list of items with quantities, delivery and payment terms, polite tone.)
+
+=== analytical-paragraph ===
+## The big idea
+An **analytical paragraph** (about **100–120 words**, 5 marks) describes and interprets information given as a **chart, graph, table or cue points**. You do not give your personal opinion; you **present the facts clearly, compare them and draw a conclusion** from the data.
+
+## Structure
+
+> [!FORMULA] Analytical paragraph template
+> 1. **Title** (optional but useful): e.g. *Growth of Internet Users in India (2015–2023)*
+> 2. **Introduction (1–2 sentences):** what the chart shows, the period and the units. *The bar graph illustrates the number of… between… and…*
+> 3. **Body (3–5 sentences):** the **overall trend**, the **highest and lowest** values, **comparisons** and any **sudden change**, with exact figures.
+> 4. **Conclusion (1–2 sentences):** summarise the main trend or a reasonable inference from the data.
+
+## Useful vocabulary
+| Purpose | Words and phrases |
+|---|---|
+| Introduce | The graph/chart/table **depicts, illustrates, shows, presents, compares** |
+| Rise | rose, increased, grew, climbed, surged, soared, a sharp/steady/gradual rise |
+| Fall | fell, declined, dropped, decreased, plunged, a significant/slight decline |
+| No change | remained stable/constant, levelled off, plateaued |
+| Up and down | fluctuated |
+| Peak/low | reached a peak of, hit a low of |
+| Compare | while, whereas, in contrast, compared to, twice as many as, the same as |
+| Proportion | a quarter, one-third, nearly half, the majority, a small minority |
+| Conclude | Overall, In conclusion, It is evident that, The data clearly indicate |
+
+> [!MISTAKE] Don't list every number
+> Group the data and pick out the **key features**. A paragraph that just reads out every bar like a list loses marks for analysis.
+
+> [!MISTAKE] Keep tenses consistent
+> Use the **past tense** for completed periods (*rose from 20% in 2015 to 45% in 2020*) and the **present** for what the chart shows (*The graph shows…*). Avoid personal opinions like *I think*.
+
+> [!EXAMPLE] Model analytical paragraph
+> **Question:** The bar graph shows the percentage of students in a school using different modes of transport in 2023: school bus 40%, cycle 25%, private car 20%, walking 10%, public transport 5%.
+>
+> **Answer — Modes of Transport Used by Students (2023)**
+> The bar graph illustrates the percentage of students of a school using various modes of transport in 2023. The **school bus** was clearly the most popular choice, used by **40%** of students. **Cycling** came second at **25%**, followed by **private cars** at **20%**. In contrast, only **10%** of students **walked** to school, and **public transport** was the least preferred, at a mere **5%**. Thus, eco-friendly modes like cycling and walking together accounted for over one-third of students. Overall, it is evident that most students rely on the school bus, and there is scope to encourage more students to cycle or use public transport.
+
+> [!EXAMPLE] Describing a line graph (trend sentences)
+> *Sales of electric scooters **rose steadily** from 2,000 units in 2019 to 8,000 in 2021, **surged** to 20,000 in 2022 and then **levelled off** in 2023.*
+> *The literacy rate in the state **increased from 60% to 78%** over two decades — a **rise of 18 percentage points**.*
+
+> [!TIP] Scoring checklist
+> Clear introduction naming the chart and period ✓ · Overall trend ✓ · Highest and lowest with figures ✓ · Comparisons using linkers ✓ · Logical conclusion ✓ · No opinions ✓ · 100–120 words ✓
+
+## Quick recap
+- Introduce → trend and key figures → comparisons → conclusion.
+- Use trend verbs (rose, declined, fluctuated, peaked) and linkers (whereas, in contrast).
+- Be factual and selective; don't copy every number; no "I think".
+
+--- quiz ---
+Q: An analytical paragraph mainly
+- gives personal opinions
+* describes and interprets data from a chart or graph
+- narrates a story
+- persuades the reader to buy a product
+> It presents facts from data objectively and draws conclusions.
+
+Q: Which is the best opening sentence?
+- I think the graph is very interesting.
+- Look at this chart carefully.
+* The line graph shows the number of tourists visiting Goa from 2018 to 2023.
+- Tourists love Goa.
+> A good introduction names the type of chart, the subject and the period.
+
+Q: Which word describes values that go up and down repeatedly?
+- Plateaued
+- Soared
+* Fluctuated
+- Plunged
+> "Fluctuated" means rose and fell irregularly.
+
+Q: Which linker is used to show contrast?
+- Moreover
+- Furthermore
+- Similarly
+* Whereas
+> "Whereas" contrasts two facts.
+
+Q: What should the conclusion of an analytical paragraph contain?
+- A new set of numbers not in the chart
+- A story about the topic
+* A summary of the main trend or a logical inference from the data
+- A list of all the figures again
+> The conclusion sums up the key trend without adding new data or opinions.
+
+Q: What is the usual word limit for an analytical paragraph in the board exam?
+* 100–120 words
+- 30–40 words
+- 250–300 words
+- 500 words
+> It is a short paragraph of about 100–120 words.
+
+Q: "Sales remained at 500 units from 2020 to 2022" can best be rewritten as
+- Sales soared between 2020 and 2022.
+- Sales plunged between 2020 and 2022.
+* Sales remained stable at 500 units between 2020 and 2022.
+- Sales fluctuated sharply between 2020 and 2022.
+> No change means stable or constant.
+
+W[5]: The table shows the average daily screen time of Class 10 students: 2019 — 2 hours, 2020 — 5 hours, 2021 — 6 hours, 2022 — 4 hours, 2023 — 3.5 hours. Write an analytical paragraph (100–120 words).
+A: Average Daily Screen Time of Class 10 Students (2019–2023). The table presents the average daily screen time of Class 10 students over five years. In 2019, students spent about two hours a day on screens. This figure more than doubled to five hours in 2020 and reached a peak of six hours in 2021, most likely because of online classes during the pandemic. After schools reopened, screen time declined to four hours in 2022 and fell further to three and a half hours in 2023. However, it still remained well above the 2019 level. Overall, the data indicate a sharp rise followed by a gradual decline, suggesting that screen habits formed during the pandemic have only partly reversed. (Marks for introduction, trend with figures, peak, comparison and conclusion.)

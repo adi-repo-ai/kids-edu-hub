@@ -1789,3 +1789,276 @@ A: (1) Construction cost of roads is much lower than that of railway lines.
 (4) Road transport is economical for transporting few persons and relatively smaller amounts of goods over short distances, and provides door-to-door service, reducing the cost of loading and unloading.
 (5) Road transport is also used as a feeder to other modes of transport, providing a link between railway stations, air and sea ports.
 
+=== power-sharing ===
+## The big idea
+In a democracy, **power is not concentrated in one person, group or organ of government**. It is shared among different organs, levels, social groups and parties. This chapter uses two stories, **Belgium** and **Sri Lanka**, to show why sharing power keeps a country united, and why refusing to share can tear it apart.
+
+## Belgium: accommodation
+Belgium is a small country in Europe, smaller in area than the state of Haryana, with a population of a little over one crore.
+
+| Group | Share of population | Region |
+|---|---|---|
+| **Dutch-speaking** | **59%** | Flemish region |
+| **French-speaking** | **40%** | Wallonia region |
+| **German-speaking** | **1%** | |
+
+In the capital, **Brussels**, **80%** speak French and **20%** speak Dutch. The minority French-speaking community was relatively rich and powerful. This was resented by the Dutch-speaking community, who got the benefit of economic development and education much later. This led to tensions in the 1950s and 1960s, more acute in Brussels, where Dutch speakers were a majority in the country but a minority in the capital.
+
+> [!KEY] The Belgian model of accommodation
+> Between **1970 and 1993**, Belgian leaders **amended their constitution four times**, working out an innovative arrangement:
+> 1. The Constitution prescribes that the number of **Dutch and French-speaking ministers shall be equal** in the central government. Some special laws require support of the majority of members from each linguistic group, so no single community can make decisions unilaterally.
+> 2. Many powers of the central government have been given to **state governments** of the two regions. State governments are **not subordinate** to the central government.
+> 3. **Brussels has a separate government** in which both communities have **equal representation**. The French-speaking people accepted equal representation in Brussels because the Dutch-speaking community accepted equal representation in the central government.
+> 4. Apart from central and state governments, there is a third kind of government, the **'community government'**, elected by people belonging to one language community (Dutch, French or German), no matter where they live. It has power regarding **cultural, educational and language-related issues**.
+
+The arrangement is complicated, but it has worked well: it helped avoid civic strife and a possible division of the country on linguistic lines. When many countries of Europe came together to form the **European Union**, **Brussels was chosen as its headquarters**.
+
+## Sri Lanka: majoritarianism
+Sri Lanka, an island nation just off the southern coast of Tamil Nadu, has about 2 crore people.
+
+- **Sinhala**-speakers: **74%**; **Tamil**-speakers: **18%**. Among Tamils, **Sri Lankan Tamils** (natives of the country) are **13%**, and **Indian Tamils** (whose forefathers came from India as plantation workers during colonial rule) are **5%**.
+- Most Sinhala-speakers are **Buddhists**; most Tamils are **Hindus or Muslims**. About **7%** are Christians, both Tamil and Sinhala.
+- Sri Lankan Tamils are concentrated in the **north and east** of the country.
+
+> [!KEY] Majoritarian measures after independence (1948)
+> Sri Lanka became independent in **1948**. Leaders of the Sinhala community sought to secure dominance by virtue of their majority. They adopted **majoritarian** measures:
+> - In **1956**, an Act was passed to recognise **Sinhala as the only official language**, disregarding Tamil.
+> - Governments followed preferential policies that **favoured Sinhala applicants for university positions and government jobs**.
+> - The new constitution stipulated that the state shall **protect and foster Buddhism**.
+
+These measures gradually increased the feeling of alienation among Sri Lankan Tamils. They felt that none of the major political parties led by Buddhist Sinhala leaders was sensitive to their language and culture, and that the constitution and government policies denied them equal political rights, discriminated against them in getting jobs and other opportunities, and ignored their interests.
+
+By the 1980s, several political organisations were formed demanding an **independent Tamil Eelam** (state) in northern and eastern Sri Lanka. The distrust turned into widespread conflict and soon a **civil war**. Thousands of people of both communities were killed; many families were forced to leave as refugees, and many more lost their livelihoods. The civil war ended in **2009** (with the defeat of the LTTE), but it caused a terrible setback to the social, cultural and economic life of the country.
+
+> [!KEY] Majoritarianism
+> A belief that the **majority community should be able to rule a country in whichever way it wants**, by disregarding the wishes and needs of the minority.
+
+## Why power-sharing is desirable
+> [!KEY] Two sets of reasons
+> **Prudential reasons** (based on careful calculation of gains and losses): power-sharing is good because it helps to **reduce the possibility of conflict** between social groups. Since social conflict often leads to violence and political instability, power-sharing is a good way to **ensure the stability of political order**. Imposing the will of the majority community on others may look like an attractive option in the short run, but in the long run it undermines the unity of the nation (Sri Lanka shows this).
+> **Moral reasons** (based on the intrinsic worth of power-sharing): power-sharing is **the very spirit of democracy**. A democratic rule involves sharing power with those affected by its exercise and who have to live with its effects. People have a right to be consulted on how they are to be governed. A **legitimate government** is one where citizens, through participation, acquire a stake in the system.
+
+## Forms of power-sharing
+1. **Horizontal distribution (among organs of government)**: power is shared among the **legislature, executive and judiciary**. Each organ is placed at the same level and **checks** the others. Ministers and government officials exercise power but are responsible to Parliament or State Assemblies; judges are appointed by the executive but can check the functioning of the executive or laws made by legislatures. This arrangement is called a system of **checks and balances**.
+2. **Vertical distribution (among governments at different levels)**: a general government for the entire country (the **Union or Central Government**), governments at the provincial or regional level (**State Governments** in India), and further at the local level (**municipalities and panchayats**). Such a division of powers between higher and lower levels of government is called **vertical division of power**. When the Constitution clearly lays this down, it is **federal** government.
+3. **Among social groups**: power may be shared among different social groups, such as religious and linguistic groups. The **'community government'** in Belgium is a good example. In some countries there are constitutional and legal arrangements whereby socially weaker sections and women are represented in legislatures and administration, like **reserved constituencies** in India.
+4. **Among political parties, pressure groups and movements**: democracy ensures that power does not remain in the hands of one; competition among parties ensures power keeps shifting. In the long run, power is shared among different parties representing different ideologies and social groups. Sometimes two or more parties form an **alliance** to contest elections and, if elected, form a **coalition government**. Interest groups such as traders, businessmen, industrialists, farmers and industrial workers also share governmental power, either through participation in government committees or by influencing decision-making.
+
+> [!MISTAKE] "Power-sharing weakens a country"
+> Many people think concentrated power gives quick decisions and unity. Belgium shows the opposite: sharing power **kept the country united**. Sri Lanka shows that refusing to share power **led to civil war**.
+
+> [!TIP] Board favourites
+> "Compare the Belgian and Sri Lankan approaches" (5 marks), "List the majoritarian measures adopted in Sri Lanka", "Explain the prudential and moral reasons for power-sharing", "Describe the forms of power-sharing with examples", "What are checks and balances?". Remember the population percentages for both countries.
+
+## Quick recap
+- Belgium: Dutch 59%, French 40%, German 1%; Brussels 80% French, 20% Dutch.
+- Belgian constitution amended four times (1970–1993): equal ministers, state governments, Brussels government, community government.
+- Sri Lanka: Sinhala 74%, Tamils 18%; 1956 Act made Sinhala the only official language; civil war ended 2009.
+- Prudential reasons: reduce conflict, ensure stability. Moral reasons: spirit of democracy, legitimacy.
+- Forms: horizontal, vertical, among social groups, among parties/pressure groups.
+
+--- quiz ---
+Q: In Belgium, the share of Dutch-speaking people in the population is
+- 40%
+* 59%
+- 80%
+- 74%
+> Dutch speakers are 59%, French 40% and German 1%.
+
+Q: Which of these is NOT a feature of the Belgian model of power-sharing?
+- Equal number of Dutch and French ministers in the central government
+- A separate government for Brussels with equal representation
+- A community government elected by each language group
+* Making Dutch the only official language
+> Belgium accommodated all groups; making one language official is a majoritarian step like Sri Lanka's 1956 Act.
+
+Q: The 1956 Act in Sri Lanka
+* recognised Sinhala as the only official language
+- gave equal status to Tamil and Sinhala
+- created a separate Tamil state
+- abolished Buddhism as a state religion
+> This majoritarian measure disregarded Tamil and alienated Sri Lankan Tamils.
+
+Q: "Power-sharing helps reduce the possibility of conflict between social groups." This is a
+- moral reason
+- legal reason
+* prudential reason
+- religious reason
+> Prudential reasons are based on careful calculation of gains and losses, such as stability.
+
+Q: The system in which each organ of government checks the others is called
+- vertical division of power
+- coalition government
+- community government
+* checks and balances
+> Horizontal sharing among legislature, executive and judiciary works through checks and balances.
+
+Q: Brussels was chosen as the headquarters of which organisation?
+- United Nations
+* European Union
+- World Trade Organisation
+- NATO
+> Belgium's successful accommodation helped Brussels become the EU headquarters.
+
+Q: Reserved constituencies for weaker sections in India are an example of power-sharing among
+- organs of government
+- levels of government
+* social groups
+- pressure groups only
+> Giving socially weaker sections representation is power-sharing among social groups.
+
+W[3]: Explain the majoritarian measures adopted by the Sri Lankan government after independence.
+A: (1) In 1956, an Act was passed recognising Sinhala as the only official language, disregarding Tamil.
+(2) Governments followed preferential policies that favoured Sinhala applicants for university positions and government jobs.
+(3) A new constitution stipulated that the state shall protect and foster Buddhism. These measures alienated Sri Lankan Tamils, leading to demands for Tamil Eelam and eventually a civil war.
+
+W[5]: Describe the different forms of power-sharing in modern democracies with examples.
+A: (1) Horizontal distribution: power shared among legislature, executive and judiciary at the same level; each checks the others (checks and balances), e.g., judges can check laws made by legislatures.
+(2) Vertical distribution: power shared among governments at different levels: Union, State and local (panchayats and municipalities) in India; this is federal division.
+(3) Among social groups: e.g., community government in Belgium; reserved constituencies for SCs/STs and women in India.
+(4) Among political parties: competition ensures power does not remain in one hand; coalition governments share power among parties.
+(5) Among pressure groups and movements: traders, farmers, workers influence decisions through committees and agitation.
+
+=== federalism ===
+## The big idea
+Power-sharing between different levels of government is the heart of **federalism**. India has a central government, state governments and local governments, each with its own powers given by the **Constitution**. This chapter explains what makes a country federal, how India practises federalism, and how the **1992 amendment** created a third tier of local government.
+
+> [!KEY] Federalism
+> A system of government in which the power is **divided between a central authority and various constituent units** of the country. Usually there are two levels: one for the entire country (common national interest) and another at the level of provinces or states (day-to-day administering). Both levels enjoy their power **independent of the other**. In a **unitary** system, there is either only one level of government, or sub-units are subordinate to the central government (e.g., Sri Lanka).
+
+## Key features of federalism
+1. There are **two or more levels (tiers)** of government.
+2. Different tiers govern the **same citizens**, but each tier has its own **jurisdiction** in specific matters of legislation, taxation and administration.
+3. The jurisdictions are specified in the **Constitution**, so the existence and authority of each tier is **constitutionally guaranteed**.
+4. Fundamental provisions of the Constitution **cannot be unilaterally changed** by one level of government; changes require the consent of both levels.
+5. **Courts** have the power to interpret the Constitution and the powers of different levels; the highest court acts as an **umpire** if disputes arise.
+6. **Sources of revenue** for each level are clearly specified to ensure its financial autonomy.
+7. Dual objectives: to **safeguard and promote unity** of the country, while **accommodating regional diversity**. Mutual trust and agreement to live together are essential.
+
+> [!KEY] Two routes to federation
+> - **Coming together federations**: independent states come together on their own to form a bigger unit, pooling sovereignty and retaining identity. All constituent states usually have **equal power** and are strong vis-à-vis the federal government. Examples: **USA, Switzerland, Australia**.
+> - **Holding together federations**: a large country decides to divide its power between constituent states and the national government. The central government tends to be **more powerful**; constituent units may have **unequal powers** (some get special powers). Examples: **India, Spain, Belgium**.
+
+## What makes India a federal country
+The Constitution declared India a **Union of States**. Although it did not use the word "federation", the Indian Union is based on federal principles. It provides a **three-fold distribution** of legislative powers through three lists:
+
+| List | Who makes laws | Examples |
+|---|---|---|
+| **Union List** | **Union Government** alone | Subjects of national importance: **defence, foreign affairs, banking, communications and currency** |
+| **State List** | **State Governments** alone | Subjects of state and local importance: **police, trade, commerce, agriculture and irrigation** |
+| **Concurrent List** | **Both** Union and State; if laws conflict, the **Union law prevails** | Common interest: **education, forest, trade unions, marriage, adoption and succession** |
+
+**Residuary subjects** (not in any list, e.g., **computer software**, which came up after the Constitution was made) are with the **Union Government**.
+
+- **Not all states have identical powers**: some states enjoy a special status (e.g., under Article 371, some states in the north-east have special provisions). (Jammu and Kashmir had its own constitution under Article 370 until 2019, when it was reorganised into two Union Territories.)
+- **Union Territories** (e.g., **Chandigarh, Lakshadweep**, and the capital **Delhi**) are areas too small to be independent states or could not be merged; they do not have the powers of a state. The Central Government has special powers in running them.
+- Changing this power-sharing arrangement is not easy. The Parliament cannot change it on its own. Any change has to be passed by **both Houses of Parliament with at least a two-thirds majority**, and then **ratified by the legislatures of at least half of the total states**.
+- The **judiciary** plays an important role in overseeing implementation of constitutional provisions; in disputes about division of powers, the **High Courts and the Supreme Court** decide.
+- Both levels can **raise resources by levying taxes**.
+
+## How is federalism practised? Linguistic states and language policy
+**Linguistic states.** The creation of linguistic states was the **first and a major test** for democratic politics in India. Many old states vanished and new states were created in **1947** onward; in **1956**, boundaries of several old states were changed to ensure that people who spoke the same language lived in the same state. Some states were created on the basis of culture, ethnicity or geography (Nagaland, Uttarakhand, Jharkhand). Many national leaders feared it would lead to disintegration, but experience shows that it actually made the country **more united** and made administration easier.
+
+**Language policy.** The Constitution did **not give the status of national language to any one language**. **Hindi** was identified as the **official language**, but Hindi is the mother tongue of only about **40 per cent** of Indians. Besides Hindi, there are **22 other languages recognised as Scheduled Languages** (in the Eighth Schedule). A candidate in an examination for central government positions may opt to take the exam in any of these languages. States also have their own official languages. According to the Constitution, the use of **English** for official purposes was to stop in **1965**. However, many non-Hindi speaking states (e.g., Tamil Nadu) demanded continuation; the Central Government responded by agreeing to **continue English along with Hindi** for official purposes. Promotion of Hindi continues to be the official policy, but this does not mean imposing Hindi on states where people speak a different language. This flexibility helped India avoid the situation Sri Lanka faced.
+
+**Centre-state relations.** The way power-sharing works depends on how ruling parties and leaders follow these arrangements. For a long time, the same party ruled both at the centre and in most states, so state governments did not exercise their rights as autonomous federal units. The Central Government often **misused the Constitution to dismiss state governments** controlled by rival parties. After **1990**, there was the rise of **regional political parties** and the beginning of the era of **coalition governments** at the Centre. Since no single party got a clear majority in the Lok Sabha, major national parties had to enter into alliances with regional parties. This led to a new culture of **power-sharing and respect for the autonomy of state governments**. A **Supreme Court** judgment also made it difficult for the Central Government to dismiss state governments arbitrarily.
+
+## Decentralisation in India
+> [!KEY] Decentralisation
+> When power is taken away from Central and State governments and given to **local government**, it is called decentralisation. The basic idea: there are a large number of problems and issues best settled at the **local level**, as people have better knowledge of local problems, and local government is the best way to realise the principle of **democratic participation**.
+
+The need was recognised in the Constitution, and there were several attempts (gram panchayats in villages and municipalities in cities), but these were directly under state governments, elections were not held regularly, and they had no powers or resources of their own.
+
+> [!KEY] The 1992 amendment (73rd and 74th Amendments): steps towards real decentralisation
+> 1. It is now **constitutionally mandatory** to hold **regular elections** to local government bodies.
+> 2. **Seats are reserved** in the elected bodies and the executive heads for **Scheduled Castes, Scheduled Tribes and Other Backward Classes**.
+> 3. At least **one-third of all positions are reserved for women**.
+> 4. An independent institution called the **State Election Commission** has been created in each state to conduct panchayat and municipal elections.
+> 5. **State governments are required to share some powers and revenue** with local government bodies. The nature of sharing varies from state to state.
+
+**Structure of rural local government (Panchayati Raj):**
+- **Gram Panchayat**: each village or group of villages has a gram panchayat, a council of several ward members, often called **panch**, and a president or **sarpanch**. They are directly elected by all adult population living in that ward or village. It is the decision-making body for the entire village.
+- **Gram Sabha**: the panchayat works under the overall supervision of the gram sabha. **All voters in the village are its members.** It has to meet at least twice or thrice a year to approve the annual budget of the gram panchayat and review its performance.
+- **Panchayat Samiti** (or **Block** or **Mandal**): a few gram panchayats grouped together. Members are elected by all panchayat members in that area.
+- **Zila Parishad**: all panchayat samitis or mandals in a district together constitute the zila (district) parishad. Most members are elected; members of the Lok Sabha and MLAs of that district and some officials of other district-level bodies are also members. The **zila parishad chairperson** is the political head.
+
+**Urban local government**: **municipalities** in towns and **municipal corporations** in big cities, controlled by elected bodies of people's representatives. The **municipal chairperson** is the political head of a municipality; in a municipal corporation, this officer is called the **mayor**.
+
+This new system of local government is the **largest experiment in democracy** conducted anywhere in the world: there are now about 36 lakh elected representatives in panchayats and municipalities. It has deepened democracy and increased women's representation. Difficulties remain: **gram sabhas are not held regularly**, most state governments have **not transferred significant powers** to local governments, nor adequate resources.
+
+> [!MISTAKE] Gram Sabha vs Gram Panchayat
+> The **Gram Sabha** is the body of **all voters** of the village; the **Gram Panchayat** is the **elected council** (panch + sarpanch). The panchayat works under the supervision of the gram sabha.
+
+> [!TIP] Board favourites
+> "Key features of federalism" (5 marks), "Coming together vs holding together federations", "Explain the three lists", "How has language policy strengthened Indian federalism?", "Major steps of the 1992 amendment", "Structure of Panchayati Raj". Always give subject examples from each list.
+
+## Quick recap
+- Federalism: power divided between central authority and constituent units; constitutionally guaranteed.
+- Coming together (USA, Switzerland, Australia) vs holding together (India, Spain, Belgium).
+- Union, State and Concurrent lists; residuary subjects with the Union.
+- Changes need two-thirds of both Houses + ratification by half the states.
+- Linguistic states (1956), flexible language policy (Hindi + English, 22 Scheduled languages), coalition era after 1990.
+- 1992 amendment: regular elections, reservations, one-third seats for women, State Election Commission, sharing of powers and revenue.
+
+--- quiz ---
+Q: Which of these is an example of a "holding together" federation?
+- USA
+- Switzerland
+- Australia
+* India
+> India, Spain and Belgium are holding together federations; the others came together.
+
+Q: "Computer software" falls under which category of subjects?
+- State List
+- Concurrent List
+* Residuary subjects
+- Union List
+> Subjects that came up after the Constitution was made are residuary and belong to the Union Government.
+
+Q: Education, forest, marriage and adoption are subjects of the
+* Concurrent List
+- Union List
+- State List
+- Residuary list
+> Both Union and State governments can make laws on Concurrent List subjects.
+
+Q: To change the power-sharing arrangement in India, an amendment must be passed by two-thirds majority in both Houses and ratified by
+- the President alone
+- the Supreme Court
+- all the states
+* legislatures of at least half of the total states
+> Neither level can change the arrangement unilaterally.
+
+Q: Under the 1992 amendment, the proportion of seats reserved for women in local bodies is at least
+- one-fourth
+* one-third
+- one-half
+- two-thirds
+> At least one-third of all positions in local bodies are reserved for women.
+
+Q: Who conducts panchayat and municipal elections?
+- Election Commission of India
+- District Collector
+* State Election Commission
+- Gram Sabha
+> The 1992 amendment created an independent State Election Commission in each state.
+
+Q: The political head of a municipal corporation is called the
+- sarpanch
+- chairperson of zila parishad
+* mayor
+- block development officer
+> The mayor heads a municipal corporation; a municipal chairperson heads a municipality.
+
+W[3]: Distinguish between "coming together" and "holding together" federations.
+A: (1) In coming together federations, independent states come together on their own to form a bigger unit (USA, Switzerland, Australia); in holding together federations, a large country divides its power between states and the national government (India, Spain, Belgium).
+(2) In coming together federations, constituent states usually have equal power; in holding together federations, units may have unequal powers and some get special status.
+(3) In coming together federations, states are strong vis-à-vis the federal government; in holding together federations, the central government tends to be more powerful.
+
+W[5]: Describe the major steps taken through the 1992 constitutional amendment to make the third tier of democracy more effective.
+A: (1) It is now constitutionally mandatory to hold regular elections to local government bodies.
+(2) Seats are reserved in elected bodies and executive heads for Scheduled Castes, Scheduled Tribes and Other Backward Classes.
+(3) At least one-third of all positions are reserved for women.
+(4) An independent State Election Commission has been created in each state to conduct panchayat and municipal elections.
+(5) State governments are required to share some powers and revenue with local bodies. This made India's local government the largest experiment in democracy in the world, though gram sabhas are not held regularly and states have not transferred enough powers and resources.
+
