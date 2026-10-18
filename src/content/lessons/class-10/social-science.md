@@ -720,7 +720,7 @@ Everything in our environment that can be used to satisfy our needs, provided it
 - **Reserves**: a subset of stock that can be used with existing technology but whose use has not yet started (e.g., water in dams kept for the future).
 
 > [!KEY] Exclusive Economic Zone (EEZ)
-> India has the right to exploit resources in the ocean up to **200 nautical miles (km ≈ 370)** from its coast. Oceanic resources beyond this belong to **international institutions**.
+> India has the right to exploit resources in the ocean up to **200 nautical miles (about 370 km)** from its coast. Oceanic resources beyond this belong to **international institutions**.
 
 ## Development of resources and sustainable development
 Indiscriminate use of resources has caused (1) **depletion** of resources to satisfy the greed of a few, (2) **accumulation** of resources in a few hands, dividing society into rich and poor, and (3) **global ecological crises** like global warming, ozone layer depletion, pollution and land degradation.
@@ -1125,4 +1125,478 @@ A: (1) Damming rivers affects their natural flow, causing excessive sedimentatio
 (3) Reservoirs submerge vegetation and soil, and cause large-scale displacement of local communities who often get no benefits (e.g., Narmada Bachao Andolan, Tehri Dam Andolan).
 (4) Irrigation changed cropping patterns to water-intensive commercial crops, causing salinisation of soil and widening the gap between rich landowners and the landless poor.
 (5) Dams have failed to control floods in some cases (sedimentation, sudden release of water), and have caused inter-state water disputes, water-borne diseases and even induced earthquakes.
+
+=== agriculture ===
+## The big idea
+India is an agriculturally important country: about **two-thirds** of its population is engaged in agricultural activities. Agriculture produces most of the food we eat and raw materials for industries (cotton, jute, sugarcane). This chapter looks at **types of farming**, **cropping seasons**, **major crops** with the conditions they need and where they grow, and the **reforms** that aim to make farming productive and fair.
+
+## Types of farming
+> [!KEY] 1. Primitive subsistence farming
+> Practised on small patches of land with primitive tools like the hoe, dao and digging sticks, and family/community labour. Depends on monsoon, natural fertility of soil and suitability of other environmental conditions. It is **'slash and burn' agriculture**: farmers clear a patch of land, produce cereals and other food crops, and when soil fertility decreases, shift to a new patch. Nature replenishes the fertility of the old patch. Productivity is low because no fertilisers or modern inputs are used.
+
+**Names of shifting cultivation:**
+| In India | Outside India |
+|---|---|
+| **Jhumming** in Assam, Meghalaya, Mizoram, Nagaland (north-east) | **Milpa** in Mexico and Central America |
+| **Bewar** or **Dahiya** in Madhya Pradesh | **Conuco** in Venezuela |
+| **Podu** or **Penda** in Andhra Pradesh | **Roca** in Brazil |
+| **Pama Dabi**, **Koman** or **Bringa** in Odisha | **Masole** in Central Africa |
+| **Kumari** in the Western Ghats | **Ladang** in Indonesia |
+| **Valre** or **Waltre** in south-eastern Rajasthan | **Ray** in Vietnam |
+| **Khil** in the Himalayan belt; **Kuruwa** in Jharkhand | |
+
+> [!KEY] 2. Intensive subsistence farming
+> Practised in areas of **high population pressure on land**. It is **labour-intensive**; high doses of biochemical inputs and irrigation are used for higher production. Due to the 'right of inheritance', land is divided among successive generations, so landholdings become **uneconomical** and small. Farmers continue to take maximum output from limited land because they have no alternative source of livelihood.
+
+> [!KEY] 3. Commercial farming
+> Uses **higher doses of modern inputs** like high yielding variety (HYV) seeds, chemical fertilisers, insecticides and pesticides to obtain higher productivity. The degree of commercialisation varies by region: **rice is a commercial crop in Punjab and Haryana**, but a subsistence crop in Odisha.
+> **Plantation** is a type of commercial farming in which a **single crop** is grown on a large area. It has an interface of agriculture and industry, uses capital-intensive inputs and migrant labourers, and all produce is used as raw material in industries. Examples: **tea, coffee, rubber, sugarcane, banana**. Tea in **Assam and North Bengal**, coffee in **Karnataka**. Development of plantations depends on a well-developed network of transport and communication connecting plantations, processing industries and markets.
+
+## Cropping seasons
+| Season | Sown | Harvested | Main crops |
+|---|---|---|---|
+| **Rabi** | Winter, **October to December** | Summer, **April to June** | **Wheat, barley, peas, gram, mustard** |
+| **Kharif** | Onset of **monsoon** (June–July) | **September–October** | **Paddy, maize, jowar, bajra, tur (arhar), moong, urad, cotton, jute, groundnut, soybean** |
+| **Zaid** | Short season **between rabi and kharif** (summer months) | | **Watermelon, muskmelon, cucumber, vegetables, fodder crops** |
+
+- **Rabi** crops are grown mainly in the north and north-western states: Punjab, Haryana, Himachal Pradesh, Jammu and Kashmir, Uttarakhand and Uttar Pradesh. **Western temperate cyclones** (western disturbances) bring winter precipitation that helps the success of these crops; the Green Revolution in Punjab, Haryana, western UP and parts of Rajasthan also helped.
+- **Kharif**: important rice-growing regions include Assam, West Bengal, coastal Odisha, Andhra Pradesh, Telangana, Tamil Nadu, Kerala and Maharashtra (Konkan), along with UP and Bihar; recently paddy has also become important in Punjab and Haryana. In **Assam, West Bengal and Odisha**, three crops of paddy are grown in a year: **Aus, Aman and Boro**.
+- **Sugarcane** takes almost a year to grow.
+
+## Major crops
+> [!KEY] Food crops
+> **Rice** - staple food of the majority of people. India is the **second largest producer of rice** in the world after **China**. Kharif crop; needs **high temperature (above 25°C)**, **high humidity** and **annual rainfall above 100 cm**; grown in areas with less rainfall with the help of irrigation. Grown in the plains of north and north-east India, coastal areas and deltaic regions. Canal irrigation and tube-wells made it possible in Punjab, Haryana, western UP and parts of Rajasthan.
+> **Wheat** - second most important cereal; main food crop in the north and north-west. Rabi crop; needs a **cool growing season and bright sunshine at the time of ripening**; **50 to 75 cm** of annual rainfall evenly distributed over the growing season. Two important wheat-growing zones: the **Ganga-Satluj plains** in the north-west and the **black soil region of the Deccan**. Major producers: Punjab, Haryana, UP, MP, Bihar and Rajasthan.
+> **Millets** - **jowar, bajra and ragi**: coarse grains with very high nutritional value. **Ragi** is very rich in **iron, calcium**, other micro-nutrients and roughage.
+> - **Jowar**: third most important food crop with respect to area and production; **rain-fed**, grown in moist areas that hardly need irrigation. **Maharashtra** is the largest producer, followed by Karnataka, Andhra Pradesh and Madhya Pradesh.
+> - **Bajra**: grows well on **sandy soils and shallow black soil**. **Rajasthan** is the largest producer, followed by UP, Maharashtra, Gujarat and Haryana.
+> - **Ragi**: a crop of **dry regions**; grows well on red, black, sandy, loamy and shallow black soils. **Karnataka** is the largest producer, followed by Tamil Nadu; also HP, Uttarakhand, Sikkim, Jharkhand and Arunachal Pradesh.
+> **Maize** - used both as food and fodder. Kharif crop requiring **21°C to 27°C** and old alluvial soil. In some states like **Bihar**, maize is grown in the **rabi** season too. Major producers: Karnataka, Madhya Pradesh, UP, Bihar, Andhra Pradesh and Telangana. Use of modern inputs (HYV seeds, fertilisers, irrigation) increased production.
+> **Pulses** - India is the **largest producer as well as consumer of pulses** in the world. They are a major source of **protein** in a vegetarian diet. Major pulses: tur (arhar), urad, moong, masur, peas and gram. Pulses need less moisture and survive even in dry conditions. Being **leguminous** crops, all except arhar help **restore soil fertility by fixing nitrogen** from the air, so they are mostly grown in rotation with other crops. Major producers: Madhya Pradesh, Uttar Pradesh, Rajasthan, Maharashtra and Karnataka.
+
+> [!KEY] Food crops other than grains
+> **Sugarcane** - a tropical as well as subtropical crop. Grows well in hot and humid climate with **21°C to 27°C** and **75–100 cm** annual rainfall; irrigation needed in low-rainfall regions. Grown on a variety of soils; needs manual labour from sowing to harvesting. India is the **second largest producer of sugarcane after Brazil**. It is the main source of sugar, gur (jaggery), khandsari and molasses. Major producers: **Uttar Pradesh**, Maharashtra, Karnataka, Tamil Nadu, Andhra Pradesh, Telangana, Bihar, Punjab and Haryana.
+> **Oilseeds** - India is among the largest producers of oilseeds in the world; different oilseeds cover approximately 12 per cent of the total cropped area. Main oilseeds: **groundnut, mustard, coconut, sesamum (til), soybean, castor seeds, cotton seeds, linseed and sunflower**. **Groundnut** is a kharif crop and accounts for about half of the major oilseeds produced; **Gujarat** was the largest producer of groundnut (2019–20 figures in NCERT), followed by Rajasthan and Tamil Nadu. **Linseed and mustard** are rabi crops. **Sesamum** is a kharif crop in the north and a rabi crop in the south. **Castor seed** is grown both as rabi and kharif.
+> **Tea** - a beverage crop introduced in India initially by the **British**. Today, most tea plantations are owned by Indians. Grows well in **tropical and subtropical climates** endowed with **deep and fertile well-drained soil, rich in humus and organic matter**. Tea bushes require a **warm and moist frost-free climate** all through the year; frequent showers evenly distributed over the year ensure continuous growth of tender leaves. Tea is **labour-intensive** and requires abundant, cheap and skilled labour. It is processed within the tea garden to retain freshness. Major producers: **Assam**, the hills of **Darjeeling and Jalpaiguri** districts (West Bengal), Tamil Nadu and Kerala; also HP, Uttarakhand, Meghalaya, Andhra Pradesh and Tripura.
+> **Coffee** - Indian coffee is known for its good quality. The **Arabica** variety initially brought from **Yemen** is produced in the country; it is in great demand worldwide. Its cultivation was introduced on the **Baba Budan Hills**, and even today it is confined to the **Nilgiris** in **Karnataka, Kerala and Tamil Nadu**.
+> **Horticulture crops** - India is the **second largest producer of fruits and vegetables** in the world (after China). Mangoes of Maharashtra, Andhra Pradesh, Telangana, UP and West Bengal; oranges of Nagpur and Cherrapunjee (Meghalaya); bananas of Kerala, Mizoram, Maharashtra and Tamil Nadu; litchi and guava of UP and Bihar; pineapples of Meghalaya; grapes of Andhra Pradesh, Telangana and Maharashtra; apples, pears, apricots and walnuts of Jammu and Kashmir and Himachal Pradesh.
+
+> [!KEY] Non-food crops
+> **Rubber** - an **equatorial crop**, but under special conditions also grown in tropical and subtropical areas. Requires **moist and humid climate** with rainfall of **more than 200 cm** and temperature **above 25°C**. An important industrial raw material. Mainly grown in **Kerala**, Tamil Nadu, Karnataka, **Andaman and Nicobar Islands** and the **Garo hills of Meghalaya**.
+> **Fibre crops** - **cotton, jute, hemp and natural silk**. The first three are derived from crops grown in the soil; silk is obtained from cocoons of silkworms fed on green leaves of mulberry. Rearing of silkworms for silk fibre is called **sericulture**.
+> **Cotton** - India is believed to be the original home of the cotton plant. India is the **second largest producer of cotton** in the world (after China). Grows well in **drier parts of the black cotton soil of the Deccan plateau**. Requires **high temperature, light rainfall or irrigation, 210 frost-free days and bright sunshine**. It is a **kharif** crop and requires **6 to 8 months** to mature. Major producers: **Maharashtra, Gujarat**, Madhya Pradesh, Karnataka, Andhra Pradesh, Telangana, Tamil Nadu, Punjab, Haryana and Uttar Pradesh.
+> **Jute** - known as the **golden fibre**. Grows well on **well-drained fertile soils in flood plains where soils are renewed every year**. High temperature is required during growth. Major producers: **West Bengal**, Bihar, Assam, Odisha and Meghalaya. Used for gunny bags, mats, ropes, yarn, carpets and other artefacts. Due to its high cost, it is losing market to synthetic fibres and packing materials, especially nylon.
+
+## Technological and institutional reforms
+Sustained uses of land without compatible techno-institutional changes have hindered agricultural development. Despite development of irrigation, farmers in many parts still depend on monsoon and natural fertility.
+
+- **Institutional reforms** after independence: collectivisation, **consolidation of holdings**, cooperation and **abolition of zamindari** were given priority in the First Five Year Plan.
+- **Land reforms** were the main focus of the First Five Year Plan; the right of inheritance had led to fragmentation of holdings.
+- In the 1960s and 1970s, the Government of India introduced agricultural reforms: the **Green Revolution** (based on HYV seeds, chemical fertilisers and irrigation) and the **White Revolution (Operation Flood)** to improve milk production.
+- **Comprehensive land development programme** included both institutional and technical reforms: provision for **crop insurance** against drought, flood, cyclone, fire and disease; establishment of **Grameen banks, cooperative societies and banks** for loan facilities at lower interest rates.
+- **Kisan Credit Card (KCC)** and **Personal Accident Insurance Scheme (PAIS)** were introduced.
+- Special weather bulletins and agricultural programmes on radio and television.
+- The government announces **Minimum Support Price (MSP)**, remunerative and procurement prices for important crops to check exploitation of farmers by speculators and middlemen.
+
+> [!KEY] Bhoodan-Gramdan
+> **Vinoba Bhave**, a spiritual heir of Gandhi, undertook padyatra to spread Gandhi's message. At **Pochampalli** (now in Telangana), some landless villagers demanded land. Vinoba Bhave promised to try, and **Shri Ram Chandra Reddy** offered **80 acres** of land to 80 landless villagers. This act was known as **'Bhoodan'**. Some zamindars, owners of many villages, offered to distribute entire villages among the landless; this was known as **'Gramdan'**. This initiative is also known as the **"Blood-less Revolution"**.
+
+**Contribution of agriculture and food security.** Agriculture is the backbone of the Indian economy, but its share in GDP has declined. The government has set up the **Food Corporation of India (FCI)**, which procures food grains from farmers at MSP, and the **Public Distribution System (PDS)** distributes them at subsidised prices through ration shops.
+
+> [!MISTAKE] Second-largest producer mix-ups
+> India is **second** (after China) in rice, cotton, fruits and vegetables, and tea (after China); **second** in sugarcane after **Brazil**; but the **largest** producer **and** consumer of **pulses**.
+
+> [!TIP] Board favourites and map work
+> "Compare intensive subsistence and commercial farming", "Distinguish rabi and kharif", "Geographical conditions for rice/wheat/tea/cotton/sugarcane" (3 marks each), "Technological and institutional reforms" (5 marks), "What was Bhoodan-Gramdan?". **Map:** identify major areas of **rice and wheat**, the largest/major producer states of **sugarcane, tea, coffee, rubber, cotton and jute**.
+
+## Quick recap
+- Farming types: primitive subsistence (slash and burn, jhumming), intensive subsistence, commercial (incl. plantation).
+- Rabi (Oct–Dec sow; wheat, mustard), kharif (monsoon; rice, cotton, jute), zaid (summer; melons, fodder).
+- Rice: > 25°C, > 100 cm rain; wheat: 50–75 cm, cool growing season, bright sunshine at ripening.
+- Cotton on black soil, 210 frost-free days; jute (golden fibre) in flood plains; rubber > 200 cm rain.
+- Reforms: land reforms, Green and White Revolutions, KCC, PAIS, MSP, crop insurance, Bhoodan-Gramdan.
+
+--- quiz ---
+Q: 'Slash and burn' agriculture is called 'Podu' or 'Penda' in
+- Madhya Pradesh
+* Andhra Pradesh
+- Odisha
+- Jharkhand
+> It is Podu or Penda in Andhra Pradesh, Bewar or Dahiya in MP, and Kuruwa in Jharkhand.
+
+Q: Which of these is a rabi crop?
+- Paddy
+- Cotton
+- Jowar
+* Mustard
+> Rabi crops include wheat, barley, peas, gram and mustard; the others are kharif crops.
+
+Q: Aus, Aman and Boro are three crops of
+- wheat
+- cotton
+* paddy
+- jute
+> In Assam, West Bengal and Odisha, three paddy crops are grown in a year.
+
+Q: India is the second largest producer of sugarcane after
+- China
+- USA
+- Cuba
+* Brazil
+> Brazil is the world's largest producer of sugarcane; India is second.
+
+Q: Which millet is very rich in iron, calcium and roughage and is mainly grown in Karnataka?
+- Jowar
+- Bajra
+* Ragi
+- Maize
+> Ragi is a crop of dry regions; Karnataka is the largest producer.
+
+Q: Cotton requires how many frost-free days?
+* 210
+- 100
+- 150
+- 300
+> Cotton needs high temperature, light rainfall, 210 frost-free days and bright sunshine.
+
+Q: The Bhoodan movement began when Ram Chandra Reddy offered land to landless villagers at
+- Champaran
+- Sabarmati
+* Pochampalli
+- Bardoli
+> At Pochampalli, he offered 80 acres to 80 landless villagers in response to Vinoba Bhave's appeal.
+
+W[3]: Describe the geographical conditions required for the growth of tea.
+A: (1) Tea grows well in tropical and subtropical climates with deep, fertile, well-drained soil rich in humus and organic matter.
+(2) Tea bushes need a warm and moist frost-free climate all through the year; frequent showers evenly distributed over the year ensure continuous growth of tender leaves.
+(3) Tea is labour-intensive and needs abundant, cheap and skilled labour; it is processed within the garden to keep it fresh. Major producers: Assam, Darjeeling and Jalpaiguri hills (West Bengal), Tamil Nadu and Kerala.
+
+W[5]: Describe the technological and institutional reforms introduced in Indian agriculture after independence.
+A: (1) Institutional reforms like collectivisation, consolidation of holdings, cooperation and abolition of zamindari were given priority; land reforms were the main focus of the First Five Year Plan.
+(2) The Green Revolution (HYV seeds, chemical fertilisers, irrigation) and the White Revolution (Operation Flood) improved production of food grains and milk.
+(3) Crop insurance against drought, flood, cyclone, fire and disease was provided; Grameen banks, cooperative societies and banks gave loans at lower interest.
+(4) Kisan Credit Card (KCC) and Personal Accident Insurance Scheme (PAIS) were introduced; special weather bulletins and farm programmes were broadcast on radio and TV.
+(5) The government announces Minimum Support Price and procurement prices to check exploitation by middlemen; Bhoodan-Gramdan (Vinoba Bhave) tried to give land to the landless.
+
+=== minerals-and-energy-resources ===
+## The big idea
+Almost everything we use, from a pin to a train, is made from **minerals**. And every factory, vehicle and home needs **energy**. Minerals are **non-renewable** and unevenly distributed, and most of our energy comes from **fossil fuels** that will run out. This chapter covers how minerals occur, India's major minerals and their belts, conventional and non-conventional energy, and why conservation matters.
+
+> [!KEY] Mineral
+> Geologists define a mineral as a **"homogenous, naturally occurring substance with a definable internal structure."** Minerals are found in varied forms, from the hardest diamond to the softest talc. **Rocks** are combinations of homogenous substances called minerals.
+
+## Mode of occurrence of minerals
+Minerals are usually found in **'ores'** (an accumulation of any mineral mixed with other elements). The mineral content of the ore must be in sufficient concentration to make extraction commercially viable.
+
+1. **Igneous and metamorphic rocks**: minerals occur in **cracks, crevices, faults or joints**. Smaller occurrences are called **veins** and larger ones **lodes**. They are formed when minerals in liquid/molten and gaseous forms are forced upward through cavities. Examples: **tin, copper, zinc and lead**.
+2. **Sedimentary rocks**: minerals occur in **beds or layers**, formed by deposition, accumulation and concentration in horizontal strata. **Coal** and some forms of **iron ore** are concentrated by long periods under great heat and pressure; others like **gypsum, potash salt and sodium salt** form by evaporation, especially in arid regions.
+3. **Decomposition of surface rocks**: soluble constituents are removed, leaving a **residual mass** of weathered material containing ores. **Bauxite** is formed this way.
+4. **Alluvial deposits** in the sands of valley floors and the base of hills: called **'placer deposits'**, they generally contain minerals not corroded by water: **gold, silver, tin and platinum**.
+5. **Ocean waters**: most minerals in ocean water are too widely diffused to be of economic significance, but **common salt, magnesium and bromine** are largely derived from ocean waters. Ocean beds are rich in **manganese nodules**.
+
+> [!EXAMPLE] Rat-hole mining
+> In **Jowai and Cherrapunjee (Meghalaya)**, coal mining is done by family members in the form of a long narrow tunnel known as **'rat hole' mining**. In most of India minerals are a nationalised property, but in tribal north-east India they are owned by individuals or communities.
+
+**Peninsular rocks** contain most reserves of coal, metallic minerals, mica and many non-metallic minerals; **sedimentary rocks** on the western and eastern flanks of the peninsula (Gujarat and Assam) have most petroleum deposits; **Rajasthan** with its rock systems has reserves of many non-ferrous minerals; the vast alluvial plains of north India are almost devoid of economic minerals.
+
+## Ferrous minerals
+Ferrous minerals account for about **three-fourths** of the total value of metallic mineral production.
+
+> [!KEY] Iron ore
+> The basic mineral and the backbone of industrial development. India is rich in good-quality iron ores.
+> - **Magnetite**: the **finest** iron ore with a very high content of iron, **up to 70%**. Has excellent **magnetic** qualities, valuable for the electrical industry.
+> - **Hematite**: the **most important industrial iron ore** in terms of quantity used, but slightly lower iron content than magnetite (**50–60%**).
+> **Major iron ore belts:**
+> 1. **Odisha–Jharkhand belt**: high-grade hematite at **Badampahar mines** in Mayurbhanj and Kendujhar districts of Odisha; in **Gua and Noamundi** in Singhbhum district of Jharkhand.
+> 2. **Durg–Bastar–Chandrapur belt** (Chhattisgarh and Maharashtra): very high-grade hematites in the famous **Bailadila range of hills** in Bastar district, Chhattisgarh; the range has 14 deposits of super high-grade hematite with the best physical properties for steel making. Iron ore from these mines is **exported to Japan and South Korea via Visakhapatnam port**.
+> 3. **Ballari–Chitradurga–Chikkamagaluru–Tumakuru belt** (Karnataka): large reserves. The **Kudremukh mines** in the Western Ghats of Karnataka are a **100 per cent export unit**; Kudremukh deposits are known to be one of the largest in the world. The ore is transported as **slurry through a pipeline** to a port near **Mangaluru**.
+> 4. **Maharashtra–Goa belt**: includes **Goa** and **Ratnagiri** district of Maharashtra. Ores are not of very high quality but are efficiently exploited; exported through **Marmagao port**.
+
+**Manganese** is mainly used in the manufacturing of **steel and ferro-manganese alloy**. Nearly **10 kg of manganese** is required to manufacture **one tonne of steel**. Also used for bleaching powder, insecticides and paints. **Odisha** is the largest producer of manganese ores in India.
+
+## Non-ferrous minerals
+India's reserves and production of non-ferrous minerals are not very satisfactory.
+
+- **Copper**: India is critically deficient in copper reserves. Being malleable, ductile and a good conductor, copper is mainly used in electrical cables, electronics and chemical industries. The **Balaghat mines** in Madhya Pradesh, the **Khetri mines** in Rajasthan and the **Singhbhum district** of Jharkhand are leading producers.
+- **Bauxite**: a clay-like substance from which **alumina and later aluminium** is obtained. Bauxite deposits form by the decomposition of rocks rich in **aluminium silicates**. Aluminium combines strength of metals like iron with extreme lightness, good conductivity and great malleability. Deposits are mainly found in the **Amarkantak plateau, Maikal hills and the plateau region of Bilaspur-Katni**. **Odisha** was the largest bauxite producing state in India; **Panchpatmali deposits** in **Koraput district** are the most important.
+
+## Non-metallic minerals
+- **Mica**: made up of a series of plates or leaves; splits easily into thin sheets. Can be clear, black, green, red, yellow or brown. Due to excellent **di-electric strength**, low power loss factor, insulating properties and resistance to high voltage, it is one of the most indispensable minerals used in **electric and electronic industries**. Deposits are found on the **northern edge of the Chota Nagpur plateau**. The **Koderma–Gaya–Hazaribagh belt of Jharkhand** is the leading producer. In Rajasthan, the major producing area is around **Ajmer**; **Nellore** mica belt of Andhra Pradesh is also important.
+- **Limestone** is found in association with rocks composed of calcium carbonates or calcium and magnesium carbonates. It is the basic raw material for the **cement industry** and essential for **smelting iron ore** in the blast furnace.
+
+**Hazards of mining**: dust and noxious fumes inhaled by miners make them vulnerable to **pulmonary diseases**; risk of collapsing mine roofs, inundation and fires; water sources in the region get contaminated; dumping of waste and slurry leads to degradation of land, soil and increased stream and river pollution.
+
+**Conservation of minerals**: geological processes of mineral formation are so slow that the rates of replenishment are infinitely small compared to present consumption. Minerals are **finite and non-renewable**. We should use them in a planned and sustainable manner, use improved technologies to use low-grade ores at low costs, **recycle metals** (using scrap metals), and use **substitutes**.
+
+## Energy resources: conventional sources
+Energy can be generated from fuel minerals like coal, petroleum, natural gas, uranium and from electricity. **Conventional sources**: firewood, cattle dung cake, coal, petroleum, natural gas and electricity (hydel and thermal). **Non-conventional**: solar, wind, tidal, geothermal, biogas and atomic energy. In rural India, firewood and cattle dung cake are most common; over 70% of rural household energy comes from these. But continuing them is difficult because forest area is decreasing and dung is better used as manure.
+
+> [!KEY] Coal
+> The most abundantly available fossil fuel in India; provides a substantial part of the nation's energy needs. Formed due to the compression of plant material over millions of years. Depending on the degree of compression, depth and time of burial:
+> - **Peat**: decaying plants in swamps; low carbon, high moisture, low heating capacity.
+> - **Lignite**: low-grade **brown coal**, soft with high moisture content. Principal reserves at **Neyveli (Tamil Nadu)**; used for generating electricity.
+> - **Bituminous**: coal buried deep and subjected to increased temperatures; the most popular coal in commercial use. **Metallurgical coal** is high-grade bituminous coal of special value for smelting iron in blast furnaces.
+> - **Anthracite**: the **highest quality hard coal**.
+> **Two main groups in India:** **Gondwana** coal, a little over **200 million years** old, and **Tertiary** deposits, only about **55 million years** old. Major Gondwana resources are in the **Damodar valley (West Bengal–Jharkhand)**: **Jharia, Raniganj and Bokaro** are important coalfields; the **Godavari, Mahanadi, Son and Wardha** valleys also contain coal. **Tertiary coals** occur in the north-eastern states of **Meghalaya, Assam, Arunachal Pradesh and Nagaland**. Coal is a bulky material that loses weight on use, so heavy industries and thermal power stations are located on or near coalfields.
+
+> [!KEY] Petroleum
+> Petroleum (mineral oil) is the next major energy source after coal. It provides fuel for heat and lighting, lubricants for machinery and raw materials for many manufacturing industries. Petroleum refineries act as a **"nodal industry"** for synthetic textile, fertiliser and numerous chemical industries. Most petroleum occurrences in India are associated with **anticlines and fault traps** in rock formations of the tertiary age. In regions of folding, anticlines or domes, oil is trapped in the crest of the upfold; gas, being lighter, usually occurs above the oil.
+> - About **63 per cent** of India's petroleum production is from **Mumbai High**, **18 per cent** from **Gujarat** and **16 per cent** from **Assam**.
+> - **Ankleshwar** is the most important field of Gujarat.
+> - **Assam** is the **oldest** oil-producing state of India. **Digboi, Naharkatiya and Moran-Hugrijan** are important oil fields there.
+
+> [!KEY] Natural gas
+> An important clean energy resource found in association with or without petroleum. Used as a source of energy as well as an industrial raw material in the **petrochemical** industry; considered an environment-friendly fuel because of low CO₂ emissions. Large reserves have been discovered in the **Krishna-Godavari basin**; along the west coast reserves are found in the **Mumbai High** and allied fields, supplemented by finds in the **Gulf of Khambhat**; the **Andaman and Nicobar Islands** also have large reserves. The **1,700 km long Hazira–Vijaipur–Jagdishpur (HVJ)** cross-country gas pipeline links Mumbai High and Bassien with fertiliser, power and industrial complexes in western and northern India. **CNG** is used as a liquid fuel substitute for vehicles.
+
+**Electricity** is generated mainly in two ways:
+- **Hydro electricity**: by **fast-flowing water**, a renewable resource. Multi-purpose projects like **Bhakra Nangal, Damodar Valley Corporation and the Kopili Hydel Project** produce hydroelectric power.
+- **Thermal electricity**: by burning **coal, petroleum and natural gas** to drive turbines. Thermal power stations use non-renewable fossil fuels.
+
+## Non-conventional sources of energy
+Growing consumption of energy has made India increasingly dependent on fossil fuels. Rising prices of oil and gas and their potential shortages have raised uncertainties about future energy security, and fossil fuels cause pollution. So there is a pressing need to use renewable sources.
+
+- **Nuclear or atomic energy**: obtained by **altering the structure of atoms**; enormous energy is released as heat and used to generate electricity. **Uranium and thorium**, available in **Jharkhand and the Aravalli ranges of Rajasthan**, are used. The **monazite sands of Kerala** are also rich in **thorium**. Nuclear power stations: **Narora (UP), Rawatbhata (Rajasthan), Kakrapar (Gujarat), Tarapur (Maharashtra), Kaiga (Karnataka), Kalpakkam (Tamil Nadu)**.
+- **Solar energy**: India is a tropical country with enormous possibilities of tapping solar energy. **Photovoltaic technology** converts sunlight directly into electricity. The largest solar plant of India at the time was located at **Madhapur, near Bhuj (Gujarat)**, where solar energy is used to **sterilise milk cans**. Solar energy can reduce rural dependence on firewood and dung cakes.
+- **Wind power**: India ranks among the "**Wind Super Power**" countries of the world. The largest wind farm cluster is located in **Tamil Nadu from Nagercoil to Madurai**. Andhra Pradesh, Karnataka, Gujarat, Kerala, Maharashtra and Lakshadweep have important wind farms; **Nagercoil and Jaisalmer** are well known for effective use of wind energy.
+- **Biogas**: shrubs, farm waste, animal and human waste are used to produce biogas for domestic consumption in rural areas. Decomposition of organic matter yields gas with higher thermal efficiency than kerosene, dung cake and charcoal. Plants using cattle dung are known as **'Gobar gas plants'**; they provide energy and improved quality manure, and prevent loss of trees and manure due to burning of fuelwood and cow dung cakes.
+- **Tidal energy**: oceanic tides can be used to generate electricity. Floodgate dams are built across inlets; during high tide water flows into the inlet and gets trapped when the gate is closed; it then flows back through a pipe that carries it through a power-generating turbine. In India, the **Gulf of Khambhat, the Gulf of Kuchchh** in Gujarat on the western coast and the **Gangetic delta in the Sunderban regions** of West Bengal provide ideal conditions.
+- **Geothermal energy**: heat and electricity produced by using the **heat from the interior of the Earth**. Where the geothermal gradient is high, high temperatures are found at shallow depths; groundwater absorbs heat and rises as hot springs. Two experimental projects: one in the **Parvati valley near Manikarn (Himachal Pradesh)** and the other in the **Puga valley, Ladakh**.
+
+## Conservation of energy resources
+Energy is a basic requirement for economic development. We need a cautious approach for judicious use of limited energy resources: use **public transport** instead of individual vehicles, switch off electricity when not in use, use **power-saving devices**, and use **non-conventional sources** of energy. "**Energy saved is energy produced.**"
+
+> [!MISTAKE] Magnetite vs hematite
+> Magnetite is the **finest** ore (up to 70% iron); hematite is the **most important industrial** ore by quantity (50–60%). Don't call hematite the richest.
+
+> [!TIP] Board favourites and map work
+> "Modes of occurrence of minerals", "Distinguish ferrous/non-ferrous, conventional/non-conventional", "Why do we need to conserve minerals?", "Coal types", "Nuclear/solar/wind energy in India". **Map:** **Iron ore mines**: Mayurbhanj, Durg, Bailadila, Ballari, Kudremukh. **Coal mines**: Raniganj, Bokaro, Talcher, Neyveli. **Oil fields**: Digboi, Naharkatiya, Mumbai High, Bassien, Kalol, Ankleshwar. **Thermal power plants**: Namrup, Singrauli, Ramagundam. **Nuclear power plants**: Narora, Kakrapar, Tarapur, Kalpakkam.
+
+## Quick recap
+- Minerals occur in veins/lodes, beds/layers, residual mass, placer deposits and ocean water.
+- Iron ore: magnetite (finest), hematite (most used); four belts incl. Bailadila and Kudremukh.
+- Odisha leads manganese and bauxite (Panchpatmali, Koraput); copper at Balaghat, Khetri, Singhbhum; mica in Koderma–Gaya–Hazaribagh.
+- Coal: Gondwana (200 million yrs, Damodar valley) and Tertiary (55 million yrs, north-east); lignite at Neyveli.
+- Petroleum: Mumbai High 63%, Gujarat 18%, Assam 16%; HVJ pipeline 1,700 km.
+- Non-conventional: nuclear, solar (Madhapur), wind (Nagercoil–Madurai), biogas, tidal (Khambhat), geothermal (Manikarn, Puga).
+
+--- quiz ---
+Q: Placer deposits found in the sands of valley floors usually contain
+- coal and petroleum
+- bauxite and mica
+* gold, silver, tin and platinum
+- gypsum and potash salt
+> Placer deposits contain minerals not corroded by water, such as gold, silver, tin and platinum.
+
+Q: Which is the finest iron ore with up to 70 per cent iron?
+* Magnetite
+- Hematite
+- Limonite
+- Siderite
+> Magnetite has very high iron content and excellent magnetic qualities.
+
+Q: The Kudremukh iron ore mines are located in
+- Odisha
+- Chhattisgarh
+- Goa
+* Karnataka
+> Kudremukh, in the Western Ghats of Karnataka, is a 100% export unit; ore is sent as slurry to a port near Mangaluru.
+
+Q: Rat-hole mining is practised in
+- Jharia
+* Jowai and Cherrapunjee, Meghalaya
+- Neyveli
+- Bailadila
+> Families mine coal through long narrow tunnels in Meghalaya.
+
+Q: Which state is the oldest oil-producing state of India?
+- Gujarat
+- Maharashtra
+* Assam
+- Rajasthan
+> Digboi, Naharkatiya and Moran-Hugrijan in Assam are old and important oil fields.
+
+Q: Lignite, a low-grade brown coal, is mainly found at
+- Raniganj
+- Jharia
+- Bokaro
+* Neyveli
+> The principal lignite reserves are at Neyveli in Tamil Nadu.
+
+Q: Geothermal energy projects in India are located at
+- Bhuj and Jaisalmer
+* Manikarn (Parvati valley) and Puga valley
+- Narora and Kaiga
+- Gulf of Khambhat and Sunderbans
+> These two experimental projects tap heat from the Earth's interior.
+
+W[3]: Distinguish between conventional and non-conventional sources of energy.
+A: (1) Conventional sources (coal, petroleum, natural gas, firewood, cattle dung cake, hydel and thermal electricity) have been in use for a long time; non-conventional sources (solar, wind, tidal, geothermal, biogas, nuclear) are newer.
+(2) Most conventional sources (fossil fuels) are exhaustible/non-renewable; most non-conventional sources are renewable and inexhaustible.
+(3) Conventional sources cause pollution and their prices are rising; non-conventional sources are generally clean and eco-friendly, though they need higher initial investment and technology.
+
+W[5]: Why do we need to conserve mineral resources? Suggest ways to do so.
+A: Need: (1) The geological processes of mineral formation are very slow, and rates of replenishment are infinitely small compared to present consumption.
+(2) Mineral resources are finite and non-renewable; rich ores are being rapidly exhausted.
+(3) Continued extraction leads to increasing costs as minerals are taken from greater depths and with lower quality.
+Ways: (4) Use minerals in a planned and sustainable manner; improve technologies so that low-grade ores can be used at low costs.
+(5) Recycle metals using scrap and use substitutes to reduce consumption.
+
+=== manufacturing-industries ===
+## The big idea
+Production of goods in large quantities after processing raw materials into more valuable products is called **manufacturing**. Paper from wood, sugar from sugarcane, iron and steel from iron ore, aluminium from bauxite: all are manufacturing. People in the secondary sector are engaged in manufacturing. A country's economic strength is measured by the development of its manufacturing industries.
+
+## Importance of manufacturing
+- Helps **modernise agriculture**, the backbone of our economy.
+- Reduces heavy dependence of people on agricultural income by providing **jobs in secondary and tertiary sectors**.
+- Industrial development is a precondition for **eradicating unemployment and poverty**; this was the main philosophy behind public sector industries and joint ventures in India. It also aimed to bring down **regional disparities** by setting up industries in tribal and backward areas.
+- **Export** of manufactured goods expands trade and commerce and brings foreign exchange.
+- Countries that transform raw materials into a wide variety of higher-value finished goods are prosperous.
+
+> [!KEY] Agriculture and industry go hand in hand
+> Agro-industries in India have given a major boost to agriculture by raising productivity. Industries depend on agriculture for raw materials (cotton, jute, sugarcane), and sell products like **irrigation pumps, fertilisers, insecticides, pesticides, plastic and PVC pipes, machines and tools** to farmers. They are not exclusive of each other.
+
+**Contribution to national economy.** Over the last two decades, the share of manufacturing in GDP has stagnated at about **17 per cent** (out of 27% for industry, including mining, quarrying, electricity and gas). The desired growth rate over the decade is **12 per cent**. Since 2003, manufacturing has grown at 9–10 per cent per annum. The government set up the **National Manufacturing Competitiveness Council (NMCC)** with the objective of improving productivity through appropriate policy interventions.
+
+## Industrial location
+Industrial locations are complex: they are influenced by availability of **raw material, labour, capital, power and market**. It is rarely possible to find all these at one place, so manufacturing tends to locate at the most appropriate place where all factors can be made available or arranged at lower cost.
+
+- Many industries tend to come together to make use of advantages offered by urban centres, known as **agglomeration economies**.
+- After independence, most industries were concentrated in a few cities like Mumbai, Kolkata and Chennai; pre-independence industries were located from the point of view of overseas trade.
+
+## Classification of industries
+| Basis | Types | Examples |
+|---|---|---|
+| **Source of raw material** | Agro-based / Mineral-based | Cotton, woollen, jute, silk textile, rubber, sugar, tea, coffee, edible oil / iron and steel, cement, aluminium, machine tools, petrochemicals |
+| **Prime role** | Basic or key industries (supply products to manufacture other goods) / Consumer industries | Iron and steel, copper smelting, aluminium smelting / sugar, toothpaste, paper, sewing machines, fans |
+| **Capital investment** | Small-scale (maximum investment allowed on assets of a unit is defined, e.g., up to ₹1 crore as in NCERT) / Large-scale | |
+| **Ownership** | Public sector (government) / Private sector (individuals) / Joint sector (state and individuals) / Cooperative sector (producers or suppliers of raw materials, workers or both) | **BHEL, SAIL** / **TISCO, Bajaj Auto, Dabur** / **Oil India Ltd (OIL)** / **sugar industry in Maharashtra, coir industry in Kerala** |
+| **Bulk and weight** of raw material and finished goods | Heavy / Light | Iron and steel / electrical goods |
+
+## Agro-based industries
+> [!KEY] Textile industry
+> The only industry in India that is **self-reliant and complete in the value chain**, from raw material to the highest value-added products. It contributes significantly to industrial production, employment generation (about 35 million directly, as per NCERT) and foreign exchange earnings.
+> **Cotton textiles**: in ancient India, cotton textiles were produced by hand spinning and handloom weaving. After the 18th century, power-looms came into use. The **first successful textile mill** was established in **Mumbai in 1854**. Early years: cotton textile mills were concentrated in the cotton-growing belt of **Maharashtra and Gujarat**, due to availability of raw cotton, market, transport including accessible port facilities, labour, moist climate, etc.
+> India has world-class production in **spinning**, but **weaving** supplies low-quality fabric because it cannot use much of the high-quality yarn produced in the country. Weaving is highly decentralised (handloom, power-loom, mills). India exports yarn to **Japan**; other importers include the USA, UK, Russia, France, East European countries, Nepal, Sri Lanka and Bangladesh. Problems: erratic power supply, outdated machinery, low output of labour, stiff competition with synthetic fibres.
+
+> [!KEY] Jute textiles
+> India is the **largest producer of raw jute and jute goods** and stands at **second place as an exporter after Bangladesh**. Most mills are located in **West Bengal**, mainly along the banks of the **Hugli river**, in a narrow belt. The **first jute mill** was set up near **Kolkata in 1859 at Rishra**. After Partition in 1947, jute mills remained in India but three-fourths of the jute-producing area went to Bangladesh (then East Pakistan).
+> **Location factors in the Hugli basin**: proximity of jute-producing areas, inexpensive water transport, good network of railways, roadways and waterways, abundant water for processing raw jute, cheap labour from West Bengal and adjoining states of Bihar, Odisha and UP, and Kolkata as a large urban centre providing banking, insurance and port facilities for export.
+> Challenges: stiff competition from synthetic substitutes and from Bangladesh, Brazil, the Philippines, Egypt and Thailand. The **National Jute Policy was formulated in 2005** to increase productivity, improve quality, ensure good prices to farmers and enhance yield per hectare. Growing global concern for environment-friendly, biodegradable materials has opened opportunities for jute products.
+
+> [!KEY] Sugar industry
+> India stands **second as a world producer of sugar** but occupies the first place in the production of **gur and khandsari**. The raw material is bulky and its sucrose content reduces in haulage, so mills are located close to sugarcane areas. Over 460 mills are spread over UP, Bihar, Maharashtra, Karnataka, Tamil Nadu, Andhra Pradesh, Gujarat, Punjab, Haryana and MP. Sixty per cent of mills are in UP and Bihar. The industry is **seasonal**, ideally suited to the **cooperative sector**. In recent years, mills have shifted and concentrated in **southern and western states, especially Maharashtra**, because cane there has a **higher sucrose content**, the **cooler climate** ensures a longer crushing season, and **cooperatives are more successful** there. Challenges: seasonal nature, old and inefficient methods, transport delays, need to maximise use of bagasse.
+
+## Mineral-based industries
+> [!KEY] Iron and steel industry
+> The iron and steel industry is the **basic industry**, since all other industries, heavy, medium and light, depend on it for their machinery. It is a **heavy industry** because all raw materials and finished goods are heavy and bulky, entailing heavy transportation costs. Iron ore, coking coal and limestone are required in the ratio of approximately **4:2:1**; some manganese is also needed to harden the steel.
+> India is an important iron and steel producing country; it ranks **second among world crude steel producers** (after China; as per NCERT 2019) but is also the largest producer of sponge iron. Despite this, per capita consumption of steel is low. Most public sector steel plants market their steel through the **Steel Authority of India Limited (SAIL)**, while TISCO markets through **Tata Steel**.
+> **Chotanagpur plateau region** has the maximum concentration of iron and steel industries, mainly because of the low cost of iron ore, high-grade raw materials in proximity, cheap labour and vast growth potential in the home market.
+> Problems: high costs and limited availability of coking coal, lower productivity of labour, irregular supply of energy and poor infrastructure. Liberalisation and FDI have boosted the industry.
+
+> [!KEY] Aluminium smelting
+> The **second most important metallurgical industry** in India. Aluminium is light, resistant to corrosion, a good conductor of heat, malleable, and becomes strong when mixed with other metals. Used to manufacture aircraft, utensils and wires; it has gained popularity as a substitute for steel, copper, zinc and lead. Smelters are located in **Odisha, West Bengal, Kerala, Uttar Pradesh, Chhattisgarh, Maharashtra and Tamil Nadu**. **Bauxite**, the raw material, is a very bulky, dark reddish coloured rock. Regular supply of electricity and assured sources of raw material at minimum cost are the two prime factors for location.
+
+**Chemical industries**: comprise both **large and small-scale** units; includes **inorganic** (sulphuric acid, nitric acid, alkalies, soda ash, caustic soda) and **organic** chemicals (petrochemicals for synthetic fibres, plastics, dyes, pharmaceuticals). Chemical industry is its own largest consumer.
+
+**Fertiliser industry**: centred around the production of **nitrogenous fertilisers (mainly urea)**, phosphatic fertilisers and ammonium phosphate (DAP) and complex fertilisers. India is the **third largest producer** of nitrogenous fertilisers. **Gujarat, Tamil Nadu, Uttar Pradesh, Punjab and Kerala** contribute half of the fertiliser production. Expansion came after the Green Revolution.
+
+**Cement industry**: essential for construction (houses, factories, bridges, roads, airports, dams). Requires bulky and heavy raw materials like **limestone, silica and gypsum**. The **first cement plant was set up in Chennai in 1904**. After independence the industry expanded; decontrol of price and distribution since 1989 and other policy reforms led to rapid growth. Plants are in Gujarat (with access to markets in the Gulf), etc.
+
+**Automobile industry**: provides vehicles for quick transport of goods, services and passengers. After liberalisation, the coming of new and contemporary models stimulated demand. Located around Delhi, Gurugram, Mumbai, Pune, Chennai, Kolkata, Lucknow, Indore, Hyderabad, Jamshedpur and Bengaluru.
+
+**Information technology and electronics industry**: covers a wide range of products from transistor sets to television, telephones, cellular telecom, computers. **Bengaluru** has emerged as the **electronic capital of India**. A major impact of this industry is **employment generation**, and it has been a major earner of foreign exchange through the fast-growing **Business Process Outsourcing (BPO)** sector. Continuing growth in hardware and software is key to India's success. A large number of women are employed in this sector.
+
+## Industrial pollution and environmental degradation
+Industries are responsible for four types of pollution:
+1. **Air pollution**: caused by high proportion of undesirable gases like **sulphur dioxide and carbon monoxide**; airborne particulate materials (solids and liquids) like dust, sprays, mist and smoke. Smoke is emitted by chemical and paper factories, brick kilns, refineries and smelting plants, and burning of fossil fuels. Toxic gas leaks can be very hazardous with long-term effects (e.g., **Bhopal gas tragedy, 1984**).
+2. **Water pollution**: caused by **organic and inorganic industrial effluents** discharged into rivers. Main culprits: paper, pulp, chemical, textile and dyeing, petroleum refineries, tanneries and electroplating industries that let out dyes, detergents, acids, salts and heavy metals like lead and mercury, pesticides, fertilisers, synthetic chemicals with carbon, plastics and rubber. Fly ash, phospho-gypsum and iron and steel slags are major solid wastes.
+3. **Thermal pollution**: occurs when **hot water from factories and thermal plants** is drained into rivers and ponds before cooling. Wastes from nuclear power plants and nuclear and weapon production facilities cause cancers, birth defects and miscarriages.
+4. **Noise pollution**: results in irritation and anger, can cause hearing impairment, increased heart rate and blood pressure. Sources: industrial and construction activities, machinery, factory equipment, generators, saws, pneumatic and electric drills.
+**Land and soil pollution**: dumping of wastes (glass, harmful chemicals, industrial effluents, packaging, salts and garbage) makes soil useless; rainwater percolating carries pollutants to groundwater.
+
+> [!KEY] Control of environmental degradation
+> - Minimise use of water by **reusing and recycling** in two or more successive stages.
+> - **Harvest rainwater** to meet water requirements.
+> - **Treat hot water and effluents** before releasing into rivers and ponds. Treatment can be primary (mechanical: screening, grinding, flocculation and sedimentation), secondary (biological process) and tertiary (biological, chemical and physical processes, recycling of wastewater).
+> - Overdrawing of groundwater by industry must be regulated legally.
+> - Particulate matter in air can be reduced by fitting smoke stacks with **electrostatic precipitators, fabric filters, scrubbers and inertial separators**. Smoke can be reduced by using **oil or gas instead of coal**.
+> - Machinery can be redesigned for energy efficiency and reduced noise; use of noise-absorbing material and earplugs/earphones.
+> **Example: NTPC** has shown the way by preserving the natural environment and resources (e.g., at **Ramagundam**): optimum utilisation of equipment through latest technologies, minimising waste generation by maximising **ash utilisation**, providing **green belts** for nurturing ecological balance, reducing environmental pollution through ash pond management, ash water recycling and liquid waste management, and **ecological monitoring**.
+
+> [!MISTAKE] Public vs joint sector
+> **Oil India Ltd** is a **joint sector** industry; **BHEL and SAIL** are **public sector**; **TISCO and Bajaj Auto** are **private sector**. Cooperative examples: **sugar in Maharashtra** and **coir in Kerala**.
+
+> [!TIP] Board favourites and map work
+> "Importance of manufacturing", "Agriculture and industry are complementary: explain", "Why is the sugar industry shifting to southern and western states?", "Factors for location of jute mills along the Hugli", "Classify industries on the basis of ownership" and "How can industrial pollution be controlled?" (5 marks). **Map:** **Cotton textile industries**: Mumbai, Indore, Surat, Kanpur, Coimbatore. **Iron and steel plants**: Durgapur, Bokaro, Jamshedpur, Bhilai, Vijayanagar, Salem. **Software technology parks**: Noida, Gandhinagar, Mumbai, Pune, Hyderabad, Bengaluru, Chennai, Thiruvananthapuram.
+
+## Quick recap
+- Manufacturing: processing raw materials into more valuable products; key to jobs and reducing poverty.
+- Location factors: raw material, labour, capital, power, market; agglomeration economies.
+- Classification by raw material, role, capital, ownership and bulk.
+- First cotton mill Mumbai 1854; first jute mill Rishra 1859; National Jute Policy 2005; first cement plant Chennai 1904.
+- Sugar shifting to Maharashtra and the south (higher sucrose, cooler climate, cooperatives).
+- Iron and steel is a basic, heavy industry concentrated in Chotanagpur; aluminium is second most important metallurgical industry.
+- Pollution: air, water, thermal, noise; NTPC as a model of environmental care.
+
+--- quiz ---
+Q: Which of the following is a joint sector industry?
+- BHEL
+- TISCO
+* Oil India Ltd
+- Coir industry in Kerala
+> OIL is jointly run by the state and private individuals; BHEL is public, TISCO private, coir cooperative.
+
+Q: The first successful textile mill in India was established in
+- Ahmedabad, 1861
+* Mumbai, 1854
+- Kanpur, 1860
+- Kolkata, 1859
+> The first successful cotton textile mill was set up in Mumbai in 1854.
+
+Q: Most jute mills in India are located along the
+- Godavari
+- Narmada
+- Mahanadi
+* Hugli
+> Proximity to jute areas, water transport, water for processing and Kolkata port favour the Hugli basin.
+
+Q: Why is the sugar industry shifting to southern and western states?
+* Cane there has higher sucrose content, the cooler climate gives a longer crushing season, and cooperatives are more successful
+- These states have the most rainfall in India
+- Sugar mills are banned in UP and Bihar
+- There is no market for sugar in the north
+> These three advantages make Maharashtra and the south more suitable.
+
+Q: Which city is known as the electronic capital of India?
+- Hyderabad
+- Mumbai
+* Bengaluru
+- Chennai
+> Bengaluru has emerged as the electronic capital of India.
+
+Q: Thermal pollution occurs when
+- smoke is emitted by brick kilns
+- loud machinery is used near houses
+- garbage is dumped on land
+* hot water from factories is drained into rivers before cooling
+> Thermal pollution of water raises temperatures and harms aquatic life.
+
+Q: Aluminium smelting is the
+- most important agro-based industry
+* second most important metallurgical industry in India
+- only industry complete in its value chain
+- oldest industry of India
+> After iron and steel, aluminium smelting is the second most important metallurgical industry.
+
+W[3]: "Agriculture and industry are complementary to each other." Explain.
+A: (1) Agro-industries depend on agriculture for raw materials like cotton, jute, sugarcane, tea and edible oil seeds.
+(2) Industries supply farmers with irrigation pumps, fertilisers, insecticides, pesticides, PVC pipes, machines and tools, raising agricultural productivity.
+(3) Industrial growth reduces heavy dependence on agriculture by providing alternative jobs; thus both move forward hand in hand, and development of one helps the other.
+
+W[5]: Suggest any five measures to control environmental degradation caused by industries.
+A: (1) Minimise the use of water by reusing and recycling it in two or more successive stages; harvest rainwater.
+(2) Treat hot water and effluents before releasing them into rivers and ponds (primary, secondary and tertiary treatment).
+(3) Legally regulate overdrawing of groundwater by industries.
+(4) Reduce particulate matter by fitting smoke stacks with electrostatic precipitators, fabric filters, scrubbers and inertial separators; use oil or gas instead of coal.
+(5) Redesign machinery for energy efficiency and less noise; use noise-absorbing material and ear protection. NTPC is a good example: ash utilisation, green belts and ecological monitoring.
 

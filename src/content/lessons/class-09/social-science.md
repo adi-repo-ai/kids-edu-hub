@@ -1579,3 +1579,768 @@ W[5]: What were the main challenges before the makers of the Indian Constitution
 A: Challenges: (1) India was born through the Partition on religious lines, which caused horrific violence and the death of at least ten lakh people. (2) Princely states were free to choose whether to join India or Pakistan, and their merger was uncertain. (3) The country was huge and diverse, with widespread poverty, and the future was uncertain.
 Values (any two): Sovereign: people have the supreme right to take decisions on internal and external matters. Secular: citizens are free to follow any religion and there is no official religion. Democratic: people enjoy equal political rights and elect and hold rulers accountable. Republic: the head of state is elected. Fraternity: all of us should behave as members of the same family.
 
+=== electoral-politics ===
+## The big idea
+In a large democracy, all citizens cannot sit together and make every decision. So they choose **representatives** through **elections**. This chapter explains why elections are needed, how India's election system works, the role of the **Election Commission**, and how we can judge whether elections are **free and fair**.
+
+## Why elections?
+An **election** is a mechanism by which people choose their representatives at regular intervals and change them if they wish. In an election voters can:
+- choose who will make laws for them;
+- choose who will form the government and take major decisions;
+- choose the party whose policies will guide the government and law-making.
+
+**Example: Haryana, 1987.** **Chaudhary Devi Lal**, leader of the **Lok Dal**, led the "**Nyaya Yudh**" (struggle for justice) and promised to waive the loans of farmers and small businessmen. His party and its partners won **76 out of 90 seats**. He became Chief Minister and waived loans of up to Rs 10,000. In 1991, the party lost popularity and lost the election. This shows how elections let people reward or punish rulers.
+
+**What makes an election democratic?**
+1. Everyone should be able to choose: **one person, one vote, every vote of equal value**.
+2. There should be something to choose from: parties and candidates should be free to contest, offering real choice.
+3. The choice should be offered at **regular intervals** (every few years).
+4. The candidate preferred by the people should get elected.
+5. Elections should be conducted in a **free and fair** manner.
+
+**Is political competition good?** Demerits: it creates disunity and **factionalism**; parties and leaders level allegations against each other; it encourages dirty tricks; long-term policies are ignored. Merits: regular electoral competition gives incentives to parties and leaders to serve people; they know they will be judged by voters. Our Constitution makers chose competition because it works like an incentive, just as businesses compete for customers.
+
+## Election system in India
+- **Lok Sabha** and **Vidhan Sabha** (Assembly) elections are held every **five years**. When elections are held in all constituencies at the same time, it is a **general election**. When held for one constituency to fill a vacancy (death or resignation of a member), it is a **by-election**.
+
+**Electoral constituencies:** the country is divided into areas for elections, called **constituencies**. Voters in one area elect one representative.
+- **Lok Sabha**: India is divided into **543** constituencies; the representative is a **Member of Parliament (MP)**.
+- Each state is divided into **Assembly constituencies**; the representative is a **Member of Legislative Assembly (MLA)**.
+- Each Parliamentary constituency has several Assembly constituencies within it. Panchayats and municipalities also have wards.
+- Constituencies should have roughly equal population, so every vote has equal value.
+
+**Reserved constituencies:** some constituencies are reserved for **Scheduled Castes (SC)** and **Scheduled Tribes (ST)**: only someone belonging to these groups can stand there, but all voters vote. In the Lok Sabha, **84 seats** are reserved for SC and **47** for ST (as of 2019). In many states, one-third of seats in rural and urban local bodies are reserved for **women**; similar reservation exists for OBCs in some states.
+
+**Voters' list (electoral roll):** a list of those eligible to vote, prepared well before the election. All citizens aged **18 years and above** can vote, irrespective of caste, religion or gender (**universal adult franchise**). Some criminals and persons of unsound mind can be denied the vote in rare cases. The list is revised regularly. The government has introduced the **Election Photo Identity Card (EPIC)**; voters may also show other identity proofs such as ration card or driving licence.
+
+**Nomination of candidates:** anyone who can be a voter can also contest if they are **25 years** or older (for Lok Sabha and Vidhan Sabha). Parties nominate candidates, who get the party's **symbol** and support; this nomination is called a party **"ticket"**. Every candidate must fill a nomination form, pay a **security deposit**, and give a legal declaration with full details of:
+- serious **criminal cases** pending against them;
+- details of **assets and liabilities** of the candidate and family;
+- **educational qualifications**.
+This information is made public. There is no educational qualification required to contest, because it would deny the right to contest to many citizens and is not relevant to representing people.
+
+**Election campaign:** usually lasts about **two weeks** between the announcement of the final list of candidates and the date of polling. Famous slogans: **"Garibi Hatao"** (Remove poverty) by the Congress under **Indira Gandhi** in **1971**; **"Save Democracy"** by the **Janata Party** in **1977** (after the Emergency); "**Land to the tiller**" by the Left Front in West Bengal (1977); "**Protect the self-respect of the Telugus**" by **N.T. Rama Rao** of the **Telugu Desam Party** in Andhra Pradesh (1983).
+
+**Code of Conduct:** According to election law, no party or candidate can bribe or threaten voters, appeal on the basis of caste or religion, use government resources for campaigning, or spend more than **Rs 25 lakh** in a Lok Sabha constituency or **Rs 10 lakh** in an Assembly constituency (limits in the textbook; revised since). Under the **Model Code of Conduct**, no party can use places of worship for propaganda, or use government vehicles, aircraft or officials; once elections are announced, ministers cannot lay foundation stones, take big policy decisions or make promises of public facilities.
+
+**Polling and counting:** voters go to the **polling booth**, their identity is checked, a mark is put on their finger with **indelible ink**, and they cast their vote. Earlier ballot papers were used; now **Electronic Voting Machines (EVMs)** are used. After polling, EVMs are sealed and kept safe; votes are counted, and the candidate with the **highest votes** in a constituency is declared elected (first-past-the-post).
+
+## The Election Commission
+India's elections are conducted by an **independent and very powerful Election Commission (EC)**. It enjoys the same independence as the judiciary. The **Chief Election Commissioner (CEC)** is appointed by the **President of India**, but once appointed is **not answerable** to the President or the government; it is very difficult to remove the CEC.
+
+**Powers and functions:**
+- Takes decisions on every aspect of conduct and control of elections, from the announcement to the declaration of results.
+- Implements the **Code of Conduct** and punishes any candidate or party that violates it.
+- During elections, can order the government to follow guidelines, to prevent misuse of government power, or transfer government officials.
+- Government officers on election duty work under the **control of the EC**, not the government.
+- Can order a **re-poll** if polling was unfair in some booths or constituencies.
+
+## Free and fair elections
+**Popular participation:** in India, the **turnout** (percentage of eligible voters who actually vote) has been stable or rising, unlike in many Western democracies. In India the poor, illiterate and underprivileged vote in larger proportion than the rich. Common people attach great importance to elections and feel they can influence the government. Interest in election-related activities has been increasing.
+
+**Acceptance of results:** ruling parties routinely lose elections in India at national and state level (about half the time). Candidates who spend a lot of money or have criminal links often lose. Losing parties accept the people's verdict, barring some disputed cases.
+
+**Challenges to free and fair elections:**
+- Candidates and parties with a lot of **money** may not be sure of victory but enjoy an unfair advantage.
+- Candidates with **criminal connections** have been able to push others out.
+- Some families tend to dominate parties; tickets go to relatives.
+- Very often elections offer little choice to ordinary citizens, as major parties have similar policies.
+- Smaller parties and independent candidates suffer a huge disadvantage compared to bigger parties.
+
+> [!MISTAKE] Reserved seats do not mean reserved voters
+> In a constituency reserved for SC, only an SC person can **contest**, but **all** registered voters of that area vote.
+
+> [!TIP] Board favourite
+> "Describe the powers and functions of the Election Commission" and "What makes elections in India democratic?" are long-answer favourites. Use the five conditions of a democratic election.
+
+## Quick recap
+- Elections let people choose lawmakers, government and policies, and change them.
+- 543 Lok Sabha constituencies; reserved seats for SC/ST; voting age 18, contesting age 25.
+- Candidates declare criminal cases, assets and education.
+- Election Commission: independent; CEC appointed by the President but not answerable to the government; can order re-polls.
+- Indian elections are largely free and fair, but money power and criminal candidates are challenges.
+
+--- quiz ---
+Q: Into how many constituencies is India divided for Lok Sabha elections?
+- 250
+- 545
+* 543
+- 552
+> Each of the 543 constituencies elects one Member of Parliament.
+
+Q: The slogan "Garibi Hatao" was given by
+- the Janata Party in 1977
+* the Congress under Indira Gandhi in 1971
+- the Telugu Desam Party in 1983
+- the Lok Dal in 1987
+> Indira Gandhi's Congress promised to remove poverty in the 1971 Lok Sabha elections.
+
+Q: The minimum age to contest a Lok Sabha election is
+- 18 years
+- 21 years
+- 30 years
+* 25 years
+> One must be at least 25 years old to contest Lok Sabha or Vidhan Sabha elections.
+
+Q: The Chief Election Commissioner of India is appointed by
+- the Prime Minister
+- the Chief Justice of India
+* the President of India
+- the Lok Sabha
+> Though appointed by the President, the CEC is not answerable to the President or government.
+
+Q: An election held in one constituency to fill a vacancy caused by death or resignation is called
+- general election
+- mid-term poll
+- referendum
+* by-election
+> By-elections fill vacancies between general elections.
+
+Q: Which of these must candidates declare when filing their nomination?
+* Details of serious criminal cases, assets and liabilities, and educational qualifications
+- Their caste certificate only
+- A letter from the Prime Minister
+- The names of all voters in their constituency
+> The legal declaration makes this information public so voters can make an informed choice.
+
+Q: The "Nyaya Yudh" in Haryana in 1987 was led by
+- N.T. Rama Rao
+- Indira Gandhi
+- Jawaharlal Nehru
+* Chaudhary Devi Lal
+> Devi Lal's Lok Dal won 76 of 90 seats promising to waive farmers' loans.
+
+W[5]: What are the powers and functions of the Election Commission of India?
+A: (1) The EC takes decisions on every aspect of conduct and control of elections, from the announcement of elections to the declaration of results. (2) It implements the Code of Conduct and punishes any candidate or party that violates it. (3) During elections, it can order the government to follow certain guidelines to prevent use and misuse of governmental power to enhance the chances of the ruling party, or transfer officials. (4) Government officers on election duty work under the control of the EC and not the government. (5) It can order a re-poll in booths or constituencies where polling was unfair. The CEC is appointed by the President but is not answerable to the government and is very difficult to remove, which keeps the EC independent.
+
+W[3]: Why are some constituencies reserved for SC and ST? Can all voters vote in such constituencies?
+A: Some constituencies are reserved because in open electoral competition, weaker sections such as Scheduled Castes and Scheduled Tribes may not get a chance to be elected to the Lok Sabha and Vidhan Sabhas; they lack the resources, education and contacts to compete. Reservation ensures they get fair representation. In the Lok Sabha, 84 seats are reserved for SC and 47 for ST. In a reserved constituency only a person belonging to SC or ST can contest, but all voters of the constituency can vote.
+
+=== working-of-institutions ===
+## The big idea
+In a democracy, decisions are not taken by one person. They pass through **institutions**: the **legislature** (Parliament) makes laws, the **executive** (President, Prime Minister, ministers, civil servants) implements them, and the **judiciary** settles disputes. This chapter follows how a major decision is taken and how these institutions work and check each other.
+
+## How is a major policy decision taken?
+**Example: the Mandal Commission and Office Memorandum of 1990.** The Government of India set up the **Second Backward Classes Commission** in **1979**, headed by **B.P. Mandal** (hence the **Mandal Commission**). It submitted its report in **1980**, recommending **27% reservation** in government jobs for the **socially and educationally backward classes (SEBC)**. In **1990**, the **Janata Dal** government under Prime Minister **V.P. Singh** decided to implement it. On **13 August 1990**, an **Office Memorandum (O.M.)** was issued, signed by a Joint Secretary of the Department of Personnel and Training.
+
+The decision followed: President's address to Parliament (announcing intention), Union Cabinet's formal decision (6 August 1990), PM's statement in Parliament, then the O.M. There were protests and counter-protests; cases were filed in courts. In the **Indira Sawhney and others vs Union of India** case (**1992**), the **Supreme Court** upheld the order but asked the government to modify it so that well-to-do persons among the backward classes (the "**creamy layer**") were excluded from the benefit.
+
+## Parliament
+**Parliament** is the national assembly of elected representatives. In India it consists of the **President** and two Houses: the **Lok Sabha** (House of the People) and the **Rajya Sabha** (Council of States).
+
+**Why do we need Parliament?**
+1. It is the **final authority for making laws**.
+2. It exercises **control over those who run the government**; in India the government can stay in office only as long as it enjoys the support of the Lok Sabha.
+3. It **controls all the money** the government has: public money can be spent only when Parliament sanctions it.
+4. It is the **highest forum of discussion and debate** on public issues and national policy.
+
+**Lok Sabha vs Rajya Sabha**
+| Lok Sabha | Rajya Sabha |
+|---|---|
+| Directly elected by the people | Elected indirectly by the elected members of State Legislative Assemblies (and some nominated) |
+| Usually called the **lower house**, but it is more powerful | Called the **upper house** |
+| 543 elected members | Up to 250 members (12 nominated by the President) |
+| Term of **5 years** (can be dissolved earlier) | **Permanent house**; one-third members retire every 2 years; members have 6-year terms |
+| **Money bills** can be introduced only here; Rajya Sabha can delay a money bill only by **14 days** | Can only suggest changes in money bills |
+| Controls the Council of Ministers; can pass a **no-confidence motion** to remove the government | Cannot remove the government |
+| In a joint sitting on an ordinary bill, it usually prevails because of larger numbers | Has special powers over state matters |
+
+> [!MISTAKE] "Upper house" is not the more powerful one
+> The Rajya Sabha is called the upper house, but the **Lok Sabha** exercises more real power: money bills, control over the Council of Ministers, and larger numbers in joint sittings.
+
+## Political executive
+The **executive** is the body of persons having authority to execute policies. It has two parts:
+- **Political executive**: elected by the people for a specific period (e.g. ministers). They take the big decisions; they are answerable to the people.
+- **Permanent executive (civil services)**: appointed on a long-term basis; they remain in office even when the ruling party changes. They are more educated and have expertise but work under the political executive.
+
+**Prime Minister:** The President appoints the leader of the majority party or coalition that commands a majority in the Lok Sabha as PM. The PM has no fixed tenure; he or she continues as long as they remain leader of the majority. The PM chairs Cabinet meetings, coordinates departments, distributes and redistributes work to ministers, and can dismiss ministers. When the PM quits, the entire ministry quits.
+
+**Council of Ministers** (60 to 80 ministers of different ranks):
+- **Cabinet Ministers**: top-level leaders in charge of major ministries; the **Cabinet** (about 25 ministers) is the inner ring of the Council of Ministers.
+- **Ministers of State with independent charge**: in charge of smaller ministries; attend Cabinet meetings only when invited.
+- **Ministers of State**: attached to and assist Cabinet Ministers.
+The Cabinet works as a team; ministers may have different views but every decision is owned by all (**collective responsibility**). In coalition governments, the PM cannot take decisions as freely and must accommodate partners.
+
+**The President:** the **head of the State**, with only nominal powers, like the Queen/King of Britain. Elected indirectly by an electoral college of **elected MPs and elected MLAs**. All government activities take place in the President's name; all laws and major policy decisions are issued in his or her name; the President appoints the CJI, judges, governors, election commissioners and ambassadors; is the supreme commander of the defence forces. But the President exercises these powers on the **advice of the Council of Ministers**. The President can ask the Council to reconsider advice once, but must sign if it is sent back. A bill passed by Parliament becomes law only after the President's assent; the President can delay it and send it back once. The most important discretion: appointing the PM when no party has a clear majority.
+
+> [!KEY] Parliamentary vs presidential system
+> India has a **parliamentary system**: the executive is drawn from and answerable to the legislature, and the PM is the real head. In a **presidential system** (like the USA), the President is both head of state and head of government and is directly elected.
+
+## The Judiciary
+India has an **integrated judiciary**: the **Supreme Court** at the top controls judicial administration in the country; its decisions are binding on all other courts. Below it are **High Courts** in states, then **District Courts** and courts at local level.
+
+**The Supreme Court can take up disputes:**
+- between citizens of the country;
+- between citizens and the government;
+- between two or more state governments;
+- between governments at the Union and state level.
+It is the **highest court of appeal** in civil and criminal cases.
+
+**Independence of the judiciary:** it is not under the control of the legislature or the executive. Judges are appointed by the President on the advice of the PM and in consultation with the Chief Justice; in practice senior judges select new judges. Judges can be removed only by an **impeachment** motion passed separately by **two-thirds** of members present in **both Houses** of Parliament; this has never happened to a Supreme Court judge.
+
+**Powers:** the Supreme Court and High Courts are the guardians of the Constitution and Fundamental Rights. **Judicial review**: they can declare invalid any law of the legislature or action of the executive that is against the Constitution. They can also stop amendments that change the **basic structure** of the Constitution. **Public Interest Litigation (PIL)**: anyone can approach the courts if public interest is hurt by government actions.
+
+> [!TIP] Board favourite
+> "Why is the Lok Sabha more powerful than the Rajya Sabha?", "Describe the powers of the Prime Minister" and "How is the independence of the judiciary ensured?" are standard questions. The Mandal Commission is also a common case-study question.
+
+## Quick recap
+- Mandal Commission (1979; report 1980) recommended 27% reservation for SEBC; O.M. of 13 August 1990; Indira Sawhney case (1992) excluded the creamy layer.
+- Parliament = President + Lok Sabha + Rajya Sabha; Lok Sabha is more powerful.
+- Political executive (elected) vs permanent executive (civil servants).
+- PM is the real head; President is the nominal head, acting on advice.
+- Integrated, independent judiciary; judicial review and PIL protect rights.
+
+--- quiz ---
+Q: The Mandal Commission was headed by
+- V.P. Singh
+* B.P. Mandal
+- Indira Sawhney
+- Morarji Desai
+> The Second Backward Classes Commission (1979) was headed by B.P. Mandal.
+
+Q: What percentage of government jobs did the Mandal Commission recommend reserving for SEBC?
+- 15%
+- 50%
+* 27%
+- 33%
+> It recommended 27% reservation for socially and educationally backward classes.
+
+Q: Money bills can be introduced only in
+* the Lok Sabha
+- the Rajya Sabha
+- either House
+- a joint sitting
+> The Rajya Sabha can only delay a money bill by 14 days or suggest changes.
+
+Q: The President of India is elected by
+- all citizens above 18
+- members of the Lok Sabha only
+* elected MPs and elected MLAs
+- the Council of Ministers
+> The President is elected indirectly by an electoral college of elected MPs and MLAs.
+
+Q: Which body can be dissolved and has a term of five years?
+- Rajya Sabha
+- Supreme Court
+- Election Commission
+* Lok Sabha
+> The Rajya Sabha is a permanent house; the Lok Sabha is elected every five years.
+
+Q: A judge of the Supreme Court can be removed by
+- the Prime Minister's order
+- a simple majority in the Lok Sabha
+* an impeachment motion passed separately by two-thirds of members present in both Houses
+- the Chief Justice of India
+> This difficult procedure protects the independence of the judiciary.
+
+Q: The permanent executive refers to
+- ministers of the Cabinet
+- members of Parliament
+* civil servants
+- the President and the Vice-President
+> Civil servants are appointed for long terms and stay even when governments change.
+
+W[5]: How is the Lok Sabha more powerful than the Rajya Sabha?
+A: (1) Any ordinary law needs to be passed by both Houses, but if there is a difference, a joint sitting is held where the Lok Sabha's view usually prevails because it has more members. (2) The Lok Sabha exercises more powers in money matters: a money bill can be introduced only there; the Rajya Sabha can delay it by only 14 days or suggest changes, which the Lok Sabha may or may not accept. (3) The Lok Sabha controls the Council of Ministers: only a person enjoying the support of a majority in the Lok Sabha is appointed PM. (4) If a majority of Lok Sabha members pass a no-confidence motion, the PM and all ministers must quit; the Rajya Sabha has no such power. (5) The Lok Sabha is directly elected by the people and so represents them more directly.
+
+W[3]: Distinguish between the political executive and the permanent executive.
+A: (1) The political executive is elected by the people for a specific period (e.g. PM and ministers); the permanent executive (civil servants) is appointed on a long-term basis. (2) Political executives take the big policy decisions and are answerable to the people; civil servants implement decisions and assist ministers. (3) Political executives change with elections; civil servants remain in office even when the ruling party changes. (4) Civil servants are usually more educated and have expert knowledge, but the political executive has more power because in a democracy the will of the people is supreme.
+
+=== democratic-rights ===
+## The big idea
+Elections and institutions are not enough to make a democracy. Citizens must have **rights**: reasonable claims of persons, recognised by society and sanctioned by law. Rights protect us from the government and from each other, and the courts make sure they are respected.
+
+## Life without rights
+**1. Prison in Guantanamo Bay:** About **600 people** were secretly picked up by US forces from around the world and put in a prison in **Guantanamo Bay**, an area near **Cuba** controlled by the American Navy. The US government said they were enemies linked to the 9/11 attack in New York (2001). Their families were not informed; they were not produced before a magistrate; US courts could not hear their case. **Amnesty International**, an international human rights organisation, reported that prisoners were being tortured. The **UN Secretary General** said the prison should be closed. The US government refused.
+
+**2. Citizens' rights in Saudi Arabia:** The country is ruled by a **hereditary king**; people have no role in electing or changing rulers. The king selects the legislature and executive and appoints judges. Citizens cannot form political parties; there is no freedom of religion for non-Muslims; women are subjected to many public restrictions (they got the vote in local elections only in 2015).
+
+**3. Ethnic massacre in Kosovo:** Kosovo was a province of **Yugoslavia** with an ethnic **Albanian** majority. **Slobodan Milosevic**, a Serb nationalist leader, came to power through elections, and his government targeted Kosovo Albanians; thousands were massacred. In 1999 several countries intervened; Milosevic later lost power and was tried by an **International Court of Justice** for crimes against humanity.
+
+> [!KEY] What are rights?
+> A **right** is a claim of a person over other fellow beings, over society and over the government. Claims must be **reasonable**, **recognised by society** and **sanctioned by law**. Rights are needed in a democracy because: every citizen must be able to vote and contest; they protect minorities from oppression by the majority; they act as a guarantee when things go wrong, so the majority cannot take them away.
+
+## Rights in the Indian Constitution
+The Constitution lists **Fundamental Rights**, which are a basic feature of the Constitution. They are **six**:
+
+**1. Right to Equality (Articles 14–18)**
+- The government shall not deny any person **equality before the law** or **equal protection of the laws** (**rule of law**: no person is above the law).
+- No discrimination on grounds of religion, caste, ethnicity, sex or place of birth in access to public places like shops, restaurants, hotels, wells and bathing ghats.
+- **Equality of opportunity** in public employment; reservations for SC, ST and OBC are not a violation but a way to ensure real equality.
+- **Untouchability** is abolished in any form and its practice is a punishable offence.
+- Abolition of titles (except military and academic distinctions).
+
+**2. Right to Freedom (Articles 19–22)**
+Citizens have the freedom of: (a) **speech and expression**; (b) **assembly** in a peaceful manner; (c) **forming associations** and unions; (d) **moving freely** throughout the country; (e) **residing** in any part of the country; (f) practising any **profession** or carrying on any occupation, trade or business.
+These are subject to reasonable restrictions (public order, peace, morality). Also: **no person can be deprived of life or personal liberty** except according to procedure established by law. A person arrested must be informed of the reasons, must be **produced before the nearest magistrate within 24 hours**, and has the right to consult a lawyer.
+
+**3. Right against Exploitation (Articles 23–24)**
+- Prohibits **traffic in human beings** (selling and buying of people, mostly women, for immoral purposes).
+- Prohibits **forced labour or begar** (forcing a worker to work for little or no pay); also bonded labour.
+- Prohibits **child labour**: no one can employ a child below **14 years** in any factory, mine or hazardous work like railways and ports.
+
+**4. Right to Freedom of Religion (Articles 25–28)**
+India is a **secular** state: there is no official religion and the government treats all religions with equal respect. Every person has the right to profess, practise and propagate the religion he or she believes in. But nobody can force another to convert. No special taxes to promote any religion. No religious instruction in government educational institutions.
+
+**5. Cultural and Educational Rights (Articles 29–30)**
+- Any section of citizens with a **distinct language or culture** has a right to conserve it.
+- Admission to government or government-aided institutions cannot be denied on the grounds of religion or language.
+- All **minorities**, religious or linguistic, can set up their own **educational institutions**.
+
+**6. Right to Constitutional Remedies (Article 32)**
+This is the right to **seek the enforcement** of the other Fundamental Rights. If any right is violated, a citizen can directly approach the **Supreme Court** or a **High Court**. **Dr. B.R. Ambedkar** called it the "**heart and soul**" of our Constitution. Courts can issue directions, orders or **writs**. They can also award compensation to victims. Through **Public Interest Litigation (PIL)**, any person or group can approach the courts against violation of rights of others, even through a simple letter or postcard.
+
+**Other bodies:** the **National Human Rights Commission (NHRC)**, set up by law in **1993**, is an independent body that investigates violations of human rights (it cannot punish, but presents findings and recommends action). Its members include retired judges and officers.
+
+> [!MISTAKE] There are six, not seven, Fundamental Rights
+> The **Right to Property** was originally a Fundamental Right but was removed in 1978 (44th Amendment). It is now only a **legal/constitutional right** (Article 300A).
+
+## Expanding scope of rights
+- Courts have expanded the meaning of rights: the **right to life** now includes the right to **food**, **health**, a decent environment and dignity.
+- The **Right to Education** became a Fundamental Right: free and compulsory education for children aged **6 to 14 years**.
+- **Right to Information (RTI) Act, 2005**: citizens can seek information from government offices; this is part of freedom of thought and expression.
+- Constitutional rights outside Part III: **right to property** (not a fundamental right but a legal one) and the **right to vote** in elections (a constitutional right).
+- The **South African Constitution** gives rights such as the right to **privacy**, adequate **housing**, health care, sufficient food and water. Many people now demand that such claims also become rights.
+- **Human rights**: universal moral claims that may not yet be recognised by law. The **International Covenant on Economic, Social and Cultural Rights** recognises the right to work, safe and healthy working conditions, adequate standard of living, social security, health and education.
+
+> [!TIP] Board favourite
+> "Why is the Right to Constitutional Remedies called the heart and soul of the Constitution?" and "Explain any two Fundamental Rights" are asked very often. Always name the right and give its main provisions.
+
+## Quick recap
+- Life without rights: Guantanamo Bay, Saudi Arabia, Kosovo.
+- Rights are reasonable claims recognised by society and sanctioned by law.
+- Six Fundamental Rights: Equality, Freedom, against Exploitation, Freedom of Religion, Cultural and Educational, Constitutional Remedies.
+- Article 32 (Constitutional Remedies) = "heart and soul" (Ambedkar); PIL widens access.
+- NHRC (1993); scope of rights is expanding: education, information (RTI 2005), food.
+
+--- quiz ---
+Q: Which Fundamental Right did Dr. B.R. Ambedkar call the "heart and soul" of the Constitution?
+- Right to Equality
+- Right to Freedom
+* Right to Constitutional Remedies
+- Right against Exploitation
+> It allows citizens to approach the courts directly to enforce all other rights.
+
+Q: Guantanamo Bay prison is located near
+* Cuba
+- Kosovo
+- Saudi Arabia
+- Afghanistan
+> It is an area near Cuba controlled by the American Navy.
+
+Q: Within how many hours must an arrested person be produced before the nearest magistrate?
+- 12 hours
+- 48 hours
+* 24 hours
+- 72 hours
+> This is part of the Right to Freedom (protection of life and personal liberty).
+
+Q: The prohibition of child labour and forced labour comes under the
+- Right to Equality
+- Right to Freedom of Religion
+- Cultural and Educational Rights
+* Right against Exploitation
+> Articles 23–24 prohibit human trafficking, begar and child labour below 14 in hazardous work.
+
+Q: The National Human Rights Commission was set up in
+- 1950
+- 1978
+* 1993
+- 2005
+> The NHRC was set up by law in 1993 to investigate human rights violations.
+
+Q: Which of these is NOT a Fundamental Right in India today?
+- Right to Freedom of Religion
+* Right to Property
+- Right to Equality
+- Right to Constitutional Remedies
+> The Right to Property was removed from the list of Fundamental Rights in 1978.
+
+Q: Who was the Serb leader whose government targeted ethnic Albanians in Kosovo?
+- Nelson Mandela
+- Robert Mugabe
+- Pervez Musharraf
+* Slobodan Milosevic
+> Milosevic was later tried by an international court for crimes against humanity.
+
+W[3]: Why do we need rights in a democracy?
+A: (1) Rights are necessary for the very sustenance of a democracy: every citizen needs the right to vote and the right to be elected. (2) Democratic elections require citizens to have the freedom to express opinions, form political parties and take part in political activities. (3) Rights protect minorities from the oppression of the majority and ensure the majority cannot do whatever it likes. (4) Rights act as a guarantee if things go wrong, for instance if the government does not protect citizens or itself attacks their rights; that is why some rights are placed higher than the government and are enforceable by courts.
+
+W[5]: Explain the Right to Freedom given in the Indian Constitution.
+A: The Right to Freedom gives every citizen: (1) freedom of speech and expression; (2) freedom to assemble in a peaceful manner; (3) freedom to form associations and unions; (4) freedom to move freely throughout the country; (5) freedom to reside in any part of the country; (6) freedom to practise any profession or carry on any occupation, trade or business. These freedoms are subject to reasonable restrictions in the interest of public order, peace and morality. It also protects life and personal liberty: no person can be deprived of them except according to procedure established by law. An arrested person must be told the reasons for arrest, produced before the nearest magistrate within 24 hours, and has the right to consult a lawyer.
+
+=== the-story-of-village-palampur ===
+## The big idea
+**Palampur** is a hypothetical (imaginary) village used to explain the basic ideas of **production**. Like most Indian villages, its main activity is **farming**, but people also run small manufacturing units, shops, dairies and transport. Looking at Palampur helps us understand what is needed to produce goods and services.
+
+## About Palampur
+- Well connected with neighbouring villages and towns. **Raiganj**, a big village, is **3 km** away; an all-weather road connects it to **Shahpur**, the nearest small town.
+- About **450 families**. About 80 families of **upper castes** own most of the land; their houses are large, made of brick with cement plastering. **SCs (dalits)** make up one-third of the population and live in one corner of the village in much smaller houses of mud and straw.
+- Most houses have **electricity**, which powers tubewells and small businesses. There are **two primary schools and one high school**, a **primary health centre** run by the government and a **private dispensary**.
+
+## Factors of production
+Production of goods and services requires four things:
+1. **Land**, and other natural resources such as water, forests and minerals.
+2. **Labour**: people who do the work. Some activities need highly educated workers; others need workers who can do manual work.
+3. **Physical capital**: the inputs required at every stage of production:
+   - **Fixed capital**: tools, machines and buildings that can be used for production over **many years** (e.g. farmer's plough, generators, turbines, computers).
+   - **Working capital**: raw materials and **money in hand**, which are **used up** in production (e.g. yarn for a weaver, clay for a potter, seeds and fertiliser for a farmer).
+4. **Human capital**: the **knowledge and enterprise** to put together land, labour and physical capital and produce an output (entrepreneurship).
+
+> [!MISTAKE] Fixed vs working capital
+> A tractor is **fixed capital** (used for many years). The diesel it uses is **working capital** (used up in one round of production).
+
+## Farming in Palampur
+**Land is fixed.** Since **1960** there has been no expansion of land under cultivation in Palampur. All land is cultivated; there is no wasteland. So to grow more, farmers must produce more from the same land.
+
+**Ways to increase production:**
+- **Multiple cropping**: growing more than one crop on a piece of land during the year. This is the **most common way**. Palampur farmers grow three different crops: **jowar and bajra** in the **rainy season (kharif)**; **potato** between October and December; **wheat** in **winter (rabi)**. Part of the land grows **sugarcane**, harvested once a year.
+- **Modern farming methods / higher yield**: **yield** is the crop produced on a given piece of land during a single season.
+
+Well-developed irrigation makes multiple cropping possible. Electricity came early to Palampur; **electric-run tubewells** replaced the **Persian wheel** and irrigated much larger areas. By the mid-1970s the entire cultivated area of 200 hectares was irrigated. (Only about **40%** of India's cultivated area is irrigated.)
+
+**Green Revolution:** in the late 1960s, the Green Revolution introduced Indian farmers to **HYV (high yielding variety) seeds** of wheat and rice. HYV seeds produce much more grain on a single plant but need plenty of water, **chemical fertilisers and pesticides**. Farmers of **Punjab, Haryana and western Uttar Pradesh** were the first to try them. In Palampur, the yield of wheat rose from **1,300 kg per hectare** (traditional seeds) to **3,200 kg per hectare** with HYV seeds. Farmers also used tractors and threshers.
+
+**Sustainability:** modern farming has overused natural resources. Chemical fertilisers dissolve in water and drain away, polluting groundwater and rivers, and kill bacteria and micro-organisms in the soil, reducing fertility. Continuous use of groundwater for tubewells has lowered the **water table** (e.g. in Punjab and western UP).
+
+**Distribution of land:** in Palampur, about **150 families** (one-third of 450) are **landless**, mostly dalits. **240 families** cultivate small plots less than **2 hectares** in size. There are **60 families of medium and large farmers** who cultivate more than 2 hectares; a few own over 10 hectares. Land distribution is unequal in India too.
+
+**Labour:** small farmers and their families cultivate their own fields. Medium and large farmers hire **farm labourers**, who come from landless families or families on small plots. Farm labourers are paid in cash or kind (crops), sometimes meals. **Dala** is a landless farm labourer in Palampur who works for **Rs 160** per day, below the government minimum wage of **Rs 300** per day for a farm labourer. There is heavy competition for work, so labourers accept low wages. **Ramkali**, Dala's neighbour, is also a landless labourer.
+
+**Capital:** small farmers borrow money from big farmers, village moneylenders or traders who supply inputs, at very high rates of interest. **Savita**, a small farmer, borrowed **Rs 3,000** from **Tejpal Singh**, a large farmer, at **24% interest for four months** and promised to work on his field during harvest for **Rs 100 per day** (a low wage). Medium and large farmers have surplus from farming to arrange capital.
+
+**Sale of surplus:** small farmers keep a small part of the wheat for the family and have little surplus; medium and large farmers sell surplus wheat in the **Raiganj market**. **Tejpal Singh** deposits earnings in a bank, lends money to small farmers and buys capital (another tractor, more land).
+
+## Non-farm activities in Palampur
+Only about **25%** of people working in Palampur are engaged in non-farm activities.
+- **Dairy**: people feed buffaloes on grass and jowar/bajra. Milk is sold in Raiganj; two traders from Shahpur have set up collection-cum-chilling centres there.
+- **Small-scale manufacturing**: done mostly at home or in fields with family labour, using simple methods; e.g. **Mishrilal** bought a mechanical **sugarcane crushing machine** run on electricity, makes **jaggery** (gur) and sells it to traders in Shahpur.
+- **Shopkeepers**: traders buy goods from wholesale markets in cities (rice, wheat, sugar, tea, oil, biscuits, soap, toothpaste, batteries) and sell them in the village. **Kareem** opened a **computer class centre** in the village, employing two women from the village who were trained in Shahpur.
+- **Transport**: rickshaw-wallahs, tongawallahs, jeep, tractor, truck drivers and bullock cart drivers carry people and goods. **Kishora**, a farm labourer, bought a buffalo with a loan from a bank under a government scheme and uses his **buffalo cart** to carry goods; he also sells milk.
+
+> [!TIP] Board favourite
+> "What are the factors of production? Explain with examples" and "Why is multiple cropping important?" are very common. Also "Modern farming methods require more inputs; explain" and the environmental effects of the Green Revolution.
+
+## Quick recap
+- Four factors of production: land, labour, physical capital (fixed and working), human capital.
+- Land in Palampur is fixed since 1960; multiple cropping and HYV seeds raised output.
+- Green Revolution: HYV seeds, irrigation, fertilisers; wheat yield 1,300 to 3,200 kg/ha; but soil and water damage.
+- Land is unequally distributed; small farmers borrow at high interest (Savita); labourers get low wages (Dala).
+- Non-farm activities: dairy, small manufacturing (Mishrilal), shops (Kareem), transport (Kishora).
+
+--- quiz ---
+Q: Which of these is an example of working capital?
+- A tractor
+- A sugarcane crushing machine
+* Seeds and fertilisers
+- A farm building
+> Working capital is used up in production; tools and machines are fixed capital.
+
+Q: The most common way of increasing production on a given piece of land is
+* multiple cropping
+- expanding land under cultivation
+- using the Persian wheel
+- leaving land fallow
+> Since land is fixed, growing more than one crop a year is the most common method.
+
+Q: In Palampur, the yield of wheat with HYV seeds rose to
+- 1,300 kg per hectare
+- 2,000 kg per hectare
+* 3,200 kg per hectare
+- 5,000 kg per hectare
+> Yield rose from 1,300 kg/ha with traditional seeds to 3,200 kg/ha with HYV seeds.
+
+Q: Knowledge and enterprise needed to put together land, labour and capital is called
+- physical capital
+- working capital
+- fixed capital
+* human capital
+> Human capital (entrepreneurship) organises the other factors of production.
+
+Q: Savita borrowed money from Tejpal Singh at an interest rate of
+- 12% for one year
+* 24% for four months
+- 10% for six months
+- 36% for one month
+> She borrowed Rs 3,000 at 24% for four months and agreed to work on his fields at a low wage.
+
+Q: Which states were the first to try out the Green Revolution methods?
+- Kerala, Tamil Nadu and Karnataka
+- Bihar, Odisha and West Bengal
+* Punjab, Haryana and western Uttar Pradesh
+- Rajasthan, Gujarat and Maharashtra
+> Farmers of these states first adopted HYV seeds in the late 1960s.
+
+Q: About what share of people working in Palampur are engaged in non-farm activities?
+- 75%
+- 50%
+- 60%
+* 25%
+> Farming is the main activity; only about 25% work in non-farm activities.
+
+W[5]: What are the four factors of production? Explain with examples.
+A: (1) Land and other natural resources such as water, forests and minerals; e.g. the 200 hectares of cultivated land in Palampur. (2) Labour: people who do the work, from farm labourers like Dala to educated workers. (3) Physical capital: (a) fixed capital such as tools, machines and buildings that are used for many years, e.g. a tractor, tubewell or Mishrilal's sugarcane crusher; (b) working capital such as raw materials and money in hand, which are used up in production, e.g. seeds, fertilisers, cane and cash to pay wages. (4) Human capital: the knowledge and enterprise needed to combine land, labour and physical capital to produce output, either for self-use or for sale in the market.
+
+W[3]: How has modern farming affected the environment? Explain.
+A: (1) Continuous use of chemical fertilisers has reduced soil fertility; they dissolve in water and drain away, and they kill bacteria and other micro-organisms useful for the soil. (2) Fertilisers draining into water bodies pollute groundwater, rivers and lakes. (3) Overuse of groundwater through tubewells for irrigation has caused the water table to fall, as in Punjab and western Uttar Pradesh. Once destroyed, these natural resources are very difficult to restore, so the environmental costs of the Green Revolution threaten sustainable development.
+
+=== people-as-resource ===
+## The big idea
+**People as resource** means looking at a country's working people in terms of their existing productive **skills and abilities**. A large population is not just a burden: when people are educated, trained and healthy, they become an asset, called **human capital**, that produces goods and services and drives economic growth.
+
+> [!KEY] Human capital formation
+> **Human capital** is the stock of skill and productive knowledge embodied in people. When the existing human resource is further developed by spending on **education, training and medical care**, it becomes human capital. This investment is called **human capital formation**, and it adds to the productive power of the country just like physical capital formation.
+
+## Human capital
+- Human capital is in one way **superior** to other resources like land and physical capital: human resource can make use of land and capital; land and capital cannot become useful on their own.
+- Investment in human capital (through education, training, health care) yields a return, just like investment in physical capital. Educated and healthy people earn higher incomes and contribute more to society.
+- **Japan** is an example: it has no rich natural resources, yet it is a developed country because it **invested in its people**, especially in education and health. These people made efficient use of other resources like land and capital, and developed technology.
+
+**Sakal and Vilas** (a story from the textbook): Sakal went to school, did a course in **computer programming**, and got a job in a private firm; he later designed new software and earned well. Vilas, his neighbour, could not go to school because of his father's death and poverty; he was sick (arthritis) and sold fish like his mother, earning a meagre income. The difference was **investment in education and health**.
+
+> [!EXAMPLE] A virtuous cycle
+> Educated parents invest more in their children's education and health; such children become productive adults and invest in their own children. Uneducated, unhealthy parents may keep their children in a similar disadvantaged state, creating a vicious cycle.
+
+## Economic activities by men and women
+Activities that add value to the **national income** are called **economic activities**. They are of two kinds:
+- **Market activities**: performed for pay or profit, i.e. production of goods or services, including government services.
+- **Non-market activities**: production for **self-consumption**, e.g. consumption and processing of primary products and own-account production of fixed assets.
+
+Activities are classified into three sectors:
+| Sector | Activities |
+|---|---|
+| **Primary** | Agriculture, forestry, animal husbandry, fishing, poultry farming, mining, quarrying |
+| **Secondary** | Manufacturing (industry) |
+| **Tertiary (service)** | Trade, transport, communication, banking, education, health, tourism, services, insurance |
+
+**Women's work:** due to historical and cultural reasons, there is a division of labour between men and women in the family. Women generally look after domestic chores, and men work in fields. Women are **not paid** for their household services; this work is not counted in the national income. Women in the organised sector are usually educated and get equal pay; most women in the unorganised sector are less educated, earn low wages, lack job security and legal protection.
+
+## Quality of population: education and health
+The quality of population depends on the **literacy rate**, **health** of a person indicated by **life expectancy**, and **skill formation** acquired by the people.
+
+**Education:**
+- Education opens new horizons, provides new aspirations and develops values of life; it contributes to the growth of society, national income, cultural richness and efficiency of governance.
+- Steps: provision of **universal access, retention and quality** in elementary education, with focus on girls. **Sarva Shiksha Abhiyan** gives elementary education to all children aged **6–14** years by 2010 (a time-bound initiative of the central government with states, local government and community). **Bridge courses** and **back-to-school camps** to increase enrolment; the **mid-day meal scheme** to encourage attendance and retention and improve nutritional status.
+- Literacy rate has increased from **18% in 1951 to 74% in 2011**; literacy is higher among males (about 82%) than females (about 65%), and higher in urban than rural areas. It varies from 94% in Kerala to about 62% in Bihar.
+- Expansion of higher education: more **vocational streams**, **navodaya vidyalayas** in each district. The plan outlay on education increased substantially.
+
+**Health:**
+- The health of a person helps him realise potential and fight illness. An unhealthy worker becomes a liability for an organisation.
+- India has built a vast health infrastructure: primary health centres, community health centres, hospitals and medical colleges. **Life expectancy** has increased to over **68 years in 2014**; **infant mortality rate (IMR)** (death of a child under one year of age per 1,000 live births) has fallen from 147 in 1951 to **37 in 2014**. **Birth rate** fell to 21.8 and **death rate** to 7.1 in 2014. Smallpox has been eradicated, and malaria, polio and other diseases are controlled.
+- **Health care, family welfare, nutrition** are national policy priorities, aiming to improve access to health services, especially for underprivileged sections.
+
+## Unemployment
+**Unemployment** exists when people who are **willing to work at the going wages cannot find jobs**. The workforce includes people aged **15–59 years**; children below 15 and the aged above 60 are not considered unemployed.
+
+**Types of unemployment:**
+- **Seasonal unemployment** (rural): people are not able to find jobs during some months of the year; those dependent on agriculture face this because there are busy seasons (sowing, harvesting, weeding, threshing) and slack seasons.
+- **Disguised unemployment** (rural): people **appear to be employed** but more people work on a job than needed. For example, a family of eight working on a small plot where only five are needed; if three are removed, production does not fall. Their **marginal productivity is zero**.
+- **Educated unemployment** (urban): many youth with matriculation, graduation and post-graduation degrees cannot find jobs. There is a paradox: a surplus of manpower in certain categories coexists with a shortage of manpower in others (e.g. technical skills).
+
+**Effects of unemployment:**
+- It leads to **wastage of manpower resource**; people who are an asset turn into a liability.
+- It increases economic overload: dependence of the unemployed on the working population increases; quality of life falls.
+- Feeling of **hopelessness and despair** among youth; social unrest.
+- It has a detrimental impact on the overall growth of the economy and reduces the quality of life of a family and society.
+
+**Employment structure:** In India, the **primary sector** (agriculture) is the most labour-absorbing, but in recent years there has been a decline in dependence on agriculture partly due to disguised unemployment. Some surplus labour has moved to the secondary or tertiary sector. Unemployment rate in India is low statistically because people with low income and productivity are counted as employed: they work all year but their earnings are low.
+
+> [!MISTAKE] Disguised does not mean jobless
+> A person in disguised unemployment **does work** and appears employed, but contributes nothing extra to output. A seasonally unemployed person has **no work** for part of the year.
+
+> [!TIP] Board favourite
+> "Distinguish between disguised and seasonal unemployment", "How is human resource different from other resources?" and "Explain the role of education in human capital formation" are standard questions. Use the Sakal–Vilas story as an example.
+
+## Quick recap
+- Population becomes an asset when invested in through education, training and health: human capital formation.
+- Japan developed by investing in people.
+- Economic activities: market and non-market; primary, secondary, tertiary sectors. Women's household work is unpaid.
+- Education: literacy 18% (1951) to 74% (2011); Sarva Shiksha Abhiyan, mid-day meal.
+- Unemployment: seasonal and disguised (rural), educated (urban); it wastes resources and causes despair.
+
+--- quiz ---
+Q: Which country is cited as an example of developing by investing in human resource despite having few natural resources?
+- India
+- Saudi Arabia
+* Japan
+- Brazil
+> Japan invested in education and health, and its people made efficient use of other resources.
+
+Q: Disguised unemployment is a situation in which
+- people have no work for some months of the year
+- educated people cannot find jobs
+* more people are working on a job than needed, so their marginal productivity is zero
+- people refuse to work at the going wage
+> Removing the extra workers does not reduce total output.
+
+Q: Which of these is a tertiary sector activity?
+- Fishing
+- Mining
+- Manufacturing
+* Banking
+> Banking, transport, education and health are services.
+
+Q: Which of these is a non-market activity?
+- A teacher teaching in a school for salary
+- A farmer selling wheat in the mandi
+* A woman cooking food for her family at home
+- A doctor treating patients in a hospital
+> Household work is unpaid and not counted in national income.
+
+Q: Sarva Shiksha Abhiyan aims to provide elementary education to children of age group
+- 3–6 years
+- 10–15 years
+- 14–18 years
+* 6–14 years
+> It is a time-bound initiative to universalise elementary education for children aged 6–14.
+
+Q: India's literacy rate in 2011 was about
+- 18%
+- 52%
+* 74%
+- 94%
+> Literacy rose from 18% in 1951 to 74% in 2011; 94% is Kerala's rate.
+
+Q: Seasonal unemployment is most commonly found in
+* agriculture
+- information technology
+- banking
+- government offices
+> Farm work has busy and slack seasons, leaving workers jobless for some months.
+
+W[3]: Distinguish between seasonal unemployment and disguised unemployment.
+A: (1) Seasonal unemployment occurs when people cannot find jobs during some months of the year; disguised unemployment occurs when people appear to be employed but more people work on a job than are actually needed. (2) In seasonal unemployment, workers are idle in the slack season (between harvesting and sowing); in disguised unemployment, people work throughout the year but their marginal productivity is zero. (3) Example of seasonal: farm labourers who have no work after harvesting. Example of disguised: eight family members working on a small plot where five are enough. Both are mostly found in rural areas and in agriculture.
+
+W[5]: What is meant by "people as resource"? How does investment in education and health help in human capital formation?
+A: "People as resource" refers to the working population of a country in terms of their existing productive skills and abilities; it looks at the population as an asset rather than a liability. When this resource is developed by spending on education, training and medical care, it becomes human capital.
+Education: (1) gives people knowledge and skills, raising productivity and income (like Sakal, who learnt computer programming); (2) opens new horizons and aspirations and develops values; (3) contributes to national income, cultural richness and better governance.
+Health: (1) a healthy person can work more efficiently and realise his potential; (2) an unhealthy worker becomes a liability; (3) better health increases life expectancy and the quality of life.
+Educated and healthy people also invest in their children, creating a virtuous cycle, as shown by countries like Japan.
+
+=== poverty-as-a-challenge ===
+## The big idea
+Poverty is one of the most difficult challenges independent India has faced. It means **hunger, lack of shelter, illiteracy, ill health, lack of clean water and sanitation, lack of a regular job**, and also a feeling of **helplessness**. This chapter explains how poverty is measured, who is poor, why poverty exists, and how India fights it.
+
+## Poverty seen through case studies
+The textbook describes people such as **Ram Saran** (a daily-wage labourer in a flour mill near Ranchi, Jharkhand), **Lakha Singh** (a landless labourer in a village near Meerut, UP), **Santosh** (a widow working as a domestic help in Delhi) and **Kailash** (a city construction worker). They lack regular work, enough food, education for their children, health care and decent housing. The poor are also treated badly at almost every place: in farms, factories, government offices, hospitals and schools.
+
+**Social exclusion:** poverty must be seen as the poor having to live only in a poor surrounding with other poor people, **excluded** from enjoying social equality with better-off people. The caste system in India is a typical example, where people of certain castes are excluded from equal opportunities.
+
+**Vulnerability:** **vulnerability to poverty** describes the greater probability of certain communities (members of a backward caste) or individuals (widows, physically handicapped) becoming, or remaining, poor in the coming years. It is determined by the options available to different communities for finding an alternative living, in times of natural disasters or job losses.
+
+## Poverty line
+A common method to measure poverty is based on **income or consumption levels**. A person is considered poor if his or her income or consumption level falls below a "minimum level" necessary to fulfil basic needs. This level is the **poverty line**.
+- In India, the poverty line considers a **minimum level of food requirement**, clothing, footwear, fuel and light, educational and medical requirement. These physical quantities are multiplied by their prices in rupees.
+- **Calorie requirement:** the accepted average calorie requirement is **2,400 calories per person per day in rural areas** and **2,100 calories in urban areas**. Rural people do more physical work, so they need more calories.
+- On the basis of these calculations, for the year **2011–12**, the poverty line was fixed at **Rs 816 per person per month for rural areas** and **Rs 1,000 for urban areas**. A family of five in rural areas earning less than about Rs 4,080 per month is below the poverty line.
+- The poverty line is estimated periodically (normally every five years) by conducting sample surveys, carried out by the **National Sample Survey Organisation (NSSO)**.
+- For international comparison, the **World Bank** uses a uniform standard: minimum availability of the equivalent of **$1.90 per person per day** (2011 PPP).
+
+> [!MISTAKE] Same poverty line everywhere? No
+> The poverty line varies with **time and place**. Each country uses an imaginary line suited to its own development level and accepted minimum social norms. Rural and urban lines also differ.
+
+## Poverty estimates
+- The proportion of people below the poverty line fell from about **45% in 1993–94 to 37.2% in 2004–05**, and further to **21.9% in 2011–12**.
+- The number of poor fell from **407 million in 2004–05 to 270 million in 2011–12**. If the trend continues, people below the poverty line may come down to less than 20% in the next few years.
+
+**Vulnerable groups:** **Scheduled Castes** and **Scheduled Tribes** households are most vulnerable; among economic groups, **rural agricultural labour** households and **urban casual labour** households. Within a poor family, women, elderly people and **female infants** suffer more (intra-household inequality); they are often denied equal access to resources.
+
+**Inter-state disparities:** poverty varies across states. **Madhya Pradesh, Assam, Uttar Pradesh, Bihar and Odisha** have poverty ratios above the all-India level; **Bihar and Odisha** remain the two poorest states (about 33.7% and 32.6% in 2011–12). States that reduced poverty significantly: **Kerala, Jammu and Kashmir, Andhra Pradesh, Tamil Nadu, Gujarat and West Bengal**. Reasons: **Punjab and Haryana** used high agricultural growth rates; **Kerala** focused on **human resource development**; **West Bengal** used **land reform** measures; **Andhra Pradesh and Tamil Nadu** used public distribution of food grains.
+
+**Global poverty:** the proportion of people in developing countries living in extreme poverty (below $1.90 a day) fell from 36% in 1990 to about 10% in 2015. Reduction has been large in **China and South-East Asia** due to rapid growth and investment in human resources. In **Sub-Saharan Africa**, poverty declined from 54% in 1990 to 41% in 2015. In Latin America it remained about the same. The **Sustainable Development Goals (SDGs)** of the UN propose to end poverty of all types by **2030**.
+
+## Causes of poverty
+1. **Low level of economic development under British colonial rule**: policies ruined traditional handicrafts and discouraged textile industries.
+2. **Low rate of growth** after independence, until the 1980s, accompanied by a **high growth rate of population**, so the growth rate of per capita income was low.
+3. The Green Revolution created jobs, but limited to some parts of India; industries could not provide enough jobs. Unable to find proper jobs in cities, many became rickshaw pullers, vendors, construction workers and domestic servants, living in slums.
+4. **Huge income inequalities**: **unequal distribution of land** and other resources. Land reforms were not implemented properly by most state governments.
+5. **Socio-cultural factors**: to fulfil social obligations and religious ceremonies, the very poor spend a lot of money, often borrowing.
+6. **Indebtedness**: small farmers need inputs; they borrow at high interest, and when crops fail they cannot repay and fall deeper into poverty.
+
+## Anti-poverty measures
+The government's strategy has two planks: (1) **promotion of economic growth**, and (2) **targeted anti-poverty programmes**.
+
+**Economic growth:** since the 1980s India's growth rate has been one of the fastest in the world (about 6% in the 2000s). Growth widens opportunities and provides resources for investment in human development. But the poor may not benefit directly from growth, so targeted programmes are needed.
+
+**Important programmes:**
+| Programme | Year | Aim |
+|---|---|---|
+| **Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)** | **2005** | **100 days** of assured wage employment every year to every rural household in 200 districts (later extended to all); one-third of jobs reserved for women; if not given work within 15 days, an unemployment allowance |
+| **Prime Minister Rozgar Yojana (PMRY)** | 1993 | Self-employment opportunities for educated unemployed youth in rural areas and small towns |
+| **Rural Employment Generation Programme (REGP)** | 1995 | Self-employment opportunities in rural areas and small towns; target of 25 lakh new jobs under the Tenth Five Year Plan |
+| **Swarnajayanti Gram Swarozgar Yojana (SGSY)** | 1999 | Bring assisted poor families above the poverty line by organising them into **self-help groups** through bank credit and government subsidy |
+| **Pradhan Mantri Gramodaya Yojana (PMGY)** | 2000 | Additional central assistance to states for basic services such as primary health, primary education, rural shelter, drinking water and electrification |
+| **Antyodaya Anna Yojana (AAY)** | 2000 | Food grains at highly subsidised rates to the poorest of the poor (see Food Security) |
+| **Pradhan Mantri Jan Dhan Yojana (PMJDY)** | 2014 | Bank accounts for all, with insurance |
+
+The results have been **mixed**: one major reason is the lack of proper implementation and right targeting; there has been a lot of overlapping of schemes.
+
+## The challenges ahead
+Poverty has certainly declined, but removing it remains a major challenge. The concept of poverty is expanding: from "minimum subsistence level" to "**reasonable level of living**", including health, education, job security, self-confidence, avoiding discrimination, and equality of opportunity. **Wider access to healthcare, education, job security**, gender equality and dignity for the poor must be achieved.
+
+> [!TIP] Board favourite
+> "What is the poverty line? How is it estimated in India?", "Describe the major causes of poverty" and "Explain MGNREGA" are very common. Remember 2,400 (rural) and 2,100 (urban) calories.
+
+## Quick recap
+- Poverty: hunger, lack of shelter, health, education, jobs; social exclusion and vulnerability are wider ways of seeing it.
+- Poverty line based on calories (2,400 rural, 2,100 urban) and money (Rs 816 rural, Rs 1,000 urban per month, 2011–12).
+- Poverty fell to 21.9% (2011–12); SC/ST, agricultural and casual labourers most vulnerable; Bihar and Odisha poorest.
+- Causes: colonial legacy, low growth plus high population growth, inequality, social customs, debt.
+- Anti-poverty strategy: growth + targeted programmes (MGNREGA 2005, PMRY, REGP, SGSY, PMGY, AAY).
+
+--- quiz ---
+Q: The accepted average calorie requirement per person per day in rural India is
+- 2,100 calories
+* 2,400 calories
+- 2,800 calories
+- 1,800 calories
+> Rural people do more physical work, so 2,400 calories is used for rural areas and 2,100 for urban areas.
+
+Q: For 2011–12 the poverty line for rural areas was fixed at
+- Rs 1,000 per person per month
+- Rs 4,080 per person per month
+- Rs 600 per person per month
+* Rs 816 per person per month
+> Rs 816 for rural and Rs 1,000 for urban areas per person per month.
+
+Q: MGNREGA guarantees how many days of wage employment per year to every rural household?
+- 50 days
+- 365 days
+* 100 days
+- 200 days
+> MGNREGA (2005) assures 100 days of employment to rural households.
+
+Q: Which organisation conducts the sample surveys used to estimate poverty in India?
+* National Sample Survey Organisation (NSSO)
+- Reserve Bank of India
+- World Bank
+- Election Commission
+> NSSO carries out periodic sample surveys of consumption.
+
+Q: Which of these is the most vulnerable social group with regard to poverty in India?
+- Urban salaried employees
+- Large farmers
+- Government officers
+* Scheduled Tribe households
+> SC and ST households, along with rural agricultural labour and urban casual labour households, are the most vulnerable.
+
+Q: Kerala reduced poverty mainly by focusing on
+- land reforms
+- high agricultural growth
+* human resource development
+- public distribution of food grains only
+> Kerala invested in education and health; West Bengal used land reforms.
+
+Q: The scheme that organises the poor into self-help groups through bank credit and government subsidy is
+- PMRY
+- REGP
+- PMGY
+* SGSY
+> Swarnajayanti Gram Swarozgar Yojana (1999) works through self-help groups.
+
+W[3]: What is the poverty line? How is it estimated in India?
+A: The poverty line is an imaginary line used to identify the poor: a person whose income or consumption level falls below the minimum level necessary to fulfil basic needs is considered poor. In India it is estimated by considering a minimum level of food requirement, clothing, footwear, fuel and light, education and medical needs; these quantities are multiplied by their prices in rupees. Food requirement is based on calories: 2,400 per person per day in rural areas and 2,100 in urban areas. For 2011–12 the poverty line was Rs 816 per person per month in rural areas and Rs 1,000 in urban areas. It is estimated periodically through sample surveys conducted by the NSSO.
+
+W[5]: Describe the major causes of poverty in India.
+A: (1) Colonial rule: British policies ruined traditional handicrafts and discouraged the development of industries like textiles, leaving India with a low level of economic development. (2) Low growth with high population growth: until the 1980s economic growth was slow, while population grew rapidly, so per capita income grew very little. (3) Limited jobs: the Green Revolution created jobs only in some regions, and industry could not absorb the job seekers; many ended up in low-paid informal work in cities. (4) Unequal distribution of land and resources: land reforms were not implemented properly, so many remained landless. (5) Socio-cultural factors: the poor spend heavily on social obligations and religious ceremonies. (6) Indebtedness: small farmers borrow at high interest and, when crops fail, fall into a debt trap.
+

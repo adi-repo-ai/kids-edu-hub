@@ -1807,3 +1807,695 @@ Q: What is the central theme of the poem?
 
 W[3]: Why does the poet say that young men will not love Anne "for herself alone"?
 A: Anne has beautiful golden hair which the poet calls "honey-coloured ramparts". Young men are attracted by her physical beauty and are thrown into despair by it. Human love is usually based on outward appearance, so they cannot see past her hair to her inner self. The poet says only God can love a person for themselves alone.
+
+=== a-triumph-of-surgery ===
+## The big idea
+**A Triumph of Surgery** by **James Herriot**, a veterinary surgeon in Yorkshire, England, is a humorous story about **Tricki Woo**, a pampered Pekinese dog, who falls ill because his rich owner, **Mrs Pumphrey**, overfeeds him. The "cure" is not surgery at all but simple **diet and exercise**.
+
+## Summary
+- **The problem:** Mrs Pumphrey is a wealthy lady who loves Tricki so much that she feeds him far too much — **malt, cod-liver oil, Horlicks** at night, **cream cakes and chocolates**. Tricki becomes hugely fat "like a bloated sausage", **listless**, refuses food, and has **bloodshot eyes** and a lolling tongue.
+- **First advice:** Herriot (the narrator) advises **cutting down food and more exercise**, but Mrs Pumphrey cannot resist Tricki's pleading eyes and does not follow it.
+- **Taking Tricki away:** When Tricki becomes seriously ill, Herriot insists he must be taken to the **surgery (the vet's hospital)** for **two weeks** for observation. Mrs Pumphrey is heartbroken and sends him with his bed, toys, cushions, coats and dinner bowls.
+- **The treatment:** At the surgery, Tricki gets **no food for two days — only water**. Then he is let loose with the other dogs; he plays, runs and joins the pack at mealtime, fighting for his share. He becomes lively and healthy.
+- **The gifts:** Thinking Tricki needs strength, Mrs Pumphrey sends **fresh eggs** (two dozen at a time), and later **bottles of wine and brandy**. Herriot and his partners enjoy them — Herriot admits feeling a little guilty.
+- **The return:** Tricki returns fit and leaps into his owner's arms. Mrs Pumphrey, with tears in her eyes, calls it **"a triumph of surgery"**.
+
+> [!KEY] The irony of the title
+> No surgery was performed. The "triumph" was simply a healthy diet and exercise — the irony makes the title humorous.
+
+## Characters
+| Character | Traits |
+|---|---|
+| **Mrs Pumphrey** | rich, kind, loving but **foolish** and over-indulgent; treats Tricki like a child |
+| **Tricki Woo** | lovable, pampered Pekinese; becomes active once away from luxury |
+| **James Herriot** | sensible, professional, patient, humorous; honest enough to admit he enjoyed the gifts |
+
+> [!MISTAKE] Herriot did not operate on Tricki
+> The word "surgery" in British English also means a **doctor's or vet's clinic**. That double meaning is the joke.
+
+## Themes and value points
+- **Over-indulgence** harms; love must be sensible.
+- Pets (and children) need discipline, the right diet and exercise.
+- A good professional is firm with the owner but gentle with the patient.
+
+> [!TIP] Likely questions
+> Why was Tricki ill? Was Mrs Pumphrey a sensible owner? Why did Herriot take Tricki to the surgery? What were the gifts? Why is the title ironic? Do you think Herriot was right to enjoy the gifts?
+
+## Quick recap
+- James Herriot; Tricki Woo (Pekinese); Mrs Pumphrey.
+- Overfeeding → illness; diet and exercise at the surgery → recovery.
+- Eggs, wine and brandy enjoyed by the vets.
+- "A triumph of surgery" — ironic, because no surgery was done.
+
+--- quiz ---
+Q: Why was Tricki ill?
+- He had an infection
+* He was overfed and got no exercise
+- He was bitten by another dog
+- He had eaten poison
+> Mrs Pumphrey gave him malt, cod-liver oil, cream cakes and chocolates and little exercise.
+
+Q: What breed was Tricki?
+- Spaniel
+- Terrier
+- Bulldog
+* Pekinese
+> Tricki Woo was a Pekinese dog.
+
+Q: What treatment did Herriot give Tricki at first in the surgery?
+- An operation
+- Many medicines
+* No food for two days, only water
+- Extra cod-liver oil
+> He kept Tricki without food for two days so his system could recover.
+
+Q: What did Mrs Pumphrey send to the surgery for Tricki?
+* Eggs, wine and brandy
+- Medicines and syringes
+- Only toys
+- Chocolates and cakes
+> She sent fresh eggs and later wine and brandy to "build up his strength".
+
+Q: Why is the title ironic?
+- Herriot failed in the surgery
+- Tricki died
+* No surgery was performed; diet and exercise cured him
+- Mrs Pumphrey was a surgeon
+> Mrs Pumphrey thought it was a medical miracle, but it was just discipline.
+
+Q: How long did Tricki stay at the surgery?
+- Two days
+- Two months
+- One day
+* About two weeks
+> Herriot said Tricki should stay for about two weeks.
+
+W[5]: Compare and contrast the attitudes of Mrs Pumphrey and Dr Herriot towards Tricki.
+A: Both loved Tricki, but in different ways. Mrs Pumphrey was rich and affectionate but foolish; she overfed Tricki with malt, cod-liver oil, Horlicks, cream cakes and chocolates and could not refuse his pleading eyes. Her blind love made him ill. Herriot was a sensible, practical vet. He realised the cause was overeating and lack of exercise, took Tricki to his surgery, kept him without food for two days and let him play with other dogs. He was firm with the owner but kind to the dog. Herriot's balanced, disciplined care cured Tricki, while Mrs Pumphrey's indulgence had nearly harmed him.
+
+=== the-thiefs-story ===
+## The big idea
+**The Thief's Story** by **Ruskin Bond** is told by a young thief, **Hari Singh**, who tries to rob a kind young man, **Anil**, but returns the money because of Anil's **trust** and the hope of an **education**. It is a story of a change of heart.
+
+## Summary
+- **Meeting:** Hari Singh, a **15-year-old** thief ("an experienced and fairly successful hand"), meets **Anil**, about **25**, watching a wrestling match. Hari flatters him and asks for work. Anil cannot pay him, but agrees to feed him if he cooks.
+- **Learning:** Hari's first meal is so bad that Anil gives it to a stray dog, but Anil patiently teaches him to cook. Anil also begins teaching Hari to **write his name** and promises to teach him to write whole sentences and add figures. Hari is grateful.
+- **Hari's cheating:** Hari makes a small profit of about a rupee a day on the shopping. Anil knows but does not mind.
+- **The theft:** Anil earns money by writing for magazines. One day he brings home a **bundle of notes (₹600)** and puts it under his mattress. That night Hari, deciding it is time to move on, steals the money and plans to catch the **10:30 express to Lucknow**.
+- **Change of heart:** At the station, Hari hesitates. He thinks of Anil's face when he discovers the theft — not anger, but **sadness**. He realises that if he leaves, he loses the chance of learning to read and write, which could make him "a big man". He does not board the train.
+- **Returning the money:** It is raining; he returns, wet, and slips the **damp notes** back under the mattress.
+- **The ending:** The next morning Anil gives him a **₹50 note**, saying he made some money and Hari will now be paid regularly. Hari notices the note is still **wet** — so Anil knows, but says nothing. Anil says they will start writing sentences that day.
+
+> [!KEY] Why Hari returned the money
+> 1. Anil's **trust and kindness** — he was easy to rob because he trusted completely.
+> 2. The value of **education** — reading and writing could make him respectable and successful.
+
+## Characters
+| Character | Traits |
+|---|---|
+| **Hari Singh** | clever, observant, a skilled thief, but sensitive and capable of change; values education |
+| **Anil** | kind, trusting, generous, tolerant; a struggling writer; forgives silently |
+
+> [!MISTAKE] Anil did not catch Hari
+> Anil never says he knew. The **wet note** silently shows that he knew and forgave him.
+
+## Themes and value points
+- **Trust and kindness** can reform a person more than punishment.
+- **Education** is the key to a better life.
+- Everyone deserves a second chance.
+
+> [!TIP] Likely questions
+> What did Hari think about different kinds of people he robbed? Why did he not board the train? How did Hari know Anil had discovered the theft? Character sketch of Anil.
+
+## Quick recap
+- Ruskin Bond; narrator Hari Singh (15), Anil (25), writer.
+- Anil teaches cooking and writing; ₹600 stolen and returned.
+- Wet ₹50 note → Anil knew and forgave.
+- Themes: trust, change of heart, education.
+
+--- quiz ---
+Q: How old was Hari Singh?
+- 12
+* 15
+- 20
+- 25
+> The narrator says he was fifteen years old.
+
+Q: Where did Hari first meet Anil?
+- At a railway station
+- At a market
+* At a wrestling match
+- At a school
+> Hari approached Anil while he was watching a wrestling match.
+
+Q: Where did Anil keep the money?
+- In a bank
+* Under his mattress
+- In a drawer
+- In his pocket
+> He put the bundle of notes under the mattress.
+
+Q: Which train did Hari plan to catch?
+- The Delhi mail
+- The Bombay express
+* The Lucknow express
+- The Calcutta mail
+> He intended to catch the 10:30 express to Lucknow.
+
+Q: Why did Hari return the money?
+- He was caught by the police
+- He was afraid of Anil
+- He missed the train by mistake
+* He valued Anil's trust and the chance to learn to read and write
+> He realised education could make him a big man and that Anil trusted him.
+
+Q: How did Hari know that Anil had discovered the theft?
+* The fifty-rupee note was still wet
+- Anil scolded him
+- Anil called the police
+- Anil counted the money in front of him
+> The wet note showed it was from the bundle Hari had returned in the rain.
+
+W[5]: How did Anil's trust and kindness bring about a change in Hari Singh?
+A: Anil gave Hari shelter and food though he could not pay him, patiently taught him to cook and began teaching him to write and count. He ignored Hari's small cheating on the shopping. When Hari stole Anil's ₹600, he could not board the train because he imagined Anil's sad face and realised he would lose the chance of an education that could make him a respected man. He returned the money. Next morning Anil gave him a wet ₹50 note and promised regular pay, silently forgiving him. Anil's trust, generosity and faith in Hari's ability to learn reformed the thief more than any punishment could have done.
+
+=== the-midnight-visitor ===
+## The big idea
+**The Midnight Visitor** by **Robert Arthur** is a short spy story in which **Ausable**, a fat and unglamorous secret agent, outwits an armed rival, **Max**, using nothing but his **presence of mind** and a made-up story about a **balcony**.
+
+## Characters
+- **Ausable:** a secret agent in Paris; fat, speaks French and German with an American accent, does not look like a spy at all — but is extremely **quick-witted** and calm.
+- **Fowler:** a young, romantic **writer** who expected a thrilling spy with mysterious women; he is disappointed by Ausable — until he sees him in action.
+- **Max:** a rival agent, slender, with a pointed nose, who holds a **pistol**; clever but outwitted.
+- **Henri:** the waiter who brings the drink Ausable had ordered.
+
+## Summary
+1. Ausable takes Fowler to his room on the **sixth (top) floor** of a gloomy French hotel. He tells him he is expecting an important report about some **new missiles**.
+2. When they enter, they find **Max** already inside, holding a pistol. He has come for the report.
+3. Ausable stays calm. He grumbles that this is the second time someone has got into his room through the **balcony beneath the window**, and that he had complained to the management about it.
+4. He adds that he has reported the matter to the **police** and they will be sending someone to check. Soon there is a **knock** at the door.
+5. Max, fearing the police, backs to the window and swings himself out to hide on the "balcony" until they leave. He **screams** as he falls — there was **no balcony**.
+6. The door opens: it is **Henri, the waiter**, bringing the drink Ausable had ordered.
+
+> [!KEY] Ausable's trick
+> He invents two things on the spot: a **balcony** below the window and **police** coming to check up. When the waiter knocks, Max believes the police have arrived and jumps onto the imaginary balcony.
+
+> [!MISTAKE] Ausable was not a typical hero
+> He is fat and unromantic; his weapon is **intelligence**, not gun-fights. That contrast with Fowler's expectations is a key point.
+
+## Themes and value points
+- **Presence of mind** and calmness can defeat brute force.
+- **Appearances are deceptive** — don't judge by looks.
+- Intelligence is more powerful than weapons.
+
+> [!TIP] Likely questions
+> How was Ausable different from the popular image of a secret agent? How did Ausable get rid of Max? Who was at the door? Was Fowler impressed in the end?
+
+## Quick recap
+- Robert Arthur; Ausable (fat secret agent), Fowler (writer), Max (rival with pistol), Henri (waiter).
+- Sixth floor; report about missiles.
+- Imaginary balcony + "police" knock → Max jumps → it was the waiter.
+
+--- quiz ---
+Q: How was Ausable different from the image of a secret agent?
+- He was tall and handsome
+* He was fat and did not look like a spy
+- He carried many weapons
+- He had a beautiful assistant
+> Fowler was disappointed because Ausable was fat and ordinary-looking.
+
+Q: Who was Fowler?
+- A secret agent
+- A policeman
+* A young writer
+- The hotel manager
+> Fowler was a writer who wanted to see a real spy.
+
+Q: What was Max looking for?
+- Money
+- Diamonds
+- A key
+* A report about new missiles
+> The important report concerned some new missiles.
+
+Q: What did Ausable invent to trick Max?
+- A secret door
+- A hidden gun
+* A balcony beneath the window
+- A trap under the carpet
+> He made Max believe there was a balcony below the window.
+
+Q: Who knocked at the door?
+- The police
+- Another spy
+* Henri the waiter
+- Fowler's friend
+> It was the waiter bringing the drink Ausable had ordered.
+
+Q: On which floor was Ausable's room?
+- Ground floor
+- Second floor
+* Sixth floor
+- Tenth floor
+> His room was on the sixth and top floor.
+
+W[3]: How did Ausable get rid of Max?
+A: Ausable stayed calm and pretended that Max had entered through a balcony beneath the window. He also said that police were coming to check on his room. When someone knocked at the door, Max thought it was the police and, to escape, jumped out of the window onto the imaginary balcony and fell. The person at the door was only Henri, the waiter, with a drink.
+
+=== a-question-of-trust ===
+## The big idea
+**A Question of Trust** by **Victor Canning** is about **Horace Danby**, a respectable-looking burglar who is himself **tricked by a cleverer thief**. The story is full of **irony**: the man who robs others trusts a stranger and is robbed of his freedom.
+
+## Summary
+- **Horace Danby:** About fifty, unmarried, respectable, a skilled **locksmith** with a small business. He loves **rare and expensive books**. To buy them, he **robs one safe every year**, planning carefully, and then lives honestly for the rest of the year.
+- **The plan:** This year his target is **Shotover Grange**, whose safe holds jewels worth about **£15,000**. He has studied the house for weeks; the family is away and the servants are at the cinema. He knows the dog and has made friends with it.
+- **Inside the house:** He suffers from **hay fever**, and the flowers in the house make him sneeze. As he begins on the safe, a voice from the door asks what he is doing. A **young, pretty woman in red** appears, pretending to be the **lady of the house**.
+- **The trap:** She says she could call the police but would rather not, as he seems a gentleman. She claims she needs her jewels to wear and has forgotten the safe's combination. She charms him; he takes off his gloves and opens the safe for her, leaving **fingerprints** everywhere.
+- **The arrest:** A few days later, the police arrest Horace for the jewel theft. His fingerprints prove it. No one believes his story about the lady, because the real lady of the house is much older. The young woman was **another thief**.
+- **In prison:** Horace works as the **prison librarian** and keeps thinking about that charming woman who made a fool of him.
+
+> [!KEY] The irony in the title
+> Horace, a thief, wanted to be trusted by the woman; but he trusted her, and she betrayed him. "There is honour among thieves" proves false.
+
+## Character of Horace Danby
+- Respectable in appearance, skilled, careful, a planner.
+- Lover of rare books — his weakness that leads to crime.
+- **Over-confident and gullible** — taken in by charm and flattery.
+
+> [!MISTAKE] The woman did not call the police
+> She pretended to spare him from the police; he was caught later through his **fingerprints**.
+
+## Themes and value points
+- Crime does not pay; every crime leaves a trace.
+- **Do not trust strangers blindly**, especially when appearances are charming.
+- Dishonesty, even for "good" hobbies, is wrong.
+
+> [!TIP] Likely questions
+> Why did Horace rob a safe every year? How did the lady trick him? What was the irony? Why didn't anyone believe his story? Character sketch of Horace.
+
+## Quick recap
+- Victor Canning; Horace Danby, locksmith, robs one safe a year to buy rare books.
+- Shotover Grange; jewels worth £15,000; hay fever.
+- Lady in red tricks him into opening the safe without gloves.
+- Arrested by fingerprints; becomes prison librarian — "a question of trust".
+
+--- quiz ---
+Q: Why did Horace Danby rob a safe every year?
+- To pay his debts
+- To help the poor
+* To buy rare and expensive books
+- To travel abroad
+> He loved rare books and stole to buy them.
+
+Q: What was Horace's profession?
+- Banker
+* Locksmith
+- Librarian
+- Policeman
+> He was a skilled locksmith with his own business.
+
+Q: Which health problem troubled Horace in the house?
+- Asthma
+- Fever
+- Headache
+* Hay fever
+> The flowers in the house made him sneeze.
+
+Q: How did Horace get caught?
+* His fingerprints were found on the safe
+- The lady called the police at once
+- The dog bit him
+- A servant saw him
+> He took off his gloves to open the safe, leaving fingerprints.
+
+Q: Who was the young woman in red?
+- The lady of the house
+- A police officer
+* Another thief
+- Horace's niece
+> She pretended to be the owner but was a clever thief.
+
+Q: What job did Horace do in prison?
+- Cook
+- Guard
+- Gardener
+* Assistant in the prison library
+> He worked in the prison library, still thinking of the woman.
+
+W[5]: "A Question of Trust" is a story of irony. Discuss.
+A: Horace Danby was a respectable locksmith who robbed one safe a year so that he could buy rare books. He planned his crimes carefully and believed he could not be caught. At Shotover Grange a charming young woman pretending to be the lady of the house caught him at the safe. Instead of calling the police she flattered him, and he trusted her completely, removing his gloves and opening the safe for her. She was actually another thief who took the jewels, and Horace was arrested because of his fingerprints. The irony is that a thief who deceived others was deceived by another thief; he expected trust and honour among thieves but was betrayed. The story shows that crime does not pay and that one should not trust strangers blindly.
+
+=== footprints-without-feet ===
+## The big idea
+**Footprints without Feet** is an extract adapted from **H.G. Wells's** novel *The Invisible Man*. It tells how **Griffin**, a brilliant scientist who discovers how to make his body **invisible**, misuses his discovery and becomes a **lawless** man. It raises the question: what happens when science is used without ethics?
+
+## Summary
+1. **The footprints:** Two boys in a London square are puzzled to see **fresh muddy footprints** appearing on the steps of a house — but no one is making them. They follow the prints until they fade away. The invisible **Griffin** is walking barefoot.
+2. **The discovery:** Griffin had found a way to make the human body **transparent** by swallowing certain rare drugs. He became invisible — but his clothes remained visible, so he had to go about **naked** in the cold.
+3. **Burning the house:** His landlord disliked him and tried to eject him; in revenge, Griffin **set fire to the house** and fled.
+4. **In the London store:** To keep warm, he slipped into a big London **department store** after closing time. He ate, slept in a pile of quilts and dressed in warm clothes. In the morning the assistants found him; he had to throw off the clothes and run away, naked again.
+5. **Drury Lane:** He went to a **theatrical company's shop** in Drury Lane, hit the shopkeeper from behind and stole **bandages, dark glasses, a false nose, whiskers and a large hat**, plus money, so he could appear in public.
+6. **At Iping:** Disguised, he took rooms at the inn in the village of **Iping** run by **Mrs Hall**. He said he wanted to be left alone. His strange appearance, wrapped in bandages, made the villagers curious; he paid well, which kept Mrs Hall quiet for a while.
+7. **The robbery:** Early one morning the **clergyman and his wife** heard noises in the study and found their money gone — but no one was in the room. Griffin had robbed them.
+8. **The flying furniture:** The same morning Mr and Mrs Hall found Griffin's room empty, his clothes and bandages lying about. Suddenly a hat flew at Mrs Hall's face and a **chair** pushed them out of the room. Mrs Hall thought the furniture was bewitched ("spirits").
+9. **The escape:** When Griffin returned, the villagers asked for an explanation. Angry, he pulled off his nose, bandages and whiskers — revealing a **headless** figure. The constable **Jaffers** tried to arrest him; Griffin threw off his clothes, became fully invisible, fought off his attackers and **escaped**.
+
+> [!KEY] Science without ethics
+> Griffin is a **genius** but **lawless** and **selfish**. Instead of using his discovery for good, he burns a house, robs shops and a clergyman, attacks people and causes fear.
+
+## Character of Griffin
+- Brilliant scientist, inventive.
+- Hot-tempered, impatient, short of money.
+- Selfish, unscrupulous and violent — a criminal.
+
+> [!MISTAKE] Invisible body, visible clothes
+> Griffin became invisible only when **naked**; his clothes and bandages could be seen. That is why he wore disguises and why the footprints were bare.
+
+## Themes and value points
+- Science is a double-edged sword; discoveries need moral responsibility.
+- Power without values leads to misuse.
+- Curiosity of ordinary people (the boys, the villagers) and their fear of the unknown.
+
+> [!TIP] Likely questions
+> How did Griffin become invisible? Why did he go to the London store and Drury Lane? What happened at Iping? Why did the clergyman and his wife not see the thief? Describe Griffin as a "lawless person".
+
+## Quick recap
+- H.G. Wells; Griffin, the invisible man.
+- Footprints in London; burnt landlord's house; London store; Drury Lane disguise.
+- Iping inn (Mrs Hall); clergyman robbed; flying furniture; Jaffers; escape.
+- Theme: misuse of science; genius without ethics.
+
+--- quiz ---
+Q: How did Griffin become invisible?
+- By wearing a magic cloak
+* By swallowing certain rare drugs
+- By standing in sunlight
+- By a spell
+> He discovered a way to make his body transparent by taking rare drugs.
+
+Q: Why did Griffin set fire to his landlord's house?
+- To keep warm
+- To hide his experiments
+* In revenge, because the landlord tried to eject him
+- By accident
+> The landlord disliked him and tried to throw him out.
+
+Q: What did Griffin get from the theatrical shop in Drury Lane?
+- Food and medicine
+* Bandages, dark glasses, false nose, whiskers and a hat
+- A coat and boots only
+- A gun
+> He needed a disguise to appear in public.
+
+Q: Who ran the inn at Iping?
+- Jaffers
+- The clergyman
+* Mrs Hall
+- Mr Bunting's wife
+> Griffin took rooms at the inn kept by Mrs Hall.
+
+Q: What did Mrs Hall think when the furniture attacked her?
+- Burglars were hiding
+- There was an earthquake
+- It was a joke by the boys
+* The furniture was possessed by spirits
+> She believed the room was haunted.
+
+Q: Who tried to arrest Griffin?
+- The clergyman
+* Constable Jaffers
+- Mr Hall
+- The two boys
+> Jaffers, the village constable, tried but Griffin escaped.
+
+Q: Griffin was invisible only when
+- he was in the dark
+- he was sleeping
+* he had no clothes on
+- he was wet
+> His body was invisible but clothes remained visible.
+
+W[5]: Griffin was a brilliant scientist but a lawless person. Justify.
+A: Griffin's discovery of how to make the human body invisible showed that he was a brilliant scientist. However, he used it only for selfish and criminal purposes. He set fire to his landlord's house out of revenge, broke into a London store to eat, sleep and take clothes, hit a shopkeeper in Drury Lane and robbed him of a disguise and money, and stole money from the clergyman's study at Iping. When questioned by the villagers, he lost his temper, attacked people and escaped arrest by constable Jaffers. Instead of serving humanity, he spread fear. His story shows that science without ethics is dangerous.
+
+=== the-making-of-a-scientist ===
+## The big idea
+**The Making of a Scientist** by **Robert W. Peterson** describes how **Richard H. Ebright**, a boy fascinated by butterflies, grew into a famous scientist. It shows that **curiosity, hard work and encouragement** make a scientist.
+
+## Summary
+- **Childhood:** Ebright grew up in **Reading, Pennsylvania (USA)**. He was an only child; his father died when he was in third grade, and his **mother** became his biggest support — taking him on trips, buying him telescopes, microscopes and cameras.
+- **Collecting:** From kindergarten he collected **butterflies**, rocks, fossils and coins. By the second grade he had collected **all 25 species** of butterflies found around his hometown.
+- **The turning point:** His mother gave him a book called **"The Travels of Monarch X"**, about the migration of monarch butterflies to Central America. It invited readers to help study migration by **tagging** butterflies for **Dr Frederick A. Urquhart** of the **University of Toronto**, Canada. Ebright raised and tagged thousands of monarchs.
+- **Losing a science fair:** In seventh grade he entered a county science fair with slides of frog tissue but **lost**. He realised winners had done **real experiments**, not just displays.
+- **Science fair projects:**
+  - **Eighth grade:** he tested a theory that **viceroy butterflies copy monarchs** because birds avoid monarchs (they taste bad). The project did not win but led to further work.
+  - **Ninth/tenth grade:** he discovered the purpose of the **twelve tiny gold spots** on a monarch **pupa** — they produce a **hormone** necessary for the butterfly's full development. This won him prizes and recognition at science fairs.
+- **Later research:** In his senior year he grew cells from a monarch's wing in culture and showed they would divide and become normal butterfly scales only if fed the hormone from the gold spots. These studies led him to a **new theory about how cells read their DNA blueprint** — the instructions inside cells. At **Harvard** he continued his research and became a respected scientist.
+- **Other interests:** He was also a champion debater and public speaker, a canoeist and an expert photographer.
+
+> [!KEY] Three qualities of a scientist (from the text)
+> 1. **A first-rate mind.**
+> 2. **Curiosity.**
+> 3. **The will to win for the right reasons** — he did everything he could do well, not just to win.
+
+> [!MISTAKE] Ebright did not win his first science fair
+> He **lost** in seventh grade, and that failure taught him to do real experiments.
+
+## Themes and value points
+- Curiosity and observation are the roots of science.
+- Encouragement from parents and teachers matters.
+- Failure can be a teacher; persistence pays.
+- Hobbies can lead to careers.
+
+> [!TIP] Likely questions
+> How did Ebright's mother help him? How did "The Travels of Monarch X" change his life? What lesson did he learn from losing the science fair? What qualities make a scientist? What was his theory about cells?
+
+## Quick recap
+- Richard H. Ebright; author Robert W. Peterson.
+- Mother's encouragement; 25 butterfly species; "The Travels of Monarch X"; Dr Urquhart.
+- Lost 7th-grade fair → real experiments: viceroy mimicry; gold spots and hormone.
+- Theory of how cells read DNA; first-rate mind, curiosity, will to win for the right reasons.
+
+--- quiz ---
+Q: Which book opened the world of science to Ebright?
+- On the Origin of Species
+* The Travels of Monarch X
+- A Brief History of Time
+- The Butterfly Book
+> His mother gave him this book about monarch migration.
+
+Q: Who was Dr Frederick A. Urquhart?
+- Ebright's teacher
+- His father
+* A scientist at the University of Toronto studying monarch migration
+- A Harvard professor
+> Readers tagged butterflies and reported to Dr Urquhart.
+
+Q: What lesson did Ebright learn from losing the seventh-grade science fair?
+- Science is boring
+- Butterflies are not important
+- He should stop entering fairs
+* He needed to do real experiments, not just displays
+> The winners had tried real experiments, which changed his approach.
+
+Q: What did Ebright discover about the gold spots on a monarch pupa?
+- They are just decoration
+* They produce a hormone needed for full development
+- They scare birds away
+- They change colour with weather
+> The gold spots produce a hormone necessary for the butterfly's development.
+
+Q: Ebright's eighth-grade project tested the idea that
+* viceroy butterflies copy monarchs
+- monarchs live only a week
+- birds love monarchs
+- caterpillars cannot see
+> Birds avoid monarchs, so viceroys look like them for protection.
+
+Q: Who was Ebright's greatest supporter as a child?
+- His father
+- Dr Urquhart
+* His mother
+- His classmates
+> His mother encouraged his interest and gave him books and equipment.
+
+W[5]: What qualities helped Richard Ebright become a successful scientist?
+A: Ebright had a first-rate mind and boundless curiosity, collecting butterflies, rocks and coins from childhood and wanting to know why things happen. He was hardworking and persistent: when he lost his seventh-grade science fair, he learnt to do real experiments and went on to study viceroy mimicry and the gold spots on monarch pupae, discovering a hormone. He had a competitive spirit, but he wanted to win for the right reasons, doing everything as well as he could. His mother's encouragement and the inspiration of Dr Urquhart's book also helped. These qualities led him to a new theory about how cells read their DNA.
+
+=== the-necklace ===
+## The big idea
+**The Necklace** by French writer **Guy de Maupassant** tells of **Matilda Loisel**, who loses a borrowed necklace and spends **ten years** in poverty paying for a replacement — only to learn the original was **fake**. It is a story about **pride, vanity and honesty** with a famous twist ending.
+
+## Summary
+1. **Matilda's discontent:** Matilda is pretty but born into a family of clerks. She is married to **Monsieur Loisel**, a petty **clerk in the Board of Education**. She is unhappy with her simple home and dreams of luxury and wealth.
+2. **The invitation:** Loisel brings an invitation to a **ball given by the Minister of Public Instruction**. Instead of being happy, Matilda cries because she has no suitable dress.
+3. **The dress:** Loisel gives her **400 francs** that he had saved to buy a **gun** for shooting trips with friends.
+4. **The necklace:** She still feels poor without jewels. On her husband's advice she visits her rich school friend **Madame Forestier**, who lets her borrow a beautiful **diamond necklace**.
+5. **The ball:** Matilda is the most beautiful woman there; everyone admires her. They leave at **about 4 a.m.**, hurrying away so others won't see her plain wraps.
+6. **The loss:** At home she finds the **necklace is gone**. Loisel searches everywhere; they cannot find it.
+7. **The replacement:** They find a similar necklace in a shop for **40,000 francs**, which they get for **36,000**. Loisel has **18,000 francs** from his father's inheritance and **borrows the rest**, signing ruinous promises. They return the necklace to Madame Forestier without telling her.
+8. **Ten years of poverty:** They dismiss the maid, move to a cheap attic; Matilda does all the heavy housework and bargains for every sou; Loisel works evenings copying documents. After **ten years** they repay everything. Matilda has become old, coarse and hard.
+9. **The twist:** One Sunday on the **Champs Élysées** she meets Madame Forestier, still young and beautiful, and tells her the whole story. Madame Forestier, deeply moved, reveals: **"My necklace was false. It was worth at most 500 francs!"**
+
+> [!KEY] Twist ending (irony of situation)
+> Ten years of suffering were for a fake necklace. If Matilda had been **honest** and told her friend the truth, she could have saved herself.
+
+## Characters
+| Character | Traits |
+|---|---|
+| **Matilda Loisel** | beautiful, vain, dissatisfied, materialistic; later shows courage and hard work |
+| **Monsieur Loisel** | simple, loving, contented, self-sacrificing husband |
+| **Madame Forestier** | rich, generous friend |
+
+> [!MISTAKE] Numbers
+> Dress: **400 francs**. Replacement: **36,000 francs** (asked 40,000). Inheritance: **18,000 francs**. Real necklace: **at most 500 francs**. Time: **10 years**.
+
+## Themes and value points
+- **Pride and vanity** bring ruin; contentment brings peace.
+- **Honesty** is the best policy — one lie led to a decade of misery.
+- Appearances can be deceptive (the "diamond" necklace).
+- Positive side: Matilda faced her duty with heroism and paid the debt.
+
+> [!TIP] Likely questions
+> Why was Matilda unhappy? How did Loisel get the money for the dress? What would have happened if she had confessed? What was the twist? Character sketch of Matilda / Loisel.
+
+## Quick recap
+- Guy de Maupassant; Matilda and Loisel; Madame Forestier.
+- Ball invitation → 400-franc dress → borrowed necklace → lost.
+- Replacement for 36,000 francs → ten years of hardship.
+- The original was fake (worth at most 500 francs).
+
+--- quiz ---
+Q: What was Monsieur Loisel's job?
+- A banker
+- A jeweller
+* A clerk in the Board of Education
+- A minister
+> He was a petty clerk in the office of the Board of Education.
+
+Q: Why did Matilda cry when she got the invitation?
+- She did not like dancing
+* She had no suitable dress to wear
+- The ball was far away
+- Her husband could not go
+> She felt she had nothing fit to wear to such a grand ball.
+
+Q: How much did Loisel give Matilda for the dress?
+- 500 francs
+- 36,000 francs
+* 400 francs
+- 18,000 francs
+> He gave her the 400 francs he had saved to buy a gun.
+
+Q: For how much did they buy the replacement necklace?
+- 40,000 francs
+- 500 francs
+- 18,000 francs
+* 36,000 francs
+> The jeweller asked 40,000 francs but gave it for 36,000.
+
+Q: How long did it take the Loisels to repay their debts?
+* Ten years
+- Two years
+- Five years
+- Twenty years
+> They lived in poverty for ten years.
+
+Q: What did Madame Forestier reveal at the end?
+- The necklace was stolen
+- She had found the lost necklace
+* Her necklace was false, worth at most 500 francs
+- She never owned a necklace
+> The diamonds were fake — the story's famous twist.
+
+W[5]: "Matilda's pride and dishonesty ruined her life." Discuss.
+A: Matilda was beautiful but discontented, dreaming of luxuries beyond her means. Her pride made her refuse to attend the ball without a costly dress and jewels, so she spent 400 francs on a dress and borrowed a diamond necklace from Madame Forestier. When she lost it, her pride stopped her from confessing to her friend. Instead, the Loisels bought a replacement for 36,000 francs, spending their inheritance and borrowing at ruinous rates. For ten years they lived in an attic, did hard labour and lost their youth. In the end she learned the original necklace was fake and worth only 500 francs. Had she been honest, she would have avoided all that suffering. The story teaches that vanity and dishonesty bring misery, while contentment and truth bring peace.
+
+=== the-book-that-saved-the-earth ===
+## The big idea
+**The Book That Saved the Earth** by **Claire Boiko** is a humorous science-fiction **play**. In the twenty-fifth century, a **Historian** tells how a book of nursery rhymes — **Mother Goose** — saved the Earth from a **Martian invasion** in the twentieth century. It pokes fun at false wisdom and shows the power of books.
+
+## Characters
+| Character | Role |
+|---|---|
+| **Historian** | narrator from the 25th century, in the Museum of Ancient History |
+| **Think-Tank** | the arrogant, boastful ruler of Mars, with an enormous dome-shaped head; calls himself the "most brilliant intellect in the solar system" |
+| **Noodle** | Think-Tank's **apprentice**; humble and in fact the wisest Martian |
+| **Captain Omega** | commander of the space probe to Earth |
+| **Lieutenant Iota** and **Sergeant Oop** | crew members |
+
+## Summary
+1. **The Historian** explains that the twentieth century was the "Era of the Book", when books held all kinds of information. Then he describes the Martian invasion attempt.
+2. **The landing:** Captain Omega, Iota and Oop land in **Centerville, USA**, inside a **public library**. They report to Think-Tank, who says the building is a "warehouse" and the books are "sandwiches".
+3. **Eating books:** Think-Tank orders them to **eat** the books. Oop tries and hates it. Noodle consults the Universal Dictionary and suggests books are for **reading**.
+4. **Reading Mother Goose:** They pick up a book of nursery rhymes and read aloud. Think-Tank interprets each rhyme foolishly:
+   - **"Hey diddle diddle, the cow jumped over the moon"** → Earthlings have trained their cows to fly to the moon; their space programme is advanced.
+   - **"Mistress Mary, quite contrary... silver bells and cockle shells"** → Earthlings grow **ammunition** (bells, shells) in their gardens.
+   - **"Humpty Dumpty sat on a wall... had a great fall"** → Think-Tank realises the picture of an egg-shaped figure looks like **him** and thinks it is a plot to destroy the Martian ruler.
+5. **The retreat:** Terrified, Think-Tank orders the invasion cancelled and the Martians to **evacuate Mars** and flee to a distant place (Alpha Centauri). The Historian concludes that the Earth was saved by a humble book of nursery rhymes — **Mother Goose** — and that the Martians and Earthlings later came to know each other in friendship.
+
+> [!KEY] The humour
+> The "great intellect" Think-Tank misreads children's rhymes as military secrets — the humour lies in his **arrogance and ignorance**, while humble Noodle is wise.
+
+> [!MISTAKE] Who misreads the book
+> It is **Think-Tank**, not Noodle, who makes the absurd interpretations. Noodle is the sensible one.
+
+## Themes and value points
+- **Arrogance leads to foolishness**; real wisdom is humble.
+- The **power of books** and reading.
+- Misinterpretation and fear can stop a war — and friendship is better than conquest.
+
+> [!TIP] Likely questions
+> Why is the twentieth century called the "Era of the Book"? How did Think-Tank interpret the nursery rhymes? Why did he order a retreat? Compare Think-Tank and Noodle. How did the book "save" the Earth?
+
+## Quick recap
+- Claire Boiko; a play; Historian narrates from the 25th century.
+- Martians land in Centerville library; Think-Tank calls books "sandwiches".
+- Mother Goose rhymes misread: cow over moon, Mistress Mary's garden, Humpty Dumpty.
+- Think-Tank panics and orders a retreat; Earth is saved.
+
+--- quiz ---
+Q: Who is the narrator of the play?
+- Think-Tank
+- Noodle
+* The Historian
+- Captain Omega
+> The Historian of the 25th century narrates the events.
+
+Q: What did Think-Tank first think the books were?
+- Weapons
+* Sandwiches
+- Maps
+- Money
+> He told the crew the books were sandwiches and ordered them to eat them.
+
+Q: Which book did the Martians read?
+- A dictionary
+- A science textbook
+- A history of Mars
+* Mother Goose nursery rhymes
+> The book was a collection of Mother Goose rhymes.
+
+Q: Why was Think-Tank frightened by "Humpty Dumpty"?
+- He was afraid of walls
+* He thought the egg-shaped figure who fell was a plot against him
+- He disliked eggs
+- He could not read the words
+> The picture looked like his own large head, so he thought Earthlings planned his downfall.
+
+Q: Who was Noodle?
+- A spaceship
+- An Earthling child
+- The Historian's assistant
+* Think-Tank's apprentice
+> Noodle was the humble apprentice, who was actually wiser than Think-Tank.
+
+Q: According to Think-Tank, "Mistress Mary's garden" showed that Earthlings
+- grow flowers
+* grow ammunition (bells and shells) in their gardens
+- have pretty maids
+- have no water
+> He misread "silver bells and cockle shells" as weapons.
+
+W[5]: Compare the characters of Think-Tank and Noodle.
+A: Think-Tank is the ruler of Mars with a huge dome-shaped head. He is arrogant, boastful and vain, calling himself the most brilliant intellect in the solar system. Yet he is foolish: he thinks the library is a warehouse and the books are sandwiches, and he misreads Mother Goose rhymes as military secrets. In panic, he orders the invasion cancelled and the Martians to flee. Noodle, his apprentice, is humble, polite and sensible. He consults the dictionary to find that books are for reading and tactfully corrects his master. Though Think-Tank looks down on him, Noodle is truly wise; the play shows that arrogance leads to folly while humility brings wisdom.
