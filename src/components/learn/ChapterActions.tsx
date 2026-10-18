@@ -5,6 +5,7 @@ import Link from "next/link";
 import { confettiFrom } from "@/lib/confetti";
 import { cn } from "@/lib/cn";
 import { actions, useHydrated, useStore } from "@/lib/store";
+import { asset } from "@/lib/asset";
 import { toast } from "@/lib/toast";
 import { buttonClass } from "../ui/Button";
 
@@ -30,7 +31,7 @@ export function BookmarkToggle({ k, title, meta, href }: { k: string; title: str
 export function NotesButtons({ pdf, view }: { pdf: string; view: string }) {
   return (
     <>
-      <a href={pdf} download className={buttonClass("secondary", "md")}>
+      <a href={asset(pdf)} download className={buttonClass("secondary", "md")}>
         <Download aria-hidden className="size-5" />
         Notes PDF
       </a>

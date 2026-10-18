@@ -4,6 +4,7 @@ import Link from "next/link";
 import { PageTitle } from "@/components/layout/PageTitle";
 import { SubjectIcon } from "@/components/ui/SubjectIcon";
 import { mocks } from "@/content/mocks";
+import { asset } from "@/lib/asset";
 
 export const metadata: Metadata = { title: "Past papers" };
 
@@ -65,7 +66,7 @@ export default function PapersPage() {
               <Link href={`/mock/${m.id}`} className="inline-flex h-10 items-center gap-1.5 rounded-xl px-3 text-sm font-bold text-brand-700 hover:bg-brand-50" aria-label={`Take ${m.title} online`}>
                 <ClipboardCheck aria-hidden className="size-4" /> Take
               </Link>
-              <a href={`/papers/${m.id}.pdf`} download className="inline-flex h-10 items-center gap-1.5 rounded-xl border-b-4 border-green-700 bg-green-500 px-3 text-sm font-bold text-white hover:bg-green-400" aria-label={`Download ${m.title} PDF`}>
+              <a href={asset(`/papers/${m.id}.pdf`)} download className="inline-flex h-10 items-center gap-1.5 rounded-xl border-b-4 border-green-700 bg-green-500 px-3 text-sm font-bold text-white hover:bg-green-400" aria-label={`Download ${m.title} PDF`}>
                 <Download aria-hidden className="size-4" /> PDF
               </a>
             </li>

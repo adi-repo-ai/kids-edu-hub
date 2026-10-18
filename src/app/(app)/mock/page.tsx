@@ -6,6 +6,7 @@ import { MockBest } from "@/components/practice/MockBest";
 import { SubjectIcon } from "@/components/ui/SubjectIcon";
 import { mocks } from "@/content/mocks";
 import { loadMock } from "@/lib/mocks";
+import { asset } from "@/lib/asset";
 
 export const metadata: Metadata = { title: "Mock tests" };
 
@@ -46,7 +47,7 @@ export default function MockList() {
                       <Link href={`/mock/${m.id}`} className="inline-flex h-11 flex-1 items-center justify-center gap-2 rounded-xl border-b-4 border-brand-700 bg-brand-500 px-4 font-bold text-white hover:bg-brand-400">
                         <ClipboardCheck aria-hidden className="size-5" /> Take test
                       </Link>
-                      <a href={`/papers/${m.id}.pdf`} download className="inline-flex h-11 items-center gap-2 rounded-xl border-2 border-b-4 border-line-strong bg-surface px-4 font-bold hover:bg-surface-2">
+                      <a href={asset(`/papers/${m.id}.pdf`)} download className="inline-flex h-11 items-center gap-2 rounded-xl border-2 border-b-4 border-line-strong bg-surface px-4 font-bold hover:bg-surface-2">
                         <Download aria-hidden className="size-5" /> PDF
                       </a>
                     </div>

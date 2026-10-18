@@ -1,12 +1,13 @@
 "use client";
 
+import { asset } from "@/lib/asset";
 import { Printer } from "lucide-react";
 
 export function PrintBar({ pdf }: { pdf?: string }) {
   return (
     <div className="no-print sticky top-0 z-10 flex items-center justify-end gap-2 border-b border-line bg-surface/95 px-6 py-3 backdrop-blur">
       {pdf && (
-        <a href={pdf} download className="inline-flex h-10 items-center rounded-xl border-2 border-b-4 border-line-strong px-4 text-sm font-bold hover:bg-surface-2">
+        <a href={asset(pdf)} download className="inline-flex h-10 items-center rounded-xl border-2 border-b-4 border-line-strong px-4 text-sm font-bold hover:bg-surface-2">
           Download PDF
         </a>
       )}

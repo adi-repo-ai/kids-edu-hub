@@ -7,6 +7,7 @@ import { useState } from "react";
 import { cn } from "@/lib/cn";
 import { toast } from "@/lib/toast";
 import { SubjectIcon } from "../ui/SubjectIcon";
+import { asset } from "@/lib/asset";
 
 export interface LibItem {
   kind: "notes" | "paper";
@@ -90,7 +91,7 @@ export function LibraryBrowser({ items }: { items: LibItem[] }) {
               <Link href={i.view} target="_blank" className="hidden h-10 items-center gap-1.5 rounded-xl px-3 text-sm font-bold text-ink-2 hover:bg-surface-2 sm:inline-flex">
                 <FileText aria-hidden className="size-4" /> View
               </Link>
-              <a href={i.pdf} download onClick={() => toast("Download started")} className="inline-flex h-10 items-center gap-1.5 rounded-xl border-b-4 border-green-700 bg-green-500 px-3 text-sm font-bold text-white hover:bg-green-400">
+              <a href={asset(i.pdf)} download onClick={() => toast("Download started")} className="inline-flex h-10 items-center gap-1.5 rounded-xl border-b-4 border-green-700 bg-green-500 px-3 text-sm font-bold text-white hover:bg-green-400">
                 <Download aria-hidden className="size-4" /> PDF
               </a>
             </li>

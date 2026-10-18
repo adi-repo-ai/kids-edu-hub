@@ -112,7 +112,11 @@ export function Planner() {
             className="mt-5 grid gap-2 border-t border-line pt-5 sm:grid-cols-[1fr_auto_auto_auto]"
             onSubmit={(e) => {
               e.preventDefault();
-              if (!title.trim()) return;
+              if (!title.trim()) {
+                document.getElementById("pl-title")?.focus();
+                toast("Type what you'll study first");
+                return;
+              }
               actions.addTask({ title: title.trim(), date: selected, subject: subject || undefined, minutes });
               setTitle("");
               toast("Task added");

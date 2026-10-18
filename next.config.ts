@@ -8,6 +8,7 @@ const basePath = process.env.BASE_PATH || undefined;
 const nextConfig: NextConfig = {
   reactStrictMode: true,
   basePath,
+  env: { NEXT_PUBLIC_BASE_PATH: basePath ?? "" },
   ...(staticExport && { output: "export", trailingSlash: true }),
 };
 
