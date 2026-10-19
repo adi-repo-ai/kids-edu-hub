@@ -3,6 +3,7 @@
 import { ArrowLeft, ArrowRight, Check, Clock, Flag, ListChecks, RotateCcw, Send, X } from "lucide-react";
 import { useEffect, useMemo, useRef, useState } from "react";
 import { fireConfetti } from "@/lib/confetti";
+import { mocks } from "@/content/mocks";
 import { cn } from "@/lib/cn";
 import { actions } from "@/lib/store";
 import { toast } from "@/lib/toast";
@@ -56,6 +57,15 @@ export function MockRunner({ id, title, minutes, marks, sections, pattern }: { i
     setPhase("result");
     const mins = Math.round((Date.now() - started.current) / 60000);
     const at = actions.recordMock({ id, title, score: mcqScore, total, minutes: mins });
+    // Wrong or skipped MCQs go to the mistake notebook, filed under this paper's class and subject.
+    const def = mocks.find((m) => m.id === id);
+    if (def)
+      flat.forEach((f, i) => {
+        if (f.q.kind !== "mcq") return;
+        const answer = f.q.options.findIndex((o) => o.correct);
+        const choice = answers[i]?.choice;
+        if (answer >= 0 && choice !== answer) actions.addMistake({ key: `${def.grade}/${def.subject}/mock`, prompt: f.q.prompt, options: f.q.options.map((o) => o.text), answer, explanation: f.q.explanation });
+      });
     setSavedAt(at);
     if (mcqScore / Math.max(1, flat.filter((f) => f.q.kind === "mcq").reduce((t, f) => t + f.marks, 0)) >= 0.7) fireConfetti({ count: 160 });
     toast("Mock test saved to your progress");

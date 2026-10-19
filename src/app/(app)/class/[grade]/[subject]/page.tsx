@@ -4,6 +4,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ContinueButton, LearningPath, SubjectStats } from "@/components/learn/LearningPath";
 import { Crumbs } from "@/components/layout/PageTitle";
+import { SubjectFlashcardsLink } from "@/components/revise/DueCards";
+import { SubjectReadinessCard } from "@/components/revise/Readiness";
 import { SubjectIcon } from "@/components/ui/SubjectIcon";
 import { chaptersOf, getGrade, getSubject, grades } from "@/lib/curriculum";
 import { hasLesson } from "@/lib/lessons";
@@ -53,7 +55,9 @@ export default async function SubjectPage({ params }: { params: Promise<{ grade:
             <p className="mb-3 font-extrabold">Your progress</p>
             <SubjectStats grade={grade.grade} subject={subject.id} chapterIds={chapters.map((c) => c.id)} />
           </div>
+          {grade.grade >= 9 && <SubjectReadinessCard grade={grade.grade} subject={subject.id} />}
           <div className="card divide-y divide-line">
+            {lessonCount > 0 && <SubjectFlashcardsLink grade={grade.grade} subject={subject.id} />}
             {subjectMocks.map((m) => (
               <Link key={m.id} href={`/mock/${m.id}`} className="flex items-center gap-3 p-4 hover:bg-surface-2">
                 <ClipboardCheck aria-hidden className="size-5 text-brand-600" />

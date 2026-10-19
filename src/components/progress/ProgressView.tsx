@@ -8,6 +8,7 @@ import { chaptersOf, getChapter, getGrade } from "@/lib/curriculum";
 import { cn } from "@/lib/cn";
 import { actions, levelOf, LEVEL_XP, streakOf, today, useHydrated, useStore } from "@/lib/store";
 import { styleFor } from "@/lib/subjects";
+import { Readiness } from "../revise/Readiness";
 import { Button } from "../ui/Button";
 import { EmptyState } from "../ui/EmptyState";
 import { ProgressBar } from "../ui/Progress";
@@ -81,6 +82,12 @@ export function ProgressView() {
         <h3 className="mb-3 mt-6 font-extrabold">Activity</h3>
         <Heatmap activity={s.activity} />
       </section>
+
+      {grade && grade.grade >= 9 && (
+        <div id="readiness" className="scroll-mt-24">
+          <Readiness grade={grade.grade} />
+        </div>
+      )}
 
       {nothing ? (
         <EmptyState title="Your progress will appear here" body="Finish a lesson or take a quiz and your XP, streak, badges and subject progress will start filling in." action={<Link href="/learn" className="font-bold text-brand-600 hover:underline">Start a lesson →</Link>} />

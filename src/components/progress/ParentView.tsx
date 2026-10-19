@@ -4,6 +4,8 @@ import { BookOpenCheck, ClipboardCheck, Flame, Printer, Target } from "lucide-re
 import { chaptersOf, getChapter, getGrade } from "@/lib/curriculum";
 import { streakOf, useHydrated, useStore, weekOf } from "@/lib/store";
 import { styleFor } from "@/lib/subjects";
+import { ReadinessSummary } from "../revise/Readiness";
+import { RevisionDueSummary } from "../revise/ReviseToday";
 import { Button } from "../ui/Button";
 import { EmptyState } from "../ui/EmptyState";
 import { ProgressBar } from "../ui/Progress";
@@ -54,6 +56,11 @@ export function ParentView() {
           </li>
         ))}
       </ul>
+
+      <div className="grid gap-6 lg:grid-cols-2">
+        {grade && grade.grade >= 9 && <ReadinessSummary grade={grade.grade} />}
+        <RevisionDueSummary grade={grade?.grade} />
+      </div>
 
       <div className="grid gap-6 lg:grid-cols-2">
         <section className="card p-5 sm:p-6" aria-labelledby="pw">

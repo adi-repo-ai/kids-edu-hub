@@ -1,9 +1,11 @@
 "use client";
 
-import { ArrowRight, Check, RotateCcw, Trophy, X } from "lucide-react";
+import { ArrowRight, Check, NotebookPen, RotateCcw, Trophy, X } from "lucide-react";
+import Link from "next/link";
 import { useRef, useState } from "react";
 import { confettiFrom, fireConfetti } from "@/lib/confetti";
 import { cn } from "@/lib/cn";
+import { strings, useLang, useT } from "@/lib/i18n";
 import { actions, useStore } from "@/lib/store";
 import { toast } from "@/lib/toast";
 import type { QuizQuestion } from "@/lib/types";
@@ -13,6 +15,10 @@ import { ProgressRing } from "../ui/Progress";
 
 type Mcq = Extract<QuizQuestion, { kind: "mcq" }>;
 const praise = ["Correct!", "Nailed it!", "Shabash!", "Brilliant!", "Spot on!"];
+const S = strings({
+  en: { saved: "Saved to your Mistake notebook", open: "Review later" },
+  hi: { saved: "आपकी गलतियों की कॉपी में सहेजा गया", open: "बाद में दोहराएँ" },
+});
 
 /** Chapter quiz: one question at a time, instant feedback, saves your best score. */
 export function Quiz({ questions, storeKey, title }: { questions: QuizQuestion[]; storeKey: string; title: string }) {
@@ -25,6 +31,8 @@ export function Quiz({ questions, storeKey, title }: { questions: QuizQuestion[]
   const [score, setScore] = useState(0);
   const [done, setDone] = useState(false);
   const card = useRef<HTMLDivElement>(null);
+  const t = useT(S);
+  const lang = useLang();
   if (!qs.length) return null;
 
   const q = qs[i];
@@ -36,6 +44,9 @@ export function Quiz({ questions, storeKey, title }: { questions: QuizQuestion[]
     if (q.options[pick].correct) {
       setScore((s) => s + 1);
       confettiFrom(card.current?.querySelector("[aria-checked=true]"), { count: 40, spread: 50, power: 0.7 });
+    } else {
+      // Wrong answers go to the mistake notebook for spaced retries.
+      actions.addMistake({ key: storeKey, prompt: q.prompt, options: q.options.map((o) => o.text), answer: q.options.findIndex((o) => o.correct), explanation: q.explanation });
     }
   };
 
@@ -153,6 +164,14 @@ export function Quiz({ questions, storeKey, title }: { questions: QuizQuestion[]
           <div className={cn("animate-rise mt-5 rounded-xl p-4", correct ? "bg-green-50" : "bg-coral-50")}>
             <p className={cn("font-extrabold", correct ? "text-green-700" : "text-coral-700")}>{correct ? praise[i % praise.length] : `Not quite. Answer: ${q.options.find((o) => o.correct)?.text}`}</p>
             {q.explanation && <p className="mt-1 text-ink-2">{q.explanation}</p>}
+            {!correct && (
+              <p className="mt-2 flex flex-wrap items-center gap-x-2 text-sm font-semibold text-ink-3" lang={lang === "hi" ? "hi" : undefined}>
+                <NotebookPen aria-hidden className="size-4" /> {t.saved} ·{" "}
+                <Link href="/mistakes" className="font-bold text-brand-600 hover:underline">
+                  {t.open}
+                </Link>
+              </p>
+            )}
           </div>
         )}
       </div>

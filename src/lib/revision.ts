@@ -6,7 +6,7 @@ import { today, type State } from "./store";
  *  (a) it was completed, has never been revised and at least a day has passed,
  *  (b) its revision schedule says it is due,
  *  (c) its chapter-quiz best is under 60% (until it has been revised after that quiz), or
- *  (d) it has 2+ mistakes in the notebook (made since its last revision).
+ *  (d) it has 2+ mistakes in the notebook (made after the day of its last revision).
  * Items are ranked by urgency and carry the reasons, so the UI can say WHY.
  */
 
@@ -81,7 +81,7 @@ export function revisionItems(s: State, grade?: number | null): RevisionItem[] {
       reasons.push({ kind: "quiz", best: q.best, total: q.total });
       urgency += 12 + Math.round((0.6 - q.best / q.total) * 40);
     }
-    const fresh = (mistakesBy.get(key) ?? []).filter((at) => !last || localDay(at) >= last).length;
+    const fresh = (mistakesBy.get(key) ?? []).filter((at) => !last || localDay(at) > last).length;
     if (fresh >= 2) {
       reasons.push({ kind: "mistakes", count: fresh });
       urgency += 8 + fresh * 3;
@@ -96,3 +96,15 @@ export const ratingFromScore = (score: number, total: number): 0 | 1 | 2 => {
   const p = total ? score / total : 0;
   return p < 0.6 ? 0 : p < 0.9 ? 1 : 2;
 };
+
+/** Chapters with a revision scheduled after today, soonest first. */
+export function upcomingRevisions(s: State, grade?: number | null) {
+  const now = today();
+  return Object.entries(s.revision)
+    .filter(([k, r]) => r.due > now && (!grade || k.startsWith(`${grade}/`)))
+    .map(([key, r]) => {
+      const [g, subject, chapter] = key.split("/");
+      return { key, due: r.due, subject, title: getChapter(g, subject, chapter)?.chapter.title ?? chapter };
+    })
+    .sort((a, b) => a.due.localeCompare(b.due));
+}

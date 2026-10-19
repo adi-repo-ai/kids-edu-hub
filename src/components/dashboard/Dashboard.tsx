@@ -7,6 +7,9 @@ import { chaptersOf, getGrade } from "@/lib/curriculum";
 import { cn } from "@/lib/cn";
 import { actions, levelOf, LEVEL_XP, streakOf, today, useHydrated, useStore } from "@/lib/store";
 import { styleFor } from "@/lib/subjects";
+import { DailyChallengeCard, FlashcardsDueCard } from "../revise/DueCards";
+import { ReadinessSummary } from "../revise/Readiness";
+import { ReviseToday } from "../revise/ReviseToday";
 import { ButtonLink } from "../ui/Button";
 import { Mascot } from "../ui/Mascot";
 import { ProgressBar, ProgressRing } from "../ui/Progress";
@@ -137,6 +140,13 @@ export function Dashboard() {
             <div className="card p-6 text-ink-2">Pick your class from the top bar or the Learn page.</div>
           )}
 
+          {grade && (
+            <div className="mt-6 grid gap-4 sm:grid-cols-2">
+              <FlashcardsDueCard grade={grade.grade} />
+              <DailyChallengeCard />
+            </div>
+          )}
+
           {grade && grade.grade >= 9 && (
             <Link href="/mock" className="card card-hover mt-6 flex items-center gap-4 p-5">
               <span className="grid size-12 place-items-center rounded-2xl bg-violet-500 text-white">
@@ -153,6 +163,9 @@ export function Dashboard() {
 
         {/* Right rail */}
         <aside className="space-y-6">
+          {grade && <ReviseToday grade={grade.grade} />}
+          {grade && grade.grade >= 9 && <ReadinessSummary grade={grade.grade} />}
+
           <section className="card p-5" aria-labelledby="today">
             <div className="mb-3 flex items-center justify-between">
               <h2 id="today" className="flex items-center gap-2 font-extrabold">

@@ -4,12 +4,42 @@ import { CornerDownLeft, Search, X } from "lucide-react";
 import { useRouter } from "next/navigation";
 import { useEffect, useId, useMemo, useRef, useState } from "react";
 import { cn } from "@/lib/cn";
+import { strings, useT } from "@/lib/i18n";
 import { search } from "@/lib/search";
 import { useStore } from "@/lib/store";
 
+// Chapter titles are in English, so the suggested searches stay in English in both languages.
 const suggestions = ["Quadratic equations", "Photosynthesis", "Nationalism in India", "Electricity", "Trigonometry"];
 
+const S = strings({
+  en: {
+    label: "Search any chapter or topic, Class 1 to 12",
+    placeholder: "Search any chapter or topic…",
+    clear: "Clear search",
+    popular: "Popular topics",
+    results: "Search results",
+    noMatch: (q: string) => (
+      <>
+        No match for <strong>“{q}”</strong>. Try a chapter name like “Motion” or a subject like “Physics”.
+      </>
+    ),
+  },
+  hi: {
+    label: "कक्षा 1 से 12 का कोई भी अध्याय या विषय खोजें",
+    placeholder: "कोई भी अध्याय या टॉपिक खोजें…",
+    clear: "खोज साफ़ करें",
+    popular: "लोकप्रिय टॉपिक",
+    results: "खोज के नतीजे",
+    noMatch: (q: string) => (
+      <>
+        <strong>“{q}”</strong> से कुछ नहीं मिला। अंग्रेज़ी में अध्याय का नाम (जैसे “Motion”) या विषय (जैसे “Physics”) लिखकर देखें।
+      </>
+    ),
+  },
+});
+
 export function SearchBox({ autoFocus, onDone, large, className }: { autoFocus?: boolean; onDone?: () => void; large?: boolean; className?: string }) {
+  const t = useT(S);
   const router = useRouter();
   const grade = useStore((s) => s.profile.grade);
   const listId = useId();
@@ -56,8 +86,8 @@ export function SearchBox({ autoFocus, onDone, large, className }: { autoFocus?:
           aria-expanded={open}
           aria-controls={listId}
           aria-activedescendant={open && results[active] ? `${listId}-${active}` : undefined}
-          aria-label="Search any chapter or topic, Class 1 to 12"
-          placeholder="Search any chapter or topic…"
+          aria-label={t.label}
+          placeholder={t.placeholder}
           autoFocus={autoFocus}
           value={q}
           onFocus={() => setOpen(true)}
@@ -81,7 +111,7 @@ export function SearchBox({ autoFocus, onDone, large, className }: { autoFocus?:
           className="min-w-0 flex-1 bg-transparent text-[15px] outline-none placeholder:text-ink-3 [&::-webkit-search-cancel-button]:hidden"
         />
         {q ? (
-          <button type="button" aria-label="Clear search" onClick={() => setQ("")} className="grid size-7 place-items-center rounded-md text-ink-3 hover:bg-line">
+          <button type="button" aria-label={t.clear} onClick={() => setQ("")} className="grid size-7 place-items-center rounded-md text-ink-3 hover:bg-line">
             <X className="size-4" aria-hidden />
           </button>
         ) : (
@@ -94,21 +124,19 @@ export function SearchBox({ autoFocus, onDone, large, className }: { autoFocus?:
         <div className="animate-rise absolute inset-x-0 top-[calc(100%+6px)] z-50 overflow-hidden rounded-2xl border border-line bg-surface shadow-float">
           {!q.trim() ? (
             <div className="p-4">
-              <p className="eyebrow mb-2">Popular topics</p>
+              <p className="eyebrow mb-2">{t.popular}</p>
               <div className="flex flex-wrap gap-2">
                 {suggestions.map((s) => (
-                  <button key={s} type="button" onClick={() => setQ(s)} className="rounded-full bg-surface-2 px-3 py-1.5 text-sm font-semibold text-ink-2 hover:bg-brand-50 hover:text-brand-700">
+                  <button key={s} type="button" lang="en" onClick={() => setQ(s)} className="rounded-full bg-surface-2 px-3 py-1.5 text-sm font-semibold text-ink-2 hover:bg-brand-50 hover:text-brand-700">
                     {s}
                   </button>
                 ))}
               </div>
             </div>
           ) : results.length === 0 ? (
-            <p className="p-4 text-sm text-ink-2">
-              No match for <strong>“{q}”</strong>. Try a chapter name like “Motion” or a subject like “Physics”.
-            </p>
+            <p className="p-4 text-sm text-ink-2">{t.noMatch(q)}</p>
           ) : (
-            <ul id={listId} role="listbox" aria-label="Search results" className="max-h-[60vh] overflow-y-auto p-1.5">
+            <ul id={listId} role="listbox" aria-label={t.results} className="max-h-[60vh] overflow-y-auto p-1.5">
               {results.map((r, i) => (
                 <li
                   key={r.id}
