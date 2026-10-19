@@ -137,6 +137,54 @@ export function getLesson(grade: number | string, subject: string, chapter: stri
   return { html, toc, quiz: parseQuiz(quizSrc), minutes: Math.max(5, Math.round(words / 160)) };
 }
 
+/** Plain text from a little Markdown: drops emphasis markers, links and HTML. */
+const plain = (md: string) =>
+  md
+    .replace(/<[^>]+>/g, "")
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+    .replace(/[*_`]+/g, "")
+    .replace(/^\s*[-*]\s+/gm, "• ")
+    .trim();
+
+export interface Callout {
+  type: string;
+  title: string;
+  body: string;
+}
+
+/** Every titled callout in a chapter, as plain text. Feeds flashcards, formula sheets and mind maps. */
+export function getCallouts(grade: number | string, subject: string, chapter: string): Callout[] {
+  const raw = chaptersInFile(grade, subject).get(chapter);
+  if (!raw) return [];
+  const [body] = raw.split(/^---\s*quiz\s*---\s*$/m);
+  const out: Callout[] = [];
+  const lines = body.split("\n");
+  for (let i = 0; i < lines.length; i++) {
+    const m = lines[i].match(/^>\s*\[!(\w+)\]\s*(.*)$/);
+    if (!m) continue;
+    const text: string[] = [];
+    while (i + 1 < lines.length && /^>/.test(lines[i + 1])) text.push(lines[++i].replace(/^>\s?/, ""));
+    const title = plain(m[2]);
+    if (title) out.push({ type: m[1].toUpperCase(), title, body: plain(text.join("\n")) });
+  }
+  return out;
+}
+
+/** Flashcards for a chapter: key ideas, formulas and "remember" boxes become front/back cards. */
+export function getCards(grade: number | string, subject: string, chapter: string) {
+  return getCallouts(grade, subject, chapter)
+    .filter((c) => ["KEY", "FORMULA", "REMEMBER"].includes(c.type) && c.body.length > 0 && c.body.length < 600)
+    .map((c) => ({ front: c.title, back: c.body, type: c.type }));
+}
+
+/** Raw lesson headings (## level) for mind maps, without rendering. */
+export function getHeadings(grade: number | string, subject: string, chapter: string) {
+  const raw = chaptersInFile(grade, subject).get(chapter);
+  if (!raw) return [];
+  const [body] = raw.split(/^---\s*quiz\s*---\s*$/m);
+  return [...body.matchAll(/^##\s+(.+)$/gm)].map((m) => plain(m[1]));
+}
+
 export const hasLesson = (grade: number | string, subject: string, chapter: string) => chaptersInFile(grade, subject).has(chapter);
 
 
