@@ -3,12 +3,13 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { BookmarkToggle, CompleteToggle, NotesButtons } from "@/components/learn/ChapterActions";
+import { ChapterLinks, LessonView } from "@/components/learn/LessonView";
 import { Quiz } from "@/components/learn/Quiz";
 import { Crumbs } from "@/components/layout/PageTitle";
 import { Mascot } from "@/components/ui/Mascot";
 import { SubjectIcon } from "@/components/ui/SubjectIcon";
 import { allChapters, chapterKey, getChapter, getGrade } from "@/lib/curriculum";
-import { getLesson } from "@/lib/lessons";
+import { getLesson, getOutline, sheetKindOf, splitSims, subjectHasLessons } from "@/lib/lessons";
 
 type P = { grade: string; subject: string; chapter: string };
 
@@ -32,6 +33,7 @@ export default async function ChapterPage({ params }: { params: Promise<P> }) {
   const key = chapterKey(grade.grade, subject.id, chapter.id);
   const base = `/class/${grade.grade}/${subject.id}`;
   const isHindi = subject.id === "hindi" || subject.id === "sanskrit";
+  const hasSheet = subjectHasLessons(grade.grade, subject.id);
 
   return (
     <>
@@ -72,6 +74,11 @@ export default async function ChapterPage({ params }: { params: Promise<P> }) {
         <div className="flex flex-wrap gap-2">
           <BookmarkToggle k={key} title={chapter.title} meta={`Class ${grade.grade} · ${subject.name}`} href={`${base}/${chapter.id}`} />
           {lesson && <NotesButtons pdf={`/notes/${grade.grade}-${subject.id}-${chapter.id}.pdf`} view={`/notes/${grade.grade}/${subject.id}/${chapter.id}`} />}
+          <ChapterLinks
+            sheetHref={hasSheet ? `${base}/formulas` : undefined}
+            sheetKind={sheetKindOf(subject.id)}
+            videoQuery={`NCERT Class ${grade.grade} ${subject.name} ${chapter.title}`}
+          />
         </div>
       </header>
 
@@ -112,7 +119,7 @@ export default async function ChapterPage({ params }: { params: Promise<P> }) {
               </div>
             )}
 
-            <article lang={isHindi ? "hi" : undefined} className="lesson card p-6 sm:p-9" dangerouslySetInnerHTML={{ __html: lesson.html }} />
+            <LessonView title={chapter.title} parts={splitSims(lesson.html)} outline={getOutline(grade.grade, subject.id, chapter.id)} hindi={isHindi} />
 
             <section id="quiz" aria-label="Chapter quiz" className="mt-10 scroll-mt-24">
               <h2 className="mb-4 text-2xl font-extrabold">Check your understanding</h2>

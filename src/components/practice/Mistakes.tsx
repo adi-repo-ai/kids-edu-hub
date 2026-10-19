@@ -8,6 +8,7 @@ import { cn } from "@/lib/cn";
 import { strings, useLang, useT } from "@/lib/i18n";
 import { actions, useHydrated, useStore, type Mistake } from "@/lib/store";
 import { toast } from "@/lib/toast";
+import { PageTitle } from "../layout/PageTitle";
 import { Button, ButtonLink } from "../ui/Button";
 import { EmptyState } from "../ui/EmptyState";
 import { SubjectIcon } from "../ui/SubjectIcon";
@@ -73,7 +74,7 @@ type T = (typeof S)["en"];
 type Names = Record<string, { subject: string; chapter: string }>;
 
 /** Mistake notebook: wrong answers grouped by subject and chapter, with inline retries. */
-export function Mistakes({ names }: { names: Names }) {
+function MistakesBody({ names }: { names: Names }) {
   const t = useT(S);
   const lang = useLang();
   const hydrated = useHydrated();
@@ -289,6 +290,22 @@ function RetryCard({ m, t, progress, last, onCancel, onDone }: { m: Mistake; t: 
           </Button>
         )}
       </div>
+    </div>
+  );
+}
+
+const H = strings({
+  en: { eyebrow: "Practice", title: "Mistake notebook", sub: "Every question you got wrong, in one place. Answer one right twice in a row and it leaves the notebook." },
+  hi: { eyebrow: "अभ्यास", title: "गलतियों की कॉपी", sub: "आपके सभी गलत प्रश्न एक जगह। किसी प्रश्न का लगातार दो बार सही उत्तर दें, तो वह कॉपी से हट जाएगा।" },
+});
+
+export function Mistakes({ names }: { names: Names }) {
+  const h = useT(H);
+  const lang = useLang();
+  return (
+    <div lang={lang === "hi" ? "hi" : undefined}>
+      <PageTitle eyebrow={h.eyebrow} title={h.title} sub={h.sub} />
+      <MistakesBody names={names} />
     </div>
   );
 }

@@ -6,6 +6,7 @@ import { loadBank, shuffle, type Bank } from "@/lib/bank";
 import { cn } from "@/lib/cn";
 import { strings, useLang, useT } from "@/lib/i18n";
 import { useHydrated, useStore } from "@/lib/store";
+import { Crumbs, PageTitle } from "../layout/PageTitle";
 import { Button } from "../ui/Button";
 import { EmptyState } from "../ui/EmptyState";
 import { SubjectIcon } from "../ui/SubjectIcon";
@@ -81,7 +82,7 @@ const S = strings({
 type Running = { id: number; title: string; questions: TestQuestion[]; minutes: number | null };
 
 /** Custom test builder: choose class, subject, chapters and length, then take it in the TestRunner. */
-export function Builder({ classes }: { classes: BankedGrade[] }) {
+function BuilderBody({ classes }: { classes: BankedGrade[] }) {
   const t = useT(S);
   const lang = useLang();
   const hydrated = useHydrated();
@@ -371,5 +372,22 @@ function Toggle({ on, onClick, disabled, labelledBy, t }: { on: boolean; onClick
       <span className="sr-only">{on ? t.on : t.off}</span>
       <span aria-hidden className={cn("absolute top-1 size-6 rounded-full bg-surface shadow transition-[left]", on ? "left-7" : "left-1")} />
     </button>
+  );
+}
+
+const H = strings({
+  en: { eyebrow: "Practice", title: "Build your own test", sub: "Choose chapters, length and a timer. Get a fresh random paper with answers and explanations.", crumb: "Test builder", practice: "Practice" },
+  hi: { eyebrow: "अभ्यास", title: "अपना टेस्ट बनाएँ", sub: "अध्याय, लंबाई और टाइमर चुनें। उत्तर और व्याख्या के साथ हर बार नया पेपर पाएँ।", crumb: "टेस्ट बिल्डर", practice: "अभ्यास" },
+});
+
+export function Builder({ classes }: { classes: BankedGrade[] }) {
+  const h = useT(H);
+  const lang = useLang();
+  return (
+    <div lang={lang === "hi" ? "hi" : undefined}>
+      <Crumbs items={[{ href: "/practice", label: h.practice }, { href: "/practice/builder", label: h.crumb }]} />
+      <PageTitle eyebrow={h.eyebrow} title={h.title} sub={h.sub} />
+      <BuilderBody classes={classes} />
+    </div>
   );
 }

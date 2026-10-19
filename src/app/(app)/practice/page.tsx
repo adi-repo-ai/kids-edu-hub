@@ -24,7 +24,7 @@ export default function PracticePage() {
     .sort((a, b) => b.grade - a.grade);
   return (
     <>
-      <PageTitle eyebrow="Practice" title="Chapter quizzes" sub="Short quizzes with explanations for every concept lesson. Earn up to three stars per chapter." />
+      <PageTitle eyebrow="Practice" title="Practice" sub="Daily challenge, custom tests, quiz battles and chapter quizzes with explanations." />
       <PracticeHub data={data} />
     </>
   );

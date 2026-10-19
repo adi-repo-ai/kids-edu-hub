@@ -8,6 +8,7 @@ import { cn } from "@/lib/cn";
 import { strings, useLang, useT } from "@/lib/i18n";
 import { actions, today, useHydrated, useStore } from "@/lib/store";
 import { toast } from "@/lib/toast";
+import { PageTitle } from "../layout/PageTitle";
 import { Button } from "../ui/Button";
 import { EmptyState } from "../ui/EmptyState";
 import { Mascot } from "../ui/Mascot";
@@ -128,7 +129,7 @@ async function copyText(text: string) {
 }
 
 /** Daily challenge: 5 MCQs per class per day, seeded by the date so everyone gets the same set. */
-export function Daily({ classes }: { classes: BankedGrade[] }) {
+function DailyBody({ classes }: { classes: BankedGrade[] }) {
   const t = useT(S);
   const lang = useLang();
   const hydrated = useHydrated();
@@ -471,5 +472,21 @@ function WeekStrip({ daily, date, t }: { daily: Record<string, { score: number; 
         })}
       </ol>
     </section>
+  );
+}
+
+const H = strings({
+  en: { eyebrow: "Practice", title: "Daily challenge", sub: "Five questions a day, the same set for everyone in your class. Only your first attempt counts — make it count!" },
+  hi: { eyebrow: "अभ्यास", title: "दैनिक चुनौती", sub: "हर दिन पाँच प्रश्न, आपकी कक्षा में सबके लिए एक जैसे। केवल पहला प्रयास गिना जाता है — पूरा ध्यान लगाएँ!" },
+});
+
+export function Daily({ classes }: { classes: BankedGrade[] }) {
+  const h = useT(H);
+  const lang = useLang();
+  return (
+    <div lang={lang === "hi" ? "hi" : undefined}>
+      <PageTitle eyebrow={h.eyebrow} title={h.title} sub={h.sub} />
+      <DailyBody classes={classes} />
+    </div>
   );
 }

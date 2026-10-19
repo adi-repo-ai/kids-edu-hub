@@ -7,6 +7,7 @@ import { fireConfetti } from "@/lib/confetti";
 import { cn } from "@/lib/cn";
 import { strings, useLang, useT } from "@/lib/i18n";
 import { actions, useHydrated, useStore } from "@/lib/store";
+import { PageTitle } from "../layout/PageTitle";
 import { Button } from "../ui/Button";
 import { EmptyState } from "../ui/EmptyState";
 import { Mascot } from "../ui/Mascot";
@@ -135,7 +136,7 @@ function planBot(q: BQ, level: Level): Turn {
 }
 
 /** Quiz battle against a clearly labelled computer player, Gyani Bot. */
-export function Battle({ classes }: { classes: BankedGrade[] }) {
+function BattleBody({ classes }: { classes: BankedGrade[] }) {
   const t = useT(S);
   const lang = useLang();
   const hydrated = useHydrated();
@@ -551,4 +552,20 @@ function CountUp({ value }: { value: number }) {
     return () => cancelAnimationFrame(raf);
   }, [value]);
   return <>{shown}</>;
+}
+
+const H = strings({
+  en: { eyebrow: "Practice", title: "Quiz battle", sub: "Seven quick rounds against Gyani Bot, a computer player. Answer right and fast to win." },
+  hi: { eyebrow: "अभ्यास", title: "क्विज़ बैटल", sub: "ज्ञानी बॉट (एक कंप्यूटर खिलाड़ी) से सात तेज़ राउंड। जीतने के लिए सही और जल्दी जवाब दें।" },
+});
+
+export function Battle({ classes }: { classes: BankedGrade[] }) {
+  const h = useT(H);
+  const lang = useLang();
+  return (
+    <div lang={lang === "hi" ? "hi" : undefined}>
+      <PageTitle eyebrow={h.eyebrow} title={h.title} sub={h.sub} />
+      <BattleBody classes={classes} />
+    </div>
+  );
 }

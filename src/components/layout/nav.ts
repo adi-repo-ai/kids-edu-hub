@@ -1,4 +1,4 @@
-import { BookOpen, Bookmark, CalendarDays, ClipboardCheck, FileText, Download, History, House, Layers, LineChart, Newspaper, NotebookPen, Settings, ShoppingBag, Target, Trophy, Users } from "lucide-react";
+import { BookOpen, CalendarCheck, Bookmark, CalendarDays, ClipboardCheck, FileText, Download, History, House, Layers, LineChart, Newspaper, NotebookPen, Settings, ShoppingBag, Target, Trophy, Users } from "lucide-react";
 
 export const mainNav = [
   { href: "/dashboard", label: "Home", icon: House },
@@ -10,6 +10,7 @@ export const mainNav = [
 ];
 
 export const moreNav = [
+  { href: "/daily", label: "Daily challenge", icon: CalendarCheck },
   { href: "/revise", label: "Revise today", icon: History },
   { href: "/flashcards", label: "Flashcards", icon: Layers },
   { href: "/mistakes", label: "Mistake notebook", icon: NotebookPen },

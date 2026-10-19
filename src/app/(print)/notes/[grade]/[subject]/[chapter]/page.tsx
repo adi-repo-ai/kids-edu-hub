@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { PrintBar } from "@/components/practice/PrintBar";
 import { allChapters, getChapter } from "@/lib/curriculum";
-import { getLesson, hasLesson } from "@/lib/lessons";
+import { getLesson, hasLesson, stripSims } from "@/lib/lessons";
 
 type P = { grade: string; subject: string; chapter: string };
 
@@ -35,7 +35,7 @@ export default async function NotesPrint({ params }: { params: Promise<P> }) {
             {found.chapter.title}
           </h1>
         </header>
-        <div lang={hi ? "hi" : undefined} className="lesson" dangerouslySetInnerHTML={{ __html: lesson.html }} />
+        <div lang={hi ? "hi" : undefined} className="lesson" dangerouslySetInnerHTML={{ __html: stripSims(lesson.html, "Interactive simulation available in the online lesson.") }} />
         {lesson.quiz.length > 0 && (
           <section className="mt-10 border-t-2 border-dashed border-ink-3 pt-6" style={{ breakBefore: "page" }}>
             <h2 className="text-xl font-extrabold">Practice questions</h2>
