@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { PageTitle } from "@/components/layout/PageTitle";
 import { Battle } from "@/components/practice/Battle";
 import type { BankedGrade } from "@/components/practice/TestRunner";
 import { chaptersOf, grades } from "@/lib/curriculum";
@@ -12,10 +11,5 @@ export default function BattlePage() {
     grade: g.grade,
     subjects: g.subjects.filter((s) => chaptersOf(s).some((c) => hasLesson(g.grade, s.id, c.id))).map((s) => ({ id: s.id, name: s.name })),
   }));
-  return (
-    <>
-      <PageTitle eyebrow="Practice" title="Quiz battle" sub="Seven quick rounds against Gyani Bot. Answer right and fast to win." />
-      <Battle classes={classes} />
-    </>
-  );
+  return <Battle classes={classes} />;
 }

@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { PageTitle } from "@/components/layout/PageTitle";
 import { Mistakes } from "@/components/practice/Mistakes";
 import { mocks } from "@/content/mocks";
 import { grades } from "@/lib/curriculum";
@@ -19,10 +18,5 @@ export default function MistakesPage() {
     const s = grades.find((g) => g.grade === m.grade)?.subjects.find((x) => x.id === m.subject);
     names[`${m.grade}/${m.subject}/mock`] = { subject: s?.name ?? m.subject, chapter: "Mock tests" };
   }
-  return (
-    <>
-      <PageTitle eyebrow="Practice" title="Mistake notebook" sub="Every question you got wrong, in one place. Answer one right twice in a row and it leaves the notebook." />
-      <Mistakes names={names} />
-    </>
-  );
+  return <Mistakes names={names} />;
 }

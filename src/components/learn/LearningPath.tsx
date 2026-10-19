@@ -3,6 +3,7 @@
 import { BookOpen, Check, Crown, Star } from "lucide-react";
 import Link from "next/link";
 import { cn } from "@/lib/cn";
+import { strings, useT } from "@/lib/i18n";
 import { useHydrated, useStore, type State } from "@/lib/store";
 import { Mascot } from "../ui/Mascot";
 
@@ -10,6 +11,39 @@ export interface PathUnit {
   title: string;
   chapters: { id: string; title: string; lesson: boolean }[];
 }
+
+const S = strings({
+  en: {
+    unit: (n: number) => `Unit ${n}`,
+    review: "Review",
+    startHere: "Start here",
+    upNext: "Up next",
+    completed: ", completed",
+    upNextAria: ", up next",
+    stars: (n: number) => `${n} of 3 stars`,
+    lessonQuiz: "Lesson + quiz",
+    cont: "Continue",
+    start: "Start",
+    done: "Done",
+    quizAvg: "Quiz avg",
+    starsLabel: "Stars",
+  },
+  hi: {
+    unit: (n: number) => `इकाई ${n}`,
+    review: "दोहराएँ",
+    startHere: "यहाँ से शुरू करें",
+    upNext: "अगला",
+    completed: ", पूरा हुआ",
+    upNextAria: ", अगला",
+    stars: (n: number) => `3 में से ${n} सितारे`,
+    lessonQuiz: "पाठ + क्विज़",
+    cont: "जारी रखें",
+    start: "शुरू करें",
+    done: "पूरे",
+    quizAvg: "क्विज़ औसत",
+    starsLabel: "सितारे",
+  },
+});
 
 // Horizontal offsets that make the path snake left and right.
 const SWAY = [0, 56, 88, 56, 0, -56, -88, -56];
@@ -21,6 +55,7 @@ const starsFor = (q?: { best: number; total: number }) => {
 };
 
 export function LearningPath({ grade, subject, units, solid }: { grade: number; subject: string; units: PathUnit[]; solid: string }) {
+  const t = useT(S);
   const hydrated = useHydrated();
   const lessons = useStore((s) => s.lessons);
   const quizzes = useStore((s) => s.quizzes);
@@ -37,7 +72,7 @@ export function LearningPath({ grade, subject, units, solid }: { grade: number; 
           <section key={u.title} aria-labelledby={`unit-${ui}`}>
             <div className={cn("flex items-center justify-between gap-4 rounded-2xl px-5 py-4", solid)}>
               <div>
-                <p className="text-xs font-bold uppercase tracking-wider opacity-80">Unit {ui + 1}</p>
+                <p className="text-xs font-bold uppercase tracking-wider opacity-80">{t.unit(ui + 1)}</p>
                 <h2 id={`unit-${ui}`} className="text-lg font-extrabold leading-tight sm:text-xl">
                   {u.title}
                 </h2>
@@ -58,12 +93,12 @@ export function LearningPath({ grade, subject, units, solid }: { grade: number; 
                   <li key={c.id} className="relative flex flex-col items-center" style={{ transform: `translateX(${x}px)` }}>
                     {current && (
                       <span className="animate-float absolute -top-11 z-10 whitespace-nowrap rounded-xl border-2 border-line bg-surface px-3 py-1.5 text-xs font-extrabold uppercase tracking-wide text-brand-600 shadow-card">
-                        {done ? "Review" : i === 0 && !Object.keys(lessons).some((k) => k.startsWith(`${grade}/${subject}/`)) ? "Start here" : "Up next"}
+                        {done ? t.review : i === 0 && !Object.keys(lessons).some((k) => k.startsWith(`${grade}/${subject}/`)) ? t.startHere : t.upNext}
                       </span>
                     )}
                     <Link
                       href={`/class/${grade}/${subject}/${c.id}`}
-                      aria-label={`${c.title}${done ? ", completed" : current ? ", up next" : ""}`}
+                      aria-label={`${c.title}${done ? t.completed : current ? t.upNextAria : ""}`}
                       className={cn(
                         "group relative grid size-[76px] place-items-center rounded-full border-b-[6px] transition-transform duration-150 hover:-translate-y-0.5 active:translate-y-1 active:border-b-2",
                         done ? "border-green-700 bg-green-500 text-white" : current ? "animate-pulse-ring border-brand-700 bg-brand-500 text-white" : "border-line-strong bg-surface-2 text-ink-3",
@@ -77,13 +112,13 @@ export function LearningPath({ grade, subject, units, solid }: { grade: number; 
                         <BookOpen className="size-7" aria-hidden />
                       )}
                     </Link>
-                    <span className="mt-2 flex gap-0.5" aria-label={`${stars} of 3 stars`}>
+                    <span className="mt-2 flex gap-0.5" aria-label={t.stars(stars)}>
                       {[0, 1, 2].map((s) => (
                         <Star key={s} aria-hidden className={cn("size-3.5", s < stars ? "fill-amber-400 text-amber-400" : "text-line-strong")} />
                       ))}
                     </span>
                     <span className="mt-1 max-w-[190px] text-center text-sm font-bold leading-snug">{c.title}</span>
-                    {c.lesson && <span className="mt-1 rounded-full bg-green-50 px-2 py-0.5 text-[10px] font-extrabold uppercase tracking-wide text-green-700">Lesson + quiz</span>}
+                    {c.lesson && <span className="mt-1 rounded-full bg-green-50 px-2 py-0.5 text-[10px] font-extrabold uppercase tracking-wide text-green-700">{t.lessonQuiz}</span>}
                   </li>
                 );
               })}
@@ -101,6 +136,7 @@ export function LearningPath({ grade, subject, units, solid }: { grade: number; 
 }
 
 export function ContinueButton({ grade, subject, chapters }: { grade: number; subject: string; chapters: { id: string; title: string }[] }) {
+  const t = useT(S);
   const lessons = useStore((s: State) => s.lessons);
   const hydrated = useHydrated();
   const next = chapters.find((c) => !(hydrated && lessons[`${grade}/${subject}/${c.id}`])) ?? chapters[0];
@@ -108,7 +144,7 @@ export function ContinueButton({ grade, subject, chapters }: { grade: number; su
   return (
     <Link href={`/class/${grade}/${subject}/${next.id}`} className="flex items-center justify-between gap-3 rounded-2xl border-b-4 border-brand-700 bg-brand-500 px-5 py-4 text-white transition-transform hover:-translate-y-0.5 active:translate-y-0.5">
       <span className="min-w-0">
-        <span className="block text-xs font-bold uppercase tracking-wider text-brand-100">{started ? "Continue" : "Start"}</span>
+        <span className="block text-xs font-bold uppercase tracking-wider text-brand-100">{started ? t.cont : t.start}</span>
         <span className="block truncate text-lg font-extrabold">{next.title}</span>
       </span>
       <Star aria-hidden className="size-6 shrink-0 fill-white" />
@@ -117,6 +153,7 @@ export function ContinueButton({ grade, subject, chapters }: { grade: number; su
 }
 
 export function SubjectStats({ grade, subject, chapterIds }: { grade: number; subject: string; chapterIds: string[] }) {
+  const t = useT(S);
   const hydrated = useHydrated();
   const lessons = useStore((s) => s.lessons);
   const quizzes = useStore((s) => s.quizzes);
@@ -128,9 +165,9 @@ export function SubjectStats({ grade, subject, chapterIds }: { grade: number; su
   return (
     <dl className="grid grid-cols-3 gap-2 text-center">
       {[
-        ["Done", `${done}/${keys.length}`],
-        ["Quiz avg", taken.length ? `${avg}%` : "–"],
-        ["Stars", `${stars}`],
+        [t.done, `${done}/${keys.length}`],
+        [t.quizAvg, taken.length ? `${avg}%` : "–"],
+        [t.starsLabel, `${stars}`],
       ].map(([k, v]) => (
         <div key={k} className="rounded-xl bg-surface-2 px-2 py-3">
           <dt className="text-xs font-bold text-ink-3">{k}</dt>
