@@ -246,6 +246,15 @@ export function getOutline(grade: number | string, subject: string, chapter: str
   return out;
 }
 
+/** Subjects whose revision sheet lists formulas; every other subject gets a key-facts sheet. */
+const FORMULA_SUBJECTS = new Set(["maths", "science", "mathematics", "physics", "chemistry"]);
+export type SheetKind = "formula" | "facts";
+export const sheetKindOf = (subject: string): SheetKind => (FORMULA_SUBJECTS.has(subject) ? "formula" : "facts");
+/** Callout types that go on a subject's revision sheet. */
+export const sheetTypes = (kind: SheetKind) => (kind === "formula" ? ["FORMULA"] : ["KEY", "REMEMBER"]);
+/** True when at least one chapter of this subject has a written lesson. */
+export const subjectHasLessons = (grade: number | string, subject: string) => chaptersInFile(grade, subject).size > 0;
+
 export const hasLesson = (grade: number | string, subject: string, chapter: string) => chaptersInFile(grade, subject).has(chapter);
 
 

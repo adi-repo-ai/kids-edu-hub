@@ -1,10 +1,10 @@
 "use client";
 
-import { BookOpen, Calculator, ExternalLink, Network, Sparkles, Youtube } from "lucide-react";
+import { BookOpen, Calculator, CirclePlay, ExternalLink, Network, Sparkles } from "lucide-react";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 import { cn } from "@/lib/cn";
-import { strings, useT } from "@/lib/i18n";
+import { strings, useLang, useT } from "@/lib/i18n";
 import { Simulation } from "../sims/Simulation";
 import { buttonClass } from "../ui/Button";
 import { MindMap, type MindMapSection } from "./MindMap";
@@ -19,6 +19,7 @@ const S = strings({
     facts: "Key facts",
     videos: "Watch videos",
     videosNote: "YouTube search, opens in a new tab",
+    search: "YouTube search",
   },
   hi: {
     view: "पाठ का दृश्य",
@@ -28,6 +29,7 @@ const S = strings({
     facts: "मुख्य तथ्य",
     videos: "वीडियो देखें",
     videosNote: "YouTube पर खोज, नए टैब में खुलेगा",
+    search: "YouTube खोज",
   },
 });
 
@@ -41,6 +43,8 @@ export function LessonView({ title, parts, outline, hindi }: { title: string; pa
   const t = useT(S);
   const [tab, setTab] = useState<"lesson" | "map">("lesson");
   const article = useRef<HTMLElement>(null);
+  // Simulations follow the interface language, not the lesson's language.
+  const uiLang = useLang();
 
   // Table-of-contents links (outside this component) should bring the lesson back if the map is open.
   useEffect(() => {
@@ -105,10 +109,8 @@ export function LessonView({ title, parts, outline, hindi }: { title: string; pa
           p.kind === "html" ? (
             <div key={i} className="lesson" dangerouslySetInnerHTML={{ __html: p.html }} />
           ) : (
-            <div key={i} data-sim-root lang="en" className="contents">
-              <SimLang hindi={hindi}>
-                <Simulation id={p.id} />
-              </SimLang>
+            <div key={i} data-sim-root lang={uiLang}>
+              <Simulation id={p.id} />
             </div>
           ),
         )}
@@ -117,11 +119,6 @@ export function LessonView({ title, parts, outline, hindi }: { title: string; pa
       {tab === "map" && <MindMap title={title} sections={outline} hindi={hindi} onJump={jump} />}
     </>
   );
-}
-
-/** Simulations follow the interface language, not the lesson's language. */
-function SimLang({ children }: { hindi: boolean; children: React.ReactNode }) {
-  return <>{children}</>;
 }
 
 /** Header links: the subject's formula / key-facts sheet and a YouTube search for the chapter. */
@@ -143,10 +140,10 @@ export function ChapterLinks({ sheetHref, sheetKind, videoQuery }: { sheetHref?:
         title={t.videosNote}
         className={buttonClass("ghost", "md")}
       >
-        <Youtube aria-hidden className="size-5" />
+        <CirclePlay aria-hidden className="size-5" />
         {t.videos}
+        <span className="text-xs font-semibold text-ink-3">· {t.search}</span>
         <ExternalLink aria-hidden className="size-4 text-ink-3" />
-        <span className="sr-only">({t.videosNote})</span>
       </a>
     </>
   );

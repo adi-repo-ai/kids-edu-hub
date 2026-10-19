@@ -30,7 +30,7 @@ const tone: Record<string, { box: string; tag: string; line: string }> = {
   EXAMPLE: { box: "border-green-200 bg-green-50", tag: "text-green-700", line: "stroke-green-300" },
   TIP: { box: "border-amber-200 bg-amber-50", tag: "text-amber-700", line: "stroke-amber-300" },
   REMEMBER: { box: "border-cyan-200 bg-cyan-50", tag: "text-cyan-700", line: "stroke-cyan-300" },
-  MISTAKE: { box: "border-coral-200 bg-coral-50", tag: "text-coral-700", line: "stroke-coral-300" },
+  MISTAKE: { box: "border-coral-100 bg-coral-50", tag: "text-coral-700", line: "stroke-coral-500/40" },
 };
 const toneOf = (type: string) => tone[type] ?? tone.KEY;
 
