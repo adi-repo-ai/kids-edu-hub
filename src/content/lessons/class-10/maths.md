@@ -320,6 +320,8 @@ The expression **D = b² − 4ac** (the discriminant) tells you what kind of roo
 | D = 0 | Two equal real roots (x = −b/2a) |
 | D < 0 | No real roots |
 
+::sim[quadratic]
+
 > [!EXAMPLE] Find k so that kx² − 6x + 1 = 0 has equal roots
 > Equal roots ⇒ D = 0: 36 − 4k = 0 ⇒ **k = 9**.
 

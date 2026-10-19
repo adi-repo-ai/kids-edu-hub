@@ -1,5 +1,6 @@
 import { allChapters, chaptersOf, getGrade } from "@/lib/curriculum";
 import { getCards, getLesson } from "@/lib/lessons";
+import type { QuizQuestion } from "@/lib/types";
 
 /*
  * Question bank per class and subject, served as static JSON at /bank/<grade>/<subject>.json.
@@ -15,6 +16,19 @@ export function generateStaticParams() {
     const [grade, subject] = k.split("|");
     return { grade, file: `${subject}.json` };
   });
+}
+
+/** Tops a chapter up to at least 8 cards with question → answer cards from its quiz. */
+function withQuizCards(cards: { front: string; back: string; type: string }[], quiz: QuizQuestion[]) {
+  const out = [...cards];
+  for (const q of quiz) {
+    if (out.length >= 8) break;
+    if (q.kind !== "mcq") continue;
+    const right = q.options.find((o) => o.correct);
+    if (!right || q.prompt.length > 160) continue;
+    out.push({ front: q.prompt, back: q.explanation ? `${right.text}\n\n${q.explanation}` : right.text, type: "QUIZ" });
+  }
+  return out;
 }
 
 export async function GET(_: Request, { params }: { params: Promise<{ grade: string; file: string }> }) {
@@ -33,7 +47,7 @@ export async function GET(_: Request, { params }: { params: Promise<{ grade: str
           q.kind === "mcq" ? [{ q: q.prompt, options: q.options.map((o) => o.text), answer: q.options.findIndex((o) => o.correct), explanation: q.explanation ?? "" }] : [],
         ),
         written: lesson.quiz.flatMap((q) => (q.kind === "written" ? [{ q: q.prompt, answer: q.answer, marks: q.marks }] : [])),
-        cards: getCards(grade, subject.id, ch.id),
+        cards: withQuizCards(getCards(grade, subject.id, ch.id), lesson.quiz),
       },
     ];
   });

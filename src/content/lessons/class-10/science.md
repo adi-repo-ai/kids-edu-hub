@@ -821,6 +821,8 @@ A **convex (converging)** lens is thicker in the middle; a **concave (diverging)
 > m = h′/h = v/u
 > P = 1/f (f in metres); unit **dioptre (D)**. Convex lens: positive power. Concave lens: negative.
 
+::sim[lens]
+
 > [!EXAMPLE] A concave lens has focal length 15 cm. Where should the object be placed so that the image is 10 cm from the lens?
 > f = −15, v = −10 (virtual, same side). 1/u = 1/v − 1/f = −1/10 + 1/15 = −1/30 ⇒ **u = −30 cm**.
 
@@ -986,6 +988,8 @@ A cell maintains a potential difference across the circuit. A **voltmeter** is c
 ## Ohm's law and resistance
 > [!KEY] Ohm's law
 > At constant temperature, the current through a conductor is proportional to the potential difference across it: **V = IR**. R is the **resistance**, measured in ohms (Ω). The V–I graph is a straight line through the origin.
+
+::sim[ohm]
 
 Resistance depends on the conductor:
 

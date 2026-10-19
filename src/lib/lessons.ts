@@ -33,7 +33,7 @@ const calloutTitles: Record<string, string> = {
   MISTAKE: "Common mistake",
 };
 
-const slugify = (s: string) =>
+export const slugify = (s: string) =>
   s
     .toLowerCase()
     .replace(/<[^>]+>/g, "")
@@ -66,6 +66,37 @@ function expandCallouts(md: string) {
     );
   }
   return out.join("\n");
+}
+
+/** Simulations that can be embedded in a lesson with a `::sim[id]` line. */
+export const SIM_IDS = ["lens", "ohm", "quadratic"] as const;
+export type SimId = (typeof SIM_IDS)[number];
+
+/** Turns `::sim[id]` lines into `<div data-sim="id"></div>` placeholders (unknown ids are dropped). */
+function expandSims(md: string) {
+  return md.replace(/^::sim\[([a-z0-9-]+)\]\s*$/gm, (_, id: string) =>
+    (SIM_IDS as readonly string[]).includes(id) ? `\n<div data-sim="${id}"></div>\n` : "",
+  );
+}
+
+const SIM_RE = /<div data-sim="([a-z0-9-]+)"><\/div>/g;
+
+/** Splits lesson HTML at simulation placeholders: alternating HTML strings and sim ids. */
+export function splitSims(html: string): ({ kind: "html"; html: string } | { kind: "sim"; id: SimId })[] {
+  const out: ({ kind: "html"; html: string } | { kind: "sim"; id: SimId })[] = [];
+  let last = 0;
+  for (const m of html.matchAll(SIM_RE)) {
+    out.push({ kind: "html", html: html.slice(last, m.index) });
+    out.push({ kind: "sim", id: m[1] as SimId });
+    last = (m.index ?? 0) + m[0].length;
+  }
+  out.push({ kind: "html", html: html.slice(last) });
+  return out.filter((p) => p.kind === "sim" || p.html.trim());
+}
+
+/** Replaces simulation placeholders with a short note (or nothing), for print/PDF output. */
+export function stripSims(html: string, note?: string) {
+  return html.replace(SIM_RE, note ? `<p class="sim-note"><em>${note}</em></p>` : "");
 }
 
 function parseQuiz(src: string): QuizQuestion[] {
@@ -109,7 +140,7 @@ function render(md: string) {
       },
     },
   });
-  const html = marked.parse(expandCallouts(md)) as string;
+  const html = marked.parse(expandCallouts(expandSims(md))) as string;
   return { html, toc };
 }
 
@@ -183,6 +214,36 @@ export function getHeadings(grade: number | string, subject: string, chapter: st
   if (!raw) return [];
   const [body] = raw.split(/^---\s*quiz\s*---\s*$/m);
   return [...body.matchAll(/^##\s+(.+)$/gm)].map((m) => plain(m[1]));
+}
+
+export interface OutlineSection {
+  id: string;
+  title: string;
+  callouts: { type: string; title: string }[];
+}
+
+/** Lesson sections (## headings, with their anchor ids) and the titled callouts inside each. Feeds the mind map. */
+export function getOutline(grade: number | string, subject: string, chapter: string): OutlineSection[] {
+  const raw = chaptersInFile(grade, subject).get(chapter);
+  if (!raw) return [];
+  const [body] = raw.split(/^---\s*quiz\s*---\s*$/m);
+  const marked = new Marked({ gfm: true });
+  const out: OutlineSection[] = [];
+  for (const line of body.split("\n")) {
+    const h = line.match(/^##\s+(.+)$/);
+    if (h) {
+      // Same id the lesson renderer gives the heading (slug of the rendered inline HTML).
+      const htmlText = marked.parseInline(h[1].trim()) as string;
+      out.push({ id: slugify(htmlText), title: plain(h[1]), callouts: [] });
+      continue;
+    }
+    const c = line.match(/^>\s*\[!(\w+)\]\s*(.*)$/);
+    if (c && out.length) {
+      const title = plain(c[2]);
+      if (title) out[out.length - 1].callouts.push({ type: c[1].toUpperCase(), title });
+    }
+  }
+  return out;
 }
 
 export const hasLesson = (grade: number | string, subject: string, chapter: string) => chaptersInFile(grade, subject).has(chapter);
